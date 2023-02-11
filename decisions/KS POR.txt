@@ -1,0 +1,27 @@
+political_decisions = {
+
+	claim_galicia_portugal = {
+		potential = {
+			tag = POR
+			NOT = { has_country_flag = galicia_claimed }
+		}
+		allow = {
+			owns = 474
+		}
+		effect = {
+			SPA_474 = { add_core = THIS }
+			set_country_flag = galicia_claimed
+			SPA = { clr_country_flag = galicia_claimed }
+			any_owned = {
+				limit = {
+					OR = {
+						province_id = 474
+						province_id = 476
+					}
+				}
+				assimilate = yes
+			}
+		}
+	}
+
+}

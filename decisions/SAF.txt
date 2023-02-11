@@ -1,0 +1,54 @@
+political_decisions = {
+	adopt_die_stem = {
+		potential = {
+			tag = SAF
+			NOT = {
+				has_country_flag = has_die_stem
+			}
+		}
+
+		allow = {
+			mass_culture_n_the_avant_garde = 1
+		}
+
+		effect = {
+			prestige = 5
+			set_country_flag = has_die_stem
+		}
+	}
+
+	saf_beacon_of_liberty = {
+		potential = {
+			OR = {
+				tag = TRN
+				tag = ORA
+			}
+			NOT = { has_country_flag = african_acceptance }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			owns = 2113
+			owns = 2101
+			owns = 2105
+			owns = 2096
+			owns = 2087
+		}
+		effect = {
+			add_accepted_culture = khoisan
+			add_accepted_culture = zulu
+			add_accepted_culture = xhosa
+			add_accepted_culture = sotho
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = british
+						has_pop_culture = boer
+					}
+				}
+				militancy = 7
+				consciousness = 9
+			}
+			set_country_flag = african_acceptance
+		}
+	}
+}

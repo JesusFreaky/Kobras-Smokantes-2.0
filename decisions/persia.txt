@@ -1,0 +1,42 @@
+political_decisions = {
+  reclaim_caucasus = {
+    potential = {
+      tag = PER
+      NOT = { has_country_flag = caucasus_reclaimed }
+    }
+    allow = {
+      owns = 1098
+      owns = 1102
+    }
+    effect = {
+      RUS_1098 = { add_core = PER }
+      RUS_1102 = { add_core = PER }
+      set_country_flag = caucasus_reclaimed
+      prestige = 5
+    }
+  }
+
+  greater_iran = {
+    potential = {
+      tag = PER
+      NOT = { has_country_flag = persian_irredentism }
+    }
+    allow = {
+      owns = 1222
+      owns = 1221
+      owns = 1212
+      owns = 1211
+      owns = 1209
+    }
+    effect = {
+      set_country_flag = persian_irredentism
+      badboy = 10
+      AFG = { all_core = { add_core = PER } }
+      KAL_1221 = { add_core = PER }
+      BUK_1207 = { add_core = PER }
+      add_accepted_culture = tajik
+      add_accepted_culture = pashtun
+      add_accepted_culture = hazara
+    }
+  }
+}

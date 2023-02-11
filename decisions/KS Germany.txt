@@ -1,0 +1,40 @@
+political_decisions = {
+		
+	The_Polish_Integration = {
+		potential = {
+			tag = NGF
+			tag = GER
+			NOT = { has_country_flag = NGFint1 }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			is_greater_power = yes
+		}
+		effect = {
+			add_accepted_culture = polish
+			set_country_flag = NGFint1
+
+		}
+	}
+
+	Retake_Of_The_Germanics = {
+		potential = {
+			tag = NGF
+			NOT = { has_country_flag = NGFex1 }
+		}
+		allow = {
+			state_n_government = 1
+			SGF = { exists = yes }
+			NGF = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			NET = { all_core = { add_core = THIS } }
+			BEL = { all_core = { add_core = THIS } }
+			LUX = { all_core = { add_core = THIS } }
+			add_accepted_culture = dutch
+			add_accepted_culture = wallonian
+			add_accepted_culture = flemish
+			set_country_flag = NGFex1
+		}
+	}
+}

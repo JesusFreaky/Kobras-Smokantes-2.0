@@ -1,0 +1,17 @@
+political_decisions = {
+	integrate_italia = {
+		potential = {
+			OR = {
+				tag = AUS
+				tag = SGF
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			add_accepted_culture = north_italian
+			prestige = -25
+		}
+	}
+}

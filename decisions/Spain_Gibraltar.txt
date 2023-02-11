@@ -1,0 +1,33 @@
+political_decisions = {	
+	spanish_Claim_gibraltar = {
+		potential = {
+			OR = {
+				tag = SPA
+			}
+			517 = {
+				NOT = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = spanish_restoration_gibraltar }
+		}
+		
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			OR = {
+				is_greater_power = yes		
+			}
+		}
+		
+		effect = {
+			set_country_flag = spanish_restoration_gibraltar
+			prestige = 2
+			517 = {
+				add_core = THIS
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}	

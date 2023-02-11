@@ -1,0 +1,11 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = coal
+naval_base = 1
+life_rating = 37
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}

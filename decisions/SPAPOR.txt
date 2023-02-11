@@ -1,0 +1,158 @@
+political_decisions = {
+	kingdom_portugal_brazil = {
+		potential = {
+			OR = {
+				tag = POR
+				tag = BRZ
+			}
+			NOT = { has_country_flag = k_port_brz }
+		}
+		allow = {
+			owns = 521
+			owns = 518
+			owns = 526
+			owns = 2432
+			owns = 2450
+			owns = 2447
+		}
+		effect = {
+			set_country_flag = k_port_brz
+			capital = 2447
+			add_accepted_culture = brazilian
+			add_accepted_culture = portuguese
+			BRZ = { all_core = { add_core = THIS } }
+			POR = { all_core = { add_core = THIS } }
+		}
+	}
+
+	spa_filipino_inititive = {
+		potential = {
+			tag = SPA
+			NOT = { has_country_flag = filipino_integration }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			owns = 1455
+			owns = 2565
+			owns = 1463
+		}
+		effect = {
+			add_accepted_culture = filipino
+			SPA_1463 = { add_core = THIS }
+			SPA_1455 = { add_core = THIS }
+			SPA_1459 = { add_core = THIS }
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = spanish
+						has_pop_culture = catalan
+						has_pop_culture = basque
+					}
+				}
+				militancy = 6
+				consciousness = 8
+			}
+			set_country_flag = filipino_integration
+		}
+	}
+
+	por_lusotropicalism = {
+		potential = {
+			tag = POR
+			NOT = { has_country_flag = lusotropicalism }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			owns = 1999
+			owns = 2006
+			owns = 2049
+			owns = 2057
+			owns = 2060
+		}
+		effect = {
+			add_accepted_culture = tonga
+			add_accepted_culture = sena
+			add_accepted_culture = makua
+			add_accepted_culture = ovimbundu
+			POR_1999 = { add_core = THIS }
+			POR_2006 = { add_core = THIS }
+			ENG_2014 = { add_core = THIS }
+			ENG_2068 = { add_core = THIS }
+			POR_2049 = { add_core = THIS }
+			POR_2060 = { add_core = THIS }
+			POR_2053 = { add_core = THIS }
+			any_pop = {
+				limit = {
+					has_pop_culture = portuguese
+				}
+				militancy = 4
+				consciousness = 6
+			}
+			set_country_flag = lusotropicalism
+		}
+	}
+
+	claim_galicia_portugal = {
+		potential = {
+			tag = POR
+			NOT = { has_country_flag = galicia_claimed }
+		}
+		allow = {
+			owns = 474
+		}
+		effect = {
+			SPA_474 = { add_core = THIS }
+			set_country_flag = galicia_claimed
+			SPA = { clr_country_flag = galicia_claimed }
+			any_owned = {
+				limit = {
+					OR = {
+						province_id = 474
+						province_id = 476
+					}
+				}
+				assimilate = yes
+			}
+		}
+	}
+
+	claim_galicia_spain = {
+		potential = {
+			tag = SPA
+			NOT = { has_country_flag = galicia_claimed }
+		}
+		allow = {
+			owns = 474
+		}
+		effect = {
+			SPA_474 = { add_core = THIS }
+			set_country_flag = galicia_claimed
+			POR = { clr_country_flag = galicia_claimed }
+			any_owned = {
+				limit = {
+					OR = {
+						province_id = 474
+						province_id = 476
+					}
+				}
+				assimilate = yes
+			}
+		}
+	}
+
+	claim_pyrenees = {
+		potential = {
+			tag = SPA
+			NOT = { has_country_flag = pyrenees_claimed }
+		}
+		allow = {
+			owns = 460
+			owns = 464
+		}
+		effect = {
+			FRA_464 = { add_core = THIS }
+			set_country_flag = pyrenees_claimed
+			prestige = 5
+		}
+	}
+}

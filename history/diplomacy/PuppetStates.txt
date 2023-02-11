@@ -1,0 +1,462 @@
+#China substates
+substate = {
+	first = CHI
+	second = GXI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = MCK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = XIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = YNN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = XBI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = MGL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = CHI
+	second = TIB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+# Denmark-Holstein
+vassal = {
+	first = DEN
+	second = HOL
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# NET-LUX
+vassal = {
+	first = NET
+	second = LUX
+	start_date = 1815.1.1
+	end_date = 1890.11.23
+}
+
+# USA-Liberia
+vassal = {
+	first = USA
+	second = LIB
+	start_date = 1822.1.1
+	end_date = 1847.7.26
+}
+
+# United Kingdom-Hanover
+vassal = {
+	first = ENG
+	second = HAN
+	start_date = 1814.10.1
+	end_date = 1837.1.1
+}
+
+# United Kingdom-Ionian Islands
+vassal = {
+	first = ENG
+	second = ION
+	start_date = 1815.11.9
+	end_date = 1864.1.1
+}
+
+# United Kingdom-Australia
+vassal = {
+	first = ENG
+	second = AST
+	start_date = 1815.11.9
+	end_date = 1986.3.9
+}
+
+# United Kingdom-New Zealand
+vassal = {
+	first = ENG
+	second = NZL
+	start_date = 1815.11.9
+	end_date = 1987.1.1
+}
+
+# United Kingdom-Canada
+vassal = {
+	first = ENG
+	second = CAN
+	start_date = 1815.11.9
+	end_date = 1982.4.12
+}
+
+# Ottoman Empire-Wallachia
+vassal = {
+	first = TUR
+	second = WAL
+	start_date = 1836.1.1
+	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
+}
+
+# Ottoman Empire-Moldavia
+vassal = {
+	first = TUR
+	second = MOL
+	start_date = 1836.1.1
+	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
+}
+
+#######################
+#        INDIA        #
+#######################
+
+# United Kingdom-Awadh
+vassal = {
+	first = ENG
+	second = AWA
+	start_date = 1801.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Bastar
+vassal = {
+	first = ENG
+	second = BAS
+	start_date = 1836.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Beroda
+vassal = {
+	first = ENG
+	second = BER
+	start_date = 1802.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Bikaner
+vassal = {
+	first = ENG
+	second = BIK
+	start_date = 1818.5.9
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Bhopal
+vassal = {
+	first = ENG
+	second = BHO
+	start_date = 1818.2.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Bundelkhand
+vassal = {
+	first = ENG
+	second = BUN
+	start_date = 1817.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Hyderabad
+vassal = {
+	first = ENG
+	second = HYD
+	start_date = 1798.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Indore
+vassal = {
+	first = ENG
+	second = IND
+	start_date = 1818.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Jaipur
+vassal = {
+	first = ENG
+	second = JAI
+	start_date = 1818.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Jaisalmer
+vassal = {
+	first = ENG
+	second = JAS
+	start_date = 1818.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Jodhpur
+vassal = {
+	first = ENG
+	second = JOD
+	start_date = 1818.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Mewar
+vassal = {
+	first = ENG
+	second = MEW
+	start_date = 1818.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Mysore
+vassal = {
+	first = ENG
+	second = MYS
+	start_date = 1799.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Nagpur
+vassal = {
+	first = ENG
+	second = NAG
+	start_date = 1816.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Orissa
+vassal = {
+	first = ENG
+	second = ORI
+	start_date = 1803.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Travancore
+vassal = {
+	first = ENG
+	second = TRA
+	start_date = 1795.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Gwalior
+vassal = {
+	first = ENG
+	second = GWA
+	start_date = 1836.1.1
+	end_date = 1836.1.2
+}
+
+# United Kingdom-Kutch
+vassal = {
+	first = ENG
+	second = KUT
+	start_date = 1815.1.1
+	end_date = 1836.1.2
+}
+
+# Dai Nam-Cambodia
+vassal = {
+	first = DAI
+	second = CAM
+	start_date = 1807.1.1
+	end_date = 1861.1.1
+}
+
+#################################
+#       British Dominions       #
+#################################
+
+vassal = {
+	first = ENG
+	second = CAN
+	start_date = 1836.1.2
+	end_date = 1935.12.31
+}
+vassal = {
+	first = ENG
+	second = SAF
+	start_date = 1836.1.2
+	end_date = 1935.12.31
+}
+vassal = {
+	first = ENG
+	second = AST
+	start_date = 1836.1.2
+	end_date = 1935.12.31
+}
+vassal = {
+	first = ENG
+	second = NZL
+	start_date = 1836.1.2
+	end_date = 1935.12.31
+}
+vassal = {
+	first = ENG
+	second = EIC
+	start_date = 1836.1.2
+	end_date = 1935.12.31
+}
+
+###########################
+#       British Raj       #
+###########################
+
+# British Raj-Awadh
+vassal = {
+	first = EIC
+	second = AWA
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Bastar
+vassal = {
+	first = EIC
+	second = BAS
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Beroda
+vassal = {
+	first = EIC
+	second = BER
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Bikaner
+vassal = {
+	first = EIC
+	second = BIK
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Bhopal
+vassal = {
+	first = EIC
+	second = BHO
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Bundelkhand
+vassal = {
+	first = EIC
+	second = BUN
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Hyderabad
+vassal = {
+	first = EIC
+	second = HYD
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Indore
+vassal = {
+	first = EIC
+	second = IND
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Jaipur
+vassal = {
+	first = EIC
+	second = JAI
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Jaisalmer
+vassal = {
+	first = EIC
+	second = JAS
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Jodhpur
+vassal = {
+	first = EIC
+	second = JOD
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Mewar
+vassal = {
+	first = EIC
+	second = MEW
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Mysore
+vassal = {
+	first = EIC
+	second = MYS
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Nagpur
+vassal = {
+	first = EIC
+	second = NAG
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Orissa
+vassal = {
+	first = EIC
+	second = ORI
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Travancore
+vassal = {
+	first = EIC
+	second = TRA
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Gwalior
+vassal = {
+	first = EIC
+	second = GWA
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}
+
+# British Raj-Kutch
+vassal = {
+	first = EIC
+	second = KUT
+	start_date = 1836.1.2
+	end_date = 1949.1.1
+}

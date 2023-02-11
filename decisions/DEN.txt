@@ -1,0 +1,66 @@
+political_decisions = {
+	danmarks_riges_grundlov = {
+		potential = {
+			tag = DEN
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = danish_constitutionalism
+			}
+		}
+
+		allow = {
+			state_n_government = 1
+			NOT = {
+				average_militancy = 3
+			}
+		}
+
+		effect = {
+			political_reform = landed_voting
+			government = hms_government
+			prestige = 5
+			set_country_flag = danish_constitutionalism
+		}
+	}
+
+	integrate_holstein = {
+		potential = {
+			OR = {
+				tag = DEN
+				AND = {
+					tag = SCA
+					primary_culture = danish
+				}
+			}
+			NOT = { has_country_flag = holstein_integrated }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			owns = 370
+			OR = {
+				owns = 369
+				369 = {
+					owner = {
+						in_sphere = THIS
+						puppet_of = THIS
+					}
+				}
+			}
+		}
+		effect = {
+			set_country_flag = holstein_integrated
+			add_accepted_culture = north_german
+			any_country = {
+				limit = {
+					tag = HOL
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			HOL = { all_core = { add_core = THIS } }
+		}
+	}
+}

@@ -1,0 +1,83 @@
+political_decisions = {
+  claim_alaska_can = {
+    potential = {
+      OR = {
+        tag = ENG
+        tag = CAN
+        tag = COL
+      }
+      NOT = { has_global_flag = alaska_claimed_can }
+    }
+    allow = {
+      owns = 1
+    }
+    effect = {
+      set_global_flag = alaska_claimed_can
+      ENG = {
+        prestige = 3
+      }
+      CAN = {
+        prestige = 3
+        USA_1 = { add_core = CAN }
+      }
+      COL = {
+        prestige = 3
+        USA_1 = { add_core = COL }
+        ENG_6 = { add_core = COL }
+      }
+    }
+  }
+  claim_oregon_can = {
+    potential = {
+      OR = {
+        tag = ENG
+        tag = CAN
+        tag = COL
+      }
+      NOT = { has_global_flag = oregon_claimed_can }
+    }
+    allow = {
+      owns = 78
+    }
+    effect = {
+      set_global_flag = oregon_claimed_can
+      ENG = {
+        prestige = 3
+      }
+      CAN = {
+        prestige = 3
+        USA_78 = { add_core = CAN }
+      }
+      COL = {
+        prestige = 3
+      }
+    }
+  }
+  claim_st_pierre_can = {
+    potential = {
+      OR = {
+        tag = CAN
+        tag = ENG
+        tag = QUE
+      }
+      NOT = { has_global_flag = st_pierre_claimed_can }
+    }
+    allow = {
+      owns = 77
+    }
+    effect = {
+      set_global_flag = st_pierre_claimed_can
+      ENG = {
+        prestige = 3
+      }
+      CAN = {
+        prestige = 3
+        77 = { add_core = CAN }
+      }
+      QUE = {
+        prestige = 3
+        77 = { add_core = QUE }
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+political_decisions = {
+  new_land_of_opportunity = {
+	   picture = liberty_enlightening_the_world
+	   potential = {
+		   NOT = { tag = POR }
+		   OR = {
+			    continent = north_america
+			    continent = south_america
+			    tag = SAF
+          tag = ORA
+          tag = TRN
+          tag = AST
+          tag = NZL
+			 }
+			 NOT = { has_country_flag = a_land_of_opportunity }
+		}
+
+		allow = {
+			war = no
+			OR = {
+			   government = democracy
+			   government = hms_government
+			}
+		}
+
+		effect = {
+			set_country_flag = a_land_of_opportunity
+			add_country_modifier = {
+				name = land_of_opportunity
+				duration = 3650
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+  new_world_become_a_king = {
+    potential = {
+      OR = {
+        tag = ARG
+        tag = BOL
+        tag = PEU
+        tag = PRG
+        tag = HAI
+        tag = ORA
+        tag = TRN
+      }
+      government = presidential_dictatorship
+      NOT = { has_country_flag = a_change_of_government }
+    }
+    allow = {
+      year = 1846
+    }
+    effect = {
+      set_country_flag = a_change_of_government
+      government = absolute_monarchy
+    }
+    ai_will_do = {
+      factor = 0
+    }
+  }
+
+  new_world_become_a_republic = {
+    potential = {
+      OR = {
+        tag = ARG
+        tag = BOL
+        tag = PEU
+        tag = PRG
+        tag = HAI
+        tag = ORA
+        tag = TRN
+      }
+      government = presidential_dictatorship
+      NOT = { has_country_flag = a_change_of_government }
+    }
+    allow = {
+      year = 1846
+    }
+    effect = {
+      set_country_flag = a_change_of_government
+      government = democracy
+			political_reform = state_equal_weight
+			political_reform = wealth_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = no_trade_unions
+			political_reform = first_past_the_post
+			political_reform = gerrymandering
+    }
+    ai_will_do = {
+      factor = 0
+    }
+  }
+}

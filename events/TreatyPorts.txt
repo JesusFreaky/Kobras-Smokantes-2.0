@@ -1,0 +1,75 @@
+#Treaty Ports
+province_event = {
+	id = 90954
+	title = "EVTNAME90954"
+	desc = "EVTDESC90954"
+		
+	trigger = {
+		OR = {
+			province_id = 1498
+			province_id = 1496
+			AND = {
+				province_id = 1569
+				NOT = { total_pops = 30000 }
+			}
+			AND = {
+				province_id = 1566
+				NOT = { total_pops = 30000 }
+			}
+		}
+		port = yes
+		NOT = { has_province_modifier = treaty_port }
+		NOT = { province_id = 1499 }
+		owner = {
+			civilized = yes
+			NOT = { primary_culture = beifaren }
+			NOT = { primary_culture = nanfaren }
+			NOT = { primary_culture = manchu }
+		}
+	}
+	
+	mean_time_to_happen = { months = 1 }
+
+	option = {
+		name = "EVTOPTA90954"
+		trade_goods = precious_metal
+		any_pop = { reduce_pop = 1.2 }
+		add_province_modifier = { name = treaty_port duration = -1 }
+	}
+}
+
+#End of Treaty Ports
+province_event = {
+	id = 90955
+	title = "EVTNAME90954"
+	desc = "EVTDESC90955"
+		
+	trigger = {
+		owner = { capital_scope = { continent = asia } }
+		OR = {
+			owner = { primary_culture = beifaren }
+			owner = { primary_culture = nanfaren }
+			owner = { primary_culture = manchu }
+		}	
+		trade_goods = precious_metal
+		OR = {
+			province_id = 1498
+			province_id = 1496
+			province_id = 1566
+			province_id = 1569
+		}
+	}
+
+	mean_time_to_happen = { months = 1 }
+	
+	option = {
+		name = "EVTOPTA90955"
+		add_province_modifier = { name = treaty_port duration = -1 }
+		random_list = {
+			25 = { trade_goods = fish }
+			25 = { trade_goods = silk }
+			25 = { trade_goods = tea }
+			25 = { trade_goods = opium }
+		}
+	}
+}
