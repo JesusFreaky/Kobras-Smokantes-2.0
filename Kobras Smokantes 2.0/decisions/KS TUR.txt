@@ -111,8 +111,8 @@ political_decisions = {
 		}
 		allow = {
 			nationalism_n_imperialism = 1
-			is_greater_power = 1
-			prestige = 50
+			is_greater_power = yes
+			prestige = 100
 		}
 		effect = {
 			PER_1112 = { add_core = TUR }
@@ -169,7 +169,9 @@ political_decisions = {
 			NOT = { has_country_flag = TUROld_Rival }
 		}
 		allow = {
+			is_greater_power = yes
 			empiricism = 1
+			prestige = 100
 		}
 		effect = {
 			badboy = 10
@@ -190,6 +192,7 @@ political_decisions = {
 		}
 		allow = {
 			revolution_counterrevolution = 1
+			is_greater_power = yes
 			ROM = { all_core = { owned_by= THIS } }
 			AUS_777 = { owned_by = THIS }
 			AUS_771 = { owned_by = THIS }
