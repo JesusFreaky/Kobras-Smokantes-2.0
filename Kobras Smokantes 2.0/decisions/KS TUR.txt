@@ -59,20 +59,33 @@ political_decisions = {
 		}
 	}
 
-	loss_of_balkans = {
+	Expand_towards_east = {
 		potential = {
 			tag = TUR
+			NOT = { has_country_flag = balkans_lost }
 		}
 		allow = {
 			state_n_government = 1
 			TUR = { all_core { owned_by = THIS } }
-			prestige = 50
 		}
 		effect = {
+
+			TUR_832 = { secede_province = GRE }
+			TUR_805 = { secede_province = GRE }
+			TUR_806 = { secede_province = SER }
+			TUR_803 = { secede_province = SER }
+			MON_2582 = { secede_province = MON }
+			WAL_665 = { secede_province = BUL }
+			WAL_665 = { remove_core = TUR }
+
+			release = ALB
+			release = BUL
+			release = BOS
 			ALB = { all_core = { remove_core = TUR } }
 			SER = { all_core = { remove_core = TUR } }
 			BUL = { all_core = { remove_core = TUR } }
 			GRE = { all_core = { remove_core = TUR } }
+			TUR_855 = { add_core = THIS }
 			TUR_819 = { remove_core = TUR }
 			TUR_832 = { remove_core = TUR }
 			TUR_805 = { remove_core = TUR }
@@ -84,6 +97,8 @@ political_decisions = {
 			add_accepted_culture = mashriqi
 			add_accepted_culture = bedouin
 			add_accepted_culture = armenian
+			add_accepted_culture = kurdish
+			EGY = { all_core = { add_core = THIS } }
 			set_country_flag = balkans_lost
 		}
 	}
