@@ -76,6 +76,7 @@ political_decisions = {
 			ALB = { all_core = { remove_core = TUR } }
 			SER = { all_core = { remove_core = TUR } }
 			BUL = { all_core = { remove_core = TUR } }
+			GRE = { all_core = { remove_core = TUR } }
 			TUR_819 = { remove_core = TUR }
 			TUR_832 = { remove_core = TUR }
 			TUR_805 = { remove_core = TUR }
@@ -83,13 +84,36 @@ political_decisions = {
 			MON_2582 = { remove_core = TUR }
 			capital = 876
 			remove_accepted_culture = bosniak
-			remove_accepted_culture = bulgarian
 			remove_accepted_culture = albanian
 			add_accepted_culture = mashriqi
-			add_accepted_culture = azerbaijani
 			add_accepted_culture = bedouin
-			add_accepted_culture = misri
+			add_accepted_culture = armenian
 			set_country_flag = balkans_lost
+		}
+	}
+
+	Ottoman_middle_east_hegemony = {
+		potential = {
+			tag = TUR
+			has_country_flag = balkans_lost
+			NOT = { has_country_flag = TURAsianExpansion }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			is_greater_power = 1
+			prestige = 50
+		}
+		effect = {
+			PER_1112 = { add_core = TUR }
+			PER_1122 = { add_core = TUR }
+			PER_1138 = { add_core = TUR }
+			RUS_1098 = { add_core = TUR }
+			RUS_1102 = { add_core = TUR }
+			RUS_1090 = { add_core = TUR }
+			add_accepted_culture = misri
+			add_accepted_culture = azerbaijani
+			add_accepted_culture = georgian
+			set_country_flag = TURAsianExpansion
 		}
 	}
 
@@ -111,8 +135,7 @@ political_decisions = {
 			set_country_flag = balkan_focus
 			add_accepted_culture = greek
 			add_accepted_culture = serb
-			remove_accepted_culture = kurdish
-			remove_accepted_culture = north_caucasian
+			add_accepted_culture = bulgarian
 			SER_794 = { add_core = TUR }
 			MON_2582 = { add_core = TUR }
 			TUR_824 = { add_core = TUR }
