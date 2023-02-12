@@ -62,14 +62,10 @@ political_decisions = {
 	loss_of_balkans = {
 		potential = {
 			tag = TUR
-			NOT = { SER = { any_core = { owned_by = THIS } } }
-			NOT = { ALB = { any_core = { owned_by = THIS } } }
-			NOT = { BUL = { any_core = { owned_by = THIS } } }
-			NOT = { has_country_flag = balkans_lost }
 		}
 		allow = {
 			state_n_government = 1
-			is_greater_power = 1
+			TUR = { all_core { owned_by = THIS } }
 			prestige = 50
 		}
 		effect = {
@@ -124,27 +120,23 @@ political_decisions = {
 			NOT = { has_country_flag = balkan_focus }
 		}
 		allow = {
-			nationalism_n_imperialism = 1
-			owns = 794
-			owns = 2583
-			owns = 834
-			owns = 840
-			owns = 783
+			state_n_government = 1
+			TUR = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			set_country_flag = balkan_focus
 			add_accepted_culture = greek
 			add_accepted_culture = serb
 			add_accepted_culture = bulgarian
-			SER_794 = { add_core = TUR }
-			MON_2582 = { add_core = TUR }
-			TUR_824 = { add_core = TUR }
-			GRE_837 = { add_core = TUR }
-			GRE_826 = { add_core = TUR }
-			EGY_843 = { add_core = TUR }
+			SER = { all_core = { add_core = TUR } }
+			GRE = { all_core = { add_core = TUR } }
+			MON = { all_core = { add_core = TUR } }
 			any_country = {
 				limit = {
 					tag = WAL
+					tag = MOL
+					tag = MON
+					tag = GRE
 					OR = {
 						in_sphere = THIS
 						vassal_of = THIS
@@ -152,33 +144,6 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
-			any_pop = {
-				limit = {
-					OR = {
-						has_pop_culture = kurdish
-						has_pop_culture = north_caucasian
-						has_pop_culture = mashriqi
-						has_pop_culture = turkish
-						has_pop_culture = bedouin
-					}
-				}
-				militancy = 6
-				consciousness = 8
-			}
-			any_pop = {
-				limit = {
-					OR = {
-						has_pop_culture = serb
-						has_pop_culture = greek
-						has_pop_culture = bulgarian
-						has_pop_culture = albanian
-						has_pop_culture = bosniak
-					}
-				}
-				militancy = -4
-				consciousness = -4
-			}
-		}
 	}
 
 	Face_a_old_rival = {
@@ -191,6 +156,7 @@ political_decisions = {
 			empiricism = 1
 		}
 		effect = {
+			badboy = 10
 			add_accepted_culture = romanian
 			ROM = { all_core = { add_core = TUR } }	
 			AUS_777 = { add_core = TUR }
@@ -219,25 +185,3 @@ political_decisions = {
 			set_country_flag = TURFall_Of_Wien
 		}
 	}
-
-	refute_treaty_of_zuhab_tur = {
-		potential = {
-			tag = TUR
-			has_country_flag = balkans_lost
-			NOT = { has_country_flag = treaty_of_zuhab_refuted }
-		}
-		allow = {
-			owns = 1108
-			owns = 1117
-			owns = 1131
-		}
-		effect = {
-			set_country_flag = treaty_of_zuhab_refuted
-			badboy = 5
-			prestige = 10
-			PER_1112 = { add_core = TUR }
-			PER_1122 = { add_core = TUR }
-			PER_1138 = { add_core = TUR }
-		}
-	}
-}
