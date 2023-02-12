@@ -15,9 +15,13 @@ political_decisions = {
 		}
 
 		effect = {
-			mobilisation_size = -2
-			increase_global_literacy = 0.1
 			clr_country_flag = serfdom_not_abolished
+			add_country_modifier = {
+				name = Russian_Progressism
+				duration = 25
+				mobilisation_size = -2
+				education_efficiency_modifier = 0.25
+			}
 		}
 	}
 
