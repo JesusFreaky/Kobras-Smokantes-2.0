@@ -1,4 +1,23 @@
 political_decisions = {
+
+	Recovering_The_Swiss_Lands = {
+		potential = {
+			OR = {
+				tag = AUS
+				tag = SGF
+			}
+		}
+		allow = {
+			
+			SGF = { exists = yes }
+		}
+		effect = {
+			add_accepted_culture = swiss
+			SWI = { all_core = { add_core = SGF } }
+			prestige = -25
+		}
+	}
+
 	integrate_italia = {
 		potential = {
 			OR = {

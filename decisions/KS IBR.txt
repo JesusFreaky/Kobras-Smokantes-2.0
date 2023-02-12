@@ -42,7 +42,7 @@ political_decisions = {
 				NOT = { has_country_flag = IBRint1 }
 			}
 			allow = {
-				revolution_n_counterrevolution = 1
+				nationalism_n_imperialism = 1
 				has_country_flag = IBRex2
 			}
 			effect = {
