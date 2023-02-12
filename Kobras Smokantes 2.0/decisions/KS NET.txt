@@ -1,0 +1,121 @@
+political_decisions = {
+
+	The_Benelux_Empire = {
+		potential = {
+			OR = {
+				NOT = { BEN = { exists = yes } }
+				tag = NET
+				tag = BEL
+				tag = LUX
+				NOT = { has_country_flag = BENfor}
+			}
+		}
+		allow = {
+			OR = {
+				BEL = {
+					all_core = {
+						owned_by = THIS
+						AND = {
+							NET = { all_core = { owned_by = THIS } }
+
+						}
+					} 
+				}
+				BEL = {
+					all_core = {
+						in_sphere = THIS 
+						AND = {
+							NET = { all_core = { in_sphere = THIS } }
+						}
+					}
+				}
+			}
+			OR = {
+				NET = { is_greater_power = yes }
+				BEL = { is_greater_power = yes }
+			}
+		}
+		effect = {
+			change_tag = BEN
+			prestige = 25
+			add_accepted_culture = wallonian
+			add_accepted_culture = flemish 
+			add_accepted_culture = dutch
+			set_country_flag = BENfor
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					tag = NET
+					tag = BEL
+					tag = LUX
+				}
+				annex_to = THIS
+			}
+		}
+	}
+
+	The_Dutch_English_Empire = {
+		potential = {
+			tag = NET
+			NOT = { has_country_flag = NETBRIunion }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+			NET = { all_core = { owned_by = THIS } }
+			ENG_300 = { owned_by = NET }
+			ENG_296 = { owned_by = NET }
+		}
+		effect = {
+			prestige = 50
+			ENG_300 = { add_core = NET }
+			ENG_296 = { add_core = NET }
+			ENG_277 = { add_core = NET }
+			ENG_273 = { add_core = NET }
+			ENG_280 = { add_core = NET }
+			ENG_291 = { add_core = NET }
+			ENG_284 = { add_core = NET }
+			add_accepted_culture = british
+			set_country_flag = NETBRIunion
+			any_pop = {
+				limit = {
+					has_pop_culture = british
+				}
+				militancy = 4
+			}
+		}
+	}
+
+	Escape_to_East_Indies = {
+		potential = {
+			tag = BEN
+			tag = NET
+			NOT = { has_country_flag = NETescape }
+		}
+		allow = {
+			OR = {
+				NET = { all_core = { NOT = { owned_by = THIS } } }
+				BEN = { all_core = { NOT = { owned_by = THIS } } }
+			}
+		}
+		effect = {
+			capital = 1415
+			NET_1413 = { add_core = NET }
+			NET_1418 = { add_core = NET }
+			NET_2234 = { add_core = NET }
+			NET_1401 = { add_core = NET }
+			ATJ_1405 = { add_core = NET }
+			NET_1398 = { add_core = NET }
+			NET_1451 = { add_core = NET }
+			NET_1449 = { add_core = NET }
+			NET_1430 = { add_core = NET }
+			NET_1423 = { add_core = NET }
+			BAL_1438 = { add_core = NET }
+			add_accepted_culture = javan
+			add_accepted_culture = malay
+			set_country_flag = NETescape
+		}
+	}
+
+
+}

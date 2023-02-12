@@ -9,6 +9,8 @@ political_decisions = {
 			}
 		}
 		allow = {
+			NGF = { exists = yes }
+			state_n_government = 1
 			war = no
 			GER = {
 				all_core = {
@@ -33,7 +35,7 @@ political_decisions = {
 		}
 
 		effect = {
-			prestige = 10
+			prestige = -25
 			any_country = {
 				limit = {
 					primary_culture = south_german
@@ -51,6 +53,10 @@ political_decisions = {
 				add_core = SGF
 			}
 			change_tag = SGF
+			release = HUN
+			AUS_704 = { secede_province = NGF }
+			AUS_702 = { secede_province = NGF }
+			MOL_673 = { secede_province = MOL }
 		}
 		ai_will_do = {
 			factor = 1
@@ -320,9 +326,9 @@ political_decisions = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Straßburg"
+				change_province_name = "Straï¿½burg"
 				state_scope = {
-					change_region_name = "Elsaß-Lothringen"
+					change_region_name = "Elsaï¿½-Lothringen"
 				}
 			}
 			prestige = 5

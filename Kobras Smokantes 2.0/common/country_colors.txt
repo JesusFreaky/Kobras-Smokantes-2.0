@@ -531,7 +531,7 @@ SIC = {
     color3= { 131 101 85  }
 }
 
-# Siebenbürgen
+# Siebenbï¿½rgen
 SIE = {
     color1= { 75 111 205  }
     color2= { 124 140 162  }
@@ -596,6 +596,13 @@ LUB = {
 
 # Netherlands FIXED
 NET = {
+    color1= { 66 113 188  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Benelux Empire
+BEN = {
     color1= { 66 113 188  }
     color2= { 255 255 255  }
     color3= { 255 255 255  }

@@ -9,7 +9,7 @@ political_decisions = {
 		}
 		allow = {
 			is_greater_power = yes
-			# SGF = { exists = yes }
+			SGF = { exists = yes }
 		}
 		effect = {
 			NET = { all_core = { add_core = THIS } }
