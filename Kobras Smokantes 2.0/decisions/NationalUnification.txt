@@ -5,7 +5,6 @@ political_decisions = {
 			NOT = {
 				exists = SGF
 				exists = GER
-				tag = AUS
 				tag = KUK
 			}
 		}
@@ -52,78 +51,6 @@ political_decisions = {
 				add_core = SGF
 			}
 			change_tag = SGF
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	austrian_form_south_german_confederation = {
-		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
-			primary_culture = south_german
-			NOT = {
-				exists = GER
-				exists = SGF
-			}
-		}
-		allow = {
-			war = no
-			GER = {
-				all_core = {
-					OR = {
-						OR = {
-							province_id = 370 # Ignore Schleswig
-							province_id = 371 # Ignore Schleswig
-							province_id = 410 # Need not have Elsaﬂ-Lothringen
-							province_id = 409 # Need not have Elsaﬂ-Lothringen
-							province_id = 412 # Need not have Elsaﬂ-Lothringen
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						NOT = {
-							culture = south_german
-						}
-					}
-				}
-			}
-		}
-
-		effect = {
-			prestige = 10
-			any_country = {
-				limit = {
-					primary_culture = south_german
-					in_sphere = THIS
-					NOT = {
-						tag = THIS
-					}
-				}
-				annex_to = THIS
-			}
-			any_owned = {
-				limit = {
-					OR = {
-						culture = south_german
-						province_id = 412
-					}
-					is_core = GER
-					NOT = {
-						is_core = AUS
-					}
-				}
-				add_core = SGF
-			}
-			release_vassal = SGF
-			diplomatic_influence = {
-				who = SGF
-				value = 300
-			}
 		}
 		ai_will_do = {
 			factor = 1
