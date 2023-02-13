@@ -1041,9 +1041,9 @@ AUS_771 = { 771 772 773 775 776 777 779 793 } #Croatia
 
 AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
 
-AUS_736 = { 736 737 } #Trieste
+AUS_736 = { 736 737 770 778 769 } #Trieste
 
-AUS_770 = { 770 778 } #Istria
+# AUS_770 = { 770 778 } #Istria
 
 AUS_729 = { 729 730 731 732 733 } #Venice
 
@@ -1063,7 +1063,7 @@ AUS_619 = { 619 620 621 622 624 } #Lower Austria
 
 AUS_734 = { 734 735 } #South Tyrol
 
-AUS_768 = { 767 768 769 } #Slovenia
+AUS_768 = { 767 768 } #Slovenia
 
 AUS_777 = { 791 792 2538 } #Slavonia
 
