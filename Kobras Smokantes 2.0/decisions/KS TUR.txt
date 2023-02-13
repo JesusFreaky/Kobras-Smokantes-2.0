@@ -99,10 +99,11 @@ political_decisions = {
 			add_accepted_culture = armenian
 			add_accepted_culture = kurdish
 			EGY = { all_core = { add_core = THIS } }
-			HEJ = { all_core = { add_core = THIS } }
+			HDJ = { all_core = { add_core = THIS } }
 			ABU = { all_core = { add_core = THIS } }
 			YEM = { all_core = { add_core = THIS } }
 			OMA = { all_core = { add_core = THIS } }
+			NEJ = { all_core = { add_core = THIS } }
 			set_country_flag = balkans_lost
 		}
 	}
