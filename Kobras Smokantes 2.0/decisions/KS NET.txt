@@ -6,8 +6,8 @@ political_decisions = {
 				tag = NET
 				tag = BEL
 				tag = LUX
-				NOT = { has_country_flag = BENfor}
 			}
+			NOT = { has_country_flag = BENfor}
 		}
 		allow = {
 			OR = {
