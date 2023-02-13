@@ -24,4 +24,52 @@ political_decisions = {
 		}
 	}
 
+	United_Kingdom_of_Portugal_Brazil_and_Algarves = {
+		potential = {
+			OR = {
+				tag = BRZ
+				tag = POR
+			}
+		}
+		allow = {
+			BRZ_2306 = { 
+				OR = { 
+					owned_by = THIS
+					in_sphere = THIS
+				}
+			}
+			BRZ_2446 = { 
+				OR = { 
+					owned_by = THIS
+					in_sphere = THIS
+				}
+			}
+			BRZ_2447 = { 
+				OR = { 
+					owned_by = THIS
+					in_sphere = THIS
+				}
+			}
+			POR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						in_sphere = THIS
+					}
+				}
+			}
+		}
+		effect = {
+			change_tag = UPB
+			prestige = 25
+			inherit = POR
+			inherit = BRZ
+			POR = { all_core = { add_core = THIS } }
+			BRZ = { all_core = { add_core = THIS } }
+			add_accepted_culture = portuguese
+			add_accepted_culture = brazilian
+			add_accepted_culture = afro_brazilian
+		}
+	}
+
 }
