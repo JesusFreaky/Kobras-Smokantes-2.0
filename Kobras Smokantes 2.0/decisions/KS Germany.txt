@@ -5,6 +5,7 @@ political_decisions = {
 			OR = {
 				tag = PRU
 				tag = NGF
+				NOT = { has_country_flag = NGFLTW1 }
 			}
 		}
 		allow = {
@@ -18,6 +19,7 @@ political_decisions = {
 			add_accepted_culture = dutch
 			add_accepted_culture = wallonian
 			add_accepted_culture = flemish
+			set_country_flag = NGFLTW1
 		}
 	}
 
