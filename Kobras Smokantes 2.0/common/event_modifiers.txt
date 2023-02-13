@@ -33,7 +33,7 @@ global_liberal_agitation = {
 }
 
 potato_blight = {
-	population_growth = -0.02
+	population_growth = -0.01
 	pop_militancy_modifier = 0.01
 	icon = 20
 }
@@ -166,6 +166,10 @@ colonial_recruitment = {
 baby_boom = {
 	population_growth = 0.01
 	icon = 19
+}
+
+big_baby_boom = {
+	population_growth = 0.1 #10%
 }
 
 loyal_askaris = {
@@ -841,6 +845,11 @@ Bonus_Immigration = {
 
 integration_campaign = {
 	assimilation_rate = 0.1
+	icon = 17
+}
+
+Vikings_home = {
+	assimilation_rate = 0.75
 	icon = 17
 }
 

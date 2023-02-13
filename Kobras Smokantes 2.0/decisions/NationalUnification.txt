@@ -56,9 +56,11 @@ political_decisions = {
 				add_core = SGF
 			}
 			change_tag = SGF
+			release = CRO
 			release = HUN
-			AUS_780 = { secede_province = HUN }
-			MON_2582 = { secede_province = HUN }
+			AUS_780 = { secede_province = CRO }
+			MON_2582 = { secede_province = CRO }
+
 		}
 		ai_will_do = {
 			factor = 1

@@ -42,6 +42,13 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+substate = {
+	first = HUN
+	second = CRO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 # Denmark-Holstein
 vassal = {
 	first = DEN

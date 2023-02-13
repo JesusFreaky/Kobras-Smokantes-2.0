@@ -60,20 +60,4 @@ political_decisions = {
 			}
 		}
 
-		ita_African_Expansion = {
-			potential = {
-				tag = ITA
-				NOT = { has_country_flag = ITAex2 }
-			}
-			allow = {
-				is_greater_power = yes
-			}
-			effect = {
-				TUN = { all_core = { add_core = THIS } }
-				ALG = { all_core = { add_core = THIS } }
-				MOR = { all_core = { add_core = THIS } }		
-				set_country_flag = ITAex2
-			}
-		}
-	}
 }

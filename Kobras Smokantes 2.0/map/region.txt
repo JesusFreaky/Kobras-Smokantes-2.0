@@ -127,7 +127,7 @@ HAW_658 = { 658 686 2526 2623 } #Hawaiian Islands
 
 AUS_654 = { 654 655 661 660 2533 651 647 } #Northern Transylvania
 
-MOL_673 = { 673 672 670 671 676 677 678 } #Moldavia
+MOL_673 = { 673 672 670 671 676 677 678 662 663 } #Moldavia
 
 WAL_665 = { 665 666 664 668 667 669 674 675 818 } #Wallachia
 
@@ -135,7 +135,9 @@ SPA_474 = { 474 476 } #Galicia
 
 SPA_477 = { 477 479 480 475 478 481 } #Leon-Castille
 
-SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragon
+SPA_495 = { 495 496 497 } #Aragon
+
+SPA_493 = { 492 493 494 } #Pamplona
 
 SPA_498 = { 498 499 500 501 502 } #Catalonia
 
@@ -427,8 +429,6 @@ FRA_399 = { 399 400 401 404 } #Picardie
 
 FRA_467 = { 467 468 469 470 471 } #Provence
 
-FRA_473 = { 473 } #Corsica
-
 FRA_412 = { 412 409 410 } #Alsace-Lorraine
 
 FRA_418 = { 418 415 416 417 402 } #Normandy
@@ -607,7 +607,9 @@ TUR_832 = { 832 831 833 825 824 } #Thessalia
 
 TUR_824 = { 827 826 } #Ionian Islands
 
-TUR_805 = { 805 822 823 829 830 819 820 821 } #South Macedonia
+TUR_805 = { 805  819 820 821 } #Macedonia
+
+TUR_822 = { 822 823 829 830 } #Polygyros
 
 TUR_809 = { 809 808 815 816 817 } #Rumelia
 
@@ -733,9 +735,7 @@ EGY_921 = { 921 920 919 917 918 916 1756 1757 } #Palestine
 
 EGY_915 = { 915 913 912 914 } #Lebanon
 
-EGY_903 = { 903 902 906 907 } #Syria
-
-EGY_897 = { 897 900 901 904 905 } #Aleppo
+EGY_903 = { 903 902 906 907 897 900 901 904 905 } #Syria
 
 TUR_931 = { 931 927 929 926 934 } #Baghdad
 
@@ -765,7 +765,7 @@ RUS_1102 = { 1102 1105 1106 1104 1107 1103 } #Azerbaijan
 
 RUS_1090 = { 1090 1093 1091 1092 1094 1095 } #Georgia
 
-MON_2582 = { 2582 2583 2569 2577 800 } #Montenegro
+MON_2582 = { 2583 2569 2577 800 } #Montenegro
 
 SER_794 = { 794 797 795 796 } #Northern Serbia
 
@@ -1029,21 +1029,15 @@ AUS_704 = { 704 705 714 703 2584 } #West Galicia
 
 AUS_702 = { 702 951 952 953 } #East Galicia
 
-AUS_662 = { 662 663 } #Bukovina
+AUS_633 = { 633 634 635 636 638 637 950 } #Slovakia
 
-AUS_950 = { 950 } #Transcarpathia
+AUS_780 = { 780 781 782 2582 } #Dalmatia
 
-AUS_633 = { 633 634 635 636 638 637 } #Slovakia
-
-AUS_780 = { 780 781 782 774 } #Dalmatia
-
-AUS_771 = { 771 772 773 775 776 777 779 793 } #Croatia
+AUS_771 = { 771 772 773 775 776 777 779 793 774 } #Croatia
 
 AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
 
 AUS_736 = { 736 737 770 778 769 } #Trieste
-
-# AUS_770 = { 770 778 } #Istria
 
 AUS_729 = { 729 730 731 732 733 } #Venice
 
@@ -1113,7 +1107,7 @@ RUS_710 = { 710 712 713 716 717 } #Wielkopolskie
 
 SAR_720 = { 720 721 722 723 724 725 } #Piedmont
 
-SAR_765 = { 765 766 } #Sardinia
+SAR_765 = { 765 766 473 } #Corsica-Sardinia
 
 CHI_1086 = { 1086 1087 1089 1088 } #Sakhalin
 
