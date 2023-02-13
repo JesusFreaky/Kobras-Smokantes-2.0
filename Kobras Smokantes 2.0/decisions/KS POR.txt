@@ -35,26 +35,30 @@ political_decisions = {
 			BRZ_2306 = { 
 				OR = { 
 					owned_by = THIS
-					in_sphere = THIS
+					owner = { in_sphere = THIS } 
+					owner = { vassal_of = THIS }
 				}
 			}
 			BRZ_2446 = { 
 				OR = { 
 					owned_by = THIS
-					in_sphere = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
 				}
 			}
 			BRZ_2447 = { 
 				OR = { 
 					owned_by = THIS
-					in_sphere = THIS
+					owner = { in_sphere = THIS }
+					owner = { vassal_of = THIS }
 				}
 			}
 			POR = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						in_sphere = THIS
+						owner = { in_sphere = THIS }
+						owner = { vassal_of = THIS }
 					}
 				}
 			}
@@ -71,5 +75,4 @@ political_decisions = {
 			add_accepted_culture = afro_brazilian
 		}
 	}
-
 }
