@@ -3,7 +3,6 @@ political_decisions = {
 	The_Benelux_Empire = {
 		potential = {
 			OR = {
-				NOT = { BEN = { exists = yes } }
 				tag = NET
 				tag = BEL
 				tag = LUX
@@ -12,23 +11,8 @@ political_decisions = {
 		}
 		allow = {
 			OR = {
-				BEL = {
-					all_core = {
-						owned_by = THIS
-						AND = {
-							NET = { all_core = { owned_by = THIS } }
-
-						}
-					} 
-				}
-				BEL = {
-					all_core = {
-						in_sphere = THIS 
-						AND = {
-							NET = { all_core = { in_sphere = THIS } }
-						}
-					}
-				}
+				NET = { all_core = { owned_by = THIS } }
+				NET = { all_core = { in_sphere = THIS } }
 			}
 			OR = {
 				NET = { is_greater_power = yes }
@@ -49,7 +33,8 @@ political_decisions = {
 					tag = BEL
 					tag = LUX
 				}
-				annex_to = THIS
+				LUX = { annex_to = THIS }
+				BEL = { annex_to = THIS }
 			}
 		}
 	}
