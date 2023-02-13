@@ -38,7 +38,10 @@ political_decisions = {
 			prestige = -25
 			any_country = {
 				limit = {
-					primary_culture = south_german
+					OR = {
+						primary_culture = south_german
+						tag = swiss
+					}
 					in_sphere = THIS
 					NOT = {
 						tag = THIS
@@ -54,9 +57,8 @@ political_decisions = {
 			}
 			change_tag = SGF
 			release = HUN
-			AUS_704 = { secede_province = NGF }
-			AUS_702 = { secede_province = NGF }
-			MOL_673 = { secede_province = MOL }
+			AUS_780 = { secede_province = HUN }
+			MON_2582 = { secede_province = HUN }
 		}
 		ai_will_do = {
 			factor = 1
