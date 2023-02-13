@@ -23,11 +23,10 @@ political_decisions = {
 			FRA = { add_core = 380 }
 			FRA = { add_core = 381 }
 			set_country_flag = Eagle_Rise
-			
 		}
 	}
 	
-	The_Eagle_Rises = {
+	The_Eagle_Rose = {
 		potential = {
 			tag = FRA
 			NOT = { has_country_flag = INTfra1 }
