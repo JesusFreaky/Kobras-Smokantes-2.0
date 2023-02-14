@@ -1,9 +1,5 @@
 capital = 1121
 primary_culture = persian
-culture = azerbaijani
-culture = baluchi
-culture = kurdish
-culture = north_caucasian
 religion = shiite
 government = absolute_monarchy
 plurality = 5.0
