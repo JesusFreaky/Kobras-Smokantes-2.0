@@ -16,6 +16,7 @@ political_decisions = {
 		}
 
 		allow = {
+      treasury = 300000
 			war = no
 			OR = {
 			   government = democracy
@@ -24,10 +25,11 @@ political_decisions = {
 		}
 
 		effect = {
+      treasury = 300000
 			set_country_flag = a_land_of_opportunity
 			add_country_modifier = {
 				name = land_of_opportunity
-				duration = 3650
+				duration = 3600
 			}
 		}
 

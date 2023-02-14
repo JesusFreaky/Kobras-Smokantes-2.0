@@ -2,15 +2,11 @@ political_decisions = {
 
 	Recovering_The_Swiss_Lands = {
 		potential = {
-			OR = {
-				tag = AUS
-				tag = SGF
-			}
+			tag = SGF
 			NOT = { has_country_flag = AUSSWISint }
 		}
 		allow = {
-			
-			SGF = { exists = yes }
+			prestige = 50
 		}
 		effect = {
 			add_accepted_culture = swiss

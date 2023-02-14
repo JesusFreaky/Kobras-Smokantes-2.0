@@ -1,0 +1,89 @@
+political_decisions = {
+	
+	Retake_Our_scottish_lands = {
+		potential = {
+			tag = SCA
+			NOT = { has_country_flag = SCASCO }
+		}
+		allow = {
+			war = no
+			OR = {
+				nationalism_n_imperialism = 1
+				SCO = { all_core = { owned_by = THIS } }
+			}
+		}
+		effect = {
+			SCO = { all_core = { add_core = SCA } }
+			set_country_flag = SCASCO
+		}
+	}
+
+#	Integrate_Scotland = {
+		potential = {
+			tag = SCA
+			NOT = { has_country_flag = SCASCOINT }
+		}
+		allow = {
+			war = no
+			SCO = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			SCO = {
+				all_core = {
+					add_province_modifier = {
+						name = Vikings_home
+						duration = 120
+					}
+				}
+			}
+			set_country_flag = SCASCOINT
+		}
+	}
+
+	Integrate_Finland = {
+		potential = {
+			tag = SCA
+			NOT = { has_country_flag = SCAFININT }
+		}
+		allow = {
+			war = no
+			SCA = {	all_core = { owned_by = THIS } }
+		}
+		effect = {
+			FIN = {
+				all_core = {
+					add_province_modifier = {
+						name = Vikings_home
+						duration = 1300
+					}
+					add_province_modifier = {
+						name = big_baby_boom
+						duration = 360
+					}
+				}
+			}
+			set_country_flag = SCAFININT
+		}
+	}
+	
+	Recover_the_Irish_lands = {
+		potential = {
+			tag = SCA
+
+			NOT = { has_country_flag = SCAIRISHrecover }
+		}
+		allow = {
+			war = no
+			OR = {
+				is_greater_power = yes
+				revolution_n_counterrevolution = 1
+			}
+			SCO = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			IRE = { all_core = { add_core = SCA } }
+			add_accepted_culture = irish
+			set_country_flag = SCAIRISHrecover
+		}
+	}
+}

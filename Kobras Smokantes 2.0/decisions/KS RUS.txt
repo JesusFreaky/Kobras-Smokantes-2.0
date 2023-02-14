@@ -19,8 +19,6 @@ political_decisions = {
 			add_country_modifier = {
 				name = Russian_Progressism
 				duration = 25
-				mobilisation_size = -2
-				education_efficiency_modifier = 0.25
 			}
 		}
 	}
