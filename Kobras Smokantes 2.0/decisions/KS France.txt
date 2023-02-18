@@ -26,7 +26,7 @@ political_decisions = {
 		}
 	}
 	
-	The_Eagle_Rose = {
+	The_Alps_question = {
 		potential = {
 			tag = FRA
 			NOT = { has_country_flag = INTfra1 }
@@ -41,7 +41,6 @@ political_decisions = {
 			add_accepted_culture = flemish
 			add_accepted_culture = swiss
 			set_country_flag = INTfra1
-			
 		}
 	}
 

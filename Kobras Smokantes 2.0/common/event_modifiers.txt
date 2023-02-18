@@ -169,7 +169,7 @@ baby_boom = {
 }
 
 big_baby_boom = {
-	population_growth = 0.04 #4%
+	population_growth = 0.02 #2%
 }
 
 loyal_askaris = {

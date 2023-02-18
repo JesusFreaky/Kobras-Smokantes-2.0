@@ -157,10 +157,6 @@ political_decisions = {
 					tag = MOL
 					tag = MON
 					tag = GRE
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
 				}
 				annex_to = THIS
 			}
