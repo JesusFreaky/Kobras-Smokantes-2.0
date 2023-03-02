@@ -28,7 +28,6 @@ political_decisions = {
 		The_Polish_Integration = {
 		potential = {
 			tag = NGF
-			tag = GER
 			NOT = { has_country_flag = NGFint1 }
 		}
 		allow = {

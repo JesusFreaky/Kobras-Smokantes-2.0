@@ -60,6 +60,8 @@ political_decisions = {
 			release = HUN
 			AUS_780 = { secede_province = CRO }
 			MON_2582 = { secede_province = CRO }
+			HUN = { all_core = { remove_core = SGF } }
+			CRO = { all_core = { remove_core = SGF } }
 
 		}
 		ai_will_do = {

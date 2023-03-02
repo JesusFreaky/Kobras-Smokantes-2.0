@@ -19,7 +19,6 @@ political_decisions = {
 	integrate_italia = {
 		potential = {
 			OR = {
-				tag = AUS
 				tag = SGF
 			}
 			NOT = { has_country_flag = AUSITAint }
