@@ -1,6 +1,6 @@
-owner = MOD
-controller = MOD
-add_core = MOD
+owner = SAR
+controller = SAR
+add_core = SAR
 add_core = ITA
 trade_goods = coal
 life_rating = 37

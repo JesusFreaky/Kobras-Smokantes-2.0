@@ -32,10 +32,14 @@ political_decisions = {
 			LOM = { all_core = { add_core = SGF } }
 			SAR_720 = { add_core = SGF }
 			SAR_466 = { add_core = SGF }
+
 			set_country_flag = AUSITAint
 			any_country = {
 				limit = {
-					primary_culture = north_italian
+					OR = { 
+						primary_culture = north_italian
+						tag = PAP
+					}
 					OR = {
 						in_sphere = THIS
 						vassal_of = THIS

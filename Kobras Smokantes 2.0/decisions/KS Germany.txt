@@ -25,7 +25,7 @@ political_decisions = {
 		}
 	}
 
-		The_Polish_Integration = {
+	The_Polish_Integration = {
 		potential = {
 			tag = NGF
 			NOT = { has_country_flag = NGFint1 }
@@ -37,9 +37,6 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = polish
 			set_country_flag = NGFint1
-
 		}
 	}
-
-
 }

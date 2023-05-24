@@ -1,54 +1,53 @@
 political_decisions = {
 
 
-		ibr_take_aragonese_Italy = {
-			potential = {
-				tag = IBR
-				NOT = { has_country_flag = IBRex1 }
-			}
-			allow = {
-				state_n_government = 1
-				is_greater_power = yes
-				war = no
-			}
-			effect = {
-				SIC_762 = { add_core = THIS }
-				SIC_763 = { add_core = THIS }
-				SIC_764 = { add_core = THIS }
-				SAR_766 = { add_core = THIS }
-				SAR_765 = { add_core = THIS }	
-				set_country_flag = IBRex1
-			}
+	ibr_take_aragonese_Italy = {
+		potential = {
+			tag = IBR
+			NOT = { has_country_flag = IBRex1 }
 		}
-
-		ibr_conquest_of_Naples = {
-			potential = {
-				tag = IBR
-				NOT = { has_country_flag = IBRex2 }
-			}
-			allow = {
-				has_country_flag = IBRex1
-				war = no
-			}
-			effect = {
-				SIC = { all_core = { add_core = IBR } }
-				set_country_flag = IBRex2
-			}
+		allow = {
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+			war = no
 		}
+		effect = {
+			SIC_762 = { add_core = THIS }
+			SIC_763 = { add_core = THIS }
+			SIC_764 = { add_core = THIS }
+			SAR_766 = { add_core = THIS }
+			SAR_765 = { add_core = THIS }	
+			set_country_flag = IBRex1
+		}
+	}
 
-		Integration_Of_The_Sicilians = {
-			potential = {
-				tag = IBR
-				NOT = { has_country_flag = IBRint1 }
-			}
-			allow = {
-				nationalism_n_imperialism = 1
-				has_country_flag = IBRex2
-			}
-			effect = {
-				add_accepted_culture = south italian
-				set_country_flag = IBRint1
-			}
+	ibr_conquest_of_Naples = {
+		potential = {
+			tag = IBR
+			NOT = { has_country_flag = IBRex2 }
+		}
+		allow = {
+			has_country_flag = IBRex1
+			war = no
+		}
+		effect = {
+			SIC = { all_core = { add_core = IBR } }
+			set_country_flag = IBRex2
+		}
+	}
+
+	ibr_Integration_Of_The_Sicilians = {
+		potential = {
+			tag = IBR
+			NOT = { has_country_flag = IBRint1 }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			has_country_flag = IBRex2
+		}
+		effect = {
+			add_accepted_culture = south italian
+			set_country_flag = IBRint1
 		}
 	}
 }

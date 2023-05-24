@@ -75,7 +75,6 @@ political_decisions = {
 				government = prussian_constitutionalism
 				government = hms_government
 			}
-			is_greater_power = yes
 		}
 
 		allow = {

@@ -1,4 +1,5 @@
 political_decisions = {
+
 	svenska_pansarbats_foreningen = {
 		potential = {
 			OR = {
@@ -172,6 +173,7 @@ political_decisions = {
 			is_culture_group = scandinavian
 			NOT = { has_country_flag = SCAform }
 		}
+
 		allow = {
 			war = no
 			prestige = 45
@@ -249,6 +251,7 @@ political_decisions = {
 				}
 			}
 		}
+
 		effect = {
 
 			change_tag = SCA
@@ -272,11 +275,13 @@ political_decisions = {
 			tag = SWE
 			NOT = { has_country_flag = TKUSCA }
 		}
+
 		allow = {
 			war = no
 			prestige = 25
 			ideological_thought = 1
 		}
+		
 		effect = {
 			DEN = { all_core = { add_core = SWE } }
 			set_country_flag = TKUSCA
