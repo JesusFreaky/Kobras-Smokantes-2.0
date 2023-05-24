@@ -6,6 +6,7 @@ political_decisions = {
 				exists = SGF
 				exists = GER
 				tag = KUK
+				has_country_flag = AUSEMP1
 			}
 		}
 		allow = {
@@ -56,8 +57,16 @@ political_decisions = {
 				add_core = SGF
 			}
 			change_tag = SGF
-			release = CRO
-			release = HUN
+			release_vassal = CRO
+			release_vassal = HUN
+
+			CRO = {
+				all_core = {
+					annex_to = HUN
+					add_core = HUN
+				}
+			}
+			
 			AUS_780 = { secede_province = CRO }
 			MON_2582 = { secede_province = CRO }
 			HUN = { all_core = { remove_core = SGF } }
