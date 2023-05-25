@@ -1,5 +1,5 @@
-owner = LUX
-controller = LUX
-add_core = LUX
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = iron
 life_rating = 40

@@ -35,13 +35,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100 
+		size = 4000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 53325
+		size = 50425
 	}
 }
 #Salzburg (136000/34000 POPS)
@@ -67,13 +67,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100
+		size = 4000
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 28975
+		size = 26075
 	}
 }
 #Bregenz (132000/33000 POPS)
@@ -99,13 +99,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100 
+		size = 4000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 29700
+		size = 26800
 	}
 }
 #Lienz (52000/13000 POPS)
@@ -177,13 +177,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1050 
+		size = 4000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 80675 
+		size = 77725 
 	}
 }
 #Judenburg (168000/42000 POPS)
@@ -209,13 +209,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 450 
+		size = 4000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 38150
+		size = 34600
 	}
 }
 #Klagenfurt (188000/47000 POPS)
@@ -241,13 +241,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100 
+		size = 7000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 25675
+		size = 19775
 	}
 
 	clergymen = {
@@ -341,13 +341,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 2750 
+		size = 10000
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 194550
+		size = 187300
 	}
 
 	clergymen = {
@@ -479,13 +479,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1550 
+		size = 4000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 133900
+		size = 131450
 	}
 }
 #Odenburg Region (196000) #see Hungary.txt for balance of region
@@ -513,13 +513,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100 
+		size = 7000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 41375
+		size = 35475
 	}
 
 	clergymen = {

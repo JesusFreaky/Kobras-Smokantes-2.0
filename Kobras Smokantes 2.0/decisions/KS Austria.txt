@@ -33,7 +33,7 @@ political_decisions = {
 		allow = {
 			war = no
 			exists = HUN
-			year = 1841
+			year = 1845
 		}
 		effect = {
 			release_vassal = HUN
@@ -51,6 +51,13 @@ political_decisions = {
 			}
 			set_country_flag = AUSEMP1
 			badboy = 10
+			any_country = {
+				limit = {
+					is_puppet = THIS
+					tag = HUN
+				}
+				annex_to = AUS
+			}
 		}
 	}
 

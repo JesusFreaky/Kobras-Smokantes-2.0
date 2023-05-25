@@ -9,8 +9,6 @@ literacy = 0.60
 non_state_culture_literacy = 0.15
 civilized = yes
 
-# modifiers = Vestiges_Of_A_Empire
-
 #GreaterPowers = prestige
 prestige = 90
 

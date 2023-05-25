@@ -53,13 +53,13 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size = 450 
+		size = 7000 
 	}
 
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 43500
+		size = 36950
 	}
 }
 #Carniola Region (460000)  
@@ -99,13 +99,13 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size = 1100
+		size = 4000
 	}
 
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 63150
+		size = 60850
 	}
 }
 #Postojna (180000/45000 POPS) 

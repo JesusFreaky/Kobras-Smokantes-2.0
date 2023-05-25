@@ -9,7 +9,7 @@ political_decisions = {
         }
         allow = {
             vassal_of = AUS
-            date = 1841
+            year = 1840
             war = no
         }
         effect = {
@@ -38,7 +38,7 @@ political_decisions = {
         allow = {
             war = no
             OR = {
-                date = 1850
+                year = 1850
                 exists = SGF
             }
         }
@@ -59,6 +59,17 @@ political_decisions = {
                 }
             }
             set_country_flag = HUNEXP1
+            any_country = {
+                limit = {
+                    is_in_sphere = THIS
+                    is_puppet = THIS
+                    OR = {
+                        tag = WAL
+                        tag = MOL
+                    }
+                }
+                annex_to = HUN
+            }
         }
     }
 

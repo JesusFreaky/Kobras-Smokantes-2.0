@@ -42,7 +42,12 @@ political_decisions = {
 			NOT = { has_country_flag = IBRint1 }
 		}
 		allow = {
-			revolution_n_counterrevolution = 1
+			SPA = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			is_greater_power = yes
 			has_country_flag = IBRex2
 		}
 		effect = {

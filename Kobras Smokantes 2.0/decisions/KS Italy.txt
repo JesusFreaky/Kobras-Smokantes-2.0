@@ -17,6 +17,54 @@ political_decisions = {
 		}
 	}
 
+	Two_Cultures_One_Country = {
+		potential = {
+			tag = SAR
+			NOT = { has_country_flag = SARSOUTH }
+		}
+
+		allow = {
+			war = no
+			state_n_government = 1
+		}
+
+		effect = {
+			add_accepted_culture = south_italian
+			set_country_flag = SARSOUTH
+		}
+	}
+
+	Break_Into_The_Papal_States = {
+		potential = {
+			tag = SAR
+			tag = SIC
+			NOT = { has_country_flag = POPEINV }
+		}
+		`
+		allow = {
+			war = no
+			state_n_government = 1
+		}
+
+		effect = {
+			PAP = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					is_puppet = THIS
+					tag = PAP
+				}
+				annex_to = THIS
+			}
+			badboy = 10
+			set_country_flag = POPEINV
+		}
+	}
+
 	Retake_Aragon_Lands = {
 		potential = {
 			tag = SIC

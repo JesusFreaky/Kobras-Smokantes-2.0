@@ -345,13 +345,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 3350
+		size = 13000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 275925
+		size = 266275
 	}
 
 	clergymen = {
@@ -389,13 +389,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1150
+		size = 4000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 107275
+		size = 104425
 	}
 }
 #Brescia (708000/177000 POPS)
@@ -421,13 +421,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1750
+		size = 4000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 159075
+		size = 156825
 	}
 }
 #Venetia Region (2060000)
@@ -491,13 +491,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1150
+		size = 13000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 60925
+		size = 49075
 	}
 
 	clergymen = {
@@ -541,13 +541,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1300
+		size = 3000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 111050
+		size = 109350
 	}
 }
 #Padua (564000/141000 POPS)
@@ -637,13 +637,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 750
+		size = 4000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 68200
+		size = 64950
 	}
 }
 #Tirol Region (368000) #see Austria.txt for balance of Region
@@ -701,13 +701,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 550 
+		size = 10000 
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 60075
+		size = 50625
 	}
 }
 #Bozen (92000/23000 POPS) #now part of Italy

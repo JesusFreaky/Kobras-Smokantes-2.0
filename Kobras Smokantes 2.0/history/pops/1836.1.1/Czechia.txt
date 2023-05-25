@@ -163,13 +163,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 450  
+		size = 4000  
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 39700 
+		size = 36150 
 	}
 
 	clergymen = {
@@ -243,13 +243,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1250 
+		size = 10000
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 114950 
+		size = 106200 
 	}
 
 	clergymen = {
@@ -459,13 +459,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100 
+		size = 9000 
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 56075 
+		size = 48175 
 	}
 
 	clergymen = {
@@ -523,13 +523,13 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size = 1900 
+		size = 7000 
 	}
 
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 173550 
+		size = 167650 
 	}
 
 	aristocrats = {
@@ -751,13 +751,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 200  
+		size = 4000  
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 17610   
+		size = 13810   
 	}
 }
 #Tesin (116000/29000 POPS)

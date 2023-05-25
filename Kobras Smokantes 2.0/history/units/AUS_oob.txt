@@ -180,7 +180,7 @@ army = {
 	regiment = {
 		name= "2.1. Kavalleriedivision"
 		type = infantry
-		home = 639
+		home = 631
 	}
 
 	regiment = {
@@ -198,7 +198,7 @@ army = {
 	regiment = {
 		name= "3.2. Infanteriedivision"
 		type = hussar
-		home = 771
+		home = 768
 	}
 
 	regiment = {
@@ -210,7 +210,7 @@ army = {
 	regiment = {
 		name= "2.3. Infanteriedivision"
 		type = artillery
-		home = 773
+		home = 767
 	}
 
 	regiment = {
@@ -228,7 +228,7 @@ army = {
 	regiment = {
 		name= "2.6. Infanteriedivision"
 		type = artillery
-		home = 640
+		home = 627
 	}
 }
 
@@ -238,7 +238,7 @@ army = {
 	regiment = {
 		name= "3.6. Infanteriedivision"
 		type = infantry
-		home = 705
+		home = 727
 	}
 
 	regiment = {
@@ -250,30 +250,30 @@ army = {
 	regiment = {
 		name= "2.7. Infanteriedivision"
 		type = infantry
-		home = 643
+		home = 630
 	}
 
 	regiment = {
 		name= "3.7. Infanteriedivision"
 		type = infantry
-		home = 702
+		home = 612
 	}
 	regiment = {
 		name= "1.8. Infanteriedivision"
 		type = hussar
-		home = 628
+		home = 613
 	}
 
 	regiment = {
 		name= "2.8. Infanteriedivision"
 		type = artillery
-		home = 642
+		home = 624
 	}
 
 	regiment = {
 		name= "3.8. Infanteriedivision"
 		type = artillery
-		home = 768
+		home = 622
 	}
 
 	regiment = {
@@ -285,13 +285,13 @@ army = {
 	regiment = {
 		name= "2.9. Infanteriedivision"
 		type = artillery
-		home = 649
+		home = 618
 	}
 
 	regiment = {
 		name= "3.9. Infanteriedivision"
 		type = artillery
-		home = 633
+		home = 617
 	}
 
 }
@@ -302,13 +302,13 @@ army = {
 	regiment = {
 		name= "1.4. Infanteriedivision"
 		type = infantry
-		home = 612
+		home = 614
 	}
 
 	regiment = {
 		name= "2.4. Infanteriedivision"
 		type = infantry
-		home = 629
+		home = 734
 	}
 
 	regiment = {
@@ -320,42 +320,42 @@ army = {
 	regiment = {
 		name= "1.5. Infanteriedivision"
 		type = infantry
-		home = 614
+		home = 726
 	}
 
 	regiment = {
 		name= "2.5. Infanteriedivision"
 		type = hussar
-		home = 648
+		home = 730
 	}
 
 	regiment = {
 		name= "3.5. Infanteriedivision"
 		type = artillery
-		home = 714
+		home = 729
 	}
 	regiment = {
 		name= "1.2. Kavalleriedivision"
 		type = artillery
-		home = 622
+		home = 733
 	}
 
 	regiment = {
 		name= "2.2. Kavalleriedivision"
 		type = artillery
-		home = 641
+		home = 767
 	}
 
 	regiment = {
 		name= "3.2. Kavalleriedivision"
 		type = artillery
-		home = 626
+		home = 616
 	}
 
 	regiment = {
 		name= "1.1. Infanteriedivision"
 		type = artillery
-		home = 613
+		home = 626
 	}
 }
 
@@ -365,19 +365,19 @@ army = {
 	regiment = {
 		name= "2.1. Infanteriedivision"
 		type = artillery
-		home = 644
+		home = 632
 	}
 
 	regiment = {
 		name= "3.1. Infanteriedivision"
 		type = artillery
-		home = 625
+		home = 689
 	}
 
 	regiment = {
 		name= "1.2. Infanteriedivision"
 		type = artillery
-		home = 616
+		home = 688
 	}
 	
 }
