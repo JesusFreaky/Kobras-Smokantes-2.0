@@ -51,13 +51,6 @@ political_decisions = {
 			}
 			set_country_flag = AUSEMP1
 			badboy = 10
-			any_country = {
-				limit = {
-					is_puppet = THIS
-					tag = HUN
-				}
-				annex_to = AUS
-			}
 		}
 	}
 
