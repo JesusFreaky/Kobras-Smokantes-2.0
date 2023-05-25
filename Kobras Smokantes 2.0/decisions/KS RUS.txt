@@ -270,6 +270,7 @@ political_decisions = {
 			tag = RUS
 			NOT = { has_country_flag = the_game_begins }
 			NOT = {
+				ai = yes
 				KHI = { all_core = { owned_by = THIS } }
 				KOK = { all_core = { owned_by = THIS } }
 				BUK = { all_core = { owned_by = THIS } }
