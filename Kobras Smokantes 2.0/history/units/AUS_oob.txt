@@ -1,5 +1,23 @@
 #Sphere of Influence
 
+HUN = {
+	value = 200
+	level = 5
+	influence_value = 100
+}
+
+CRO = {
+	value = 200
+	level = 5
+	influence_value = 100
+}
+
+RUT = {
+	value = 200
+	level = 5
+	influence_value = 100
+}
+
 BAD = {
 	value = 125
 	level = 5
