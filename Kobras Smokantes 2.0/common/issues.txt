@@ -66,7 +66,7 @@ party_issues = {
 			}
 		}
 		state_capitalism = {
-			min_tax = 0.25
+			min_tax = 0
 			factory_owner_cost = 0.6
 			rules = {
 				build_factory = yes

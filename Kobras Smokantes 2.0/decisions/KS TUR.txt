@@ -79,12 +79,12 @@ political_decisions = {
 			TUR_805 = { secede_province = GRE }
 			TUR_806 = { secede_province = SER }
 			TUR_803 = { secede_province = SER }
-			MON_2582 = { secede_province = MON }
 			WAL_665 = { secede_province = BUL }
 			WAL_665 = { remove_core = TUR }
 			TUR = { release_vassal = WAL }
 			TUR = { release_vassal = MOL }
 			release = ALB
+			release = MON
 			release = BUL
 			release = BOS
 			ALB = { all_core = { remove_core = TUR } }

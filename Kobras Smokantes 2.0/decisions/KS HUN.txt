@@ -10,7 +10,6 @@ political_decisions = {
         allow = {
             vassal_of = AUS
             year = 1840
-            war = no
         }
         effect = {
             AUS = {
@@ -39,7 +38,9 @@ political_decisions = {
             war = no
             OR = {
                 year = 1850
-                exists = SGF
+                SGF = {
+                    exists = yes
+                }
             }
         }
         effect = {
@@ -54,6 +55,11 @@ political_decisions = {
                 }
             }
             BOS = {
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            MON = {
                 all_core = {
                     add_core = HUN
                 }
