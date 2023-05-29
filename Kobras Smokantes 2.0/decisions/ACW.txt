@@ -365,7 +365,6 @@ political_decisions = {
 			MEX_100 = {
 				add_core = USA
 			}
-
 		}
 	}
 	gag_rule = {

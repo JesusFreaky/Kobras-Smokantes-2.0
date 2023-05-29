@@ -50,8 +50,7 @@ political_decisions = {
 				all_core = {
 					add_core = ARA
 				}
-			}
-			
+			}	
 		}
 		ai_will_do = {
 			factor = 1

@@ -20,33 +20,32 @@ political_decisions = {
     		effect = {
         		USA = {
 		    		diplomatic_influence = { 
-					who = LIB 
-					value = 300   # So Liberia can be liberated but still fall under US protection/exploitation
+						who = LIB 
+						value = 300   # So Liberia can be liberated but still fall under US protection/exploitation
+					}
+					release_vassal = LIB
+					prestige = 10
+					money = -5000
 				}
-			release_vassal = LIB
-			prestige = 10
-			money = -5000
-			}
-			add_country_modifier = {
-				name = liberian_research_boost
-				duration = -1
-			}
-			set_country_flag = liberia_liberated
-			money = 5000
-			prestige = 5
-			years_of_research = 3
-			any_pop = {
-				ideology = {
-					value = liberal
-					factor = 0.05
+				add_country_modifier = {
+					name = liberian_research_boost
+					duration = -1
 				}
+				set_country_flag = liberia_liberated
+				money = 5000
+				prestige = 5
+				years_of_research = 3
+				any_pop = {
+					ideology = {
+						value = liberal
+						factor = 0.05
+					}
+				}	
 			}
-		}
-
 		ai_will_do = {
 			factor = 1
 		}
-    	}
+    }
 
 	liberian_constitution = {
 		potential = {

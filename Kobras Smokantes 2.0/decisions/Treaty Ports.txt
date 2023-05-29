@@ -43,7 +43,7 @@ political_decisions = {
 					NOT = { owns = 2562 }
 					2562 = { owner = { civilized = no truce_with = THIS } }
 				}
-			}
+		}
 	}
 	
 	hong_kong_treaty_port = {
@@ -78,7 +78,7 @@ political_decisions = {
 					NOT = { owns = 2562 }
 					2562 = { owner = { civilized = no truce_with = THIS } }
 				}
-			}
+		}
 	}
 	
 	shanghai_treaty_port = {
@@ -174,7 +174,7 @@ political_decisions = {
 					NOT = { owns = 2562 }
 					2562 = { owner = { civilized = no truce_with = THIS } }
 				}
-			}
+		}
 	}
 	
 	lushun_treaty_port = {
@@ -220,7 +220,7 @@ political_decisions = {
 					NOT = { owns = 2562 }
 					2562 = { owner = { civilized = no truce_with = THIS } }
 				}
-			}
+		}
 	}
 	
 	weihaiwei_treaty_port = {
@@ -269,7 +269,7 @@ political_decisions = {
 					NOT = { owns = 2562 }
 					2562 = { owner = { civilized = no truce_with = THIS } }
 				}
-			}
+		}
 	}
 	
 	jiaxing_treaty_port = {
@@ -323,7 +323,7 @@ political_decisions = {
 					NOT = { owns = 2562 }
 					2562 = { owner = { civilized = no truce_with = THIS } }
 				}
-			}
+		}
 	}
 	
 	taipei_treaty_port = {
@@ -370,7 +370,7 @@ political_decisions = {
 					NOT = { owns = 1481 }
 					1481 = { owner = { civilized = no truce_with = THIS } }
 				}
-			}
+		}
 	}
 	
 	hainan_treaty_port = {

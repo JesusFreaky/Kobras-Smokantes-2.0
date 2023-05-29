@@ -7,7 +7,7 @@ political_decisions = {
 		}
 
 		allow = {
-			idealism = 1
+			ideological_thought = 1
 		}
 
 		effect = {
@@ -40,7 +40,7 @@ political_decisions = {
 			tag = SIC
 			NOT = { has_country_flag = POPEINV }
 		}
-		`
+		
 		allow = {
 			war = no
 			state_n_government = 1
@@ -112,7 +112,7 @@ political_decisions = {
 		effect = {
 			SPA = {
 				all_core = {
-					add_core = { SIC}
+					add_core = { SIC }
 				}
 			}
 			add_accepted_culture = Spanish

@@ -11,7 +11,7 @@ political_decisions = {
 			add_country_modifier = {
 				name = recently_demoted
 				duration = 3650
-				}
+			}
 
 
 			any_pop = {
@@ -59,9 +59,9 @@ political_decisions = {
 				}
 				pop_type = labourers
 			}
-			}
-			ai_will_do = {
-			factor = 0
-			}
+		}
+		ai_will_do = {
+		factor = 0
 		}
 	}
+}

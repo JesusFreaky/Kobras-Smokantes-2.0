@@ -20,7 +20,7 @@ political_decisions = {
 
 	Integrate_Scotland = {
 		potential = {
-			tag = RIP
+			NOT = { tag = SCA }
 			NOT = { has_country_flag = SCASCOINT }
 		}
 		allow = {

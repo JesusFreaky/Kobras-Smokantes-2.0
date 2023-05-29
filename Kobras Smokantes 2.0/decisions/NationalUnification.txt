@@ -71,7 +71,6 @@ political_decisions = {
 			MON_2582 = { secede_province = CRO }
 			HUN = { all_core = { remove_core = SGF } }
 			CRO = { all_core = { remove_core = SGF } }
-
 		}
 		ai_will_do = {
 			factor = 1
@@ -375,7 +374,6 @@ political_decisions = {
 					}
 					secede_province = THIS
 				}
-
 			}
 
 			2242 = { add_core = GCO } # Mahdia, prev VNZ core
@@ -400,7 +398,6 @@ unite_moldavia_wallachia = {
 				tag = WAL
 				tag = MOL
 			}
-			ai = no
 			NOT = { exists = ROM }
 		}
 
@@ -410,6 +407,15 @@ unite_moldavia_wallachia = {
 			}
 			MOL = {
 				war = no
+			}
+			ROM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						in_sphere = THIS
+						is_puppet = THS
+					}
+				}
 			}
 		}
 
