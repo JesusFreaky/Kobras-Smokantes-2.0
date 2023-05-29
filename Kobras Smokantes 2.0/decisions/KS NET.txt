@@ -59,6 +59,7 @@ political_decisions = {
 			tag = NET
 			NOT = { has_country_flag = NETBRIunion }
 		}
+		
 		allow = {
 			nationalism_n_imperialism = 1
 			is_greater_power = yes
@@ -66,6 +67,7 @@ political_decisions = {
 			ENG_300 = { owned_by = THIS }
 			ENG_296 = { owned_by = THIS }
 		}
+
 		effect = {
 			prestige = 50
 			ENG_300 = { add_core = NET }
@@ -94,12 +96,14 @@ political_decisions = {
 			}
 			NOT = { has_country_flag = NETescape }
 		}
+
 		allow = {
 			OR = {
 				NET = { all_core = { NOT = { owned_by = THIS } } }
 				BEN = { all_core = { NOT = { owned_by = THIS } } }
 			}
 		}
+
 		effect = {
 			capital = 1415
 			NET_1413 = { add_core = NET }
