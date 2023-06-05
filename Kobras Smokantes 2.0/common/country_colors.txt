@@ -465,14 +465,6 @@ POR = {
 
     color1= { 103 123 204  }
     color2= { 255 255 255  }
-    color3= { 39 117 206  }
-}
-
-# United Kingdom of Brazil and Algarves
-UPB = {
-
-    color1= { 140 226 242  }
-    color2= { 255 255 255  }
     color3= { 69 157 208  }
 }
 
@@ -610,10 +602,10 @@ NET = {
 }
 
 # Benelux Empire
-BEN = {
-    color1= { 66 113 188  }
-    color2= { 255 255 255  }
-    color3= { 255 255 255  }
+BEN = { 
+    color1= { 66 113 188 } 
+    color2= { 255 255 255 } 
+    color3= { 255 255 255 } 
 }
 
 # Aldjazair
