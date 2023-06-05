@@ -1,0 +1,103 @@
+political_decisions = {
+	restore_mexican_empire = {
+		potential = {
+			tag = MEX
+			NOT = {
+				has_country_flag = we_have_tried_this_once
+			}
+		}
+		allow = {
+			OR = {
+				ruling_party_ideology = conservative
+				ruling_party_ideology = reactionary
+			}
+			owns = 132
+			owns = 100
+			owns = 96
+			owns = 84
+		}
+		effect = {
+			government = hms_government
+			any_pop = {
+				scaled_militancy = {
+					ideology = liberal
+					factor = 8
+				}
+			}
+			add_accepted_culture = texan
+			add_accepted_culture = caribeno
+			add_accepted_culture = central_american
+			set_country_flag = we_have_tried_this_once
+			132 = { add_core = THIS }
+		}
+	}
+	
+	claim_oklahoma = {
+		potential = {
+			OR = {
+				tag = MEX
+				tag = USA
+			}
+			NOT = { has_country_flag = oklahoma_claimed }
+			NOT = { has_country_flag = manifest_destiny }
+		}
+		allow = {
+			owns = 129
+		}
+		effect = {
+			set_country_flag = oklahoma_claimed
+			prestige = 3
+			USA_129 = { add_core = THIS }
+		}
+	}
+
+	claim_colorado = {
+		potential = {
+			OR = {
+				tag = MEX
+				tag = USA
+			}
+			NOT = { has_country_flag = colorado_claimed }
+			NOT = { has_country_flag = manifest_destiny }
+		}
+		allow = {
+			owns = 106
+		}
+		effect = {
+			set_country_flag = colorado_claimed
+			prestige = 3
+			USA_106 = { add_core = THIS }
+		}
+	}
+
+	claim_guatemala = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = guatemala_claimed }
+		}
+		allow = {
+			owns = 2186
+		}
+		effect = {
+			set_country_flag = guatemala_claimed
+			prestige = 3
+			UCA_2186 = { add_core = THIS }
+			2190 = { add_core = THIS }
+		}
+	}
+
+	claim_cuba_mex = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = cuba_claimed }
+		}
+		allow = {
+			owns = 2209
+		}
+		effect = {
+			set_country_flag = cuba_claimed
+			prestige = 3
+			SPA_2209 = { add_core = THIS }
+		}
+	}
+}

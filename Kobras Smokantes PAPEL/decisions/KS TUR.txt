@@ -1,0 +1,244 @@
+political_decisions = {
+
+	tanzimat_reforms = {
+		potential = {
+			tag = TUR
+			NOT = {
+				has_country_flag = tanzimat_reforms_enacted
+			}
+			government = absolute_monarchy
+		}
+
+		allow = {
+			average_militancy = 3
+			average_consciousness = 4
+		}
+
+		effect = {
+			any_pop = {
+				limit = {
+					NOT = {
+						has_pop_culture = turkish
+					}
+				}
+				militancy = -3
+				consciousness = 1
+			}
+			set_country_flag = tanzimat_reforms_enacted
+		}
+	}
+
+	kanun_i_esasi = {
+		potential = {
+			tag = TUR
+			NOT = {
+				has_country_flag = kanun_i_esasi_here
+			}
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			any_pop = {
+				militancy = -3
+				consciousness = 2
+			}
+			prestige = 5
+			set_country_flag = kanun_i_esasi_here
+		}
+
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					average_militancy = 1
+				}
+			}
+		}
+	}
+
+	Expand_towards_east = {
+		potential = {
+			tag = TUR
+			NOT = { has_country_flag = balkans_lost }
+			NOT = { has_country_flag = balkan_focus }
+		}
+
+		allow = {
+			state_n_government = 1
+			TUR = { all_core { owned_by = THIS } }
+		}
+
+		effect = {
+
+			TUR_832 = { secede_province = GRE }
+			TUR_822 = { secede_province = GRE }
+			TUR_805 = { secede_province = GRE }
+			TUR_806 = { secede_province = SER }
+			TUR_803 = { secede_province = SER }
+			WAL_665 = { secede_province = BUL }
+			WAL_665 = { remove_core = TUR }
+			TUR = { release_vassal = WAL }
+			TUR = { release_vassal = MOL }
+			release = ALB
+			release = MON
+			release = BUL
+			release = BOS
+			ALB = { all_core = { remove_core = TUR } }
+			SER = { all_core = { remove_core = TUR } }
+			BUL = { all_core = { remove_core = TUR } }
+			GRE = { 
+				all_core = {
+					NOT = {
+						CYP = {
+							all_core = {
+								owned_by = TUR
+							}
+						}
+					} 
+					remove_core = TUR 
+				} 
+			}
+			TUR_855 = { add_core = THIS }
+			TUR_819 = { remove_core = TUR }
+			TUR_832 = { remove_core = TUR }
+			TUR_805 = { remove_core = TUR }
+			TUR_674 = { remove_core = TUR }
+			MON_2582 = { remove_core = TUR }
+			capital = 876
+			remove_accepted_culture = bosniak
+			remove_accepted_culture = albanian
+			add_accepted_culture = mashriqi
+			add_accepted_culture = bedouin
+			add_accepted_culture = kurdish
+			EGY = { all_core = { add_core = THIS } }
+			HDJ = { all_core = { add_core = THIS } }
+			ABU = { all_core = { add_core = THIS } }
+			YEM = { all_core = { add_core = THIS } }
+			OMA = { all_core = { add_core = THIS } }
+			NEJ = { all_core = { add_core = THIS } }
+			set_country_flag = balkans_lost
+		}
+	}
+
+	Ottoman_middle_east_hegemony = {
+		potential = {
+			tag = TUR
+			has_country_flag = balkans_lost
+			NOT = { has_country_flag = TURAsianExpansion }
+		}
+
+		allow = {
+			OR = {
+				functionalism = 1
+				AND = {
+					is_greater_power = yes
+					prestige = 50	
+				}
+			}
+		}
+
+		effect = {
+			PER_1112 = { add_core = TUR }
+			PER_1122 = { add_core = TUR }
+			PER_1138 = { add_core = TUR }
+			RUS_1098 = { add_core = TUR }
+			RUS_1102 = { add_core = TUR }
+			RUS_1090 = { add_core = TUR }
+			add_accepted_culture = misri
+			add_accepted_culture = azerbaijani
+			add_accepted_culture = georgian
+			add_accepted_culture = armenian
+			set_country_flag = TURAsianExpansion
+		}
+	}
+
+	focus_on_balkans = {
+		potential = {
+			tag = TUR
+			NOT = { has_country_flag = balkans_lost }
+			NOT = { has_country_flag = balkan_focus }
+		}
+
+		allow = {
+			state_n_government = 1
+			TUR = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+			set_country_flag = balkan_focus
+			add_accepted_culture = greek
+			add_accepted_culture = bulgarian
+			SER = { all_core = { add_core = TUR } }
+			GRE = { all_core = { add_core = TUR } }
+			MON = { all_core = { add_core = TUR } }
+			any_country = {
+				limit = {
+					OR = {
+					tag = WAL
+					tag = MOL
+					tag = MON
+					tag = SER
+					tag = GRE
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+				annex_to = THIS
+			}
+		}
+	}
+
+	Face_a_old_rival = {
+		potential = {
+			tag = TUR
+			has_country_flag = balkan_focus
+			NOT = { has_country_flag = TUROld_Rival }
+		}
+
+		allow = {
+			is_greater_power = yes
+			nationalism_n_imperialism = 1
+			prestige = 100
+		}
+
+		effect = {
+			badboy = 10
+			add_accepted_culture = romanian
+			add_accepted_culture = serbian
+			ROM = { all_core = { add_core = TUR } }	
+			AUS_777 = { add_core = TUR }
+			AUS_771 = { add_core = TUR }
+			AUS_780 = { add_core = TUR }
+			set_country_flag = TUROld_Rival
+		}
+	}
+		
+	Fall_Of_Wien = {
+		potential = {
+			tag = TUR
+			has_country_flag = TUROld_Rival
+			NOT = { has_country_flag = TURFall_Of_Wien }
+		}
+
+		allow = {
+			revolution_counterrevolution = 1
+			is_greater_power = yes
+			ROM = { all_core = { owned_by= THIS } }
+			AUS_777 = { owned_by = THIS }
+			AUS_771 = { owned_by = THIS }
+			AUS_780 = { owned_by = THIS }
+		}
+		
+		effect = {
+			add_accepted_culture = hungarian
+			add_accepted_culture = croatian
+			set_country_flag = TURFall_Of_Wien
+		}
+	}
+}

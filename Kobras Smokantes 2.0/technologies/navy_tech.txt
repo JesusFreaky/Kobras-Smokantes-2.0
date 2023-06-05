@@ -926,7 +926,7 @@ naval_design_bureaus = {
 	area = naval_engineering
 	year = 1836
 	cost = 3600
-	navy_base = { build_time = -10 }
+	navy_base = { build_time = -15 }
 	unciv_military = yes
 	ai_chance = {
 		factor = 1
@@ -1013,7 +1013,7 @@ fire_control_systems = {
 	year = 1836
 	cost = 7200
 	unciv_military = yes
-	navy_base = { build_time = -10 }
+	navy_base = { build_time = -15 }
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1100,7 +1100,7 @@ weapon_platforms = {
 	year = 1850
 	cost = 10800
 	unciv_military = yes
-	navy_base = { build_time = -10 }
+	navy_base = { build_time = -15 }
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1186,7 +1186,7 @@ main_armament = {
 	year = 1870
 	cost = 14400
 	unciv_military = yes
-	navy_base = { build_time = -10 }
+	navy_base = { build_time = -15 }
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1277,7 +1277,7 @@ advanced_naval_design = {
 	year = 1900
 	cost = 18000
 	unciv_military = yes
-	navy_base = { build_time = -10 }
+	navy_base = { build_time = -15 }
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1363,7 +1363,7 @@ modern_naval_design = {
 	year = 1919
 	cost = 21600
 	unciv_military = yes
-	navy_base = { build_time = -10 }
+	navy_base = { build_time = -15 }
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1446,7 +1446,7 @@ alphabetic_flag_signaling = {
 	year = 1836
 	cost = 3600
 	unciv_military = yes
-	supply_range = 0.10
+	supply_range = 0.1
 	
 	ai_chance = {
 		factor = 1.01
@@ -1489,7 +1489,7 @@ naval_plans = {
 	year = 1836
 	cost = 7200
 	unciv_military = yes
-	supply_range = 0.10
+	supply_range = 0.1
 	
 	ai_chance = {
 		factor = 1.01
@@ -1532,7 +1532,7 @@ naval_statistics = {
 	year = 1850
 	cost = 10800
 	unciv_military = yes
-	supply_range = 0.10
+	supply_range = 0.15
 		ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -1574,7 +1574,7 @@ naval_logistics = {
 	year = 1870
 	cost = 14400
 	unciv_military = yes
-	supply_range = 0.10
+	supply_range = 0.15
 		ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -1616,7 +1616,7 @@ naval_directionism = {
 	year = 1900
 	cost = 18000
 	unciv_military = yes
-	supply_range = 0.10
+	supply_range = 0.2
 		ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -1658,7 +1658,7 @@ naval_integration = {
 	year = 1919
 	cost = 21600
 	unciv_military = yes
-	supply_range = 0.10
+	supply_range = 0.25
 		ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -1795,7 +1795,7 @@ naval_professionalism = {
 	cost = 7200
 	unciv_military = yes
 	navy_base = {
-		default_organisation = 5
+		default_organisation = 10
 	}
 	ai_chance = {
 		factor = 1
@@ -1878,7 +1878,7 @@ naval_decision_making = {
 	cost = 10800
 	unciv_military = yes
 	navy_base = {
-		default_organisation = 5
+		default_organisation = 10
 	}
 	ai_chance = {
 		factor = 1
@@ -1961,7 +1961,7 @@ naval_risk_management = {
 	cost = 14400
 	unciv_military = yes
 	navy_base = {
-		default_organisation = 5
+		default_organisation = 15
 	}
 	ai_chance = {
 		factor = 1
@@ -2044,7 +2044,7 @@ naval_nco_training = {
 	cost = 18000
 	unciv_military = yes
 	navy_base = {
-		default_organisation = 5
+		default_organisation = 15
 	}
 	ai_chance = {
 		factor = 1
@@ -2127,7 +2127,7 @@ modern_naval_training = {
 	cost = 21600
 	unciv_military = yes
 	navy_base = {
-		default_organisation = 5
+		default_organisation = 15
 	}
 	ai_chance = {
 		factor = 1

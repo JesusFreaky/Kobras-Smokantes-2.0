@@ -1,0 +1,92 @@
+political_decisions = {
+  unify_indochina_burma = {
+    potential = {
+      tag = BUR
+      NOT = { has_country_flag = greater_burma }
+    }
+    allow = {
+      owns = 1344
+      owns = 1355
+      owns = 1332
+      owns = 1334
+      owns = 1345
+      owns = 1340
+      owns = 1259
+    }
+    effect = {
+      add_accepted_culture = manipuri
+      add_accepted_culture = assamese
+      add_accepted_culture = tibetan
+      add_accepted_culture = yi
+      ENG_1343 = { add_core = THIS }
+      SIA_1355 = { add_core = THIS }
+      ENG_1258 = { add_core = THIS }
+      1329 = { add_core = THIS }
+      TIB_1591 = { add_core = THIS }
+      set_country_flag = greater_burma
+    }
+  }
+
+  unify_indochina_siam = {
+    potential = {
+      tag = SIA
+      NOT = { has_country_flag = greater_siam }
+    }
+    allow = {
+      owns = 1346
+      owns = 1344
+      owns = 1349
+      owns = 1351
+      owns = 1364
+      owns = 1383
+      owns = 1356
+      owns = 1338
+    }
+    effect = {
+      add_accepted_culture = karen
+      add_accepted_culture = khmer
+      add_accepted_culture = zhuang
+      ENG_1343 = { add_core = THIS }
+      ENG_1384 = { add_core = THIS }
+      SIA_1366 = { add_core = THIS }
+      ANN_1383 = { add_core = THIS }
+      LUA_1356 = { add_core = THIS }
+      set_country_flag = greater_siam
+    }
+  }
+
+  unify_indochina_vietnam = {
+    potential = {
+      tag = DAI
+      NOT = { has_country_flag = greater_dai_viet }
+    }
+    allow = {
+      owns = 1380
+      owns = 1366
+      owns = 1365
+      owns = 1357
+      owns = 1356
+      owns = 1375
+      owns = 1369
+    }
+    effect = {
+      add_accepted_culture = lao
+      add_accepted_culture = khmer
+      add_accepted_culture = yue
+      SIA_1366 = { add_core = THIS }
+      SIA_1358 = { add_core = THIS }
+      LUA_1356 = { add_core = THIS }
+      any_country = {
+				limit = {
+					tag = CAM
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+				annex_to = THIS
+			}
+      set_country_flag = greater_dai_viet
+    }
+  }
+}

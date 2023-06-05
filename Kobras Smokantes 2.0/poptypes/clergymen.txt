@@ -13,6 +13,7 @@ rebel =
 	irregular = 0.5
 }
 
+
 can_reduce_consciousness = yes
 
 life_needs_income = {

@@ -6,8 +6,8 @@ graphics=
 {
 
 refreshRate=60
-fullScreen=yes
-borderless=no
+fullScreen=no
+borderless=yes
 shadows=no
 shadowSize=512
 multi_sampling=0
@@ -26,7 +26,7 @@ mapRenderingOptions=
 {
 renderTrees=no
 onmap=yes
-simpleWater=yes
+simpleWater=no
 counter_distance=300.000000
 text_height=300.000000
 sea_text_alpha=120
@@ -36,7 +36,7 @@ lastplayer="Player"
 lasthost=""
 serveradress="diplomacy.valkyrienet.com"
 debug_saves=0
-autosave="MONTHLY"
+autosave="YEARLY"
 simple=no
 categories=
 {

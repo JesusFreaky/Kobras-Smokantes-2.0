@@ -382,8 +382,8 @@ functionalism = {
 	year = 1836
 	cost = 10800
 
-	colonial_migration = 0.05
-	education_efficiency = 0.1
+	colonial_migration = 0.1
+	education_efficiency = 0.15
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -402,8 +402,8 @@ biologism = {
 	year = 1850
 	cost = 14400
 
-	colonial_migration = 0.05
-	education_efficiency = 0.1
+	colonial_migration = 0.1
+	education_efficiency = 0.15
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -422,8 +422,8 @@ social_science = {
 	year = 1870
 	cost = 18000
 
-	colonial_migration = 0.05
-	education_efficiency = 0.1
+	colonial_migration = 0.1
+	education_efficiency = 0.2
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -442,8 +442,8 @@ social_alienation = {
 	year = 1900
 	cost = 21600
 	
-	colonial_migration = 0.05
-	education_efficiency = 0.1
+	colonial_migration = 0.1
+	education_efficiency = 0.2
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -702,8 +702,8 @@ phenomenalism = {
 	year = 1836
 	cost = 10800
 
-	regular_experience_level = 5
-	reinforce_rate = 0.075
+	regular_experience_level = 10
+	reinforce_rate = 0.10
 	
 	ai_chance = {
 		factor = 1.01
@@ -730,8 +730,8 @@ experimental_psychology = {
 	year = 1850
 	cost = 14400
 
-	regular_experience_level = 5
-	reinforce_rate = 0.075
+	regular_experience_level = 10
+	reinforce_rate = 0.10
 	
 	ai_chance = {
 		factor = 1.01
@@ -758,8 +758,8 @@ psychoanalysis = {
 	year = 1870
 	cost = 18000
 
-	regular_experience_level = 10
-	reinforce_rate = 0.075
+	regular_experience_level = 15
+	reinforce_rate = 0.15
 	
 	ai_chance = {
 		factor = 1.01
@@ -787,8 +787,8 @@ behaviorism = {
 	year = 1900
 	cost = 21600
 
-	regular_experience_level = 10
-	reinforce_rate = 0.075
+	regular_experience_level = 20
+	reinforce_rate = 0.15
 	
 	ai_chance = {
 		factor = 1.01

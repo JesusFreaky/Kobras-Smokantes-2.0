@@ -231,7 +231,7 @@ private_bank_money_bill_printing = {
 	year = 1836
 	cost = 10800
 
-	administrative_efficiency = 0.05
+	administrative_efficiency = 0.1
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -253,7 +253,7 @@ central_bank_money_bill_printing = {
 	year = 1850
 	cost = 14400
 
-	administrative_efficiency = 0.05
+	administrative_efficiency = 0.1
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -275,7 +275,7 @@ modern_central_bank_system = {
 	year = 1870
 	cost = 18000
 
-	administrative_efficiency = 0.05
+	administrative_efficiency = 0.1
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -306,7 +306,7 @@ market_determined_exchange_rates = {
 	cost = 21600
 
 
-	administrative_efficiency = 0.05
+	administrative_efficiency = 0.1
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -384,7 +384,7 @@ collectivist_theory = {
 	year = 1836
 	cost = 10800
 
-	factory_input = -0.05
+	factory_input = -0.075
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -414,7 +414,7 @@ the_historical_theory = {
 	year = 1850
 	cost = 14400
 
-	factory_input = -0.05
+	factory_input = -0.1
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -444,7 +444,7 @@ neoclassical_theory = {
 	year = 1870
 	cost = 18000
 
-	factory_input = -0.075
+	factory_input = -0.1
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -474,7 +474,7 @@ keynesian_economics = {
 	year = 1900
 	cost = 21600
 
-	factory_input = -0.075
+	factory_input = -0.1
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -510,9 +510,9 @@ freedom_of_trade = {
 
 	activate_building = luxury_clothes_factory  
 
-	influence = 0.1
-	farm_rgo_eff = 0.2
-	mine_rgo_eff = 0.2
+	influence = 0.15
+	farm_rgo_eff = 0.15
+	mine_rgo_eff = 0.15
 	
 	ai_chance = {
 		factor = 11
@@ -539,9 +539,9 @@ market_structure = {
 	year = 1836
 	cost = 7200
 
-	influence = 0.1
-	farm_rgo_eff = 0.2
-	mine_rgo_eff = 0.2
+	influence = 0.15
+	farm_rgo_eff = 0.15
+	mine_rgo_eff = 0.15
 	
 	ai_chance = {
 		factor = 3.5
@@ -573,9 +573,9 @@ business_regulations = {
 	year = 1836
 	cost = 10800
 
-	influence = 0.2
-	farm_rgo_eff = 0.2
-	mine_rgo_eff = 0.2
+	influence = 0.25
+	farm_rgo_eff = 0.15
+	mine_rgo_eff = 0.15
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -602,7 +602,7 @@ market_regulations = {
 	year = 1850
 	cost = 14400
 
-	influence = 0.2
+	influence = 0.3
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -629,7 +629,8 @@ economic_responsibility = {
 	year = 1870
 	cost = 18000
 
-	influence = 0.2
+	influence = 0.25
+	tax_eff = 5
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -656,7 +657,8 @@ government_interventionism = {
 	year = 1900
 	cost = 21600
 
-	influence = 0.2
+	influence = 0.3
+	administrative_efficiency = 0.1
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -758,7 +760,7 @@ scientific_management = {
 	year = 1836
 	cost = 10800
 
-	factory_output = 0.05
+	factory_output = 0.075
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -796,7 +798,7 @@ time_saving_measures = {
 	year = 1850
 	cost = 14400
 
-	factory_output = 0.075
+	factory_output = 0.1
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -822,7 +824,7 @@ management_strategy = {
 	year = 1870
 	cost = 18000
 
-	factory_output = 0.075
+	factory_output = 0.1
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -848,7 +850,7 @@ organizational_development = {
 	year = 1900
 	cost = 21600
 
-	factory_output = 0.075
+	factory_output = 0.1
 	ai_chance = {
 		factor = 1.05
 		modifier = {

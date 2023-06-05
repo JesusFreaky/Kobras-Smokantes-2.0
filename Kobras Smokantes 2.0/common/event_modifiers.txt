@@ -33,7 +33,7 @@ global_liberal_agitation = {
 }
 
 potato_blight = {
-	population_growth = -0.01
+	population_growth = -0.02
 	pop_militancy_modifier = 0.01
 	icon = 20
 }
@@ -44,12 +44,12 @@ anti_jacobin_tract = {
 }
 
 cholera_epidemic_small = {
-	population_growth = -0.0075
+	population_growth = -0.01
 	icon = 20
 }
 
 cholera_epidemic_big = {
-	population_growth = -0.015
+	population_growth = -0.02
 	icon = 20
 }
 
@@ -168,10 +168,6 @@ baby_boom = {
 	icon = 19
 }
 
-big_baby_boom = {
-	population_growth = 0.02 #2%
-}
-
 loyal_askaris = {
 	pop_militancy_modifier = -0.05
 	pop_consciousness_modifier = -0.05
@@ -193,16 +189,6 @@ female_suffrage = {
 	rich_vote = -0.01
 	core_pop_militancy_modifier = -0.02
 	icon = 7
-}
-
-##### FRENCH ISSUES ######
-
-Vestiges_Of_A_Empire = {
-	core_pop_militancy_modifier = 0.2
-	rgo_output = -0.7
-	rgo_throughput = -0.4
-	research_points_modifier = -0.1
-	mobilisation_size = -0.05
 }
 
 ##### SOCIALISM AND FACISM #####
@@ -858,12 +844,7 @@ integration_campaign = {
 	icon = 17
 }
 
-Vikings_home = {
-	assimilation_rate = 3
-	icon = 17
-}
-
 land_of_opportunity = {
-	global_immigrant_attract = 0.75
+	global_immigrant_attract = 0.5
 	icon = 17
 }

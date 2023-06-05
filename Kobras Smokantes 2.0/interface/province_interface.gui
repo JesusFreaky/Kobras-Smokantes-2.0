@@ -469,7 +469,7 @@ guiTypes = {
 				position = { x= 331 y = 280 }
 				quadTextureSprite = "GFX_build_factory"
 				clicksound = click
-				shortcut = "d"
+				shortcut = "b"
 			}
 			
 			iconType = {
@@ -687,20 +687,18 @@ guiTypes = {
 				name = "rallypoint_merge_checkbox"
 				position = { x = 172 y = 322 }
 				quadTextureSprite = "GFX_rally_land_checkbox"
-				shortcut = "x"
 			}
 			checkboxType = {
 				name = "rallypoint_checkbox_naval"
 				position = { x = 30 y = 322 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "c"
+				shortcut = "x"
 			}
 			
 			checkboxType = {
 				name = "rallypoint_merge_checkbox_naval"
 				position = { x = 75 y = 322 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "v"
 			}
 		}	
 
@@ -1247,20 +1245,18 @@ guiTypes = {
 				name = "rallypoint_merge_checkbox"
 				position = { x = 75 y = 319 }
 				quadTextureSprite = "GFX_rally_land_checkbox"
-				shortcut = "x"
 			}
 			checkboxType = {
 				name = "rallypoint_checkbox_naval"
 				position = { x = 120 y = 319 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "c"
+				shortcut = "x"
 			}
 			
 			checkboxType = {
 				name = "rallypoint_merge_checkbox_naval"
 				position = { x = 165 y = 319 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "v"
 			}
 		}	
 		
@@ -1403,20 +1399,18 @@ guiTypes = {
 				name = "rallypoint_merge_checkbox"
 				position = { x = 23 y = 148 }
 				quadTextureSprite = "GFX_rally_land_checkbox"
-				shortcut = "x"
 			}
 			checkboxType = {
 				name = "rallypoint_checkbox_naval"
 				position = { x = 47 y = 121 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "c"
+				shortcut = "x"
 			}
 			
 			checkboxType = {
 				name = "rallypoint_merge_checkbox_naval"
 				position = { x = 47 y = 148 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "v"
 			}
 		}
 
@@ -1840,7 +1834,7 @@ guiTypes = {
 				name = "rallypoint_checkbox"
 				position = { x = 23 y = 121 }
 				quadTextureSprite = "GFX_rally_land_checkbox"
-				shortcut = "x"
+				shortcut = "z"
 			}
 			
 			checkboxType = {
@@ -1852,14 +1846,13 @@ guiTypes = {
 				name = "rallypoint_checkbox_naval"
 				position = { x = 47 y = 121 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "v"
+				shortcut = "x"
 			}
 			
 			checkboxType = {
 				name = "rallypoint_merge_checkbox_naval"
 				position = { x = 47 y = 148 }
 				quadTextureSprite = "GFX_rally_naval_checkbox"
-				shortcut = "b"
 			}
 		}
 }

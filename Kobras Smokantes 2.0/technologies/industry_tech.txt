@@ -5,8 +5,8 @@ water_wheel_power = {
 	cost = 3600
 
 	activate_building =  fabric_factory
-	mine_rgo_eff = 0.25
-	farm_rgo_eff = 0.25
+	mine_rgo_eff = 0.15
+	farm_rgo_eff = 0.15
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -49,8 +49,8 @@ practical_steam_engine = {
 	year = 1836
 	cost = 7200
 
-	mine_rgo_eff = 0.25
-	farm_rgo_eff = 0.25
+	mine_rgo_eff = 0.15
+	farm_rgo_eff = 0.15
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -93,8 +93,8 @@ high_n_low_pressure_steam_engines = {
 	year = 1836
 	cost = 10800
 
-	mine_rgo_eff = 0.3
-	farm_rgo_eff = 0.3
+	mine_rgo_eff = 0.15
+	farm_rgo_eff = 0.15
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -137,8 +137,8 @@ steam_turbine = {
 	year = 1850
 	cost = 14400
 
-	mine_rgo_eff = 0.35
-	farm_rgo_eff = 0.35
+	mine_rgo_eff = 0.2
+	farm_rgo_eff = 0.2
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -181,8 +181,8 @@ combustion_engine = {
 	year = 1880
 	cost = 18000
 
-	mine_rgo_eff = 0.35
-	farm_rgo_eff = 0.35
+	mine_rgo_eff = 0.2
+	farm_rgo_eff = 0.2
 	ai_chance = {
 		factor = 1.25
 		modifier = {
@@ -225,8 +225,8 @@ electrical_power_generation = {
 	year = 1900
 	cost = 21600
 
-	mine_rgo_eff = 0.35
-	farm_rgo_eff = 0.35
+	mine_rgo_eff = 0.3
+	farm_rgo_eff = 0.3
 	factory_throughput = 0.1
 	ai_chance = {
 		factor = 1.1
@@ -354,7 +354,7 @@ interchangeable_parts = {
 	year = 1836
 	cost = 10800
 
-	factory_throughput = 0.075
+	factory_throughput = 0.05
 	
 	ai_chance = {
 		factor = 1.05
@@ -422,7 +422,7 @@ assembly_line = {
 	area = mechanization
 	year = 1870
 	cost = 18000
-	factory_throughput = 0.1
+	factory_throughput = 0.15
 	factory_cost = -0.1 
 	ai_chance = {
 		factor = 1.05
@@ -451,7 +451,7 @@ shift_work = {
 
 	
 	rgo_output = 0.05
-	factory_throughput = 0.1 
+	factory_throughput = 0.2
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -482,7 +482,7 @@ mechanized_mining = {
 	activate_building = steel_factory 
 
 	rgo_goods_output = {
-		iron = 0.75
+		iron = 0.3
 	}
 	rgo_goods_output = {
 		coal = 0.3
@@ -540,19 +540,19 @@ clean_coal = {
 	cost = 7200
 	
 	rgo_goods_output = {
-		coal = 0.3
+		coal = 0.4
 	}
 	rgo_size = {
-		coal = 0.3
+		coal = 0.4
 	}
 	rgo_goods_output = {
-		sulphur = 0.15
+		sulphur = 0.3
 	}
 	rgo_size = {
-		sulphur = 0.25
+		sulphur = 0.3
 	}
 	rgo_goods_output = {
-		iron = 0.75
+		iron = 0.3
 	}
 	rgo_size = {
 		iron = 0.3
@@ -607,16 +607,16 @@ cheap_iron = {
 	year = 1836
 	cost = 10800
 	rgo_goods_output = {
-		precious_metal = 0.3
+		precious_metal = 0.2
 	}
 	rgo_size = {
 		precious_metal = 0.3
 	}
 	rgo_goods_output = {
-		coal = 0.25
+		coal = 0.2
 	}
 	rgo_goods_output = {
-		iron = 0.75
+		iron = 0.5
 	}
 	rgo_size = {
 		iron = 0.3
@@ -671,16 +671,16 @@ cheap_steel = {
 	year = 1850
 	cost = 14400
 	rgo_goods_output = {
-		precious_metal = 0.25
+		precious_metal = 0.2
 	}
 	rgo_goods_output = {
-		coal = 0.3
+		coal = 0.35
 	}
 	rgo_goods_output = {
-		iron = 0.75
+		iron = 0.35
 	}
 	rgo_size = {
-		precious_metal = 0.3
+		precious_metal = 0.2
 	}
 	
 	ai_chance = {
@@ -733,16 +733,13 @@ advanced_metallurgy = {
 	cost = 18000
 
 	rgo_goods_output = {
-		sulphur = 0.35
-	}
-	factory_goods_output = {
-		steel = 0.1
+		sulphur = 0.3
 	}
 	rgo_goods_output = {
 		coal = 0.35
 	}
 	rgo_goods_output = {
-		iron = 0.75
+		iron = 0.35
 	}
 	rgo_size = {
 		sulphur = 0.3
@@ -804,7 +801,7 @@ electric_furnace = {
 		coal = 1.25
 	}
 	rgo_goods_output = {
-		iron = 1.5
+		iron = 1.25
 	}
 	
 	ai_chance = {

@@ -22,11 +22,11 @@ cuirassier = {
 
 
 	#Building Costs
-	build_time = 90
+	build_time = 120
 	build_cost = {
-		small_arms = 8
-		canned_food = 8
-		steel = 15
+		small_arms = 10
+		canned_food = 10
+		steel = 20
 	}
 
 	supply_consumption = 1.0

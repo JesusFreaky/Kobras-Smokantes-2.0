@@ -1,0 +1,25 @@
+#################################################################################
+#																				#
+#             				Enabling turkish canals								#
+#																				#
+#################################################################################
+
+country_event = {
+	id = 97451
+	
+	trigger ={
+		ai = yes
+	}
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		days = 5
+	}
+	
+	option = {
+		name = "canalll"
+		enable_canal = 4
+		enable_canal = 5
+	}
+
+}

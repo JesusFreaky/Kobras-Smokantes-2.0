@@ -1,0 +1,10 @@
+owner = ENG
+controller = ENG
+add_core = HND
+trade_goods = opium
+life_rating = 30
+colonial = 2
+1836.1.2 = {
+	owner = EIC
+	controller = EIC
+}

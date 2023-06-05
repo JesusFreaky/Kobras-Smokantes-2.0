@@ -73,24 +73,24 @@ overseas = {
 }
 
 coastal = {
-	supply_limit = 7
+	supply_limit = 5
 }
 
 non_coastal = {
 }
 
 coastal_sea = {
-	supply_limit = 12
+	supply_limit = 7
 }
 
 sea_zone = {
 	max_attrition = 5			#Maximum Attrition is 5
-	supply_limit = 20
+	supply_limit = 7
 }
 
 land_province = {
 	max_attrition = 5			#Maximum Attrition is 5
-	supply_limit = 7
+	supply_limit = 5
 }
 
 
@@ -124,9 +124,9 @@ nationalism = {
 }
 
 infrastructure = {
-	local_factory_throughput = 1.5		#each % of infra boost throughput 1%
-	local_rgo_output = 2.5			#each % of infra boost throughput 1%
-	supply_limit = 5
+	local_factory_throughput = 1.2		#each % of infra boost throughput 1%
+	local_rgo_output = 1.5			#each % of infra boost throughput 1%
+	supply_limit = 4
 }
 
 
@@ -136,14 +136,14 @@ infrastructure = {
 ##########################################################################
 
 base_values = {
-	supply_limit = 12
+	supply_limit = 5
 }
 
 war = {
 	max_war_exhaustion = 100			#base max at war.
 	supply_consumption = -0.5
 	#war_exhaustion = 0.1
-	badboy = -0.15
+	badboy = -0.3
 }
 
 peace = {
@@ -185,14 +185,14 @@ bad_debter = {
 great_power = {
 	prestige = 0.05
 	research_points = 1.5
-	diplomatic_points_modifier = 1.25
+	diplomatic_points_modifier = 1.5
 	leadership = 2.0
 }
 
 second_power = {
 	prestige = 0.025
 	research_points = 1.25
-	diplomatic_points_modifier = 1.1
+	diplomatic_points_modifier = 1.25
 	leadership = 1.0
 }
 

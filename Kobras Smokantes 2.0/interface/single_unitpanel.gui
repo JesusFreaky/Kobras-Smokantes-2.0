@@ -336,11 +336,13 @@ guiTypes = {
 			name = "enable_rebel_button"
 			position = { x=222 y=312}
 			quadTextureSprite ="GFX_unit_hunt_rebel1"	
+			shortcut = "x"
 		}
 		guiButtonType = {
 			name = "disable_rebel_button"
 			position = { x=222 y=312}
-			quadTextureSprite ="GFX_unit_hunt_rebel2"	
+			quadTextureSprite ="GFX_unit_hunt_rebel2"		
+			shortcut = "x"
 		}
 			
 		guiButtonType = {

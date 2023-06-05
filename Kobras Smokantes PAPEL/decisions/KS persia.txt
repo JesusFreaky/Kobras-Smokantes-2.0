@@ -1,0 +1,115 @@
+political_decisions = {
+
+
+  towards_Persian_Empire = {
+    potential = {
+      tag = PER
+      NOT = { has_country_flag = TPEPER }
+    }
+    allow = {
+      AFG_1214 = { owned_by = THIS }
+      AFG_1217 = { owned_by = THIS }
+      KAL_1221 = { owned_by = THIS }
+    }
+    effect = {
+      AFG_1214 = { add_core = PER }
+      AFG_1217 = { add_core = PER }
+      KAL_1221 = { add_core = PER }
+      add_accepted_culture = tajik
+      add_accepted_culture = hazara
+      add_accepted_culture = pashtun
+      add_accepted_culture = baluchi
+      civilized = yes
+      # army techs
+      activate_technology = post_napoleonic_thought
+      activate_technology = flintlock_rifles
+      activate_technology = bronze_muzzle_loaded_artillery
+      activate_technology = army_command_principle
+      # naval techs
+      activate_technology = post_nelsonian_thought
+      activate_technology = the_command_principle
+      # culture techs
+      activate_technology = classicism_n_early_romanticism
+      activate_technology = late_enlightenment_philosophy
+      activate_technology = enlightenment_thought
+      # commerce techs
+      activate_technology = private_banks
+      activate_technology = no_standard
+      activate_technology = guild_based_production
+      # industry techs
+      activate_technology = water_wheel_power
+      activate_technology = publishing_industry
+      activate_technology = basic_chemistry
+      activate_technology = medicine
+
+      set_country_flag = TPEPER
+    }
+  }
+
+  Reborned_Persian_Empire = {
+    potential = {
+      tag = PER
+      NOT = { civilized = no }
+      NOT = { has_country_flag = REBOPER }
+    }
+    allow = {
+      civilized = yes
+      PER = { all_core = { owned_by = THIS } }
+      SIN_1288 = { owned_by = THIS }
+      PAN_1227 = { owned_by = THIS }
+      PAN_1224 = { owned_by = THIS }
+      RUS_1196 = { owned_by = THIS }
+    }
+    effect = {
+      SIN_1288 = { add_core = THIS }
+      PAN_1227 = { add_core = THIS }
+      PAN_1224 = { add_core = THIS }
+      RUS_1196 = { add_core = THIS }
+      add_accepted_culture = turkmen
+      add_accepted_culture = panjabi
+      add_accepted_culture = sindi
+      add_accepted_culture = kashmiri
+      set_country_flag = REBOPER
+    }
+  }
+
+  Retake_The_Persian_Lands = {
+    potential = {
+      tag = PER
+      has_country_flag = REBOPER
+      NOT = { has_country_flag = PERexp3 }
+    }
+
+    allow = {
+      PER = { all_core = { owned_by = THIS } }
+      nationalism_n_imperialism = 1
+      prestige = 50
+    }
+
+    effect = {
+      IRA = { all_core = { add_core = PER } }
+      ARM = { all_core = { add_core = PER } }
+      EGY_903 = { add_core = PER }
+      set_country_flag = PERexp3
+    }
+  }
+
+  All_Welcome_To_The_Empire = {
+    potential = {
+      tag = PER
+      has_country_flag = PERexp3
+      NOT = { has_country_flag = PERint3 }
+    }
+    allow = {
+      PER = { all_core = { owned_by = THIS } }
+      nationalism_n_imperialism = 1
+      prestige = 50
+    }
+    effect = {
+      add_accepted_culture = mashriqi
+      add_accepted_culture = kurdish
+      add_accepted_culture = armenian
+      set_country_flag = PERint3
+    }
+  }
+}

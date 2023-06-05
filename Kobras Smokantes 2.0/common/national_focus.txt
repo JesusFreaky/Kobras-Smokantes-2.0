@@ -11,9 +11,15 @@ immigration_focus =
 {
 	immigration =
 	{
-		immigrant_attract = 0.4 #increases attactiveness to immigrants by 20 %
+		immigrant_attract = 1 #increases attactiveness to immigrants by 100 %
 		icon = 3
-		
+		limit = {
+			#OR = {
+				#continent = north_america
+				#continent = south_america
+				#is_overseas = yes
+			#}
+		}
 	}
 }
 
@@ -40,7 +46,7 @@ promotion_focus =
 {
 	promote_aristocrats =
 	{
-		aristocrats = 0.20 #20% more likeley to become artisans
+		aristocrats = 0.3 #30% more likeley to become artisans
 		icon = 5
 		outliner_show_as_percent = yes
 	}
@@ -61,7 +67,7 @@ promotion_focus =
 
 	promote_capitalists =
 	{
-		capitalists = 0.25 #25% more likeley to become this type
+		capitalists = 0.3 #30% more likeley to become this type
 		icon = 8
 		outliner_show_as_percent = yes
 		limit = {
@@ -112,7 +118,7 @@ promotion_focus =
 
 	promote_officers =
 	{
-		officers = 0.20 #20% more likeley to become this type
+		officers = 0.3 #20% more likeley to become this type
 		icon = 14
 		outliner_show_as_percent = yes
 	}
@@ -230,49 +236,49 @@ party_loyalty_focus =
 	fascist_focus =
 	{
 		ideology = fascist
-		loyalty_value = 0.03 # By that much pops will be more loyal
+		loyalty_value = 0.2 # By that much pops will be more loyal
 		icon = 25
 	}
 
 	reactionary_focus =
 	{
 		ideology = reactionary
-		loyalty_value = 0.03 # By that much pops will be more loyal
+		loyalty_value = 0.2 # By that much pops will be more loyal
 		icon = 26
 	}
 
 	conservative_focus =
 	{
 		ideology = conservative
-		loyalty_value = 0.03 # By that much pops will be more loyal
+		loyalty_value = 0.2 # By that much pops will be more loyal
 		icon = 27
 	}
 
 	socialist_focus =
 	{
 		ideology = socialist
-		loyalty_value = 0.03 # By that much pops will be more loyal
+		loyalty_value = 0.2 # By that much pops will be more loyal
 		icon = 28
 	}
 
 	communist_focus =
 	{
 		ideology = communist
-		loyalty_value = 0.03 # By that much pops will be more loyal
+		loyalty_value = 0.2 # By that much pops will be more loyal
 		icon = 29
 	}
 
 	liberal_focus =
 	{
 		ideology = liberal
-		loyalty_value = 0.03 # By that much pops will be more loyal
+		loyalty_value = 0.2 # By that much pops will be more loyal
 		icon = 30
 	}
 
 	anarcho_liberal_focus =
 	{
 		ideology = anarcho_liberal
-		loyalty_value = 0.03 # By that much pops will be more loyal
+		loyalty_value = 0.2 # By that much pops will be more loyal
 		icon = 31
 	}
 }

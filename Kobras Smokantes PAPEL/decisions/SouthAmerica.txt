@@ -1,0 +1,135 @@
+political_decisions = {
+	fatherland_volunteers = {
+		potential = {
+			tag = BRZ
+			government = hms_government
+			NOT = {
+				has_country_flag = pedro_said_it_best
+			}
+		}
+		allow = {
+			army_decision_making = 1
+			war = yes
+		}
+		effect = {
+			war_exhaustion = -1
+			prestige = 10
+			set_country_flag = pedro_said_it_best
+		}
+	}
+
+	law_1420_of_general_common_education = {
+		potential = {
+			tag = ARG
+			NOT = {
+				has_country_flag = 1420_passed
+			}
+		}
+		allow = {
+			social_science = 1
+			ruling_party_ideology = conservative
+		}
+		effect = {
+			years_of_research = 0.2
+			set_country_flag = 1420_passed
+		}
+	}
+
+	peru_bolivia_unification = {
+		potential = {
+			OR = {
+				tag = BOL
+				tag = PEU
+			}
+			NOT = { has_country_flag = peru_bolivia_unified }
+		}
+		allow = {
+			owns = 2292
+			owns = 2295
+			owns = 2297
+			owns = 2310
+			owns = 2316
+		}
+		effect = {
+			prestige = 10
+			PEU = { all_core = { add_core = THIS } }
+			BOL = { all_core = { add_core = THIS } }
+			add_accepted_culture = quechua
+			add_accepted_culture = aimara
+			add_accepted_culture = guarani
+			set_country_flag = peru_bolivia_unified
+		}
+	}
+
+	la_plata_unification = {
+		potential = {
+			OR = {
+				primary_culture = platinean
+				tag = CHL
+			}
+			NOT = { has_country_flag = la_plata }
+		}
+		allow = {
+			owns = 2344
+			owns = 2339
+			owns = 2360
+			owns = 2348
+			owns = 2398
+			owns = 2324
+			owns = 2330
+		}
+		effect = {
+			prestige = 10
+			add_accepted_culture = platinean
+			add_accepted_culture = south_andean
+			URU = { all_core = { add_core = THIS } }
+			PRG = { all_core = { add_core = THIS } }
+			ARG = { all_core = { add_core = THIS } }
+			CHL = { all_core = { add_core = THIS } }
+			set_country_flag = la_plata
+		}
+	}
+
+	claim_paraguay_uruguay = {
+		potential = {
+			OR = {
+				tag = ARG
+				tag = BRZ
+			}
+			NOT = { has_country_flag = para_uru_claimed }
+		}
+		allow = {
+			owns = 2339
+			owns = 2344
+		}
+		effect = {
+			prestige = 5
+			set_country_flag = para_uru_claimed
+			URU = { all_core = { add_core = THIS } }
+			PRG = { all_core = { add_core = THIS } }
+		}
+	}
+
+	claim_guyana = {
+		potential = {
+			OR = {
+				tag = BRZ
+				tag = GCO
+				tag = VNZ
+			}
+			NOT = { has_country_flag = guyana_claimed }
+		}
+		allow = {
+			owns = 2241
+			owns = 2240
+			owns = 2239
+		}
+		effect = {
+			prestige = 10
+			set_country_flag = guyana_claimed
+			FRA_2241 = { add_core = THIS }
+			NET_2240 = { add_core = THIS }
+			ENG_1979 = { add_core = THIS }
+		}
+	}
+}
