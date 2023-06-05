@@ -77,9 +77,7 @@ CAN_77 = { 77 } #St Pierre and Miquelon
 
 TEX_132 = { 132 133 134 135 136 137 138 } #Texas
 
-UCA_2186 = { 2186 2187 2188 2189 } #Guatemala
-
-ENG_2190 = { 2190 } #Belize
+UCA_2186 = { 2186 2187 2188 2189 2190 } #Guatemala
 
 UCA_2191 = { 2191 2192 } #El Salvador
 
@@ -115,17 +113,19 @@ SIC_763 = { 763 762 764 } #Sicily
 
 MAL_854 = { 854 } #Malta
 
-GRE_826 = { 839 840 841 842 } #Peloponnese
+GRE_839 = { 839 840 841 842 } #Peloponnese
 
-TUR_853 = { 853 852 849 851 850 } #Albania
+TUR_853 = { 853 852 849 851 850 2583 2569 2577 800 } #Albania
 
 TUR_788 = { 788 787 789 783 786 785 784 } #Bosnia
 
-AUS_657 = { 657 659 656 653 652 } #Southern Transylvania
+AUS_657 = { 656 653 652 } #Southern Transylvania
+
+HUN_2533 = { 657 660 659 2533 } #Targu Mures
 
 HAW_658 = { 658 686 2526 2623 } #Hawaiian Islands
 
-AUS_654 = { 654 655 661 660 2533 651 647 } #Northern Transylvania
+AUS_654 = { 654 655 661 651 647 } #Northern Transylvania
 
 MOL_673 = { 673 672 670 671 676 677 678 } #Moldavia
 
@@ -135,7 +135,9 @@ SPA_474 = { 474 476 } #Galicia
 
 SPA_477 = { 477 479 480 475 478 481 } #Leon-Castille
 
-SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragon
+SPA_495 = { 495 496 497 } #Vasconia-Aragon
+
+SPA_492 = { 492 493 494 } #Bilbao
 
 SPA_498 = { 498 499 500 501 502 } #Catalonia
 
@@ -427,8 +429,6 @@ FRA_399 = { 399 400 401 404 } #Picardie
 
 FRA_467 = { 467 468 469 470 471 } #Provence
 
-FRA_473 = { 473 } #Corsica
-
 FRA_412 = { 412 409 410 } #Alsace-Lorraine
 
 FRA_418 = { 418 415 416 417 402 } #Normandy
@@ -479,9 +479,7 @@ SPA_487 = { 487 488 489 491 483 } #Castilla la Nueva
 
 BEL_394 = { 394 392 393 } #Wallonie
 
-BEL_395 = { 395 396 398 } #Liege
-
-LUX_397 = { 397 } #Luxembourg
+BEL_395 = { 395 396 398 397 } #Liege
 
 BEL_387 = { 387 388 389 390 391 } #Vlaanderen
 
@@ -505,17 +503,7 @@ SWI_603 = { 603 606 611 2568 } #East Switzerland
 
 SWI_605 = { 605 604 607 608 609 } #West Switzerland
 
-ENG_2228 = { 2229 2231 2233 2237 2238 2409 } #Windward Islands
-
-FRA_2228 = { 2228 2230 } #French Antilles
-
-ENG_2224 = { 2224 2225 2226 2227 2232 } #British Antilles
-
-DEN_2223 = { 2223 } #Virgin Islands
-
-SPA_2222 = { 2222 } #Puerto Rico
-
-ENG_203 = { 203 2219 2217 2218 2220 } #Caribbean Islands
+ENG_203 = { 203 2219 2217 2218 2220 2222 2229 2231 2233 2237 2238 2409 2228 2230 2224 2225 2226 2227 2232 2223 } #Caribbean Islands
 
 KAL_1221 = { 1221 1220 1219 1222 } #Baluchistan
 
@@ -607,9 +595,9 @@ TUR_806 = { 806 807 } #North Macedonia
 
 TUR_832 = { 832 831 833 825 824 } #Thessalia
 
-TUR_824 = { 827 826 } #Ionian Islands
+TUR_805 = { 805 819 820 821 } #South Macedonia
 
-TUR_805 = { 805 822 823 829 830 819 820 821 } #South Macedonia
+TUR_823 = { 822 823 829 830 } #Kavala
 
 TUR_809 = { 809 808 815 816 817 } #Rumelia
 
@@ -767,8 +755,6 @@ RUS_1102 = { 1102 1105 1106 1104 1107 1103 } #Azerbaijan
 
 RUS_1090 = { 1090 1093 1091 1092 1094 1095 } #Georgia
 
-MON_2582 = { 2582 2583 2569 2577 800 } #Montenegro
-
 SER_794 = { 794 797 795 796 } #Northern Serbia
 
 TUR_803 = { 803 804 798 802 799 } #Southern Serbia
@@ -783,11 +769,9 @@ TUR_873 = { 873 874 875 895 } #Konya
 
 TUR_881 = { 881 880 883 } #Kastamonu
 
-TUR_855 = { 855 856 857 } #Cyprus
-
 TUR_884 = { 884 879 888 882 887 } #Trabzon
 
-EGY_843 = { 843 844 845 846 847 848 } #Aegan Islands
+EGY_843 = { 843 844 845 846 847 848 855 856 857 827 826 } #Aegan Islands
 
 TUR_876 = { 876 877 866 867 868 } #Ankara
 
@@ -1037,15 +1021,13 @@ AUS_950 = { 950 } #Transcarpathia
 
 AUS_633 = { 633 634 635 636 638 637 } #Slovakia
 
-AUS_780 = { 780 781 782 774 } #Dalmatia
+AUS_780 = { 780 781 782 2582 } #Dalmatia
 
-AUS_771 = { 771 772 773 775 776 777 779 793 } #Croatia
+AUS_771 = { 771 772 773 775 776 777 779 793 774 } #Croatia
 
 AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
 
-AUS_736 = { 736 737 } #Trieste
-
-AUS_770 = { 770 778 } #Istria
+AUS_736 = { 736 737 770 778 769 } #Trieste
 
 AUS_729 = { 729 730 731 732 733 } #Venice
 
@@ -1065,7 +1047,7 @@ AUS_619 = { 619 620 621 622 624 } #Lower Austria
 
 AUS_734 = { 734 735 } #South Tyrol
 
-AUS_768 = { 767 768 769 } #Slovenia
+AUS_768 = { 767 768 } #Slovenia
 
 AUS_777 = { 791 792 2538 } #Slavonia
 
@@ -1111,11 +1093,15 @@ SAX_558 = { 558 559 560 687 } #Sachsen
 
 SAX_561 = { 561 563 562 554 } #Thuringia
 
-RUS_710 = { 710 712 713 716 717 } #Wielkopolskie
+RUS_710 = { 710 712 717 } #Wielkopolskie
+
+RUS_716 = { 716 713} #Kielce
+
+RUS_715 = { 715 711 } # Lublin
 
 SAR_720 = { 720 721 722 723 724 725 } #Piedmont
 
-SAR_765 = { 765 766 } #Sardinia
+SAR_765 = { 765 766 473 } #Sardinia
 
 CHI_1086 = { 1086 1087 1089 1088 } #Sakhalin
 
@@ -1125,7 +1111,7 @@ RUS_707 = { 938 939 940 947 } #Pinsk
 
 RUS_719 = { 719 937 936 } #Brest
 
-RUS_706 = { 706 707 708 709 711 715 } #Mazowieckie
+RUS_706 = { 706 707 708 709 } #Mazowieckie
 
 RUS_955 = { 955 956 957 } #Rovne
 
