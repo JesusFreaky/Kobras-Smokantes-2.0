@@ -2,6 +2,6 @@ owner = RUS
 controller = RUS
 add_core = FIN
 add_core = SWE
-trade_goods = fish
+trade_goods = coal
 life_rating = 35
 naval_base = 2

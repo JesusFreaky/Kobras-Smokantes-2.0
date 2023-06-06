@@ -6,9 +6,7 @@ political_decisions = {
 			NOT = { has_global_flag = global_setup_done }
 		}
 
-		allow = {
-			ai = yes
-		}
+		allow = {}
 
 		effect = {
 			set_global_flag = global_setup_done
@@ -19,13 +17,13 @@ political_decisions = {
 					limit = {
 						OR = {
 							has_pop_culture = beifaren
-            				has_pop_culture = nanfaren
-            				has_pop_culture = hakka
-            				has_pop_culture = min
-            				has_pop_culture = yue
-            				has_pop_culture = zhuang
-            				has_pop_culture = yi
-            				has_pop_culture = hui
+							has_pop_culture = nanfaren
+							has_pop_culture = hakka
+							has_pop_culture = min
+							has_pop_culture = yue
+							has_pop_culture = zhuang
+							has_pop_culture = yi
+							has_pop_culture = hui
 						}
 					}
 					reduce_pop = 0.40
@@ -38,7 +36,7 @@ political_decisions = {
 					limit = {
 						OR = {
 							has_pop_culture = caribeno
-              				has_pop_culture = mexican
+							has_pop_culture = mexican
 						}
 					}
 					reduce_pop = 1.5
@@ -50,18 +48,17 @@ political_decisions = {
 					limit = {
 						OR = {
 							has_pop_culture = brazilian
-              				has_pop_culture = afro_brazilian
+							has_pop_culture = afro_brazilian
 							has_pop_culture = central_american
 							has_pop_culture = anglo_canadian
-            				has_pop_culture = french_canadian
+							has_pop_culture = french_canadian
 						}
 					}
 					reduce_pop = 2
 				}
 			}
-		}
 
-      any_country = {
+			any_country = {
 				any_pop = {
 					limit = {
 						OR = {
@@ -73,12 +70,12 @@ political_decisions = {
 				}
 			}
 
-      any_country = {
+			any_country = {
 				any_pop = {
 					limit = {
 						OR = {
-              				has_pop_culture = south_andean
-              				has_pop_culture = north_andean
+							has_pop_culture = south_andean
+							has_pop_culture = north_andean
 						}
 					}
 					reduce_pop = 4
@@ -88,7 +85,7 @@ political_decisions = {
 			any_country = {
 				any_pop = {
 					limit = {
-						has_pop_culture = platinean
+							has_pop_culture = platinean
 					}
 					reduce_pop = 5
 				}
@@ -97,9 +94,25 @@ political_decisions = {
 			any_country = {
 				any_pop = {
 					limit = {
-						has_pop_culture = texan
+							has_pop_culture = texan
 					}
 					reduce_pop = 20
+				}
+			}
+			
+			#Scandinavia pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = swedish
+							has_pop_culture = norwegian
+							has_pop_culture = icelandic
+							has_pop_culture = sami
+							has_pop_culture = danish
+						}
+					}
+					reduce_pop = 1.8
 				}
 			}
 
@@ -111,7 +124,7 @@ political_decisions = {
 				any_pop = {
 					limit = {
 						OR = {
-            				has_pop_culture = north_italian
+            	has_pop_culture = north_italian
 							has_pop_culture = slovak
 						}
 					}
@@ -128,10 +141,10 @@ political_decisions = {
 				}
 			}
       any_country = {
-			limit = {
-				tag = FRA
-			}
-        	any_pop = {
+				limit = {
+					tag = FRA
+				}
+        any_pop = {
     			limit = {
     				OR = {
     					has_pop_culture = south_german
@@ -141,14 +154,14 @@ political_decisions = {
     					has_pop_culture = north_italian
     				}
     			}
-    			literacy = 0.30
+    			literacy = 0.2
     		}
-		}
-      any_country = {
-			limit = {
-				tag = ENG
 			}
-        	any_pop = {
+			any_country = {
+				limit = {
+					tag = ENG
+				}
+			any_pop = {
     			limit = {
     				OR = {
     					has_pop_culture = irish
@@ -156,27 +169,28 @@ political_decisions = {
     			}
     			literacy = 0.20
     		}
-		}
-		any_country = {
-			limit = {
-				tag = RUS
 			}
-        	any_pop = {
+			any_country = {
+				limit = {
+					tag = RUS
+				}
+			any_pop = {
     			limit = {
     				OR = {
-    					has_pop_culture = finnish
-						has_pop_culture = swedish
-						has_pop_culture = ashkenazi
+							has_pop_culture = finnish
+							has_pop_culture = swedish
+							has_pop_culture = ashkenazi
     				}
     			}
     			literacy = 0.70
     		}
-			any_pop = {
+				any_pop = {
     			limit = {
-    				has_pop_culture = polish
+							has_pop_culture = polish
     			}
     			literacy = 0.5
     		}
+			}
 		}
 	}
 }

@@ -38,6 +38,7 @@ political_decisions = {
 			set_country_flag = hms_sverige_built
 		}
 	}
+	
 	pass_folkskolereformen = {
 		potential = {
 			OR = {
@@ -235,8 +236,12 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						in_sphere = THIS
-						vassal_of = THIS
+						owner = {
+							OR= {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
 					}
 				}
 			}
@@ -244,8 +249,12 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						in_sphere = THIS
-						vassal_of = THIS
+						owner = {
+							OR= {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
 					}
 				}
 			}
@@ -284,85 +293,6 @@ political_decisions = {
 		effect = {
 			DEN = { all_core = { add_core = SWE } }
 			set_country_flag = TKUSCA
-		}
-	}
-	
-	Medicine_boom = {
-		potential = {
-			tag = SWE
-			NOT = { has_country_flag = SCABABYBOOM }
-		}
-		allow = {
-			medicine = 1
-		}
-		effect = {
-			SWE_332 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			SWE_322 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			SWE_318 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			SWE_334 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			SWE_329 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			SWE_309 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			SWE_308 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			SWE_313 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			DEN_370 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			DEN_372 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			DEN_367 = { 
-				add_province_modifier = {
-					name = big_baby_boom
-					duration = 3600
-				}
-			}
-			set_country_flag = SCABABYBOOM
 		}
 	}
 }
