@@ -108,11 +108,129 @@ political_decisions = {
 							has_pop_culture = swedish
 							has_pop_culture = norwegian
 							has_pop_culture = icelandic
+							has_pop_culture = finnish
 							has_pop_culture = sami
 							has_pop_culture = danish
 						}
 					}
 					reduce_pop = 1.8
+				}
+			}
+
+			#Benelux pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = dutch
+							has_pop_culture = flemish
+							has_pop_culture = wallonian
+						}
+					}
+					reduce_pop = 1.15
+				}
+			}
+
+			#North Africa pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = maghrebi
+						}
+					}
+					reduce_pop = 2.5
+				}
+			}
+
+			#Persia pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = persian
+						}
+					}
+					reduce_pop = 2
+				}
+			}
+
+			#Arabia pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = bedouin
+						}
+					}
+					reduce_pop = 3
+				}
+			}
+
+			#Balkan pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = greek
+							has_pop_culture = bulgarian
+							has_pop_culture = albanian
+							has_pop_culture = serb
+							has_pop_culture = croat
+							has_pop_culture = bosniak
+						}
+					}
+					reduce_pop = 1.5
+				}
+			}
+
+			#Romania pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = romanian
+						}
+					}
+					reduce_pop = 2.25
+				}
+			}
+
+			#Baltic pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = estonian
+							has_pop_culture = latvian
+							has_pop_culture = lithuanian
+						}
+					}
+					reduce_pop = 1.75
+				}
+			}
+
+			#turkish pop buffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = turkish
+						}
+					}
+					reduce_pop = 1.3
+				}
+			}
+
+			#Russia pop debuffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = russian
+						}
+					}
+					reduce_pop = 0.9
 				}
 			}
 
