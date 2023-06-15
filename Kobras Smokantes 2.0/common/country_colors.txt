@@ -475,13 +475,6 @@ SPA = {
     color3= { 154 69 116  }
 }
 
-# Iberia
-IBR = {
-    color1= { 231 181 12  }
-    color2= { 244 56 49  }
-    color3= { 154 69 116  }
-}
-
 # Italy
 ITA = {
     color1= { 255 255 255  }
@@ -531,7 +524,7 @@ SIC = {
     color3= { 131 101 85  }
 }
 
-# Siebenbï¿½rgen
+# Siebenbürgen
 SIE = {
     color1= { 75 111 205  }
     color2= { 124 140 162  }
@@ -599,13 +592,6 @@ NET = {
     color1= { 66 113 188  }
     color2= { 255 255 255  }
     color3= { 255 255 255  }
-}
-
-# Benelux Empire
-BEN = { 
-    color1= { 66 113 188 } 
-    color2= { 255 255 255 } 
-    color3= { 255 255 255 } 
 }
 
 # Aldjazair

@@ -269,9 +269,6 @@ GCO		="countries/Gran Colombia.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
-IBR     = "countries/Iberia.txt"
-BEN     = "countries/Benelux Empire.txt"
-UPB     = "countries/United Kingdom of Brazil and Algarves.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
