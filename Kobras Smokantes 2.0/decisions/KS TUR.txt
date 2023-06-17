@@ -152,6 +152,7 @@ political_decisions = {
 			add_accepted_culture = azerbaijani
 			add_accepted_culture = georgian
 			add_accepted_culture = armenian
+			add_accepted_culture = maghrebi
 			set_country_flag = TURAsianExpansion
 		}
 	}
