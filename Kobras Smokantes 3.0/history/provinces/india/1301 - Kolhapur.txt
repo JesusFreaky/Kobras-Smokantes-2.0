@@ -1,0 +1,5 @@
+owner = IND
+controller = IND
+add_core = HND
+trade_goods = tea
+life_rating = 30

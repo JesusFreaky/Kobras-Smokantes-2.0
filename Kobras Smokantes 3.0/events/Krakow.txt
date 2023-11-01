@@ -1,0 +1,28 @@
+country_event = {
+	id = 60001
+	title = "An End to Krakow"
+	desc = "We accidently left a small Polish state independent. The time has come to put an end to the illusion of Polish independence."
+	fire_only_once = yes
+	trigger = {
+		OR = {
+			tag = AUS
+			tag = KUK
+			tag = PRU
+			tag = NGF
+			tag = GER
+			tag = RUS
+		}
+		year = 1846
+		KRA = { in_sphere = THIS }
+	}
+	option = {
+		name = "The map will look much better without them"
+		inherit = KRA
+	}
+	option = {
+		name = "The Free City of Krakow shall remain free"
+		badboy = -2
+	}
+}	
+		
+			

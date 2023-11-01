@@ -1,0 +1,10 @@
+owner = ENG
+controller = ENG
+trade_goods = wool
+life_rating = 15
+add_core = SAF
+1836.1.2 = {
+	owner = SAF
+	controller = SAF
+	colonial = 0
+}

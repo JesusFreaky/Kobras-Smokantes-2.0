@@ -1,0 +1,7 @@
+owner = IND
+controller = IND
+add_core = HND
+trade_goods = grain
+life_rating = 30
+fort = 1
+naval_base = 1

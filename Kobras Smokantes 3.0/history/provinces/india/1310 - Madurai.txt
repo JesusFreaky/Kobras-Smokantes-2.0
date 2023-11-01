@@ -1,0 +1,7 @@
+owner = TRA
+controller = TRA
+add_core = HYD
+add_core = TRA
+add_core = HND
+trade_goods = coal
+life_rating = 30

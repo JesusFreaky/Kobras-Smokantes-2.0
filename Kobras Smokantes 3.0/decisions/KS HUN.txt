@@ -1,0 +1,107 @@
+political_decisions = {
+
+    Enough_Of_Austrian_Opression = {
+        potential = {
+            tag = HUN
+            NOT = {
+                has_country_flag = HUNFREEDOM
+            }
+        }
+        allow = {
+            vassal_of = AUS
+            year = 1840
+        }
+        effect = {
+            AUS = {
+                release_vassal = HUN
+                release_vassal = CRO
+            }
+            CRO = {
+                annex_to = HUN
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            set_country_flag = HUNFREEDOM
+        }
+    }
+
+    The_Hungarian_Horses = {
+        potential = {
+            tag = HUN
+            has_country_flag = HUNFREEDOM
+            NOT = {
+                has_country_flag = HUNEXP1
+            }
+        }
+        allow = {
+            war = no
+            OR = {
+                year = 1850
+                SGF = {
+                    exists = yes
+                }
+            }
+        }
+        effect = {
+            ROM = {
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            SER = {
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            BOS = {
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            MON = {
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            set_country_flag = HUNEXP1
+            any_country = {
+                limit = {
+                    is_in_sphere = THIS
+                    is_puppet = THIS
+                    OR = {
+                        tag = WAL
+                        tag = MOL
+                    }
+                }
+                annex_to = HUN
+            }
+        }
+    }
+
+    Integrate_The_Balkans = {
+        potential = {
+            tag = HUN
+            has_country_flag = HUNEXP1
+            NOT = {
+                has_country_flag = HUNINT1
+            }
+        }
+
+        allow = {
+            war = no
+            HUN = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+        }
+
+        effect = {
+            add_accepted_culture = serbian
+            add_accepted_culture = romanian
+            add_accepted_culture = bosniak
+            set_country_flag = HUNINT1
+        }
+    }
+}

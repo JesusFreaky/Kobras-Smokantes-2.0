@@ -1,0 +1,38 @@
+political_decisions = {
+  claim_cherson_rom = {
+    potential = {
+      tag = ROM
+      NOT = { has_country_flag = cherson_claimed }
+    }
+    allow = {
+      nationalism_n_imperialism = 1
+      owns = 968
+    }
+    effect = {
+      badboy = 5
+      set_country_flag = cherson_claimed
+      RUS_968 = { add_core = ROM }
+      add_country_modifier = {
+				name = integration_campaign
+				duration = 9125
+			}
+    }
+  }
+  integrate_cherson_rom = {
+    potential = {
+      tag = ROM
+      NOT = { has_country_flag = cherson_integrated }
+      has_country_flag = cherson_claimed
+      NOT = { has_country_modifier = integration_campaign }
+    }
+    allow = {
+      war = no
+      owns = 968
+    }
+    effect = {
+      badboy = 5
+      set_country_flag = cherson_integrated
+      add_accepted_culture = ukrainian
+    }
+  }
+}
