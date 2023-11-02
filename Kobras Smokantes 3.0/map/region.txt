@@ -209,9 +209,7 @@ TUS_744 = { 744 745 747 748 746 } #Toscana
 
 PAP_741 = { 741 742 743 } #Romanga
 
-PAP_752 = { 752 751 753 } #Umbria
-
-PAP_749 = { 749 750 } #Lazio
+PAP_749 = { 749 750 752 751 } #Lazio
 
 MEX_94 = { 94 95 96 97 98 99 } #Nevada-Utah
 
@@ -1013,7 +1011,9 @@ SIC_754 = { 754 755 2567 } #Campania
 
 SIC_759 = { 759 760 761 } #Calabria
 
-SIC_753 = { 756 757 758 } #Puglia
+SIC_756 = { 756 758 } #Puglia
+
+SIC_753 = { 753 757 } #Aquila
 
 AUS_704 = { 704 705 714 703 2584 } #West Galicia
 

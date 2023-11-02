@@ -15,10 +15,6 @@ political_decisions = {
       AFG_1214 = { add_core = PER }
       AFG_1217 = { add_core = PER }
       KAL_1221 = { add_core = PER }
-      add_accepted_culture = tajik
-      add_accepted_culture = hazara
-      add_accepted_culture = pashtun
-      add_accepted_culture = baluchi
       civilized = yes
       # army techs
       activate_technology = post_napoleonic_thought
@@ -56,19 +52,12 @@ political_decisions = {
       civilized = yes
       PER = { all_core = { owned_by = THIS } }
       SIN_1288 = { owned_by = THIS }
-      PAN_1227 = { owned_by = THIS }
-      PAN_1224 = { owned_by = THIS }
       RUS_1196 = { owned_by = THIS }
     }
     effect = {
       SIN_1288 = { add_core = THIS }
-      PAN_1227 = { add_core = THIS }
-      PAN_1224 = { add_core = THIS }
       RUS_1196 = { add_core = THIS }
       add_accepted_culture = turkmen
-      add_accepted_culture = panjabi
-      add_accepted_culture = sindi
-      add_accepted_culture = kashmiri
       set_country_flag = REBOPER
     }
   }

@@ -143,14 +143,14 @@ war = {
 	max_war_exhaustion = 100			#base max at war.
 	supply_consumption = -0.5
 	#war_exhaustion = 0.1
-	badboy = -0.3
+	badboy = -0.2
 }
 
 peace = {
 	max_war_exhaustion = 50			#base max at peace.
 	supply_consumption = -0.5
 	war_exhaustion = -1
-	badboy = -0.3
+	badboy = -0.25
 }
 
 disarming = {
@@ -179,7 +179,7 @@ debt_default_to = {
 }
 
 bad_debter = {
-	loan_interest = 0.05
+	loan_interest = 0.1
 }
 
 great_power = {
@@ -187,6 +187,7 @@ great_power = {
 	research_points = 1.5
 	diplomatic_points_modifier = 1.5
 	leadership = 2.0
+	mobilisation_size = 0.02
 }
 
 second_power = {
@@ -194,12 +195,14 @@ second_power = {
 	research_points = 1.25
 	diplomatic_points_modifier = 1.25
 	leadership = 1.0
+	mobilisation_size = 0.02
 }
 
 civ_nation = {
 	prestige = 0.01
 	research_points = 1
 	leadership = 0.5
+	mobilisation_size = 0.02
 }
 
 unciv_nation = {

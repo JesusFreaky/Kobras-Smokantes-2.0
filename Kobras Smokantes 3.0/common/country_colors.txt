@@ -475,6 +475,14 @@ SPA = {
     color3= { 154 69 116  }
 }
 
+# Iberia
+IBR = {
+    color1= { 228 255 74  }
+    color2= { 205 226 68  }
+    color3= { 180 224 47  }
+}
+
+
 # Italy
 ITA = {
     color1= { 255 255 255  }
@@ -524,7 +532,7 @@ SIC = {
     color3= { 131 101 85  }
 }
 
-# Siebenbürgen
+# Siebenbï¿½rgen
 SIE = {
     color1= { 75 111 205  }
     color2= { 124 140 162  }
