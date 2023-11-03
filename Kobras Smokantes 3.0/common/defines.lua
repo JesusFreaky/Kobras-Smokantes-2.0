@@ -627,14 +627,14 @@ pops = {
 	CONVERSION_SCALE = 0.02,
 	IMMIGRATION_SCALE = 0.005,
 
-	PROMOTION_SCALE = 0.004,
+	PROMOTION_SCALE = 0.003,
 	PROMOTION_ASSIMILATION_CHANCE = 1.0,
 	LUXURY_THRESHOLD = 500,
 	BASE_GOODS_DEMAND = 0.90,
 	BASE_POPGROWTH = 0.0001,
 	MIN_LIFE_RATING_FOR_GROWTH = 30,
 	LIFE_RATING_GROWTH_BONUS = 0.0001,
-	LIFE_NEED_STARVATION_LIMIT = 0.80,
+	LIFE_NEED_STARVATION_LIMIT = 0.50,
 
 	MIL_LACK_EVERYDAY_NEED = 0.1,
 	MIL_HAS_EVERYDAY_NEED = -0.1,
@@ -660,23 +660,23 @@ pops = {
 
 	NATIONAL_FOCUS_DIVIDER = 10000.0,
 
-	POP_SAVINGS = 0.018,
+	POP_SAVINGS = 0.03,
 
 	STATE_CREATION_ADMIN_LIMIT = 0.01,
 	MIL_TO_JOIN_REBEL = 7, -- Rebels over this will join a faction
 	MIL_TO_JOIN_RISING = 8, -- Rebels over this will join a general rising
 	MIL_TO_AUTORISE = 9, -- Rebels over this rise no matter what
 	REDUCTION_AFTER_RISEING = 0.0, -- After a pop spawns a rebellion, its militancy will be reduced this much
-	REDUCTION_AFTER_DEFEAT = 6.5, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
+	REDUCTION_AFTER_DEFEAT = 3.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
 																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
 
-	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
-	ARTISAN_MIN_PRODUCTIVITY = 5, -- Minimum efficieny of an artisan
+	POP_TO_LEADERSHIP = 0.00015, -- how much leadership every 1000 officers gives each day.
+	ARTISAN_MIN_PRODUCTIVITY = 1, -- Minimum efficieny of an artisan
 	SLAVE_GROWTH_DIVISOR = 2, -- Slaves have N times lower growth
 
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
 	LUXURY_CON_CHANGE = 0.001, -- con boost from over-buying luxuary goods
-	INVENTION_IMPACT_ON_DEMAND = 0.0075, -- how much each invention in a country increases demand for a product in percent
+	INVENTION_IMPACT_ON_DEMAND = 0.014, -- how much each invention in a country increases demand for a product in percent
 	ARTISAN_SUPPRESSED_COLONIAL_GOODS_CATEGORY = 0, -- Goods category index not produced in colonies
 	ISSUE_MOVEMENT_JOIN_LIMIT = 8,
 	ISSUE_MOVEMENT_LEAVE_LIMIT = 7,

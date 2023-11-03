@@ -3,5 +3,5 @@ controller = SPA
 add_core = SPA
 add_core = CAT
 add_core = IBR
-trade_goods = fruit
+trade_goods = coal
 life_rating = 35

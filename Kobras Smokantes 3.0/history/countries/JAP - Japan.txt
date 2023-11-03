@@ -18,6 +18,23 @@ upper_house = {
 	communist = 0
 }
 
+1836.1.1 = {
+Technologies
+	flintlock_rifles = 1
+	bronze_muzzle_loaded_artillery = 1
+
+	post_nelsonian_thought = 1
+	clipper_design = 1
+	
+	admin_reform = yes_admin_reform
+	
+	foreign_training = yes_foreign_training
+	foreign_weapons = yes_foreign_weapons
+	foreign_naval_officers = yes_foreign_naval_officers
+	foreign_navies = yes_foreign_navies
+
+}
+
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
