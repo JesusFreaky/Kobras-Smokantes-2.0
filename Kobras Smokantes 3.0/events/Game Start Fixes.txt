@@ -45,3 +45,29 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 56487922
+	title = "Game inital fixes"
+	desc = "Factories & leadership"
+	picture = ""
+
+	trigger = {
+		tag = FRA
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "OMG"
+		activate_building = steel_factory 
+        activate_building = ammunition_factory
+        activate_building = small_arms_factory
+        activate_building = explosives_factory
+        activate_building = artillery_factory
+	}
+}

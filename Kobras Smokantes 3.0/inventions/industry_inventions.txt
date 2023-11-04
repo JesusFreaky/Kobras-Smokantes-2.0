@@ -606,6 +606,91 @@ refrigerator_technology = {
 	}
 }
 #Metulurgy
+ammunition_production = {
+	limit = { mechanized_mining = 1 }
+	chance = {
+		base = 100
+		modifier = {
+			factor = 2
+			invention = whitney_n_colts_standardized_small_arms
+		}
+		modifier = {
+			factor = 2
+			army_professionalism = 1
+		}
+	}
+	effect = {
+		activate_building = ammunition_factory 
+	}
+}
+steel_production = {
+	limit = { mechanized_mining = 1 }
+	chance = {
+		base = 100
+		modifier = {
+			factor = 2
+			invention = hard_work_factories
+		}
+		modifier = {
+			factor = 2
+			army_professionalism = 1
+		}
+	}
+	effect = {
+		activate_building = steel_factory
+	}
+}
+small_arms_production = {
+	limit = { mechanized_mining = 1 }
+	chance = {
+		base = 100
+		modifier = {
+			factor = 2
+			strategic_mobility = 1
+		}
+		modifier = {
+			factor = 2
+			early_railroad = 1
+		}
+	}
+	effect = {
+		activate_building = small_arms_factory
+	}
+}
+explosives_production = {
+	limit = { mechanized_mining = 1 }
+	chance = {
+		base = 100
+		modifier = {
+			factor = 2
+			medicine = 1
+		}
+		modifier = {
+			factor = 2
+			invention = nitroglycerin
+		}
+	}
+	effect = {
+		activate_building = explosives_factory 
+	}
+}
+artillery_production = {
+	limit = { mechanized_mining = 1 }
+	chance = {
+		base = 100
+		modifier = {
+			factor = 2
+			invention = explosives_production
+		}
+		modifier = {
+			factor = 2
+			iron_muzzle_loaded_artillery = 1
+		}
+	}
+	effect = {
+		activate_building = artillery_factory 
+	}
+}
 #clean_coal
 pit_coal = {
 	limit = { clean_coal = 1 }
