@@ -3,3 +3,13 @@ controller = FRA
 add_core = FRA
 trade_goods = coal
 life_rating = 31
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}

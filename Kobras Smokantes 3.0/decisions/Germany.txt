@@ -421,12 +421,17 @@ political_decisions = {
 			NOT = { has_country_flag = greater_germany }
 		}
 		allow = {
+
+			OR = {
+				AUS = { all_core = { NOT = { owned_by = AUS } } }
+				KUK = { all_core = { NOT = { owned_by = KUK } } }
+			}
 			owns = 629
 			owns = 619
 			owns = 613
 		}
 		effect = {
-			badboy = 10
+			badboy = 15
 			AUS_627 = { add_core = GER }
 			AUS_612 = { add_core = GER }
 			AUS_619 = { add_core = GER }

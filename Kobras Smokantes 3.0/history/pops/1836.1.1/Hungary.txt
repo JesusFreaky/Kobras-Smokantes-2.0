@@ -471,7 +471,13 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 61500
+		size = 51500
+	}
+
+	craftsmen = {
+		culture = hungarian
+		religion = catholic
+		size = 10000
 	}
 
 	aristocrats = {

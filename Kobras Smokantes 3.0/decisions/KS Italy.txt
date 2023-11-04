@@ -17,10 +17,116 @@ political_decisions = {
 		}
 	}
 
+	The_French_way = {
+		potential = {
+			tag = SAR
+			has_country_flag = SARex1
+			NOT = { has_country_flag = SARex2 }
+			NOT = { has_country_flag = SARex4 }
+		}
+
+		allow = {
+			war = no
+			all_core = { owned_by = THIS }
+			state_n_government = 1
+		}
+
+		effect = {
+			set_country_flag = SARex4
+			FRA_467 = { add_core = THIS }
+			FRA_451 = { add_core = THIS }
+		}
+	}
+
+	Three_Cultures_One_Country = {
+
+		potential = {
+			tag = SAR
+			has_country_flag = SARex4
+			NOT = { has_country_flag = SARint }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+			all_core = { owned_by = THIS }
+			war = no 
+		}
+
+		effect = {
+			add_accepted_culture = occitan
+			set_country_flag = SARint
+			FRA_445 = { add_core = THIS }
+			FRA_461 = { add_core = THIS }
+			FRA_464 = { add_core = THIS }
+			FRA_458 = { add_core = THIS }
+			FRA_442 = { add_core = THIS }
+			473 = { add_core = THIS }
+		}
+	}
+
+	The_German_way = {
+		potential = {
+			tag = SAR
+			has_country_flag = SARex1
+			NOT = { has_country_flag = SARex4 }
+			NOT = { has_country_flag = SARex2 }
+		}
+
+		allow = {
+			war = no
+			all_core = { owned_by = THIS }
+			state_n_government = 1
+		}
+
+		effect = {
+			change_tag = SGF
+			add_accepted_culture = south_german
+			set_country_flag = SARex2
+			594 = { add_core = THIS }
+			BAD = { all_core = { add_core = THIS } }
+			WUR = { all_core = { add_core = THIS } }
+			inherit = BAD
+			inherit = WUR
+		}
+	}
+
+	The_Shadow_Kingdom_Overthrow = {
+		potential = {
+			tag = SGF
+			has_country_flag = SARex2
+			NOT = { has_country_flag = SARex3 }
+		}
+
+		allow = {
+			war = no
+			all_core = { owned_by = THIS }
+			AUS_729 = { owned_by = THIS }
+			AUS_734 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			AUS_729 = { add_core = THIS }
+			AUS = { 
+				all_core = { 
+					limit = {
+						NOT = {
+							is_core = POL
+							is_core = RUT
+							is_core = HUN
+						}
+					}
+					add_core = SGF
+				}
+			}
+		}
+	}
+
 	Two_Cultures_One_Country = {
 		potential = {
 			tag = SAR
-			NOT = { has_country_flag = SARSOUTH }
+			tag = SIC
+			NOT = { has_country_flag = OneCountry }
 		}
 
 		allow = {
@@ -29,8 +135,9 @@ political_decisions = {
 		}
 
 		effect = {
+			add_accepted_culture = north_italian
 			add_accepted_culture = south_italian
-			set_country_flag = SARSOUTH
+			set_country_flag = OneCountry
 		}
 	}
 
@@ -43,7 +150,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			state_n_government = 1
+			ideological_thought = 1
 		}
 
 		effect = {
@@ -73,24 +180,15 @@ political_decisions = {
 
 		allow = {
 			war = no
-			idealism = 1
+			state_n_government = 1
 		}
 
 		effect = {
 			SIC = { add_core = 766 }
 			SIC = { add_core = 765 }
-			SIC = { add_core = 498 }
-		    SIC = { add_core = 499 }
-			SIC = { add_core = 500 }
-			SIC = { add_core = 501 }
-			SIC = { add_core = 502 }
-			SIC = { add_core = 503 }
-			SIC = { add_core = 504 }
-			SIC = { add_core = 505 }
-			SIC = { add_core = 497 }
-			SIC = { add_core = 495 }
-			SIC = { add_core = 496 }
-			SIC = { add_core = 473 }
+			SPA_498 = { add_core = THIS }
+			SPA_503 = { add_core = THIS }
+			SPA_495 = { add_core = THIS }
 			add_accepted_culture = catalan
 			set_country_flag = SICex1
 		}
@@ -99,6 +197,7 @@ political_decisions = {
 	Overthrow_The_Spanish_Crown = {
 		potential = {
 			tag = SIC
+			has_country_flag = SICex1
 			NOT = { has_country_flag = SICex2 }
 		}
 
@@ -106,13 +205,13 @@ political_decisions = {
 			war = no
 			has_country_flag = SICex1
 			all_core = { owned_by = THIS }
-			487 = { owned_by = THIS }
+			SPA = { all_core = { owned_by = THIS } }
 		}
 
 		effect = {
 			SPA = {
 				all_core = {
-					add_core = { SIC }
+					add_core = SIC 
 				}
 			}
 			add_accepted_culture = Spanish
@@ -128,7 +227,7 @@ political_decisions = {
 		}
 
 		allow = {
-			state_n_government = 1
+			nationalism_n_imperialism = 1
 			is_greater_power = yes
 			prestige = 50
 		}

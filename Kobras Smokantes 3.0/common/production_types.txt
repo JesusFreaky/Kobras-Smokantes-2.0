@@ -534,10 +534,10 @@ ammunition_factory = {
 canned_food_factory = {       
 	template = cheap_factory_template
 	input_goods = { 
-		iron = 0.5 		#1.75
+		fruit = 2 		#7.2
 		cattle = 4 		#8
 		grain = 4 		#8.8
-		fish = 4 		#6	total input+maint = 28.some
+		fish = 4 		#6	total input+maint = 29.8
 	}
 	output_goods = canned_food 
 	value = 2			#32
@@ -550,12 +550,13 @@ canned_food_factory = {
 			OR = {
 				trade_goods_in_state = fish
 				trade_goods_in_state = cattle
+				trade_goods_in_state = fruit
 				}
 			}
 		value = 0.1
 	}
 	bonus = {
-		trigger = { trade_goods_in_state = iron }
+		trigger = { has_building = steel_factory }
 		value = 0.05
 	}
 }
@@ -743,21 +744,21 @@ RGO_template_labourers = {
 cattle_ranch = {
 	template = RGO_template_farmers
 	output_goods = cattle 
-	value = 1.8
+	value = 2
 	farm = yes
 }
 
 coal_mine = {
 	template = RGO_template_labourers
 	output_goods = coal 
-	value = 1.8
+	value = 2.4
 	mine = yes
 }
 
 coffee_plantation = {
 	template = RGO_template_farmers
 	output_goods = coffee 
-	value = 1.5
+	value = 4
 	farm = yes
 }
 
@@ -778,21 +779,21 @@ dye_plantation = {
 fishing_wharf = {
 	template = RGO_template_farmers
 	output_goods = fish 
-	value = 2.2
+	value = 2.4
 	farm = yes
 }
 
 grain_farm = {
 	template = RGO_template_farmers
 	output_goods = grain 
-	value = 1.8
+	value = 2
 	farm = yes
 }
 
 iron_mine = {
 	template = RGO_template_labourers
 	output_goods = iron
-	value = 1.8
+	value = 2
 	mine = yes
 }
 
@@ -813,7 +814,7 @@ opium_plantation = {
 orchard = {
 	template = RGO_template_farmers
 	output_goods = fruit 
-	value = 2.8
+	value = 3
 	farm = yes
 }
 
@@ -848,14 +849,14 @@ silkworm_ranch = {
 sulphur_mine = {
 	template = RGO_template_labourers
 	output_goods = sulphur 
-	value = 2
+	value = 2.4
 	mine = yes
 }
 
 tea_plantation = {
 	template = RGO_template_farmers
 	output_goods = tea 
-	value = 1.75
+	value = 5
 	farm = yes
 }
 
@@ -869,7 +870,7 @@ timber_lodge = {
 tobacco_plantation = {
 	template = RGO_template_farmers
 	output_goods = tobacco 
-	value = 2.5
+	value = 4
 	farm = yes
 }
 

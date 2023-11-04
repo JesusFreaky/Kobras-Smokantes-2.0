@@ -53,7 +53,7 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 192900
+		size = 186900
 	}
 
 	clergymen = {
@@ -67,6 +67,13 @@
 		religion = jewish
 		size = 490
 	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 5000
+	}
+
 }
 #Aosta (156000/39000 POPS)
 721 = {
@@ -1242,7 +1249,7 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 84600
+		size = 8600
 	}
 
 	clergymen = {
@@ -1255,6 +1262,12 @@
 		culture = north_italian
 		religion = jewish
 		size = 1225
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 5000
 	}
 }
 #Siena (380000/95000 POPS)
@@ -1433,7 +1446,7 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 230750
+		size = 225750
 	}
 
 	clergymen = {
@@ -1446,6 +1459,12 @@
 		culture = south_italian
 		religion = jewish
 		size = 1375
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 5000
 	}
 }
 #Viterbo (180000/45000 POPS)
@@ -1706,7 +1725,13 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 202925
+		size = 197925
+	}
+	
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 5000
 	}
 }
 #Salerno (572000/143000 POPS)

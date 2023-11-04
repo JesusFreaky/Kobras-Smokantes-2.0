@@ -41,7 +41,7 @@
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 115150
+		size = 100150
 	}
 
 	aristocrats = {
@@ -180,6 +180,12 @@
 		culture = south_german
 		religion = catholic
 		size = 13000  
+	}
+
+	craftsmen = {
+		culture = slovak 
+		religion = catholic
+		size = 15000
 	}
 }
 #Trencin (228000/57000 POPS)

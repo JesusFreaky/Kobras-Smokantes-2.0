@@ -64,6 +64,7 @@ mechanical_production = 1
 battleship_column_doctrine = 1
 stock_exchange = 1
 market_structure = 1
+clean_coal = 1
 
 # Inventions
 #corvettes = yes

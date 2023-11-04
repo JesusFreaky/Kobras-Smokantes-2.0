@@ -27,7 +27,6 @@ COB = {
 	value = 200
 	level = 5
 	influence_value = 100
-
 	military_access = yes
 
 }
@@ -53,8 +52,7 @@ HAN = {
 
 	value = 200
 	level = 4
-	influence_value = 0
-
+	influence_value = 25
 	military_access = yes
 
 }
@@ -64,7 +62,6 @@ HEK = {
 	value = 200
 	level = 5
 	influence_value = 100
-
 	military_access = yes
 
 }
@@ -80,8 +77,8 @@ HES = {
 
 KRA = {
 
-	value = 75
-	level = 3
+	value = 125
+	level = 4
 	influence_value = 25
 
 }
@@ -99,7 +96,6 @@ LUB = {
 	value = 200
 	level = 5
 	influence_value = 100
-
 	military_access = yes
 
 }
@@ -108,23 +104,13 @@ LUX = {
 
 	value = 200
 
-	level = 3
+	level = 4
 
-	influence_value = 25
+	influence_value = 0
 
 }
 
 MEC = {
-
-	value = 200
-	level = 5
-	influence_value = 100
-
-	military_access = yes
-
-}
-
-HOL = {
 
 	value = 200
 	level = 5
@@ -138,7 +124,6 @@ MEI = {
 	value = 200
 	level = 5
 	influence_value = 100
-
 	military_access = yes
 
 }
@@ -156,7 +141,6 @@ OLD = {
 	value = 200
 	level = 5
 	influence_value = 100
-
 	military_access = yes
 }
 
@@ -164,8 +148,7 @@ SAX = {
 
 	value = 200
 	level = 4
-	influence_value = 25
-
+	influence_value = 0
 	military_access = yes
 }
 
@@ -174,7 +157,6 @@ WEI = {
 	value = 200
 	level = 5
 	influence_value = 100
-
 	military_access = yes
 
 }
@@ -184,8 +166,7 @@ BAV = {
 
 	value = 200
 	level = 3
-	influence_value = 25
-
+	influence_value = 0
 	military_access = yes
 }
 
@@ -193,38 +174,35 @@ BAV = {
 BAD = {
 
 	value = 200
-
 	level = 3
-
-	influence_value = 20
-
+	influence_value = 0
 	military_access = yes
 
 }
 
 
 WUR = {
-	value = 150
+	value = 200
 	level = 3
-	influence_value = 20
+	influence_value = 0
 	military_access = yes
 }
 
 AUS = {
-	value = 200
+	value = 125
 }
 
 RUS = {
-	value = 150
+	value = 125
 }
 
 FRA = {
-	value = -50
+	value = 0
 }
 
 DEN = {
 
-	value = 50
+	value = 49
 	level = 4
 	influence_value = 25
 
@@ -234,17 +212,17 @@ leader = {
 	name = "von Zieten"
 	date = 1813.1.1
 	type = land
-	personality = defence_5.1
-	background = attack_5.1
-	prestige = 0.5
+	personality = defence_0.1
+	background = attack_3.1
+	prestige = 0.2
 }
 
 leader = {
 	name = "Hermann von Boyen"
 	date = 1814.1.1
 	type = land
-	personality = defence_5.1
-	background = attack_5.1
+	personality = defence_minus_2.1
+	background = attack_1.1
 	prestige = 0.2
 }
 
@@ -252,8 +230,8 @@ leader = {
 	name = "Wilhelm von Krauseneck"
 	date = 1814.1.1
 	type = land
-	personality = defence_2.5
-	background = attack_4.2
+	personality = defence_0.1
+	background = attack_minus_1.1
 	prestige = 0.2
 }
 
@@ -261,8 +239,8 @@ leader = {
 	name = "Baron von Müffling"
 	date = 1813.1.1
 	type = land
-	personality = defence_2.5
-	background = attack_4.2
+	personality = defence_1.1
+	background = attack_0.1
 	prestige = 0.2
 }
 
@@ -270,8 +248,8 @@ leader = {
 	name = "August von Colomb"
 	date = 1829.1.1
 	type = land
-	personality = defence_4.2
-	background = attack_4.2
+	personality = defence_0.1
+	background = attack_2.1
 	prestige = 0.1
 }
 
@@ -279,8 +257,8 @@ leader = {
 	name = "von Grolman"
 	date = 1816.1.1
 	type = land
-	personality =defence_4.2
-	background = attack_2.6
+	personality = defence_0.1
+	background = attack_0.1
 	prestige = 0.2
 }
 
@@ -288,8 +266,8 @@ leader = {
 	name = "Rühle von Lilienstern"
 	date = 1819.1.1
 	type = land
-	personality = defence_4.2
-	background = attack_2.6
+	personality = defence_minus_1.1
+	background = attack_minus_1.1
 	prestige = 0.2
 }
 
@@ -297,8 +275,8 @@ leader = {
 	name = "zu Dohna-Schlobitten"
 	date = 1820.1.1
 	type = land
-	personality = defence_2.5
-	background = attack_2.5
+	personality = defence_minus_2.1
+	background = attack_1.1
 	prestige = 0.2
 }
 
@@ -306,8 +284,8 @@ leader = {
 	name = "Heinrich von Wrangel"
 	date = 1823.1.1
 	type = land
-	personality = defence_2.5
-	background = attack_2.2
+	personality = defence_0.1
+	background = attack_2.1
 	prestige = 0.2
 }
 
@@ -315,8 +293,8 @@ leader = {
 	name = "Wilhelm von Neumann-Cosel"
 	date = 1836.1.1
 	type = land
-	personality = defence_2.5
-	background = attack_4.2
+	personality = defence_minus_2.1
+	background = attack_1.1
 	prestige = 0.1
 }
 
@@ -324,8 +302,8 @@ leader = {
 	name = "Karl von Prittwitz"
 	date = 1836.1.1
 	type = land
-	personality = defence_4.2
-	background = attack_4.2
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.0
 }
 
@@ -333,8 +311,8 @@ leader = {
 	name = "von Reyher"
 	date = 1836.1.1
 	type = land
-	personality = defence_4.2
-	background = attack_2.1
+	personality = defence_0.1
+	background = attack_0.1
 	prestige = 0.0
 }
 
@@ -345,25 +323,25 @@ army = {
 	location = 553
 	regiment = {
 		name= "I. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 553
 	}
 
 	regiment = {
 		name= "II. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 557
 	}
 
 	regiment = {
 		name= "III. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 554
 	}
 
 	regiment = {
 		name= "I. Pionierbrigade"
-		type = guard
+		type = infantry
 		home = 577
 	}
 
@@ -411,25 +389,25 @@ army = {
 
 	regiment = {
 		name= "IX. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 682
 	}
 
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = guard
+		type = infantry
 		home = 684
 	}
 
 	regiment = {
 		name= "X. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 684
 	}
 
 	regiment = {
 		name= "XI. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 684
 	}
 
@@ -477,25 +455,25 @@ army = {
 
 	regiment = {
 		name= "XVI. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 695
 	}
 
 	regiment = {
 		name= "XVII. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 695
 	}
 
 	regiment = {
 		name= "XVIII. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 698
 	}
 
 	regiment = {
 		name= "III. Artilleriebrigade"
-		type = guard
+		type = infantry
 		home = 698
 	}
 	regiment = {
@@ -543,26 +521,26 @@ army = {
 
 	regiment = {
 		name= "IV. Artilleriebrigade"
-		type = guard
+		type = infantry
 		home = 578
 	}
 	name = "V. Korps"
 	location = 580
 	regiment = {
 		name= "XXIV. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 580
 	}
 
 	regiment = {
 		name= "XXV. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 580
 	}
 
 	regiment = {
 		name= "XXVI. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 581
 	}
 	name = "VII. Korps"
@@ -607,27 +585,27 @@ army = {
 
 army = {
 	name = "5th Army"
-	location = 575
+	location = 576
 	regiment = {
 		name= "XXVII. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 575
 	}
 
 	regiment = {
 		name= "XXVIII. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 576
 	}
 
 	regiment = {
 		name= "XXIX. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 578
 	}
 	regiment = {
 		name= "VII. Kavalleriebrigade"
-		type = guard
+		type = infantry
 		home = 699
 	}
 
@@ -671,27 +649,27 @@ army = {
 
 army = {
 	name = "6th Army"
-	location = 575
+	location = 577
 	regiment = {
 		name= "XXVII. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 573
 	}
 
 	regiment = {
 		name= "XXVIII. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 575
 	}
 
 	regiment = {
 		name= "XXIX. Linieninfanteriebrigade"
-		type = guard
+		type = infantry
 		home = 581
 	}
 	regiment = {
 		name= "VII. Kavalleriebrigade"
-		type = guard
+		type = infantry
 		home = 584
 	}
 
@@ -758,4 +736,3 @@ navy = {
 	}
 
 }
-

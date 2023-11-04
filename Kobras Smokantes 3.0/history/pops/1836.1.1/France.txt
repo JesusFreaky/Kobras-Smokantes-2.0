@@ -78,7 +78,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 73350
+		size = 63350
 	}
 
 	artisans = {
@@ -97,6 +97,12 @@
 		culture = flemish
 		religion = catholic
 		size = 15000
+	}
+
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 10000
 	}
 }
 #Arras (428000/107000 POPS)
@@ -276,7 +282,13 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 64200
+		size = 59200
+	}
+
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 5000
 	}
 }
 #Charleville (308000/77000 POPS)
@@ -386,7 +398,13 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 58550
+		size = 53550
+	}
+
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 5000
 	}
 }
 #Chalons (348000/87000 POPS)
@@ -704,7 +722,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 94400
+		size = 84400
 	}
 
 	bureaucrats = {
@@ -747,6 +765,12 @@
 		culture = south_german
 		religion = jewish
 		size = 975
+	}
+
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 10000
 	}
 }
 #Metz (420000/105000 POPS)
@@ -876,7 +900,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 73025
+		size = 63025
 	}
 
 	clergymen = {
@@ -901,6 +925,12 @@
 		culture = south_german
 		religion = catholic
 		size = 1400
+	}
+
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 10000
 	}
 }
 #Epinal (412000/103000 POPS)
@@ -1774,7 +1804,12 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 136850
+		size = 121850
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 15000
 	}
 }
 #Lons (314000/78500 POPS)

@@ -148,6 +148,7 @@ political_decisions = {
 		allow = {
 			prestige = 45
 			war = no
+			nationalism_n_imperialism = 1
 			GER = {
 				all_core = {
 					OR = {
@@ -191,6 +192,7 @@ political_decisions = {
 		}
 
 		allow = {
+			nationalism_n_imperialism = 1
 			prestige = 45
 			war = no
 			ITA = {
@@ -335,6 +337,7 @@ political_decisions = {
 			NOT = { tag = GCO }
 		}
 		allow = {
+			state_n_government = 1
 			war = no
 			GCO = {
 				all_core = {

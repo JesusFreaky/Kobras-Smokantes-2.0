@@ -480,6 +480,11 @@ mechanized_mining = {
 	year = 1836
 	cost = 3600
 	activate_building = steel_factory 
+	activate_building = ammunition_factory 
+	activate_building = small_arms_factory
+	activate_building = explosives_factory 
+	activate_building = artillery_factory 
+
 
 	rgo_goods_output = {
 		iron = 0.3

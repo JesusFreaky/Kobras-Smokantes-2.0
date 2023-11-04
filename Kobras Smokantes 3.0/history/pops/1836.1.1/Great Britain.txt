@@ -144,7 +144,7 @@
 	craftsmen = {
 		culture = scottish
 		religion = protestant
-		size = 4000
+		size = 12000
 	}
 
 	artisans = {
@@ -168,7 +168,7 @@
 	farmers = {
 		culture = scottish
 		religion = protestant
-		size = 57175
+		size = 47175
 	}
 
 	clergymen = {
@@ -400,7 +400,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 1100
+		size = 4100
 	}
 
 	artisans = {
@@ -418,7 +418,7 @@
 	labourers = {
 		culture = british
 		religion = protestant
-		size = 88000
+		size = 85000
 	}
 }
 #Cardigan (168000/42000 POPS)
@@ -450,7 +450,13 @@
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 38625
+		size = 35625
+	}
+
+	craftsmen = {
+		culture = 
+		religion = catholic
+		size = 3000
 	}
 }
 #Llandrindod (182000/45500 POPS)
@@ -482,7 +488,13 @@
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 42250
+		size = 35250
+	}
+
+	craftsmen = {
+		culture = british
+		religion = catholic
+		size = 7000
 	}
 }
 #Holyhead (240000/60000 POPS)
@@ -514,7 +526,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 3000
+		size = 5000
 	}
 
 	artisans = {
@@ -526,7 +538,7 @@
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 52500
+		size = 50500
 	}
 
 }

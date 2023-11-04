@@ -104,6 +104,7 @@ political_decisions = {
 		potential = {
 			tag = SGF
 			NOT = { has_country_flag = SGFIMP1 }
+			NOT = { has_country_flag = SARex2 }
 		}
 		allow = {
 			prestige = 50
@@ -141,6 +142,7 @@ political_decisions = {
 				tag = SGF
 			}
 			NOT = { has_country_flag = AUSITAint }
+			NOT = { has_country_flag = SARex2 }
 		}
 		allow = {
 			war = no

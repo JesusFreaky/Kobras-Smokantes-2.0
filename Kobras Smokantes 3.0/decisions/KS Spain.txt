@@ -17,30 +17,6 @@ political_decisions = {
 			prestige = 5
 		}
 	}
-	
-
-	filipino_inititive = {
-		potential = {
-			tag = SPA
-			NOT = { has_country_flag = filipino_integration }
-		}
-
-		allow = {
-			revolution_n_counterrevolution = 1
-			owns = 1455
-			owns = 2565
-			owns = 1463
-		}
-
-		effect = {
-			add_accepted_culture = filipino
-			SPA_1463 = { add_core = THIS }
-			SPA_1455 = { add_core = THIS }
-			SPA_1459 = { add_core = THIS }
-			set_country_flag = filipino_integration
-		}
-	}
-
 
 	Empire_Of_Iberia = {
 		potential = {

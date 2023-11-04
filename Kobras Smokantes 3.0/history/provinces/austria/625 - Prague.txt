@@ -5,3 +5,13 @@ add_core = BOH
 add_core = CZH
 trade_goods = iron
 life_rating = 40
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}

@@ -214,7 +214,7 @@
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 10000
+		size = 5000
 	}
 
 	artisans = {
@@ -239,6 +239,12 @@
 		culture = swedish
 		religion = protestant
 		size = 25250
+	}
+	
+	craftsmen = {
+		culture = 
+		religion = catholic
+		size = 5000
 	}
 }
 #Falun (144000/36000 POPS)
@@ -302,7 +308,13 @@
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 19525
+		size = 16525
+	}
+
+	craftsmen = {
+		culture = 
+		religion = catholic
+		size = 5000
 	}
 }
 #Norrkoping (221000/55250 POPS)
@@ -366,7 +378,13 @@
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 48750
+		size = 40750
+	}
+
+	craftsmen = {
+		culture = 
+		religion = catholic
+		size = 10000
 	}
 }
 #Orebro (127000/31750 POPS)

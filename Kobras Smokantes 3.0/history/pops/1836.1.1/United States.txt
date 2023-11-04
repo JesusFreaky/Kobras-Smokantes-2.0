@@ -8976,7 +8976,7 @@
 	craftsmen = {
 		culture = yankee
 		religion = protestant
-		size = 6500
+		size = 11500
 	}
 
 	artisans = {
@@ -9024,7 +9024,7 @@
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 95125
+		size = 90125
 	}
 
 	clergymen = {
@@ -9110,8 +9110,15 @@
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 23325
+		size = 20325
 	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 3000
+	}
+
 }
 #Albany (332000/83000 POPS)
 234 = {
@@ -9148,7 +9155,7 @@
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 70775
+		size = 65775
 	}
 
 	bureaucrats = {
@@ -9186,6 +9193,12 @@
 		religion = catholic
 		size = 4475
 	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 5000
+	}
 }
 #Binghamton (352000/88000 POPS)
 235 = {
@@ -9210,7 +9223,13 @@
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 80975
+		size = 75975
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 10000
 	}
 }
 #Buffalo (244000/61000 POPS)

@@ -163,6 +163,18 @@ colonial_recruitment = {
 	icon = 9
 }
 
+serfdom_not_abolished = {
+	pop_militancy_modifier = 0.02
+	farm_rgo_eff = -0.3
+	mine_rgo_eff = -0.3
+	icon = 2
+}
+
+Russian_Progressism = {
+	education_efficiency_modifier = 0.4
+	icon = 1
+}
+
 baby_boom = {
 	population_growth = 0.01
 	icon = 19

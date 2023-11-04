@@ -64,7 +64,7 @@
 	craftsmen = {
 		culture = flemish
 		religion = catholic
-		size = 3000
+		size = 13000
 	}
 
 	artisans = {
@@ -82,7 +82,7 @@
 	farmers = {
 		culture = flemish
 		religion = catholic
-		size = 145725
+		size = 130725
 	}
 
 	aristocrats = {
@@ -124,7 +124,7 @@
 	craftsmen = {
 		culture = wallonian
 		religion = catholic
-		size = 5000
+		size = 10000
 	}
 
 	artisans = {
@@ -218,7 +218,7 @@
 	farmers = {
 		culture = flemish
 		religion = catholic
-		size = 149750
+		size = 140750
 	}
 
 	clergymen = {
@@ -237,6 +237,12 @@
 		culture = wallonian
 		religion = catholic
 		size = 50
+	}
+
+	craftsmen = {
+		culture = 
+		religion = catholic
+		size = 9000
 	}
 }
 #Antwerp (354000/88500 POPS)
@@ -336,9 +342,14 @@
 	farmers = {
 		culture = flemish
 		religion = catholic
-		size = 62175
+		size = 55175
 	}
 
+	craftsmen = {
+		culture = flemish
+		religion = catholic
+		size = 12000
+	}
 }
 #Wallonia Region (1432000)
 #Liege (388000/97000 POPS)

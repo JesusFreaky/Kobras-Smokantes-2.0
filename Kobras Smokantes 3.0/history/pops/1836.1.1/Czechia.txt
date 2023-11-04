@@ -20,10 +20,10 @@
 		size = 3625
 	}
 
-	artisans = {
+	craftsmen = {
 		culture = czech
 		religion = catholic
-		size = 10000
+		size = 15000
 	}
 
 	artisans = {
@@ -41,7 +41,7 @@
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 353325
+		size = 347325
 	}
 
 	aristocrats = {

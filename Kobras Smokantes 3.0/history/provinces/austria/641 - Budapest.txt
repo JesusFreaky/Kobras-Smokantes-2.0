@@ -4,3 +4,8 @@ add_core = HUN
 trade_goods = cattle
 life_rating = 40
 fort = 1
+state_building = {
+	level = 2
+	building = canned_food_factory
+	upgrade = yes
+}

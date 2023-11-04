@@ -132,7 +132,7 @@
 	farmers = {
 		culture = swiss
 		religion = protestant
-		size = 33540
+		size = 30540
 	}
 
 	aristocrats = {
@@ -174,7 +174,12 @@
 	farmers = {
 		culture = swiss
 		religion = catholic
-		size = 25800
+		size = 23800
+	}
+	craftsmen = {
+		culture = swiss
+		religion = protestant
+		size = 6000
 	}
 }
 #Bern (352000/88000 POPS)
@@ -230,7 +235,13 @@
 	farmers = {
 		culture = swiss
 		religion = protestant
-		size = 79000
+		size = 76000
+	}
+
+	craftsmen = {
+		culture = swiss
+		religion = protestant
+		size = 3000
 	}
 }
 #Lucerne (204000/51000 POPS)
@@ -308,7 +319,7 @@
 	farmers = {
 		culture = swiss
 		religion = protestant
-		size = 37320
+		size = 34320
 	}
 
 	aristocrats = {
@@ -350,7 +361,13 @@
 	farmers = {
 		culture = swiss
 		religion = catholic
-		size = 31230
+		size = 29230
+	}
+
+	craftsmen = {
+		culture = swiss
+		religion = protestant
+		size = 5000
 	}
 }
 #Neuchatel (56000/14000 POPS)

@@ -105,129 +105,412 @@ country_migration_target =
 		factor = -10000
 		soldiers = 0.06
 	}
-	modifier = { #Neighbour easier to get to, Immigrant nation bias, accepted nation bias
-		factor = 2
+	modifier = { #Neighbour easier to get to, Immigrant nation bias
+		factor = 2.5
 		OR = {
 			neighbour = THIS
-			continent = north_america
-			continent = south_america
-			continent = oceania
-			tag = SAF
-			tag = TRN
-			tag = ORA
-			tag = KRA
-			tag = LIB
+			has_country_flag = new_world_nation
 		}
 	}
-	modifier = { #Flemish/Dutch/German to Boer Bias
-		factor = 1.3
-		OR = {
-			primary_culture = boer
-			accepted_culture = boer
-		}
+	modifier = { #Large Bias: Flemish/Dutch/Septiman to Boer
+		factor = 1.6
+		primary_culture = boer
 		OR = {
 			THIS = { culture = boer }
 			THIS = { culture = dutch }
 			THIS = { culture = flemish }
-			THIS = { culture = north_german }
-			THIS = { culture = south_german }
+			THIS = { culture = septiman }
 		}
 	}
-	modifier = { #French to French Canadian Bias
+	modifier = { #Medium Bias: German/Burgundian/Lotharian to Boer
+		factor = 1.3
+		primary_culture = boer
+		OR = {
+			THIS = { culture = burgundian }
+			THIS = { culture = rheinish }
+			THIS = { culture = south_german }
+			THIS = { culture = north_german }
+			THIS = { culture = pomeranian }
+			THIS = { culture = swiss }
+			THIS = { culture = livlandian }
+			THIS = { culture = lotharian }
+		}
+	}
+
+	modifier = { #Large Bias: German/Latvian to Livlandian
+		factor = 1.6
+		primary_culture = livlandian
+		OR = {
+			THIS = { culture = rheinish }
+			THIS = { culture = south_german }
+			THIS = { culture = north_german }
+			THIS = { culture = pomeranian }
+			THIS = { culture = swiss }
+			THIS = { culture = livlandian }
+			THIS = { culture = latvian }
+		}
+	}
+	modifier = { #Medium Bias: Lithuanian/Estonian/Scandinavian/Finnish to Livlandian
+		factor = 1.3
+		primary_culture = livlandian
+		OR = {
+			THIS = { culture = lithuanian }
+			THIS = { culture = estonian }
+			THIS = { culture = finnish }
+			THIS = { culture = scandinavian }
+			THIS = { culture = icelandic }
+			THIS = { culture = vinlander }
+			THIS = { culture = latvian }
+		}
+	}
+
+	modifier = { #Large Bias: Scandinavian to Vinlander
+		factor = 1.6
+		OR = {
+			primary_culture = vinlander
+			primary_culture = ayitian
+		}
+		OR = {
+			THIS = { culture = vinlander }
+			THIS = { culture = ayitian }
+			THIS = { culture = scandinavian }
+			THIS = { culture = icelandic }
+		}
+	}
+	modifier = { #Medium Bias: German/Finnish/Estonian/Scottish/Ugrian to Vinlander
 		factor = 1.3
 		OR = {
-			primary_culture = french_canadian
-			accepted_culture = french_canadian
+			primary_culture = vinlander
+			primary_culture = ayitian
+			primary_culture = livlandian
 		}
+		OR = {
+			THIS = { culture = finnish }
+			THIS = { culture = estonian }
+			THIS = { culture = rheinish }
+			THIS = { culture = south_german }
+			THIS = { culture = north_german }
+			THIS = { culture = pomeranian }
+			THIS = { culture = swiss }
+			THIS = { culture = scottish }
+			THIS = { culture = livlandian }
+			THIS = { culture = ugrian }
+		}
+	}
+
+	modifier = { #Large Bias: Flemish/Boer/Dutch/Burgundian/Lotharian to Septiman
+		factor = 1.6
+		primary_culture = septiman
+		OR = {
+			THIS = { culture = septiman }
+			THIS = { culture = flemish }
+			THIS = { culture = burgundian }
+			THIS = { culture = boer }
+			THIS = { culture = lotharian }
+			THIS = { culture = dutch }
+		}
+	}
+	modifier = { #Medium Bias: French/Rheinish/Amazonian to Septiman
+		factor = 1.3
+		primary_culture = septiman
 		OR = {
 			THIS = { culture = french }
-			THIS = { culture = wallonian }
-			THIS = { culture = french_canadian }
+			THIS = { culture = amazonian }
+			THIS = { culture = rheinish }
 		}
 	}
-	modifier = { #British to Anglo Bias
-		factor = 1.3
+
+	modifier = { #Very Large Bias: Anglois to Plantagenian
+		factor = 2.0
+		primary_culture = plantagenian
 		OR = {
-			primary_culture = yankee
-			accepted_culture = yankee
-			primary_culture = dixie
-			accepted_culture = dixie
-			primary_culture = anglo_canadian
-			accepted_culture = anglo_canadian
-			primary_culture = australian
-			accepted_culture = australian
-			primary_culture = british
-			accepted_culture = british
-		}
-		NOT = { tag = ENG }
-		OR = {
-			THIS = { culture = yankee }
-			THIS = { culture = dixie }
-			THIS = { culture = anglo_canadian }
-			THIS = { culture = australian }
-			THIS = { culture = british }
+			THIS = { culture = plantagenian }
+			THIS = { culture = anglois }
 		}
 	}
-	modifier = { #Iberian/Italian to Latin America Bias
+	modifier = { #Medium Bias: English/Welsh/French/Breton/Amazonian/Provencal to Plantagenian
 		factor = 1.3
+		primary_culture = plantagenian
 		OR = {
-			primary_culture = brazilian
-			accepted_culture = brazilian
-			primary_culture = platinean
-			accepted_culture = platinean
-			primary_culture = south_andean
-			accepted_culture = south_andean
-			primary_culture = north_andean
-			accepted_culture = north_andean
-			primary_culture = central_american
-			accepted_culture = central_american
+			THIS = { culture = english }
+			THIS = { culture = welsh }
+			THIS = { culture = french }
+			THIS = { culture = breton }
+			THIS = { culture = amazonian }
+			THIS = { culture = provencal }
+		}
+	}
+
+	modifier = { #Large Bias: Spanish/Portuguese to Gran Colombia
+		factor = 1.6
+		OR = {
+			primary_culture = lusitanian
 			primary_culture = mexican
-			accepted_culture = mexican
+			primary_culture = central_american
 			primary_culture = caribeno
-			accepted_culture = caribeno
+			primary_culture = granadan
 		}
 		OR = {
-			THIS = { culture = brazilian }
-			THIS = { culture = platinean }
-			THIS = { culture = south_andean }
-			THIS = { culture = north_andean }
-			THIS = { culture = central_american }
+			THIS = { culture = lusitanian }
 			THIS = { culture = mexican }
+			THIS = { culture = central_american }
 			THIS = { culture = caribeno }
+			THIS = { culture = granadan }
 			THIS = { culture = portuguese }
-			THIS = { culture = spanish }
-			THIS = { culture = catalan }
+			THIS = { culture = castilian }
 			THIS = { culture = basque }
-			THIS = { culture = north_italian }
+		}
+	}
+	modifier = { #Medium Bias: Catalan/Italian to Gran Colombia
+		factor = 1.3
+		OR = {
+			primary_culture = lusitanian
+			primary_culture = mexican
+			primary_culture = central_american
+			primary_culture = caribeno
+			primary_culture = granadan
+		}
+		OR = {
+			THIS = { culture = catalan }
 			THIS = { culture = south_italian }
+			THIS = { culture = central_italian }
+			THIS = { culture = north_italian }
+			THIS = { culture = maltese }
+			THIS = { culture = venetian }
+			THIS = { culture = athesian }
+			THIS = { culture = guianan }
 		}
 	}
-	modifier = { #Polish/Ashkenazi to Krakow Bias
-		factor = 1.5
+
+	modifier = { #Large Bias: French/Provencal/Breton to Amazonian
+		factor = 1.6
+		primary_culture = amazonian
 		OR = {
-			primary_culture = polish
-			accepted_culture = polish
-		}
-		OR = {
-			THIS = { culture = polish }
-			THIS = { culture = ashkenazi }
+			THIS = { culture = amazonian }
+			THIS = { culture = french }
+			THIS = { culture = provencal }
+			THIS = { culture = breton }
 		}
 	}
-	modifier = { #African-American and African to Liberia/Haiti Bias
-		factor = 1.5
+	modifier = { #Medium Bias: Anglois/Basque/Lotharian to Amazonian
+		factor = 1.3
+		primary_culture = amazonian
 		OR = {
-			primary_culture = afro_american
+			THIS = { culture = anglois }
+			THIS = { culture = basque }
+			THIS = { culture = lotharian }
+		}
+	}
+
+	modifier = { #Very Large Bias: Burgundian to Lotharian
+		factor = 2.0
+		primary_culture = lotharian
+		OR = {
+			THIS = { culture = lotharian }
+			THIS = { culture = burgundian }
+		}
+	}
+
+	modifier = { #Medium Bias: Amazonian/Flemish/Dutch/Boer to Lotharian
+		factor = 1.3
+		primary_culture = lotharian
+		OR = {
+			THIS = { culture = amazonian }
+			THIS = { culture = flemish }
+			THIS = { culture = dutch }
+			THIS = { culture = boer }
+			THIS = { culture = septiman }
+		}
+	}
+
+	modifier = { #Very Large Bias: English/Welsh to Beornian
+		factor = 2.0
+		primary_culture = beornian
+		OR = {
+			THIS = { culture = english }
+			THIS = { culture = welsh }
+			THIS = { culture = beornian }
+		}
+	}
+	modifier = { #Medium Bias: Irish/Scottish to Beornian
+		factor = 1.3
+		primary_culture = beornian
+		OR = {
+			THIS = { culture = irish }
+			THIS = { culture = scottish }
+		}
+	}
+	modifier = { #Never: Anglois to Beornian
+		factor = 0
+		primary_culture = beornian
+		THIS = { culture = anglois }
+	}
+
+	modifier = { #Large Bias: Italian to Guianan/Athesian
+		factor = 1.6
+		OR = {
+			primary_culture = guianan
+			primary_culture = athesian
 		}
 		OR = {
-			THIS = { culture = afro_american }
-			THIS = { culture = afro_caribeno }
-			THIS = { culture = afro_antillean }
-			THIS = { culture = afro_brazilian }
-			THIS = { culture = afro_caribbean }
-			THIS = { culture = west_african }
-			THIS = { culture = central_african }
-			THIS = { culture = east_african }
-			THIS = { culture = southern_african }
+			THIS = { culture = north_italian }
+			THIS = { culture = central_italian }
+			THIS = { culture = south_italian }
+			THIS = { culture = venetian }
+			THIS = { culture = maltese }
+			THIS = { culture = guianan }
+			THIS = { culture = athesian }
+		}
+	}
+	modifier = { #Medium Bias: Catalan/Provencal/Basque/Gran Colombian to Guianan/Athesian
+		factor = 1.3
+		OR = {
+			primary_culture = guianan
+			primary_culture = athesian
+		}
+		OR = {
+			THIS = { culture = catalan }
+			THIS = { culture = provencal }
+			THIS = { culture = basque }
+			THIS = { culture = lusitanian }
+			THIS = { culture = mexican }
+			THIS = { culture = central_american }
+			THIS = { culture = caribeno }
+			THIS = { culture = granadan }
+		}
+	}
+
+	modifier = { #Large Bias: Chinese to Qingqiu/Zhourao/Lanfang
+		factor = 1.6
+		OR = {
+			primary_culture = qingqiuan
+			primary_culture = ganguan
+			primary_culture = tionghoa
+		}
+		OR = {
+			THIS = { culture = qingqiuan }
+			THIS = { culture = ganguan }
+			THIS = { culture = tionghoa }
+			THIS = { culture = beifaren }
+			THIS = { culture = nanfaren }
+			THIS = { culture = hakka }
+			THIS = { culture = min }
+			THIS = { culture = yue }
+		}
+	}
+	modifier = { #Medium Bias: Manchu/Korean/Chinese Minor/Vietnamese/Japanese to Qingqiu/Zhourao/Lanfang
+		factor = 1.3
+		OR = {
+			primary_culture = qingqiuan
+			primary_culture = ganguan
+			primary_culture = tionghoa
+		}
+		OR = {
+			THIS = { culture = yi }
+			THIS = { culture = hui }
+			THIS = { culture = zhuang }
+			THIS = { culture = miao }
+			THIS = { culture = manchu }
+			THIS = { culture = korean }
+			THIS = { culture = vietnamese }
+			THIS = { culture = japanese }
+			THIS = { culture = ainu }
+		}
+	}
+
+	modifier = { #Very Large Bias: Japanese/Ainu to Kita Kaigan
+		factor = 2.0
+		primary_culture = kaiganese
+		OR = {
+			THIS = { culture = kaiganese }
+			THIS = { culture = japanese }
+			THIS = { culture = ainu }
+		}
+	}
+
+	modifier = { #Medium Bias: Korean/Chinese to Kita Kaigan
+		factor = 1.3
+		primary_culture = kaiganese
+		OR = {
+			THIS = { culture = korean }
+			THIS = { culture = beifaren }
+			THIS = { culture = nanfaren }
+			THIS = { culture = manchu }
+			THIS = { culture = min }
+			THIS = { culture = yue }
+			THIS = { culture = hakka }
+		}
+	}
+
+	modifier = { #Very Large Bias: Naitve American to Inca
+		factor = 2.0
+		primary_culture = quechua
+		OR = {
+			THIS = { culture = quechua }
+			THIS = { culture = aimara }
+			THIS = { culture = nahua }
+			THIS = { culture = mayan }
+			THIS = { culture = guarani }
+			THIS = { culture = amazonian_native }
+			THIS = { culture = patagonian }
+			THIS = { culture = rohnnst }
+			THIS = { culture = cherokee }
+			THIS = { culture = native_american_minor }
+			THIS = { culture = iroquois }
+			THIS = { culture = algonquin }
+			THIS = { culture = apache }
+		}
+	}
+
+	modifier = { #Very Large Bias: Afro American and African to Vryland/Cape
+		factor = 2.0
+		primary_culture = afro_south_african
+		OR = {
+			THIS = { culture = afro_south_african }
+			THIS = { culture = afro_latino }
+			THIS = { culture = afro_frankish }
+			THIS = { culture = afro_germanic }
+			THIS = { culture = zanj }
+			THIS = { culture = kreol }
+			THIS = { culture = sotho }
+			THIS = { culture = shona }
+			THIS = { culture = ovimbundu }
+			THIS = { culture = nguni }
+			THIS = { culture = makua }
+			THIS = { culture = lomwe }
+			THIS = { culture = khoisan }
+			THIS = { culture = chewa }
+			THIS = { culture = nilotic }
+			THIS = { culture = lacustrine_bantu }
+			THIS = { culture = tigray }
+			THIS = { culture = swahili }
+			THIS = { culture = somali }
+			THIS = { culture = oromo }
+			THIS = { culture = kikuyu }
+			THIS = { culture = kefficho }
+			THIS = { culture = harari }
+			THIS = { culture = african_minor }
+			THIS = { culture = south_forest_bantu }
+			THIS = { culture = forest_bantu }
+			THIS = { culture = ubangian }
+			THIS = { culture = teda }
+			THIS = { culture = lendu }
+			THIS = { culture = kanuri }
+			THIS = { culture = bakongo }
+			THIS = { culture = east_kwa }
+			THIS = { culture = yoruba }
+			THIS = { culture = wolof }
+			THIS = { culture = tuareg }
+			THIS = { culture = tiv }
+			THIS = { culture = songhai }
+			THIS = { culture = senufo }
+			THIS = { culture = mossi }
+			THIS = { culture = mande }
+			THIS = { culture = kru }
+			THIS = { culture = hausa }
+			THIS = { culture = fulbe }
+			THIS = { culture = fon }
+			THIS = { culture = akan }
 		}
 	}
 	modifier = {
@@ -341,10 +624,6 @@ migration_target =
 	modifier = {
 		factor = 2
 		life_rating = 40
-	}
-	modifier = {
-		factor = 2
-		life_rating = 45
 	}
 	modifier = {
 		factor = 2

@@ -439,13 +439,13 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 99900
+		size = 90900
 	}
 
 	craftsmen = {
 		culture = north_german
 		religion = protestant
-		size = 1400
+		size = 10400
 	}	
 	
 	clergymen = {
@@ -621,7 +621,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 58075 
+		size = 50075 
 	}
 
 	clergymen = {
@@ -646,6 +646,11 @@
 		culture = czech
 		religion = catholic
 		size = 3725 
+	}
+	craftsmen = {
+		culture = north_german
+		religion = catholic
+		size = 8000
 	}
 }
 #Kattowitz (452000/113000 POPS) 

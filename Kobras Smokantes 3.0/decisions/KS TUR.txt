@@ -149,11 +149,26 @@ political_decisions = {
 			RUS_1102 = { add_core = TUR }
 			RUS_1090 = { add_core = TUR }
 			add_accepted_culture = misri
+			set_country_flag = TURAsianExpansion
+		}
+	}
+
+	integrate_The_easterns = {
+		potential = {
+			tag = TUR
+			has_country_flag = TURAsianExpansion
+			NOT = { has_country_flag = }
+		}
+		allow = {
+			war = no
+			all_core = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+		}
+		effect = {
 			add_accepted_culture = azerbaijani
 			add_accepted_culture = georgian
 			add_accepted_culture = armenian
 			add_accepted_culture = maghrebi
-			set_country_flag = TURAsianExpansion
 		}
 	}
 
@@ -175,7 +190,6 @@ political_decisions = {
 			add_accepted_culture = bulgarian
 			SER = { all_core = { add_core = TUR } }
 			GRE = { all_core = { add_core = TUR } }
-			MON = { all_core = { add_core = TUR } }
 			any_country = {
 				limit = {
 					OR = {
@@ -214,7 +228,6 @@ political_decisions = {
 			add_accepted_culture = serbian
 			ROM = { all_core = { add_core = TUR } }	
 			AUS_777 = { add_core = TUR }
-			AUS_771 = { add_core = TUR }
 			AUS_780 = { add_core = TUR }
 			set_country_flag = TUROld_Rival
 		}

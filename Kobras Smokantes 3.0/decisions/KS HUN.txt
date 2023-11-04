@@ -44,26 +44,8 @@ political_decisions = {
             }
         }
         effect = {
-            ROM = {
-                all_core = {
-                    add_core = HUN
-                }
-            }
-            SER = {
-                all_core = {
-                    add_core = HUN
-                }
-            }
-            BOS = {
-                all_core = {
-                    add_core = HUN
-                }
-            }
-            MON = {
-                all_core = {
-                    add_core = HUN
-                }
-            }
+            SER_794 = { add_core = THIS }
+            TUR_788 = { add_core = THIS }
             set_country_flag = HUNEXP1
             any_country = {
                 limit = {

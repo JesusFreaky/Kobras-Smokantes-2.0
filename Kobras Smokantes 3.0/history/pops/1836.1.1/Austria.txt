@@ -215,7 +215,12 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 34600
+		size = 30000
+	}
+	craftsmen = {
+		culture = south_german
+		religion = catholic
+		size = 5000
 	}
 }
 #Klagenfurt (188000/47000 POPS)
@@ -247,7 +252,7 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 19775
+		size = 16775
 	}
 
 	clergymen = {
@@ -271,7 +276,13 @@
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 16675 
+		size = 14675 
+	}
+
+	craftsmen = {
+		culture = south_german
+		religion = catholic
+		size = 8000
 	}
 }
 #Austria Region (2000000) 
@@ -302,7 +313,13 @@
 		size = 2750
 	}
 
-	artisans = {
+	craftsmen = {
+		culture = south_german
+		religion = catholic
+		size = 10000
+	}
+
+	craftsmen = {
 		culture = south_german
 		religion = catholic
 		size = 10000
@@ -314,13 +331,7 @@
 		size = 10000
 	}
 
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
+	craftsmen = {
 		culture = south_german
 		religion = catholic
 		size = 10000

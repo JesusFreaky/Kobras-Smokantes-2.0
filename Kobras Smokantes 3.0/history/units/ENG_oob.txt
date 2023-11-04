@@ -130,6 +130,15 @@ leader = {
 }
 
 leader = {
+	name = "Thomas Cochrane"
+	date = 1832.1.1
+	type = sea
+	personality = defence_0.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
 	name = "Sir Edward Codrington"
 	date = 1836.1.1
 	type = sea
@@ -227,7 +236,6 @@ leader = {
 	background = attack_0.1
 	prestige = 0.0
 }
-
 
 army = {
 	name = "1st Army"
@@ -427,7 +435,7 @@ army = {
 
 army = {
 	name = "4th Army"
-	location = 1237
+	location = 294
 	regiment = {
 		name= "1.9th Division"
 		type = infantry
@@ -445,54 +453,17 @@ army = {
 		type = infantry
 		home = 289
 	}
-
-	regiment = {
-		name= "1.1st Indian Division"
-		type = infantry
-		home = 1297
-	}
-
-	regiment = {
-		name= "2.1st Indian Division"
-		type = hussar
-		home = 1291
-	}
-
-	regiment = {
-		name= "3.1st Indian Division"
-		type = artillery
-		home = 1299
-	}
-
-	regiment = {
-		name= "1.2nd Indian Division"
-		type = artillery
-		home = 1316
-	}
-
-	regiment = {
-		name= "2.2nd Indian Division"
-		type = artillery
-		home = 1317
-	}
-
-	regiment = {
-		name= "3.2nd Indian Division"
-		type = artillery
-		home = 1317
-	}
 	
 	regiment = {
 		name= "1.10th Division"
 		type = artillery
 		home = 300
 	}
-
 }
 
 army = {
 	name = "5th Army"
-	location = 1291
+	location = 296
 	
 
 	regiment = {
@@ -505,42 +476,6 @@ army = {
 		name= "3.10th Division"
 		type = infantry
 		home = 265
-	}
-
-	regiment = {
-		name= "1.3rd Indian Division"
-		type = infantry
-		home = 1251
-	}
-
-	regiment = {
-		name= "2.3rd Indian Division"
-		type = infantry
-		home = 1247
-	}
-
-	regiment = {
-		name= "3.3rd Indian Division"
-		type = hussar
-		home = 1254
-	}
-
-	regiment = {
-		name= "1.4th Indian Division"
-		type = artillery
-		home = 1240
-	}
-
-	regiment = {
-		name= "2.4th Indian Division"
-		type = artillery
-		home = 1248
-	}
-
-	regiment = {
-		name= "3.4th Indian Division"
-		type = artillery
-		home = 1243
 	}
 	
 	regiment = {
@@ -557,132 +492,15 @@ army = {
 
 }
 
-army = {
-	name = "6th Army"
-	location = 1239
-	regiment = {
-		name= "3.2nd Cavalry Division"
-		type = infantry
-		home = 260
-	}
-
-	regiment = {
-		name= "1.11th Division"
-		type = infantry
-		home = 296
-	}
-
-	regiment = {
-		name= "2.11th Division"
-		type = infantry
-		home = 268
-	}
-
-	regiment = {
-		name= "3.11th Division"
-		type = infantry
-		home = 261
-	}
-
-	regiment = {
-		name= "1.12th Division"
-		type = hussar
-		home = 284
-	}
-
-	regiment = {
-		name= "2.12th Division"
-		type = artillery
-		home = 254
-	}
-
-	regiment = {
-		name= "3.12th Division"
-		type = artillery
-		home = 258
-	}
-	
-	regiment = {
-		name= "1.5th Indian Division"
-		type = artillery
-		home = 1236
-	}
-
-	regiment = {
-		name= "2.5th Indian Division"
-		type = artillery
-		home = 1239
-	}
-
-	regiment = {
-		name= "3.5th Indian Division"
-		type = artillery
-		home = 1251
-	}
-}
-
-army = {
+	army = {
 	name = "7th Army"
-	location = 1251
+	location = 291
 	regiment = {
 		name= "3.2nd Cavalry Division"
 		type = infantry
-		home = 1251
-	}
-
-	regiment = {
-		name= "1.11th Division"
-		type = infantry
-		home = 1297
-	}
-
-	regiment = {
-		name= "2.11th Division"
-		type = infantry
-		home = 1240
-	}
-
-	regiment = {
-		name= "3.11th Division"
-		type = infantry
-		home = 1254
-	}
-
-	regiment = {
-		name= "1.12th Division"
-		type = hussar
-		home = 1254
-	}
-
-	regiment = {
-		name= "2.12th Division"
-		type = artillery
-		home = 1247
-	}
-
-	regiment = {
-		name= "3.12th Division"
-		type = artillery
-		home = 1240
+		home = 291
 	}
 	
-	regiment = {
-		name= "1.5th Indian Division"
-		type = artillery
-		home = 1236
-	}
-
-	regiment = {
-		name= "2.5th Indian Division"
-		type = artillery
-		home = 1239
-	}
-
-	regiment = {
-		name= "3.5th Indian Division"
-		type = artillery
-		home = 1251
-	}
 }
 
 army = {
@@ -730,23 +548,6 @@ army = {
 		home = 262
 	}
 	
-	regiment = {
-		name= "1.5th Indian Division"
-		type = artillery
-		home = 262
-	}
-
-	regiment = {
-		name= "2.5th Indian Division"
-		type = artillery
-		home = 277
-	}
-
-	regiment = {
-		name= "3.5th Indian Division"
-		type = artillery
-		home = 290
-	}
 }
 
 navy = {

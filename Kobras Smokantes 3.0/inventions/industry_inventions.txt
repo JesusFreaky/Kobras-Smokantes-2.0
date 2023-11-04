@@ -606,74 +606,6 @@ refrigerator_technology = {
 	}
 }
 #Metulurgy
-ammunition_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = whitney_n_colts_standardized_small_arms
-		}
-		modifier = {
-			factor = 2
-			army_professionalism = 1
-		}
-	}
-	effect = {
-		activate_building = ammunition_factory 
-	}
-}
-small_arms_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			strategic_mobility = 1
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
-	}
-	effect = {
-		activate_building = small_arms_factory
-	}
-}
-explosives_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			medicine = 1
-		}
-		modifier = {
-			factor = 2
-			invention = nitroglycerin
-		}
-	}
-	effect = {
-		activate_building = explosives_factory 
-	}
-}
-artillery_production = {
-	limit = { mechanized_mining = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = explosives_production
-		}
-		modifier = {
-			factor = 2
-			iron_muzzle_loaded_artillery = 1
-		}
-	}
-	effect = {
-		activate_building = artillery_factory 
-	}
-}
 #clean_coal
 pit_coal = {
 	limit = { clean_coal = 1 }
@@ -690,7 +622,7 @@ pit_coal = {
 	}
 	effect = {
 		rgo_goods_output = {
-			coal = 0.5
+			coal = 0.8
 		}
 	}
 }
@@ -709,7 +641,7 @@ coke = {
 	}
 	effect = {
 		rgo_goods_output = {
-			coal = 0.5
+			coal = 0.8
 		}
 	}
 }
