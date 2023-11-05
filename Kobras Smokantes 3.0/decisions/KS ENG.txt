@@ -21,6 +21,7 @@ political_decisions = {
     End_Of_The_Dutch_Partnership = {
         potential = {
             tag = ENG 
+            NOT = { has_country_flag = ENGexp3 }
             NOT = { has_country_flag = ENGexp1 }
         }
 
@@ -65,6 +66,7 @@ political_decisions = {
             tag = ENG
             NOT = { has_country_flag = ENGint2 }
             NOT = { has_country_flag = ENGexp2 }
+            NOT = { has_country_flag = ENGexp3 }
         }
 
         allow = {
@@ -159,31 +161,18 @@ political_decisions = {
             FRA_428 = { add_core = THIS }
             FRA_411 = { add_core = THIS }
             set_country_flag = THENEWORDER
+            add_accepted_culture = french
             add_accepted_culture = dutch
             add_accepted_culture = flemish
             add_accepted_culture = wallonian
         }
     }
 
-    The_Trial_Union = {
-        potential = {
-            tag = ENG
-            has_country_flag = THENEWORDER
-            NOT = { has_country_flag = THEUNION }
-        }
-        allow = {
-            war = no
-            all_core = { owned_by = THIS }
-        }
-        effect = {
-            set_country_flag = THEUNION
-            add_accepted_culture = French
-        }
-    }
-
     Take_Control_of_the_North_Sea = {
         potential = {
             tag = ENG 
+            NOT = { has_country_flag = ENGexp1 }
+            NOT = { has_country_flag = ENGexp2 }
             NOT = { has_country_flag = ENGexp3 }
         }
 

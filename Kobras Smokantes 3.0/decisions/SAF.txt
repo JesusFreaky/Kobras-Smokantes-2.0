@@ -20,6 +20,7 @@ political_decisions = {
 	saf_beacon_of_liberty = {
 		potential = {
 			OR = {
+				tag = NET
 				tag = TRN
 				tag = ORA
 			}
@@ -34,10 +35,8 @@ political_decisions = {
 			owns = 2087
 		}
 		effect = {
-			add_accepted_culture = khoisan
+			add_accepted_culture = boer
 			add_accepted_culture = zulu
-			add_accepted_culture = xhosa
-			add_accepted_culture = sotho
 			any_pop = {
 				limit = {
 					OR = {

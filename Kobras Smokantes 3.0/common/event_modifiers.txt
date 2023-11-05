@@ -43,16 +43,6 @@ anti_jacobin_tract = {
 	icon = 3
 }
 
-cholera_epidemic_small = {
-	population_growth = -0.01
-	icon = 20
-}
-
-cholera_epidemic_big = {
-	population_growth = -0.02
-	icon = 20
-}
-
 conservative_reaction = {
 	pop_consciousness_modifier = 0.01
 	icon = 4
@@ -177,6 +167,11 @@ Russian_Progressism = {
 
 baby_boom = {
 	population_growth = 0.01
+	icon = 19
+}
+
+big_baby_boom = {
+	population_growth = 0.1
 	icon = 19
 }
 
@@ -590,11 +585,7 @@ local_machine_tools = {
 }
 
 ##### Diseases & Famines #####
-pandemic_influenza = {
-	global_population_growth = -0.01
-	global_pop_consciousness_modifier = 0.1
-	icon = 18
-}
+
 
 ##### Crime & Punishment #####
 trustee_system = {

@@ -48,84 +48,32 @@ COL = {				#Columbia if released
 	influence_value = 5
 }
 
+# +2 A +3 D
 leader = {
-	name = "Winfield Scott"
-	date = 1836.1.1
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_3.1
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
 	prestige = 0.3
 }
 
 leader = {
-	name = "Zachary Taylor"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Thomas Jesup"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Edmund P. Gaines"
-	date = 1828.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Alexander Macomb"
-	date = 1812.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.3
-}
-
-leader = {
-	name = "Isaac Hull"
-	date = 1810.1.1
+	name = "Viont"
+	date = 1835.1.1
 	type = sea
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.2
-}
-
-leader = {
-	name = "William B. Shubrick"
-	date = 1836.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_3.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "James Biddle"
-	date = 1830.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Matthew C. Perry"
-	date = 1836.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_1.1
+	personality = harsh
+	background = school_of_offense
 	prestige = 0.1
 }
 

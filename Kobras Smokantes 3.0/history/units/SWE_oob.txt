@@ -1,73 +1,29 @@
-
+# +2 A +3 D
 leader = {
-	name = "Carl Nordenskjöld"
-	date = 1834.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_3.1
-	prestige = 0.1
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
 }
 
+# +3 A +2 D
 leader = {
-	name = "Carl XIV Johan"
-	date = 1818.1.1
+	name = "JesusFreakk"
+	date = 1814.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.5
-}
-
-leader = {
-	name = "Johan Tawast"
-	date = 1807.1.1
-	type = land
-	personality = defence_minus_2.1
-	background = attack_2.1
+	personality = merciless
+	background = war_college
 	prestige = 0.3
 }
 
 leader = {
-	name = "Axel Mörner"
-	date = 1818.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_0.1
-	prestige = 0.2
-}
-
-leader = {
-	name = "Baltzar von Platen"
-	date = 1834.1.1
+	name = "Viont"
+	date = 1835.1.1
 	type = sea
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "C. Cederström"
-	date = 1824.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "af Billbergh"
-	date = 1814.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.2
-}
-
-leader = {
-	name = "Gustaf Peyron"
-	date = 1827.1.1
-	type = land
-	personality = defence_minus_2.1
-	background = attack_1.1
+	personality = harsh
+	background = school_of_offense
 	prestige = 0.1
 }
 
@@ -81,13 +37,13 @@ army = {
 	}
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "Sï¿½dermanlands Regemente"
 		type = guard
 		home = 326
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "Fï¿½rsta Livgrenadjï¿½rregementet"
 		type = guard
 		home = 325
 	}
@@ -99,7 +55,7 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "Vï¿½stgï¿½ta Regemente"
 		type = hussar
 		home = 330
 	}
@@ -111,13 +67,13 @@ army = {
 	}
 
 	regiment = {
-		name= "Jönköpings Regemente"
+		name= "Jï¿½nkï¿½pings Regemente"
 		type = artillery
 		home = 333
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
+		name= "Sï¿½dra Skï¿½nska Infanteriregementet"
 		type = artillery
 		home = 334
 	}
@@ -150,7 +106,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Fäderneslandet"
+		name= "Fï¿½derneslandet"
 		type = manowar
 	}
 

@@ -143,6 +143,7 @@ political_decisions = {
 				exists = GER
 				tag = ISR
 			}
+			NOT = { has_country_flag = AUSITAint }
 		}
 
 		allow = {

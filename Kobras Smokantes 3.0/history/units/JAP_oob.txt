@@ -1,15 +1,34 @@
 army = {
 	name = "Army of the Tokugawa Shogunate"
 	
-	leader = {
-		name = "Tokugawa Nariaki"
-		date = 1836.1.1
-		type = land
-		personality = disciplined
-		background = old_school
-		prestige = 0.1
-	
-	}
+# +2 A +3 D
+leader = {
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
+}
+
+leader = {
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
+	prestige = 0.1
+}
 	
 	location = 1650
 	regiment = {

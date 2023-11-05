@@ -526,25 +526,22 @@ social_reforms = {
 		trinket_health_care = {
 			factory_throughput = 0.02
 			administrative_multiplier = 1
-			global_population_growth = 0.002
 			global_immigrant_attract = 0.02 #2% was 0.01
 		}
 		low_health_care = {
 			factory_throughput = 0.04
 			administrative_multiplier = 2
-			global_population_growth = 0.004
 			global_immigrant_attract = 0.04 #4% was 0.02
 		}
 		acceptable_health_care = {
 			factory_throughput = 0.06
 			administrative_multiplier = 3
-			global_population_growth = 0.006
 			global_immigrant_attract = 0.06 #6% was 0.03
 		}
 		good_health_care = {
 			factory_throughput = 0.08
 			administrative_multiplier = 4
-			global_population_growth = 0.008
+			global_population_growth = 0.002
 			global_immigrant_attract = 0.25 #10% was 0.04
 		}
 	}

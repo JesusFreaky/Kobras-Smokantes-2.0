@@ -269,16 +269,22 @@ political_decisions = {
 
 		allow = {
 			is_greater_power = yes
+			1193 = { owned_by = THIS }
+			KHI_1191 = { owned_by = THIS }
+			RUS_1185 = { owned_by = THIS }
+			KOK_1190 = { owned_by = THIS }
+			BUK_1207 = { owned_by = THIS }
 		}
 
 		effect = {
+			add_accepted_culture = uzbek
+			1193 = { add_core = THIS }
+			1194 = { add_core = THIS }
 			KHI_1191 = { add_core = THIS }
 			RUS_1185 = { add_core = THIS }
 			KOK_1190 = { add_core = THIS }
 			BUK_1207 = { add_core = THIS }
-			prestige = -25
 			set_country_flag = the_game_begins
-			badboy = 15
 		}
 	}
 

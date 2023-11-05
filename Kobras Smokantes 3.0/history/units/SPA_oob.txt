@@ -59,66 +59,32 @@ FRA = {
 	value = 55
 }
 
+# +2 A +3 D
 leader = {
-	name = "Baldomero Espartero"
-	date = 1834.1.1
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
 }
 
 leader = {
-	name = "Francisco Serrano"
-	date = 1833.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Leopoldo O'Donnell"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_2.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Narváez"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_2.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Gerónimo Valdés"
-	date = 1836.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_0.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Van Halen"
-	date = 1823.1.1
-	type = land
-	personality = defence_2.1
-	background = attack_3.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "José Ramón Rodil"
-	date = 1824.1.1
-	type = land
-	personality = defence_2.1
-	background = attack_3.1
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
 	prestige = 0.1
 }
 
@@ -145,19 +111,19 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Brigada de Infantería 'El Ramillete'"
+		name= "1. Brigada de Infanterï¿½a 'El Ramillete'"
 		type = infantry
 		home = 503
 	}
 
 	regiment = {
-		name= "2. Brigada de Infantería"
+		name= "2. Brigada de Infanterï¿½a"
 		type = hussar
 		home = 509
 	}
 
 	regiment = {
-		name= "3. Brigada de Infantería"
+		name= "3. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 513
 	}
@@ -192,61 +158,61 @@ army = {
 	location = 498
 	
 	regiment = {
-		name= "4. Brigada de Infantería 'San Jorge'"
+		name= "4. Brigada de Infanterï¿½a 'San Jorge'"
 		type = infantry
 		home = 498
 	}
 
 	regiment = {
-		name= "1. Brigada de Artillería"
+		name= "1. Brigada de Artillerï¿½a"
 		type = infantry
 		home = 476
 	}
 	
 	regiment = {
-		name= "5. Brigada de Infantería"
+		name= "5. Brigada de Infanterï¿½a"
 		type = infantry
 		home = 482
 	}
 	
 	regiment = {
-		name= "6. Brigada de Infantería 'La Granja'"
+		name= "6. Brigada de Infanterï¿½a 'La Granja'"
 		type = infantry
 		home = 483
 	}
 
 	regiment = {
-		name= "7. Brigada de Infantería"
+		name= "7. Brigada de Infanterï¿½a"
 		type = hussar
 		home = 497
 	}
 	
 	regiment = {
-		name= "8. Brigada de Infantería"
+		name= "8. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 512
 	}
 
 	regiment = {
-		name= "9. Brigada de Infantería"
+		name= "9. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 514
 	}
 
 	regiment = {
-		name= "10. Brigada de Infantería"
+		name= "10. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 510
 	}
 
 	regiment = {
-		name= "11. Brigada de Infantería"
+		name= "11. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 516
 	}
 	
 	regiment = {
-		name= "12. Brigada de Infantería"
+		name= "12. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 515
 	}
@@ -328,7 +294,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Héroe"
+		name= "Hï¿½roe"
 		type = manowar
 	}
 	
@@ -353,12 +319,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Nuestra Señora de Asunción"
+		name= "Nuestra Seï¿½ora de Asunciï¿½n"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nuestra Señora de Atocha"
+		name= "Nuestra Seï¿½ora de Atocha"
 		type = frigate
 	}
 
@@ -393,7 +359,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Nuestra Señora del Patrocinio"
+		name = "Nuestra Seï¿½ora del Patrocinio"
 		type = frigate
 	}
 	
@@ -403,7 +369,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Hespérides"
+		name = "Hespï¿½rides"
 		type = manowar
 	}
 	
@@ -418,7 +384,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Cristóbal Colón"
+		name = "Cristï¿½bal Colï¿½n"
 		type = frigate
 	}
 	

@@ -80,7 +80,7 @@ political_decisions = {
         }
 
         effect = {
-            add_accepted_culture = serbian
+            add_accepted_culture = serb
             add_accepted_culture = romanian
             add_accepted_culture = bosniak
             set_country_flag = HUNINT1

@@ -998,23 +998,6 @@ genetics:_heredity = {
 		pop_growth = 0.0002
 	}
 }
-clinical_thermometers_and_binaural_stethoscopes = {
-	limit = { medicine = 1 }
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			inorganic_chemistry = 1
-		}
-		modifier = {
-			factor = 2
-			organized_factories = 2
-		}
-	}
-	effect = {
-		pop_growth = 0.0002
-	}
-}
 prophylaxis_against_malaria = {
 	limit = { medicine = 1 }
 	chance = {

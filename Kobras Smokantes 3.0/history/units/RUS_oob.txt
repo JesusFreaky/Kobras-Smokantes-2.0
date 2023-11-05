@@ -71,130 +71,33 @@ DEN = {
 	value = 125
 }
 
+# +2 A +3 D
 leader = {
-	name = "Prince Vasilchikov"
+	name = "Jonas Desaparecido"
 	date = 1801.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_0.1
+	personality = relentless
+	background = school_of_defense
 	prestige = 0.4
 }
 
+# +3 A +2 D
 leader = {
-	name = "Prince Mikhail Vorontsov"
+	name = "JesusFreakk"
 	date = 1814.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_3.1
+	personality = merciless
+	background = war_college
 	prestige = 0.3
 }
 
 leader = {
-	name = "Pyotr Chicherin"
+	name = "Viont"
 	date = 1835.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_2.1
+	personality = harsh
+	background = school_of_offense
 	prestige = 0.1
-}
-
-leader = {
-	name = "Alexander Chernyshev"
-	date = 1821.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Prince Menshikov"
-	date = 1833.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_minus_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = " Ivan Paskevich"
-	date = 1812.1.1
-	type = land
-	personality = defence_2.1
-	background = attack_3.1
-	prestige = 0.3
-}
-
-leader = {
-	name = "Matvey Khrapovitsky"
-	date = 1835.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Mikhail Lazarev"
-	date = 1827.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_4.1
-	prestige = 0.2
-}
-
-leader = {
-	name = "Muraviev-Karsky"
-	date = 1832.1.1
-	type = land
-	personality = defence_3.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Pyotr Volkonsky"
-	date = 1812.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.3
-}
-
-leader = {
-	name = "Pavel Grabbe"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Vasily Bebutov"
-	date = 1825.1.1
-	type = land
-	personality = defence_2.1
-	background = attack_0.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Fedor von Berg"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Ferdinand Wrangel"
-	date = 1836.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.0
 }
 
 army = {

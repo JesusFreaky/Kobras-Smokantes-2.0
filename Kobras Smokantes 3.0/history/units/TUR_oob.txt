@@ -47,75 +47,32 @@ WAL = {
 	influence_value = 25
 }
 
+# +2 A +3 D
 leader = {
-	name = "Resid Mehmed Pasha"
-	date = 1809.1.1
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_minus_2.1
-	prestige = 0.2
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
 }
 
 leader = {
-	name = "Wojciech Chrzanowski"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Helmuth von Moltke"
-	date = 1833.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_minus_1.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Abdi Pasha"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_3.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Hafiz Osman Pasha"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_minus_1.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Namik Pasha"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Abdülkerim Pasha"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Yaver Pasha"
-	date = 1836.1.1
+	name = "Viont"
+	date = 1835.1.1
 	type = sea
-	personality = defence_0.1
-	background = attack_0.1
+	personality = harsh
+	background = school_of_offense
 	prestige = 0.1
 }
 
@@ -165,19 +122,19 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Piyade Tümeni"
+		name= "1. Piyade Tï¿½meni"
 		type = artillery
 		home = 802
 	}
 
 	regiment = {
-		name= "2. Piyade Tümeni"
+		name= "2. Piyade Tï¿½meni"
 		type = artillery
 		home = 803
 	}
 
 	regiment = {
-		name= "3. Piyade Tümeni"
+		name= "3. Piyade Tï¿½meni"
 		type = artillery
 		home = 803
 	}
@@ -188,7 +145,7 @@ army = {
 	name = "2nd Army"
 	location = 1733
 	regiment = {
-		name= "4. Piyade Tümeni"
+		name= "4. Piyade Tï¿½meni"
 		type = infantry
 		home = 804
 	}
@@ -230,19 +187,19 @@ army = {
 	}
 	
 	regiment = {
-		name= "5. Piyade Tümeni"
+		name= "5. Piyade Tï¿½meni"
 		type = artillery
 		home = 882
 	}
 
 	regiment = {
-		name= "6. Piyade Tümeni"
+		name= "6. Piyade Tï¿½meni"
 		type = artillery
 		home = 884
 	}
 
 	regiment = {
-		name= "7. Piyade Tümeni"
+		name= "7. Piyade Tï¿½meni"
 		type = artillery
 		home = 879
 	}
@@ -254,7 +211,7 @@ army = {
 	
 
 	regiment = {
-		name= "8. Piyade Tümeni"
+		name= "8. Piyade Tï¿½meni"
 		type = infantry
 		home = 888
 	}
@@ -319,19 +276,19 @@ army = {
 	name = "4th Army"
 	location = 901
 	regiment = {
-		name= "9. Piyade Tümeni"
+		name= "9. Piyade Tï¿½meni"
 		type = infantry
 		home = 813
 	}
 
 	regiment = {
-		name= "10. Piyade Tümeni"
+		name= "10. Piyade Tï¿½meni"
 		type = infantry
 		home = 818
 	}
 
 	regiment = {
-		name= "11. Piyade Tümeni"
+		name= "11. Piyade Tï¿½meni"
 		type = infantry
 		home = 674
 	}
@@ -355,19 +312,19 @@ army = {
 	}
 	
 	regiment = {
-		name= "12. Piyade Tümeni"
+		name= "12. Piyade Tï¿½meni"
 		type = artillery
 		home = 925
 	}
 
 	regiment = {
-		name= "13. Piyade Tümeni"
+		name= "13. Piyade Tï¿½meni"
 		type = artillery
 		home = 925
 	}
 
 	regiment = {
-		name= "14. Piyade Tümeni"
+		name= "14. Piyade Tï¿½meni"
 		type = artillery
 		home = 926
 	}
@@ -410,37 +367,37 @@ army = {
 	}
 	
 	regiment = {
-		name= "1. Askäris"
+		name= "1. Askï¿½ris"
 		type = hussar
 		home = 1735
 	}
 
 	regiment = {
-		name= "2. Askäris"
+		name= "2. Askï¿½ris"
 		type = artillery
 		home = 1734
 	}
 
 	regiment = {
-		name= "2. Askäris"
+		name= "2. Askï¿½ris"
 		type = artillery
 		home = 824
 	}
 
 	regiment = {
-		name= "2. Askäris"
+		name= "2. Askï¿½ris"
 		type = artillery
 		home = 806
 	}
 
 	regiment = {
-		name= "2. Askäris"
+		name= "2. Askï¿½ris"
 		type = artillery
 		home = 863
 	}
 
 	regiment = {
-		name= "2. Askäris"
+		name= "2. Askï¿½ris"
 		type = artillery
 		home = 873
 	}

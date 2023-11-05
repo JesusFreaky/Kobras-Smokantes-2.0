@@ -111,6 +111,7 @@ political_decisions = {
 			all_core = { owned_by = THIS }
 		}
 		effect = {
+			add_accepted_culture = swiss
 			badboy = 10
 			SWI = { all_core = { add_core = SGF } }
 			prestige = -25
@@ -118,23 +119,6 @@ political_decisions = {
 		}
 	}
 
-	Integrate_the_Swiss = {
-
-		potential = { 
-			tag = SGF
-			has_country_flag = SGFIMP1
-			NOT = 
-		}
-
-		allow = {
-			war = no
-			nationalism_n_imperialism = 1
-			all_core = { owned_by = THIS } 
-		}
-		effect = {
-			add_accepted_culture = swiss
-		}
-	}
 
 	integrate_italia = {
 		potential = {

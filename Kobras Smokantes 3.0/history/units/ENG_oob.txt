@@ -120,121 +120,33 @@ COL = {				#Columbia if released
 	influence_value = 5
 }
 
+# +2 A +3 D
 leader = {
-	name = "Thomas Cochrane"
-	date = 1832.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
 }
 
+# +3 A +2 D
 leader = {
-	name = "Thomas Cochrane"
-	date = 1832.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Sir Edward Codrington"
-	date = 1836.1.1
-	type = sea
-	personality = defence_0.1
-	background = attack_5.1
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
 	prestige = 0.3
 }
 
 leader = {
-	name = "Hugh Gough"
-	date = 1830.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_2.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Sir George Cockburn"
-	date = 1812.1.1
+	name = "Viont"
+	date = 1835.1.1
 	type = sea
-	personality = defence_minus_2.1
-	background = attack_1.1
-	prestige = 0.3
-}
-
-leader = {
-	name = "John Seaton"
-	date = 1825.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_1.1
-	prestige = 0.2
-}
-
-leader = {
-	name = "Whitworth-Aylmer"
-	date = 1825.1.1
-	type = land
-	personality = defence_minus_1.1
-	background = attack_1.1
+	personality = harsh
+	background = school_of_offense
 	prestige = 0.1
-}
-
-leader = {
-	name = "Henry Hardinge"
-	date = 1830.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "Henry Smith"
-	date = 1834.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_2.1
-	prestige = 0.1
-}
-
-leader = {
-	name = "John Fox Burgoyne"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Raglan"
-	date = 1836.1.1
-	type = land
-	personality = defence_0.1
-	background = attack_0.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "Sir George Brown"
-	date = 1836.1.1
-	type = land
-	personality = defence_1.1
-	background = attack_3.1
-	prestige = 0.0
-}
-
-leader = {
-	name = "James Dundas"
-	date = 1836.1.1
-	type = sea
-	personality = defence_3.1
-	background = attack_0.1
-	prestige = 0.0
 }
 
 army = {
