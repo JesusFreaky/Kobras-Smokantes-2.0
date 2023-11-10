@@ -533,16 +533,16 @@
 		size = 10000
 	}
 
-	artisans = {
+	craftsmen = {
 		culture = irish
 		religion = catholic
-		size = 10000
+		size = 15000
 	}
 
 	artisans = {
 		culture = irish
 		religion = catholic
-		size = 10000
+		size = 5000
 	}
 
 	artisans = {

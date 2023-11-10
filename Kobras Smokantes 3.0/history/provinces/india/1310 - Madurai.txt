@@ -4,4 +4,4 @@ add_core = HYD
 add_core = TRA
 add_core = HND
 trade_goods = dye
-life_rating = 30
+life_rating = 32

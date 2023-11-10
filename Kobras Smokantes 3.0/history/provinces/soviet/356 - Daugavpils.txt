@@ -11,6 +11,6 @@ add_core = UBD
 add_core = PLC
 trade_goods = grain
 
-life_rating = 35
+life_rating = 32
 
 1861.1.1 = { railroad = 2 }

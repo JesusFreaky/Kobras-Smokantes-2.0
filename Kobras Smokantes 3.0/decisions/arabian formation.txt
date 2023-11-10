@@ -9,28 +9,30 @@ political_decisions = {
 		}
 		
 		allow = {
-			OR = {
-				is_secondary_power = yes
-				AND = {
-					tag = NEJ
-					HDJ = { 
-						all_core = { 
-							owned_by = THIS 
-						} 
-					}
-				}
-			}
+			NEJ = { all_core = { owned_by = THIS } }
+			ABU = { all_core = { owned_by = THIS } }
+			HED = { all_core = { owned_by = THIS } }
+			YEM = { all_core = { owned_by = THIS } }
+			OMA = { all_core = { owned_by = THIS } }
 		}
 		effect = {
+			change_tag = ARA
 			prestige = 20
 			all_core = {
 				limit = {
-					owned_by = THIS
+					owned_by = NEJ
+					owned_by = ABU
+					owned_by = HED
+					owned_by = YEM
+					owned_by = OMA
 				}
-				remove_core = THIS 
+				remove_core = NEJ
+				remove_core = YEM 
+				remove_core = ABU 
+				remove_core = HED 
+				remove_core = OMA 
 				add_core = ARA
 			}
-			change_tag = ARA
 			random_country = {
 				limit = {
 					is_culture_group = THIS
@@ -42,7 +44,7 @@ political_decisions = {
 				}
 				country_event = 111011928
 			}
-			add_accepted_culture = union
+			add_accepted_culture = bedouin
 			any_country = {
 				limit = {
 					is_culture_group = THIS

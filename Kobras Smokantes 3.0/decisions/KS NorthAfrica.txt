@@ -1,0 +1,122 @@
+political_decisions = {
+
+    carthage_legacy = {
+        potential = {
+            OR = {
+                tag = MOR
+                tag = ALD
+                tag = TUN
+            }
+            NOT =  { has_country_flag = CARLEG }
+        }
+        allow = {
+            MOR = { 
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            ALD = { 
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            TUN = { 
+                all_core = { 
+                    owned_by = THIS
+                }
+            }
+        }
+        effect = {
+
+            change_tag = CTG
+            MOR = { all_core = { add_core = THIS }}
+            ALD = { all_core = { add_core = THIS }}
+            TUN = { all_core = { add_core = THIS }}
+            civilized = yes
+            # army techs
+            activate_technology = post_napoleonic_thought
+            activate_technology = flintlock_rifles
+            activate_technology = bronze_muzzle_loaded_artillery
+            activate_technology = army_command_principle
+            # naval techs
+	        activate_technology = post_nelsonian_thought
+	        activate_technology = clipper_design
+	        activate_technology = naval_design_bureaus
+	        activate_technology = alphabetic_flag_signaling
+	        activate_technology = the_command_principle
+            # culture techs
+            activate_technology = classicism_n_early_romanticism
+            activate_technology = late_enlightenment_philosophy
+            activate_technology = enlightenment_thought
+            # commerce techs
+            activate_technology = private_banks
+            activate_technology = no_standard
+            activate_technology = guild_based_production
+            # industry techs
+            activate_technology = water_wheel_power
+            activate_technology = publishing_industry
+            activate_technology = basic_chemistry
+            activate_technology = medicine
+            set_country_flag = CARLEG
+            any_owned = {
+                limit = {
+                    is_core = THIS
+                }
+				add_province_modifier = {
+					name = baby_boom
+					duration = 360
+				}
+                any_pop = {
+                    literacy = 0.12
+                }
+            }
+        }
+    }
+    our_eastern_brothers = {
+        potential = {
+            tag = CTG
+            NOT = { has_country_flag = CTGEXP1 }
+        }
+        allow = {
+            war = no
+            all_core = { owned_by = THIS }
+            ideological_thought = 1
+        }
+        effect = {
+            TRI_1743 = { add_core = THIS }
+            EGY_1754 = { add_core = THIS }
+            set_country_flag = CTGEXP1
+        }
+    }
+
+    recovering_our_lands = {
+        potential = {
+            tag = CTG
+            has_country_flag = CTGEXP1
+            NOT = { has_country_flag = CTGEXP2 }
+        }
+        allow = {
+            war = no
+            all_core = { owned_by = THIS }
+            state_n_government = 1
+            SIC_763 = { owned_by = THIS }
+            SAR_765 = { owned_by = THIS }
+        }
+        effect = {
+            SIC_763 = {
+                    add_province_modifier = {
+                    name = New_citizens
+                    duration = 360
+                }
+            }
+            SAR_765 = {
+                    add_province_modifier = {
+                    name = New_citizens
+                    duration = 360
+                }
+            }
+            
+            set_country_flag = CTGEXP2
+        }
+    }
+}

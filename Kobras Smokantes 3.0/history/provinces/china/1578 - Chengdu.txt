@@ -3,4 +3,4 @@ controller = YNN
 add_core = YNN
 add_core = CHI
 trade_goods = tea
-life_rating = 30
+life_rating = 32

@@ -1,12 +1,12 @@
 nv_order = {
-	land_organisation = 0.2
+	land_organisation = 0.10
 	org_regain = 0.05
-	land_unit_start_experience = 25
+	land_unit_start_experience = 10
 }
 
 nv_liberty = {
 	global_immigrant_attract = 0.2
-	political_reform_desire = 0.25
+	political_reform_desire = 0.15
 	commerce_tech_research_bonus = 0.05
 	mobilisation_size = 0.01
 }
@@ -28,7 +28,7 @@ nv_productivity = {
 }
 
 nv_education = {
-	education_efficiency_modifier = 0.2
+	education_efficiency_modifier = 0.15
 	research_points_modifier = 0.15
 }
 

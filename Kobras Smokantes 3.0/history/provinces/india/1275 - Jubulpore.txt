@@ -4,4 +4,4 @@ add_core = GWA
 add_core = NAG
 add_core = HND
 trade_goods = dye
-life_rating = 30
+life_rating = 32

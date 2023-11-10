@@ -37,7 +37,7 @@ political_decisions = {
         allow = {
             war = no
             OR = {
-                year = 1850
+                year = 1845
                 SGF = {
                     exists = yes
                 }
@@ -51,10 +51,8 @@ political_decisions = {
                 limit = {
                     is_in_sphere = THIS
                     is_puppet = THIS
-                    OR = {
-                        tag = WAL
-                        tag = MOL
-                    }
+                    tag = WAL
+                    tag = MOL
                 }
                 annex_to = HUN
             }

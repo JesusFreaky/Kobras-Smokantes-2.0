@@ -267,6 +267,7 @@ BYE		= "countries/Belarus.txt"
 PLC		= "countries/Poland-Lithuania.txt"
 GCO		="countries/Gran Colombia.txt"
 IBR     = "countries/Iberia.txt"
+CTG     = "countries/Carthage.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"

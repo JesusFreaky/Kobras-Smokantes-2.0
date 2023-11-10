@@ -3,5 +3,5 @@ controller = DEN
 add_core = DEN
 add_core = SCA
 trade_goods = fish
-life_rating = 30
+life_rating = 32
 colonial = 2

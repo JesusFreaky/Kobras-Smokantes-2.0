@@ -1,9 +1,6 @@
 capital = 2172
 primary_culture = mexican
-culture = nahua
 culture = mayan
-culture = zapotec
-culture = tarascan
 religion = catholic
 government = democracy
 plurality = 25.0

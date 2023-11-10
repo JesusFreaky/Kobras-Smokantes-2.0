@@ -96,7 +96,7 @@
 	}
 
 	farmers = {
-		culture = sami
+		culture = norwegian
 		religion = protestant
 		size = 2000
 	}

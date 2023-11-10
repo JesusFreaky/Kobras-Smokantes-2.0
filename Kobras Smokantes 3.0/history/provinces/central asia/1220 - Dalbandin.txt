@@ -2,4 +2,4 @@ owner = KAL
 controller = KAL
 add_core = KAL
 trade_goods = wool
-life_rating = 30
+life_rating = 32

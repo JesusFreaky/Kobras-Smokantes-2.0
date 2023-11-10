@@ -6,16 +6,6 @@ bookmark =
 	cameraX = 2950
 	cameraY = 1550
 }
-
-bookmark =
-{
-	name = "DR_NAME"
-	desc = "DR_DESC"
-	date = 1836.1.2
-	cameraX = 2950
-	cameraY = 1550
-}
-
 #bookmark =
 #{
 #	name = "ACW_NAME"

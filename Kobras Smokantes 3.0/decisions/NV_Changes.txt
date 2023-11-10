@@ -8,10 +8,10 @@ political_decisions = {
 		}
 		
 		allow = {
-		OR = {
-		civilization_progress = 0.5
-		civilized = yes
-		}
+			OR = {
+				civilization_progress = 0.5
+				civilized = yes
+			}
 			NOT = {	has_country_modifier = national_confusion }
 			war = no
 			NOT = { num_of_revolts = 1 }

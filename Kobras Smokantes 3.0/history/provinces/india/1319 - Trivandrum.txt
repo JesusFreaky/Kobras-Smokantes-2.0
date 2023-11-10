@@ -3,4 +3,4 @@ controller = TRA
 add_core = TRA
 add_core = HND
 trade_goods = coal
-life_rating = 30
+life_rating = 32

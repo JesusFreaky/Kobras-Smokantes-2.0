@@ -1,5 +1,5 @@
 owner = SPA
 controller = SPA
 trade_goods = wool
-life_rating = 30
+life_rating = 32
 colonial = 2

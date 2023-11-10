@@ -583,7 +583,7 @@ country_event = {
 		name = "EVTOPTC17050"
 		political_reform = no_meeting
 		any_pop = {
-			militancy = 4
+			militancy = 2
 			consciousness = 2
 		}
 	}
@@ -670,7 +670,7 @@ country_event = {
 				is_colonial = no
 			}
 			poor_strata = {
-				militancy = 3
+				militancy = 2
 			}
 		}
 	}
@@ -1585,7 +1585,7 @@ country_event = {
 				is_colonial = no
 			}
 			any_pop = {
-				militancy = 4
+				militancy = 2
 			}
 		}
 	}

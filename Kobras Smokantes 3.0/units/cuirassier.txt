@@ -44,6 +44,6 @@ cuirassier = {
 	defence = 6
 	discipline = 1.0
 	support = 0.0
-	maneuver = 2
+	maneuver = 4
 
 }

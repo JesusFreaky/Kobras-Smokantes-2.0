@@ -339,7 +339,7 @@ country_event = {
 				}
 			}
 			farmers = {
-				militancy = 4
+				militancy = 2
 			}
 		}
 	}
@@ -417,7 +417,7 @@ country_event = {
 					value = conservative
 					factor = 0.8
 				}
-				militancy = 4
+				militancy = 2
 			}
 		}
 	}
@@ -503,7 +503,7 @@ country_event = {
 				}
 			}
 			any_pop = {
-				militancy = 4
+				militancy = 2
 			}
 		}
 	}
@@ -573,7 +573,7 @@ country_event = {
 					value = liberal
 					factor = 0.5
 				}
-				militancy = 3
+				militancy = 2
 			}
 		}
 	}
@@ -928,7 +928,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA3751"
 		any_pop = {
-			militancy = 4
+			militancy = 2
 		}
 	}
 	
@@ -936,7 +936,7 @@ country_event = {
 		name = "EVTOPTB3751"
 		political_reform = yes_meeting
 		any_pop = {
-			consciousness = 6
+			consciousness = 3
 		}
 	}
 }
@@ -1778,7 +1778,7 @@ country_event = {
 					value = landed_voting
 					factor = 0.1
 				}
-				militancy = 3
+				militancy = 2
 			}
 		}
 	}

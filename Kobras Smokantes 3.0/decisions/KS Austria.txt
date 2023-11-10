@@ -1,6 +1,6 @@
 political_decisions = {
 
-	Annex_The_Galician_Kingdom = {
+	annex_galicia = {
 		potential = {
 			TAG = AUS
 			NOT = {
@@ -20,7 +20,7 @@ political_decisions = {
 		}
 	}
 	
-	The_Hungarian_Crown_Issue = {
+	hungarian_crown = {
 		potential = {
 			NOT = {
 				OR = {
@@ -54,7 +54,7 @@ political_decisions = {
 		}
 	}
 
-	The_Austrian_Empire = {
+	austrian_empire = {
 		potential = {
 			tag = AUS
 			has_country_flag = AUSEMP1
@@ -83,7 +83,7 @@ political_decisions = {
 		}
 	}
 
-	Integrate_The_Romanians = {
+	integrate_romanians = {
 		potential = {
 			tag = KUK
 			NOT = AUSROMINT
@@ -100,7 +100,7 @@ political_decisions = {
 		}
 	}
 
-	Recovering_The_Swiss_Lands = {
+	the_swiss_lands = {
 		potential = {
 			tag = SGF
 			NOT = { has_country_flag = SGFIMP1 }

@@ -614,7 +614,7 @@
 		size = 10975
 	}
 }
-#Shan Region (600000)
+#thai Region (600000)
 #under the rule of Siam in 1836
 #Chiang Mai (332000/83000 POPS)
 1355 = {
@@ -661,37 +661,37 @@
 	}
 
 	aristocrats = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 1425
 	}
 
 	officers = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 75
 	}
 
 	clergymen = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 2550
 	}
 
 	soldiers = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 525
 	}
 
 	farmers = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 46250
 	}
@@ -729,31 +729,31 @@
 	}
 
 	aristocrats = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 425
 	}
 
 	clergymen = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 200
 	}
 
 	artisans = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 1150
 	}
 
 	soldiers = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 250
 	}
 
 	farmers = {
-		culture = shan
+		culture = thai
 		religion = theravada
 		size = 21075
 	}

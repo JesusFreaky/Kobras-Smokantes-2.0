@@ -188,6 +188,8 @@ political_decisions = {
 			is_culture_group = italian
 
 			NOT = {
+				has_country_flag = SARex2
+				has_country_flag = SARex4
 				exists = ITA
 			}
 		}
@@ -236,10 +238,7 @@ political_decisions = {
 		}
 
 		allow = {
-			NOT = {
-				prestige = 40
-			}
-			average_consciousness = 4
+			war = no
 		}
 
 		effect = {

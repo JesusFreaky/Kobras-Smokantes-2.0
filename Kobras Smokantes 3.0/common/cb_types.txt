@@ -1246,7 +1246,8 @@ establish_protectorate_casus_belli = {
 		}
 		OR = {
 			NOT = {
-				number_of_states = 3 
+				number_of_states = 3
+				total_pops = 1800000
 			}
 			AND = {
 				THIS = {
@@ -1255,7 +1256,10 @@ establish_protectorate_casus_belli = {
 						nationalism_n_imperialism = 1
 					}
 				}
-				NOT = { number_of_states = 5 }
+				NOT = { 
+					number_of_states = 5
+					total_pops = 2500000
+				}
 			}
 		}
 		civilized = no

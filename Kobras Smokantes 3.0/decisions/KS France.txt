@@ -23,7 +23,7 @@ political_decisions = {
 		}
 	}
 
-	Franco-English_Union = {
+	Frank_English_Union = {
 		potential = {
 			tag = FRA
 			has_country_flag = The_Dual_Monarchy

@@ -3,4 +3,4 @@ controller = ORA
 add_core = ORA
 add_core = SAF
 trade_goods = coal
-life_rating = 35
+life_rating = 32

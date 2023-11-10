@@ -4,4 +4,4 @@ add_core = CAN
 add_core = QUE
 add_core = NEW
 trade_goods = fish
-life_rating = 35
+life_rating = 32

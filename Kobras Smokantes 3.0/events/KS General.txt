@@ -14,7 +14,7 @@ country_event = {
 		days = 0
 	}
 	title = "He woke up!"
-	desc = "EVTDESC800000"
+	desc = "The Great Joe Biden has woke up, prepare to feel the true fear..."
 	immediate = {
 		define_general = {
 			name = "Joe Biden"

@@ -42,6 +42,6 @@ dragoon = {
 	defence = 3
 	discipline = 1.0
 	support = 0.0
-	maneuver = 3
+	maneuver = 4
 
 }

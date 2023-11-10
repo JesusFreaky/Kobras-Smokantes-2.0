@@ -3,4 +3,4 @@ controller = USA
 add_core = USA
 add_core = NEN
 trade_goods = fish
-life_rating = 35
+life_rating = 32

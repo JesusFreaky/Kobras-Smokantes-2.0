@@ -2,5 +2,5 @@ owner = ENG
 controller = ENG
 add_core = ENG
 trade_goods = coal
-life_rating = 37
+life_rating = 32
 naval_base = 2

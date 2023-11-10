@@ -128,7 +128,7 @@ political_decisions = {
         }
     }
 
-    The_New_Order = {
+    New_Order = {
         potential = {
             tag = ENG
             has_country_flag = ENGexp1

@@ -122,10 +122,12 @@ political_decisions = {
 		}
 	}
 
-	Two_Cultures_One_Country = {
+	Italian_Union = {
 		potential = {
-			tag = SAR
-			tag = SIC
+			OR = {
+				tag = SAR
+				tag = SIC
+			}
 			NOT = { has_country_flag = OneCountry }
 		}
 
@@ -227,7 +229,7 @@ political_decisions = {
 		}
 
 		allow = {
-			nationalism_n_imperialism = 1
+			revolution_n_counterrevolution = 1
 			is_greater_power = yes
 			prestige = 50
 		}

@@ -259,31 +259,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 9100
 	}
@@ -345,31 +345,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 12750
 	}
@@ -699,31 +699,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 450
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 19975
 	}
@@ -835,31 +835,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 21825
 	}
@@ -1021,31 +1021,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 175
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = vietnamese
 		religion = animist
 		size = 7275
 	}

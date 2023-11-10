@@ -539,31 +539,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1775
 	}
@@ -785,31 +785,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 850
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1075
 	}
@@ -2861,25 +2861,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1775
 	}
@@ -2923,25 +2923,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1775
 	}
@@ -3081,25 +3081,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1775
 	}
@@ -3157,25 +3157,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1775
 	}
@@ -3347,73 +3347,73 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1350
 	}
 
 	bureaucrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 300
 	}
 
 	officers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 750
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 65400
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 500
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 2850
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 350
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 31025
 	}
@@ -3475,25 +3475,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1825
 	}
@@ -3555,31 +3555,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1200
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 3800
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 750
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 69500
 	}
@@ -3609,31 +3609,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 225
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 13750
 	}
@@ -3671,61 +3671,61 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 7275
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 4550
 	}
@@ -3763,31 +3763,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 7275
 	}
@@ -3981,25 +3981,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1425
 	}
@@ -4299,73 +4299,73 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1750
 	}
 
 	officers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 800
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 72600
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 250
 	}
 
 	officers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = orthodox
 		size = 13700
 	}
@@ -5263,25 +5263,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 1375
 	}
@@ -5313,25 +5313,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 5
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 10
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 475
 	}
@@ -6073,25 +6073,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 2775
 	}
@@ -6155,25 +6155,25 @@
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 2775
 	}
@@ -6211,31 +6211,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 2725
 	}
@@ -6267,31 +6267,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 5475
 	}
@@ -8714,31 +8714,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = animist
 		size = 5525
 	}
@@ -9824,31 +9824,31 @@
 #Ootomari (4100/1025 POPS)
 1087 = {
 	aristocrats = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 7
 	}
 
 	clergymen = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 8
 	}
 
 	artisans = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 925
 	}
@@ -9862,31 +9862,31 @@
 #Shumshu (4000/1000 POPS)
 1088 = {
 	aristocrats = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 7
 	}
 
 	clergymen = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 8
 	}
 
 	artisans = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 925
 	}
@@ -9894,31 +9894,31 @@
 #Etorofu (4000/1000 POPS)
 1089 = {
 	aristocrats = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 7
 	}
 
 	clergymen = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 8
 	}
 
 	artisans = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ainu
+		culture = russian
 		religion = animist
 		size = 925
 	}

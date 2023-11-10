@@ -398,10 +398,10 @@
 		size = 225    
 	}
 
-	artisans = {
+	craftsmen = {
 		culture = hungarian
 		religion = protestant
-		size = 1200
+		size = 6200
 	}
 
 	soldiers = {
@@ -413,7 +413,7 @@
 	farmers = {
 		culture = hungarian
 		religion = protestant
-		size = 45680  
+		size = 40680  
 	}
 
 	aristocrats = {

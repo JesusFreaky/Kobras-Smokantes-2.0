@@ -3,4 +3,4 @@ controller = ZUL
 add_core = ZUL
 add_core = SAF
 trade_goods = wool
-life_rating = 35
+life_rating = 32

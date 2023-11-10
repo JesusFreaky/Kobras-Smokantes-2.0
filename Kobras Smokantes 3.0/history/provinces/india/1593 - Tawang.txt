@@ -3,4 +3,4 @@ controller = TIB
 add_core = TIB
 add_core = HND
 trade_goods = cattle
-life_rating = 30
+life_rating = 32

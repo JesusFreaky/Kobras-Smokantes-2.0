@@ -45,31 +45,31 @@
 	}
 
 	bureaucrats = {
-		culture = beifaren
+		culture = mongol
 		religion = mahayana
 		size = 125
 	}
 
 	clergymen = {
-		culture = beifaren
+		culture = mongol
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = beifaren
+		culture = mongol
 		religion = mahayana
 		size = 400
 	}
 
 	soldiers = {
-		culture = beifaren
+		culture = mongol
 		religion = mahayana
 		size = 100
 	}
 
 	farmers = {
-		culture = beifaren
+		culture = mongol
 		religion = mahayana
 		size = 3300
 	}
@@ -139,31 +139,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = mongol
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = mongol
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = yakut
+		culture = mongol
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = mongol
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = mongol
 		religion = animist
 		size = 2750
 	}
@@ -331,63 +331,63 @@
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = kazak
+		culture = mongol
 		religion = sunni
 		size = 10975
 	}
 }
-#Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
+#Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  mongol = Tuvan   
 1469 = {
 	aristocrats = {
-		culture = tatar
+		culture = mongol
 		religion = gelugpa
 		size = 150
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = mongol
 		religion = gelugpa
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = mongol
 		religion = gelugpa
 		size = 400
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = mongol
 		religion = gelugpa
 		size = 75
 	}
 
 	farmers = {
-		culture = tatar
+		culture = mongol
 		religion = gelugpa
 		size = 7300
 	}

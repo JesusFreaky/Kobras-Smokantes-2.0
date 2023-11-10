@@ -1075,109 +1075,109 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 600
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 27300
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 13500
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 6800
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 3950
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 6500
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 588250
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 675
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 350
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 1800
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 350
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 32825
 	}
@@ -1233,73 +1233,73 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1250
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 22750
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 8200
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 4100
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 550
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 4125
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 374025
 	}
@@ -1343,43 +1343,43 @@
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 8700
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 4375
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 1800
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 4400
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 396725
 	}
@@ -1417,97 +1417,97 @@
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 16000
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 8125
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 600
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 8100
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 739175
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 5100
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 5400
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 5100
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 462400
 	}
@@ -1551,31 +1551,31 @@
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 2050
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 1050
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 5225
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 1050
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 95125
 	}
@@ -2221,121 +2221,121 @@
 	}
 
 	aristocrats = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 1050
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 2700
 	}
 
 	soldiers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 49400
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 725
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 375
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 1850
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 375
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 33675
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 3250
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1650
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 8200
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1650
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 149250
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 300
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 150
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 800
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 175
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 14575
 	}
@@ -2487,31 +2487,31 @@
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 500
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 275
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 1400
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 275
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 25550
 	}
@@ -2561,31 +2561,31 @@
 #Gaozhou (3788000/947000 POPS)
 1495 = {
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 350
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 200
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 950
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 200
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 17300
 	}
@@ -2703,31 +2703,31 @@
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 925
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 475
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 4850
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 975
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 89775
 	}
@@ -2768,34 +2768,34 @@
 		size = 265725
 	}
 }
-#Hainan (3424000/856000 POPS) #asian_minor = li   
+#Hainan (3424000/856000 POPS) #yi = li   
 1499 = {
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 3700
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 1850
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 9300
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 1875
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 169275
 	}
@@ -2849,31 +2849,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 2550
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 525
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 46425
 	}
@@ -2911,37 +2911,37 @@
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 5500
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 2775
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 3800
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 2750
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 251175
 	}
@@ -3149,37 +3149,37 @@
 	}
 
 	aristocrats = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 7850
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 3950
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 10000
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 9700
 	}
 
 	soldiers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 3950
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 358550
 	}
@@ -3215,31 +3215,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 9100
 	}
@@ -3301,43 +3301,43 @@
 	}
 
 	aristocrats = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 10500
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 5300
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 10000
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 10000
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 6550
 	}
 
 	soldiers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 5325
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 483325
 	}
@@ -3379,31 +3379,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1175
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 625
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 3150
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 625
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 59225
 	}
@@ -3441,31 +3441,31 @@
 	}
 
 	aristocrats = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 3100
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 1600
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 7900
 	}
 
 	soldiers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 1600
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 143800
 	}
@@ -3501,31 +3501,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 900
 	}
@@ -3583,31 +3583,31 @@
 	}
 
 	aristocrats = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 4550
 	}
@@ -3643,31 +3643,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 13650
 	}
@@ -3729,31 +3729,31 @@
 	}
 
 	aristocrats = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 2400
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 1225
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 6100
 	}
 
 	soldiers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 1225
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 111050
 	}
@@ -3789,31 +3789,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 7375
 	}
@@ -3863,61 +3863,61 @@
 	}
 
 	aristocrats = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 2250
 	}
 
 	clergymen = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 1150
 	}
 
 	artisans = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 5700
 	}
 
 	soldiers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 1150
 	}
 
 	farmers = {
-		culture = zhuang
+		culture = yue
 		religion = animist
 		size = 103750
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 525
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 2575
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 525
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 47375
 	}
@@ -5433,31 +5433,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 2750
 	}
@@ -5519,31 +5519,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1950
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 400
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 35500
 	}
@@ -5759,31 +5759,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1050
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 2700
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 49150
 	}
@@ -7137,61 +7137,61 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 700
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 375
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 1750
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 350
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 31825
 	}
@@ -7289,31 +7289,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1225
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 625
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 3100
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 625
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 56425
 	}
@@ -7363,61 +7363,61 @@
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 21900
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 11000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 4750
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 10950
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 996400
 	}
@@ -7461,31 +7461,31 @@
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 2500
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 1250
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 6300
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 1275
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 114675
 	}
@@ -7571,31 +7571,31 @@
 	}
 
 	aristocrats = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 625
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 325
 	}
 
 	artisans = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 1600
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 325
 	}
 
 	farmers = {
-		culture = hakka
+		culture = yue
 		religion = mahayana
 		size = 29775
 	}
@@ -10119,31 +10119,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 2200
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 5550
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1125
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 101025
 	}
@@ -10315,31 +10315,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 2000
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1050
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 5250
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1050
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 95650
 	}
@@ -10531,31 +10531,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 2150
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 5450
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 99200
 	}
@@ -10665,31 +10665,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 8200
 	}
@@ -10726,7 +10726,7 @@
 }
 #Yunnan Region (5652000)
 #under the rule of China in 1836
-#Kunming (3016000/754000 POPS)
+#Kunyueg (3016000/754000 POPS)
 1601 = {
 	aristocrats = {
 		culture = nanfaren
@@ -10819,61 +10819,61 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 5475
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 9000
 	}
@@ -10959,37 +10959,37 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 5400
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 2750
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 10000
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 3500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 2700
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 245650
 	}
@@ -11087,61 +11087,61 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 1700
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 900
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 4400
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 900
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = yi
 		religion = animist
 		size = 80100
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 3650
 	}
@@ -11319,61 +11319,61 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 3650
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 6375
 	}
@@ -11565,61 +11565,61 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 12750
 	}
 
 	aristocrats = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 1600
 	}
 
 	clergymen = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 800
 	}
 
 	artisans = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 4050
 	}
 
 	soldiers = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 825
 	}
 
 	farmers = {
-		culture = min
+		culture = yue
 		religion = animist
 		size = 73725
 	}
@@ -11837,31 +11837,31 @@
 	}
 
 	aristocrats = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = miao
+		culture = yi
 		religion = animist
 		size = 19125
 	}
@@ -12154,7 +12154,7 @@
 		size = 12750
 	}
 }
-#Daming (3364000/841000 POPS)
+#Dayueg (3364000/841000 POPS)
 1614 = {
 	aristocrats = {
 		culture = beifaren

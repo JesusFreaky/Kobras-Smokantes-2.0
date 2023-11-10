@@ -2,5 +2,5 @@ owner = ENG
 controller = ENG
 add_core = ENG
 trade_goods = fish
-life_rating = 37
+life_rating = 32
 fort = 1

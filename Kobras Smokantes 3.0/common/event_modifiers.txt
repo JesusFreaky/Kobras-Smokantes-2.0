@@ -165,6 +165,16 @@ Russian_Progressism = {
 	icon = 1
 }
 
+carthage_legacy = {
+	education_efficiency_modifier = 0.4
+	icon = 1
+}
+
+New_citizens = {
+	assimilation_rate = 100
+	icon = 1
+}
+
 baby_boom = {
 	population_growth = 0.01
 	icon = 19
@@ -705,9 +715,9 @@ irish_potato_blight = {
 	local_RGO_output = -0.9
 	pop_militancy_modifier = 0.3
 	pop_consciousness_modifier = 0.3
-	immigrant_push = 1.75
+	immigrant_push = 0.50
 	local_factory_output = -0.25
-	population_growth = -0.001
+	population_growth = -0.01
 	icon = 4
 }
 

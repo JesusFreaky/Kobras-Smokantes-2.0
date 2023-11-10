@@ -318,7 +318,7 @@ political_decisions = {
 		}
 	}
 
-	integrate_the_Russians_east_slavics = {
+	integrate_the_Russians_west_slavics = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = RUSint1 }
@@ -337,7 +337,7 @@ political_decisions = {
 		}
 	}
 
-	integrate_the_Northeast_Russians = {
+	integrate_the_Northwest_Russians = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = RUSint1 }

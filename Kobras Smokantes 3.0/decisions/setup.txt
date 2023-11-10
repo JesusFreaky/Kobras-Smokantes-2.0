@@ -225,6 +225,17 @@ political_decisions = {
 					reduce_pop = 0.90
 				}
 			}
+			#Japan pop debuffs
+			any_country = {
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = japanese
+						}
+					}
+					reduce_pop = 0.8
+				}
+			}
 			#France pop debuffs
 			any_country = {
 				any_pop = {

@@ -4,7 +4,7 @@ plane = {
 	type = land
 	sprite = Plane
 	active = no
-	unit_type = support
+	unit_type = cavalry
 	floating_flag = no
 
 	#Core Abilities

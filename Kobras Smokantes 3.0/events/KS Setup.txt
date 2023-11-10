@@ -1,0 +1,29 @@
+# JOE BIDEN FROM TOK
+country_event = {
+	id = 800000
+fire_only_once = yes	
+picture = 1
+	trigger = {
+		ai = no
+		NOT = {tag = ELI}
+		NOT = {
+			has_leader = "Joe Biden"
+		}
+	}
+	mean_time_to_happen = {
+		days = 0
+	}
+	title = "He woke up!"
+	desc = "The Great Joe Biden has woke up, prepare to feel the true fear..."
+	immediate = {
+		define_general = {
+			name = "Joe Biden"
+			personality = unflinching
+			#3/3 General
+			background = school_of_defense
+		}
+	}
+	option = {
+		name = "It's about time..."		
+	}
+}

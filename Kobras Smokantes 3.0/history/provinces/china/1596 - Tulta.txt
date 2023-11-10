@@ -4,4 +4,4 @@ add_core = CHI
 add_core = XIN
 add_core = MGL
 trade_goods = cotton
-life_rating = 30
+life_rating = 32

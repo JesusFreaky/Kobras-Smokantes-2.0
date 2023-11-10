@@ -477,9 +477,9 @@ SPA = {
 
 # Iberia
 IBR = {
-    color1= { 228 255 74  }
-    color2= { 205 226 68  }
-    color3= { 180 224 47  }
+    color1= { 255 230 109  }
+    color2= { 255 230 109  }
+    color3= { 255 230 109  }
 }
 
 
@@ -728,6 +728,13 @@ TUN = {
     color1= { 179 54 57  }
     color2= { 69 80 169  }
     color3= { 121 162 109  }
+}
+
+# Carthage
+CTG = {
+    color1= { 105  32  188  }
+    color2= { 105  32  188  }
+    color3= { 105  32  188  }
 }
 
 # Sokoto FIXED
