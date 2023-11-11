@@ -74,22 +74,24 @@ political_decisions = {
 
 		effect = {
 
-			TUR_832 = { secede_province = GRE }
-			TUR_822 = { secede_province = GRE }
-			TUR_805 = { secede_province = GRE }
-			TUR_806 = { secede_province = SER }
-			TUR_803 = { secede_province = SER }
-			WAL_665 = { secede_province = BUL }
-			WAL_665 = { remove_core = TUR }
 			TUR = { release_vassal = WAL }
 			TUR = { release_vassal = MOL }
 			release = ALB
 			release = MON
 			release = BUL
 			release = BOS
+			release = SER
+			release = GRE
+			TUR_674 = { secede_province = BUL }
+			TUR_832 = { secede_province = GRE }
+			TUR_822 = { secede_province = GRE }
+			TUR_805 = { secede_province = GRE }
+			TUR_806 = { secede_province = SER }
+			TUR_803 = { secede_province = SER }
 			ALB = { all_core = { remove_core = TUR } }
 			SER = { all_core = { remove_core = TUR } }
 			BUL = { all_core = { remove_core = TUR } }
+			MON = { all_core = { remove_core = TUR } }
 			GRE = { 
 				all_core = {
 					NOT = {
@@ -102,7 +104,7 @@ political_decisions = {
 					remove_core = TUR 
 				} 
 			}
-			TUR_855 = { add_core = THIS }
+			WAL_665 = { remove_core = TUR }
 			TUR_819 = { remove_core = TUR }
 			TUR_832 = { remove_core = TUR }
 			TUR_805 = { remove_core = TUR }
@@ -138,6 +140,7 @@ political_decisions = {
 					is_greater_power = yes
 					prestige = 50	
 				}
+				all_core = { owned_by = THIS }
 			}
 		}
 

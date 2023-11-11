@@ -147,15 +147,16 @@ political_decisions = {
 		}
 
 		allow = {
-			prestige = 45
 			war = no
-			nationalism_n_imperialism = 1
-			GER = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
+			OR = {
+				nationalism_n_imperialism = 1
+				GER = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							
 						}
 					}
 				}
@@ -195,15 +196,16 @@ political_decisions = {
 		}
 
 		allow = {
-			nationalism_n_imperialism = 1
-			prestige = 45
 			war = no
-			ITA = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
+			OR = {
+				nationalism_n_imperialism = 1
+				ITA = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
 						}
 					}
 				}

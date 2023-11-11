@@ -162,12 +162,13 @@ conquest = {
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
-		# only one state or unciv
+		# only three states or unciv
 		NOT = { number_of_states = 5 }
 		OR = {
 			AND = {
 				civilized = yes
-				NOT = { number_of_states = 3 }
+				NOT = { total_pops = 1000000}
+				NOT = { number_of_states = 4 }
 			}
 			AND = {
 				civilized = no
@@ -1799,7 +1800,7 @@ conquest_low = {
 		OR = {
 			AND = {
 				civilized = yes
-				NOT = { number_of_states = 3 }
+				NOT = { number_of_states = 4 }
 			}
 			AND = {
 				civilized = no

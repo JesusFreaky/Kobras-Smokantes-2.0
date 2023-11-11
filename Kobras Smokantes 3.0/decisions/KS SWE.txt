@@ -1,43 +1,4 @@
 political_decisions = {
-
-	svenska_pansarbats_foreningen = {
-		potential = {
-			OR = {
-				tag = SWE
-				AND = {
-					tag = SCA
-					primary_culture = swedish
-				}
-			}
-			owns = 329
-			NOT = {
-				has_country_flag = hms_sverige_built
-			}
-			any_neighbor_country = {
-				invention = protected_cruisers
-			}
-		}
-
-		allow = {
-			NOT = {
-				average_militancy = 3
-			}
-			steel_steamers = 1
-		}
-
-		effect = {
-			any_pop = {
-				money = -0.1
-			}
-			329 = {
-				sub_unit = {
-					type = cruiser
-					value = current
-				}
-			}
-			set_country_flag = hms_sverige_built
-		}
-	}
 	
 	pass_folkskolereformen = {
 		potential = {
@@ -126,45 +87,6 @@ political_decisions = {
 			}
 			prestige = 5
 			set_global_flag = motala_verkstad_expanded
-		}
-	}
-
-	court_yard_speech = {
-		potential = {
-			OR = {
-				tag = SWE
-				AND = {
-					tag = SCA
-					primary_culture = swedish
-				}
-			}
-			government = hms_government
-			OR = {
-				vote_franschise = wealth_weighted_voting
-				vote_franschise = wealth_voting
-			}
-			NOT = {
-				has_country_flag = court_yard_speech_held
-			}
-		}
-
-		allow = {
-			OR = {
-				war_policy = pacifism
-				war_policy = anti_military
-			}
-			OR = {
-				pro_military = 10
-				jingoism = 10
-			}
-		}
-
-		effect = {
-			ruling_party_ideology = conservative
-			any_pop = {
-				militancy = -0.5
-			}
-			set_country_flag = court_yard_speech_held
 		}
 	}
 
