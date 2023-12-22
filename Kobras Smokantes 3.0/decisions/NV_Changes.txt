@@ -5,6 +5,7 @@ political_decisions = {
 		# picture = national_value
 		potential = {
 			NOT = {	has_country_flag = nv_change }
+			NOT = {	has_country_modifier = nv_change }
 		}
 		
 		allow = {
@@ -49,7 +50,7 @@ political_decisions = {
 	switch_to_order = {
 		# picture = switch_to_order
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			NOT = { has_country_modifier = national_confusion }
 			has_country_flag = nv_change
 		}
 		
@@ -61,7 +62,6 @@ political_decisions = {
 		
 		effect = {
 			clr_country_flag = nv_change
-			set_country_flag = switched_nv
 			nationalvalue = nv_order
 			add_country_modifier = {
 				name = national_confusion
@@ -89,7 +89,7 @@ political_decisions = {
 	switch_to_production = {
 		# picture = switch_to_productivity
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			NOT = { has_country_modifier = national_confusion }
 			has_country_flag = nv_change
 		}
 		
@@ -129,7 +129,7 @@ political_decisions = {
 	switch_to_equality = {
 		# picture = switch_to_equality
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			NOT = { has_country_modifier = national_confusion }
 			has_country_flag = nv_change
 		}
 		
@@ -169,7 +169,7 @@ political_decisions = {
 	switch_to_liberty = {
 		# picture = switch_to_liberty
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			NOT = { has_country_modifier = national_confusion }
 			has_country_flag = nv_change
 		}
 		
@@ -209,7 +209,7 @@ political_decisions = {
 	switch_to_education = {
 		# picture = 
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			NOT = { has_country_modifier = national_confusion }
 			has_country_flag = nv_change
 		}
 		
@@ -249,7 +249,7 @@ political_decisions = {
 	switch_to_diplomacy = {
 		# picture = switch_to_liberty
 		potential = {
-			NOT = { has_country_flag = switched_nv }
+			NOT = { has_country_modifier = national_confusion }
 			has_country_flag = nv_change
 		}
 		
