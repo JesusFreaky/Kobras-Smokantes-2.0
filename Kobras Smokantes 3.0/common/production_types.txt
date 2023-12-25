@@ -375,7 +375,7 @@ steel_factory = {
 	}
 
 	output_goods = steel 		#94 
-	value = 20
+	value = 18
 	bonus = {
 		trigger = { trade_goods_in_state = iron }
 		value = 0.125
@@ -821,7 +821,7 @@ orchard = {
 precious_metal_mine = {
 	template = RGO_template_labourers
 	output_goods = precious_metal 
-	value = 1.5
+	value = 0.4
 	mine = yes
 }
 
