@@ -2,7 +2,6 @@ capital = 322
 primary_culture = swedish
 culture = finnish
 culture = norwegian
-culture = sami
 religion = protestant
 government = hms_government
 plurality = 25.0
@@ -88,10 +87,9 @@ nonstate_consciousness = 0
 
 schools = 
 
-oob = "SWE_oob.txt"
+1836.1.1 = {
+	oob = "SWE_oob.txt"
 
-1850.1.1 = {
-decision = pass_folkskolereformen
 }
 
 1861.1.1 = {

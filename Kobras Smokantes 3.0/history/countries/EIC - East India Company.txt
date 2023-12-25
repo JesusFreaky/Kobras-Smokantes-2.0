@@ -51,6 +51,8 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
+oob = "EIC_oob.txt"
+
 ruling_party = HND_reactionary
 last_election = 1835.2.6
 upper_house = {

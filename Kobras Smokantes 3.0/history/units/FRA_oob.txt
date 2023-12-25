@@ -98,25 +98,25 @@ army = {
 	location = 459
 	regiment = {
 		name= "1.Garde Royale"
-		type = guard
+		type = infantry
 		home = 425
 	}
 
 	regiment = {
 		name= "2.Garde Royale"
-		type = guard
+		type = infantry
 		home = 426
 	}
 
 	regiment = {
 		name= "3.Garde Royale"
-		type = guard
+		type = infantry
 		home = 427
 	}
 
 	regiment = {
 		name= "4.Garde Royale"
-		type = guard
+		type = infantry
 		home = 440
 	}
 	regiment = {
@@ -164,25 +164,25 @@ army = {
 
 	regiment = {
 		name= "1.Cavalerie de la Garde"
-		type = guard
+		type = infantry
 		home = 458
 	}
 
 	regiment = {
 		name= "2.Cavalerie de la Garde"
-		type = guard
+		type = infantry
 		home = 420
 	}
 
 	regiment = {
 		name= "3.Cavalerie de la Garde"
-		type = guard
+		type = infantry
 		home = 418
 	}
 
 	regiment = {
 		name= "4.Cavalerie de la Garde"
-		type = guard
+		type = infantry
 		home = 406
 	}
 	regiment = {
@@ -236,25 +236,25 @@ army = {
 
 	regiment = {
 		name= "1.5�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 439
 	}
 
 	regiment = {
 		name= "2.5�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 433
 	}
 
 	regiment = {
 		name= "3.5�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 431
 	}
 
 	regiment = {
 		name= "1.6�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 429
 	}
 
@@ -298,25 +298,25 @@ army = {
 	location = 457
 	regiment = {
 		name= "1.8�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 455
 	}
 
 	regiment = {
 		name= "2.8�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 410
 	}
 
 	regiment = {
 		name= "3.8�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 473
 	}
 
 	regiment = {
 		name= "1.9�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 456
 	}
 
@@ -361,22 +361,22 @@ army = {
 	location = 412
 	regiment = {
 		name= "1.10�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 411
 	}
 	regiment = {
 		name= "2.10�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 407
 	}
 	regiment = {
 		name= "3.10�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 444
 	}
 	regiment = {
 		name= "3.1�re Division de cavalerie"
-		type = guard
+		type = infantry
 		home = 421
 	}
 	regiment = {
@@ -416,22 +416,22 @@ army = {
 	location = 409
 	regiment = {
 		name= "1.10�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 408
 	}
 	regiment = {
 		name= "2.10�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 446
 	}
 	regiment = {
 		name= "3.10�me Division d'Infanterie"
-		type = guard
+		type = infantry
 		home = 447
 	}
 	regiment = {
 		name= "3.1�re Division de cavalerie"
-		type = guard
+		type = infantry
 		home = 439
 	}
 	regiment = {

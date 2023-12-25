@@ -353,7 +353,7 @@ machine_tools = {
 	}
 	effect = {
 		factory_goods_output = {
-			machine_parts = 0.02 
+			machine_parts = 1 
 		}
 		factory_throughput = 0.05		
 		mine_RGO_eff = 0.5

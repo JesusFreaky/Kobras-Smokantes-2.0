@@ -15,16 +15,6 @@ political_decisions = {
                     owned_by = THIS
                 }
             }
-            ALD = { 
-                all_core = {
-                    owned_by = THIS
-                }
-            }
-            TUN = { 
-                all_core = { 
-                    owned_by = THIS
-                }
-            }
         }
         effect = {
 
@@ -58,16 +48,17 @@ political_decisions = {
             activate_technology = basic_chemistry
             activate_technology = medicine
             set_country_flag = CARLEG
+            capital = 1725
             any_owned = {
                 limit = {
                     is_core = THIS
                 }
 				add_province_modifier = {
 					name = baby_boom
-					duration = 360
+					duration = 1440
 				}
                 any_pop = {
-                    literacy = 0.12
+                    literacy = 0.3
                 }
             }
         }

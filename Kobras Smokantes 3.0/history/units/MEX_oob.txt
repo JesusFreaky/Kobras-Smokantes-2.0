@@ -1,120 +1,106 @@
+# +2 A +3 D
 leader = {
-	name = "Antonio Santa Ana"
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
 	type = land
-	date="1836.1.1"
-	personality = defence_0.1
-	background = attack_2.1
-	prestige = 0.2
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
 }
 
 leader = {
-	name = "Martin de Cos"
-	type = land
-	date="1836.1.1"
-	personality = defence_0.1
-	background = attack_0.1
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
 	prestige = 0.1
 }
 
-leader = {
-	name = "Nicolas Bravo"
-	type = land
-	date="1836.1.1"
-	personality = defence_0.1
-	background = attack_0.1
-}
-
-leader = {
-	name = "Mariano Arista"
-	type = land
-	date="1836.1.1"
-	personality = defence_0.1
-	background = attack_2.1
-}
-
-leader = {
-	name = "Juan Álvarez"
-	type = land
-	date="1836.1.1"
-	personality = defence_0.1
-	background = attack_1.1
-}
-
-leader = {
-	name = "José de Herrera"
-	type = land
-	date="1836.1.1"
-	personality = defence_0.1
-	background = attack_1.1
-}
-
 army = {
-	name = "Ejército del Norte"
+	name = "Ejï¿½rcito del Norte"
 	location = 2146
 	regiment = {
 		name= "1.Division Cos"
-		type = irregular
+		type = artillery
 		home = 2174
 	}
 
 	regiment = {
 		name= "2.Division Cos"
-		type = irregular
+		type = artillery
 		home = 2174
 	}
 
 	regiment = {
 		name= "3.Division Cos"
-		type = irregular
+		type = artillery
 		home = 2174
 	}
-
-}
-
-army = {
-	name = "Activo Oajaca"
-	location = 2177
+	
 	regiment = {
 		name= "1.Oajaca y Tlaxcala"
-		type = irregular
+		type = artillery
 		home = 2177
 	}
 
 	regiment = {
 		name= "2.Oajaca y Tlaxcala"
-		type = irregular
+		type = artillery
 		home = 2177
 	}
 
 	regiment = {
 		name= "3.Oajaca y Tlaxcala"
-		type = irregular
+		type = artillery
 		home = 2177
 	}
 
-}
-
-army = {
-	name = "Ejército del Ciudad Mejico"
-	location = 2172
 	regiment = {
 		name= "1.Division Comonfort"
-		type = infantry
+		type = artillery
 		home = 2176
 	}
 
 	regiment = {
 		name= "2.Division Comonfort"
-		type = irregular
+		type = artillery
 		home = 2176
 	}
 
 	regiment = {
 		name= "3.Division Comonfort"
-		type = irregular
+		type = artillery
 		home = 2176
 	}
 
+	regiment = {
+		name= "3.Division Comonfort"
+		type = artillery
+		home = 2173
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = hussar
+		home = 2167
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = hussar
+		home = 2172
+	}
 }
 
 navy = {

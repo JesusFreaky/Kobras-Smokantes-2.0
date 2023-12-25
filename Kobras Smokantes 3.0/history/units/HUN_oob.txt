@@ -28,42 +28,66 @@ leader = {
 }
 
 army = {
-	name = "Ej�rcito de Colombia"
-	location = 2253
+	name = "The Hungarian Legion"
+	location = 641
 	regiment = {
-		name= "1. Brigada de Infanter�a"
+		name= "Home guards"
 		type = artillery
-		home = 2247
+		home = 641
 	}
 
 	regiment = {
-		name= "2. Brigada de Infanter�a"
+		name= "Home guards"
 		type = artillery
-		home = 2252
+		home = 642
 	}
 
 	regiment = {
-		name= "3. Brigada de Infanter�a"
+		name= "Home guards"
 		type = artillery
-		home = 2254
+		home = 643
 	}
 
 	regiment = {
-		name= "2. Brigada de Infanter�a"
+		name= "Home guards"
 		type = artillery
-		home = 2252
+		home = 639
 	}
 
 	regiment = {
-		name= "3. Brigada de Infanter�a"
+		name= "Home guards"
 		type = artillery
-		home = 2254
+		home = 644
 	}
 
 	regiment = {
-		name= "1. Brigada de Caballer�a"
+		name= "Home guards"
+		type = infantry
+		home = 640
+	}
+
+	regiment = {
+		name= "Home guards"
+		type = infantry
+		home = 649
+	}
+
+	regiment = {
+		name= "Home guards"
+		type = infantry
+		home = 648
+	}
+
+	regiment = {
+		name= "Home guards"
+		type = infantry
+		home = 647
+	}
+
+	regiment = {
+		name= "Home guards"
 		type = hussar
-		home = 2250
+		home = 633
 	}
-
 }
+

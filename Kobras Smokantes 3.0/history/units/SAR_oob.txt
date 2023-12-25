@@ -41,18 +41,6 @@ army = {
 		type = artillery
 		home = 724
 	}
-
-	regiment = {
-		name= "2.Fanteria di Linea"
-		type = artillery
-		home = 723
-	}
-
-	regiment = {
-		name= "3.Fanteria di Linea"
-		type = artillery
-		home = 725
-	}
 	
 
 	regiment = {
@@ -112,6 +100,18 @@ army = {
 		name= "2.Bersaglieri"
 		type = artillery
 		home = 465
+	}
+
+	regiment = {
+		name= "2.Fanteria di Linea"
+		type = artillery
+		home = 723
+	}
+
+	regiment = {
+		name= "3.Fanteria di Linea"
+		type = artillery
+		home = 725
 	}
 }
 

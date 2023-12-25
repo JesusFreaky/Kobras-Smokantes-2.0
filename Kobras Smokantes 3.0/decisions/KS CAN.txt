@@ -1,0 +1,25 @@
+political_decisions = {
+
+	Union_between_English = {
+
+		potential = {
+			tag = CAN
+			not = { has_country_flag = CANint1 }
+		}
+
+		allow = { 
+			war = no
+			CAN = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			add_accepted_culture = yankee
+			set_country_flag = CANint1
+		}
+	}
+}

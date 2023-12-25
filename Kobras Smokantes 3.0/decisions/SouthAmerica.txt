@@ -54,9 +54,7 @@ political_decisions = {
 			prestige = 10
 			PEU = { all_core = { add_core = THIS } }
 			BOL = { all_core = { add_core = THIS } }
-			add_accepted_culture = quechua
-			add_accepted_culture = aimara
-			add_accepted_culture = guarani
+			add_accepted_culture = platinean
 			set_country_flag = peru_bolivia_unified
 		}
 	}

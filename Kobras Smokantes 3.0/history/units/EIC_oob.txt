@@ -28,42 +28,66 @@ leader = {
 }
 
 army = {
-	name = "Ej�rcito de Colombia"
-	location = 2253
+	name = "Armies of the Sheikhs"
+	location = 1251
 	regiment = {
-		name= "1. Brigada de Infanter�a"
+		name= "1.al Nahyah"
 		type = artillery
-		home = 2247
+		home = 1251
 	}
 
 	regiment = {
-		name= "2. Brigada de Infanter�a"
+		name= "1.al Nahyah"
 		type = artillery
-		home = 2252
+		home = 1251
 	}
 
 	regiment = {
-		name= "3. Brigada de Infanter�a"
+		name= "1.al Nahyah"
 		type = artillery
-		home = 2254
+		home = 1251
 	}
 
 	regiment = {
-		name= "2. Brigada de Infanter�a"
+		name= "1.al Nahyah"
 		type = artillery
-		home = 2252
+		home = 1253
 	}
 
 	regiment = {
-		name= "3. Brigada de Infanter�a"
+		name= "1.al Nahyah"
 		type = artillery
-		home = 2254
+		home = 1253
 	}
 
 	regiment = {
-		name= "1. Brigada de Caballer�a"
+		name= "1.al Nahyah"
 		type = hussar
-		home = 2250
+		home = 1255
 	}
 
+	regiment = {
+		name= "1.al Nahyah"
+		type = infantry
+		home = 1256
+	}
+
+	regiment = {
+		name= "1.al Nahyah"
+		type = infantry
+		home = 1254
+	}
+
+	regiment = {
+		name= "1.al Nahyah"
+		type = infantry
+		home = 1254
+	}
+
+	regiment = {
+		name= "1.al Nahyah"
+		type = infantry
+		home = 1257
+	}
 }
+

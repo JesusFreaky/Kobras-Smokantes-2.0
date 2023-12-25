@@ -180,10 +180,8 @@ conquest = {
 				civilized = no
 				number_of_states = 3
 				THIS = {
-					OR = {
-						NOT = { is_greater_power = yes }
-						NOT = { nationalism_n_imperialism = 1 }
-					}
+					NOT = { is_greater_power = yes }
+					NOT = { nationalism_n_imperialism = 0 }
 				}
 			}
 		}
@@ -1811,13 +1809,24 @@ conquest_low = {
 				civilized = no
 				number_of_states = 2
 				THIS = {
-					OR = {
-						NOT = { is_greater_power = yes }
-						NOT = { nationalism_n_imperialism = 1 }
-					}
+					NOT = { is_greater_power = yes }
+					NOT = { nationalism_n_imperialism = 0 }
 				}
 			}
 		}
+	}
+
+conquest_tiny = {
+	sprite_index = 2
+	is_triggered_only = yes
+	months = 12
+	crisis = no
+	
+	can_use = {
+		NOT = {	total_pops = 1000000 }
+		NOT = { is_our_vassal = THIS }
+		# only one state or unciv
+		NOT = { number_of_states = 2 }
 	}
 
 	badboy_factor = 1.0

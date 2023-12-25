@@ -1,94 +1,85 @@
-#Relations
-USA = {
-	value = 75		#relation
+# 5 A 5 D
+leader = {
+	name = "ElFather"
+	date = 1835.1.1
+	type = land
+	personality = implacable
+	background = cursed_luck
+	prestige = 0.6
 }
 
 army = {
 	name = "Army of the Sultan of Morocco"
 	location = 1681
 	regiment = {
-		name= "1. Infantry Brigade 'Askäria'"
-		type = irregular
+		name= "1. Infantry Brigade 'Askï¿½ria'"
+		type = cavalry
 		home = 1680
 	}
 
 	regiment = {
 		name= "2. Infantry Brigade"
-		type = irregular
+		type = cavalry
 		home = 1681
 	}
 
 	regiment = {
 		name= "3. Infantry Brigade"
-		type = irregular
+		type = cavalry
 		home = 1682
 	}
 
-}
-
-army = {
-	name = "Army of the Atlas"
-	location = 1684
 	regiment = {
 		name= "4. Infantry Brigade 'Ait 'Atta'"
-		type = irregular
+		type = cavalry
 		home = 1683
 	}
 
 	regiment = {
 		name= "5. Infantry Brigade"
-		type = irregular
+		type = cavalry
 		home = 1688
 	}
 
 	regiment = {
 		name= "6. Infantry Brigade 'Ait Mnad'"
-		type = irregular
+		type = cavalry
 		home = 1694
 	}
-}
 
-army = {
-	name = "Army of Sahara"
-	location = 1698
 	regiment = {
 		name= "7. Infantry Brigade 'Dawi Mani'"
-		type = irregular
+		type = cavalry
 		home = 1690
 	}
 
 	regiment = {
 		name= "8. Infantry Brigade 'Sahrawi'"
-		type = irregular
+		type = cavalry
 		home = 2563
 	}
 
 	regiment = {
 		name= "9. Infantry Brigade"
-		type = irregular
+		type = cavalry
 		home = 1691
 	}
 
-}
-
-army = {
-	name = "Army of the Rif"
-	location = 1686
 	regiment = {
 		name= "10. Infantry Brigade"
-		type = irregular
+		type = cavalry
 		home = 1686
 	}
 
 	regiment = {
 		name= "11. Infantry Brigade"
-		type = irregular
+		type = cavalry
 		home = 1687
 	}
 
 	regiment = {
 		name= "12. Infantry Brigade"
-		type = irregular
+		type = cavalry
 		home = 1685
 	}
 

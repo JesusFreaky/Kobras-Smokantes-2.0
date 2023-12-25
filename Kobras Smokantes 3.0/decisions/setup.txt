@@ -29,7 +29,7 @@ political_decisions = {
 							has_pop_culture = hui
 						}
 					}
-					reduce_pop = 0.30
+					reduce_pop = 0.45
 				}
 			}
 
@@ -118,7 +118,7 @@ political_decisions = {
 							has_pop_culture = wallonian
 						}
 					}
-					reduce_pop = 1.15
+					reduce_pop = 1.30
 				}
 			}
 

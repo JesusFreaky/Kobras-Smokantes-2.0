@@ -148,6 +148,11 @@ army = {
 		home = 1415
 	}
 
+	regiment = {
+		name = "Banisaren Korps"
+		type = artillery
+		home = 1415
+	}	
 }
 
 navy = {
@@ -184,99 +189,100 @@ navy = {
 	}
 
 	ship = {
-		name= "Pallas"
+		name= "royal marine 1"
 		type = frigate
 	}
 
 	ship = {
-		name= "Proserpine"
+		name= "royal marine 2"
 		type = frigate
 	}
 
 	ship = {
-		name= "Daphne"
+		name= "royal marine 3"
 		type = frigate
 	}
 
 	ship = {
-		name= "Espion"
+		name= "royal marine 4"
 		type = frigate
 	}
 
 	ship = {
-		name= "Zeepaard"
+		name= "royal marine 5"
 		type = frigate
 	}
 
 	ship = {
-		name= "Irene"
+		name= "royal marine 6"
 		type = frigate
 	}
 
 	ship = {
-		name= "Orpheus"
+		name= "royal marine 7"
 		type = frigate
 	}
 
 	ship = {
-		name= "Aurora"
+		name= "royal marine 8"
 		type = frigate
 	}
 
 	ship = {
-		name= "Iris"
+		name= "royal marine 9"
 		type = frigate
 	}
 
 	ship = {
-		name= "Fenix"
+		name= "royal marine 10"
 		type = frigate
 	}
 
 	ship = {
-		name= "Eendracht"
+		name= "royal marine 11"
 		type = frigate
 	}
 
 	ship = {
-		name= "Diana"
+		name= "royal marine 12"
 		type = frigate
 	}
 
 	ship = {
-		name= "Hoop"
+		name= "royal marine 13"
 		type = frigate
 	}
 
 	ship = {
-		name= "Aurora"
+		name= "royal marine 14"
 		type = frigate
 	}
 
 	ship = {
-		name= "Iris"
+		name= "royal marine 15"
 		type = frigate
 	}
 
 	ship = {
-		name= "Fenix"
+		name= "royal marine 16"
 		type = frigate
 	}
 
 	ship = {
-		name= "Eendracht"
+		name= "royal marine 17"
 		type = frigate
 	}
 
 	ship = {
-		name= "Diana"
+		name= "royal marine 18"
 		type = frigate
 	}
 
 	ship = {
-		name= "Hoop"
+		name= "royal marine 19"
 		type = frigate
 	}
+
 
 	ship = {
 		name= "3e Transport Eskader"
@@ -294,37 +300,37 @@ navy = {
 	}
 
 	ship = {
-		name= "3e Transport Eskader"
+		name= "4e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "2e Transport Eskader"
+		name= "5e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "1e Transport Eskader"
+		name= "6e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "3e Transport Eskader"
+		name= "7e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "2e Transport Eskader"
+		name= "8e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "1e Transport Eskader"
+		name= "9e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "1e Transport Eskader"
+		name= "10e Transport Eskader"
 		type = clipper_transport
 	}
 }

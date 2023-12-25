@@ -142,36 +142,6 @@ army = {
 
 }
 
-army = {
-	name = "2nd Army"
-	location = 144
-	regiment = {
-		name= "2nd Regiment of Artillery"
-		type = infantry
-		home = 234
-	}
-	
-	regiment = {
-		name= "7th Regiment of Infantry"
-		type = infantry
-		home = 238
-	}
-
-	regiment = {
-		name= "8th Regiment of Infantry"
-		type = infantry
-		home = 226
-	}
-
-	regiment = {
-		name= "9th Regiment of Infantry"
-		type = infantry
-		home = 247
-	}
-	
-
-}
-
 
 navy = {
 	name = "1st Fleet"

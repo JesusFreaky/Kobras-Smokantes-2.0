@@ -264,7 +264,7 @@ machine_parts_factory = {
 		coal = 5		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
-	value = 2			#73
+	value = 1			#73
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.125
@@ -849,7 +849,7 @@ silkworm_ranch = {
 sulphur_mine = {
 	template = RGO_template_labourers
 	output_goods = sulphur 
-	value = 2.4
+	value = 2
 	mine = yes
 }
 
@@ -1007,7 +1007,7 @@ artisan_machine_parts = {
 		coal = 5		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
-	value = 2			#73
+	value = 1		#73
 	
 	owner = {
 		poptype = artisan 
@@ -1106,7 +1106,7 @@ artisan_steel = {
 	}
 	
 	output_goods = steel 		#94 
-	value = 20
+	value = 12
 	
 	owner = {
 		poptype = artisan 
@@ -1257,7 +1257,7 @@ artisan_ammunition = {
 		iron = 5		#17.5	total input+maint = 44
 	}
 	output_goods = ammunition 
-	value = 3			#52.5
+	value = 2.5			#52.5
 	
 	owner = {
 		poptype = artisan 

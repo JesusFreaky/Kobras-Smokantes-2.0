@@ -29,28 +29,28 @@ leader = {
 
 army = {
 	name = "1st Army"
-	location = 322
+	location = 326
 	regiment = {
 		name= "Svea Livgarde"
-		type = guard
+		type = infantry
 		home = 322
 	}
 
 	regiment = {
 		name= "S�dermanlands Regemente"
-		type = guard
+		type = infantry
 		home = 326
 	}
 
 	regiment = {
 		name= "F�rsta Livgrenadj�rregementet"
-		type = guard
+		type = infantry
 		home = 325
 	}
 
 	regiment = {
 		name= "Upplands Regemente"
-		type = guard
+		type = infantry
 		home = 324
 	}
 
@@ -97,79 +97,76 @@ navy = {
 	location = 322
 	ship = {
 		name= "Karl XIII"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Karl XIV Johan"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "F�derneslandet"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Manligheten"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Manligheten"
-		type = manowar
+		type = frigate
 	}
 
-
 	ship = {
-		name= "Camilla"
+		name= "3e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "Af Chapman"
+		name= "2e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "Eurydice"
+		name= "1e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "Galatea"
-		type = clipper_transport
-	}
-
-
-	ship = {
-		name= "1st Transport Flotilla"
+		name= "4e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "2nd Transport Flotilla"
+		name= "5e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-
-	ship = {
-		name= "1st Transport Flotilla"
+		name= "6e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "2nd Transport Flotilla"
+		name= "7e Transport Eskader"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "3rd Transport Flotilla"
+		name= "8e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10e Transport Eskader"
 		type = clipper_transport
 	}
 
