@@ -4,8 +4,3 @@ add_core = PRU
 add_core = GER
 trade_goods = coal
 life_rating = 45
-state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
-}

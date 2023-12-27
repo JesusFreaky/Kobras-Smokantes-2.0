@@ -22,7 +22,7 @@ party = {
 
 	ideology = conservative
 
-	economic_policy = interventionism
+	economic_policy = state_capitalism
 	trade_policy = free_trade
 	religious_policy = moralism
 	citizenship_policy = limited_citizenship

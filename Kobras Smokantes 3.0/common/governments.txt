@@ -56,7 +56,20 @@ absolute_monarchy = {
 	appoint_ruling_party = yes
 	flagType = monarchy
 }
- 
+
+constitutionalist_monarchy = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+	
+	
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+	flagType = monarchy
+}
+
 prussian_constitutionalism = {
 	liberal = yes
 	socialist = yes

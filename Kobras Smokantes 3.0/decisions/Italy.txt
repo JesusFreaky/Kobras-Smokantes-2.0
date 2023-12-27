@@ -23,10 +23,6 @@ political_decisions = {
 			}
 		}
 		allow = {
-			relation = {
-				who = FRA
-				value = 150
-			}
 			owns = 726
 			owns = 727
 			owns = 728
@@ -35,10 +31,6 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			badboy = -10
-			relation = {
-				who = FRA
-				value = 50
-			}
 			726 = {
 				add_core = SAR
 			}
@@ -80,12 +72,12 @@ political_decisions = {
 		}
 
 		allow = {
+			ideological_thought = 1
 			prestige = 25
 		}
 
 		effect = {
-			years_of_research = 0.02
-			prestige = 2
+			years_of_research = 0.6
 			set_country_flag = order_awarded
 		}
 	}
