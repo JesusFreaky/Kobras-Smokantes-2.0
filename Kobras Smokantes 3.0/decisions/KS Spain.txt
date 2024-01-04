@@ -64,4 +64,42 @@ political_decisions = {
 			CAT = { all_core = { remove_core = CAT } }
 		}
 	}
+
+	Vice_Royalty_of_Gran_Colombia = {
+		potential = {
+			OR = {
+				tag = SPA
+				tag = IBR
+			}
+			NOT = { has_country_flag = SPACol }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+			COL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			VNZ = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			set_country_flag =  SPACol
+			add_accepted_culture =  north_andean
+	}
 }

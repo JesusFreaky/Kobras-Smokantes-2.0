@@ -200,13 +200,6 @@ FRA = {
 	value = 0
 }
 
-DEN = {
-
-	value = 49
-	level = 4
-	influence_value = 25
-
-}
 
 # +2 A +3 D
 leader = {

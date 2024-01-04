@@ -1798,7 +1798,7 @@ conquest_low = {
 		OR = {
 			AND = {
 				civilized = yes
-				NOT = { number_of_states = 4 }
+				NOT = { number_of_states = 3 }
 			}
 			AND = {
 				civilized = no
@@ -1814,7 +1814,36 @@ conquest_low = {
 				}
 			}
 		}
+
+	badboy_factor = 1.0
+	prestige_factor = 5
+	peace_cost_factor = 1
+	penalty_factor = 1
+	
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 48
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+	
+	construction_speed = 0.8
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
 	}
+	
+	po_annex = yes
+	
+	war_name = WAR_CONQUEST_NAME
+
+}
 
 conquest_tiny = {
 	sprite_index = 2
@@ -1829,7 +1858,7 @@ conquest_tiny = {
 		NOT = { number_of_states = 2 }
 	}
 
-	badboy_factor = 1.0
+	badboy_factor = 0.5
 	prestige_factor = 5
 	peace_cost_factor = 1
 	penalty_factor = 1
