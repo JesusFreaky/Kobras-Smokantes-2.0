@@ -10,6 +10,7 @@ political_decisions = {
 			}
 		}
 		allow = {
+			year = 1840
 			war = no
 			GER = {
 				all_core = {
