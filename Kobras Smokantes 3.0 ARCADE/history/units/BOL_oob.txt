@@ -1,0 +1,73 @@
+# +2 A +3 D
+leader = {
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
+}
+
+leader = {
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
+	prestige = 0.1
+}
+
+army = {
+	name = "Ej�rcito de Bolivia"
+	location = 2313 #Chuquisaca (Sucre)
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = artillery
+		home = 2313
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 2310
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = artillery
+		home = 2311
+	}
+
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = artillery
+		home = 2310
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 2311
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = hussar
+		home = 2313
+	}
+}
+
+PEU=
+	{
+		value=200
+	}

@@ -1,0 +1,14 @@
+political_decisions = {
+  integrate_the_bengali = {
+    potential = {
+      tag = EIC
+      NOT = { has_country_flag = indian_gurkhas }
+    }
+    allow = {
+    }
+    effect = {
+      add_accepted_culture = bengali
+      set_country_flag = indian_gurkhas
+    }
+  }
+}

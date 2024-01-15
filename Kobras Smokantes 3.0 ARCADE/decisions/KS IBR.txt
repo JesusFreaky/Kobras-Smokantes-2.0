@@ -1,0 +1,57 @@
+political_decisions = {
+
+
+	ibr_take_aragonese_Italy = {
+		potential = {
+			tag = IBR
+			NOT = { has_country_flag = IBRex1 }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+		}
+		effect = {
+			SIC_762 = { add_core = THIS }
+			SIC_763 = { add_core = THIS }
+			SIC_764 = { add_core = THIS }
+			SAR_766 = { add_core = THIS }
+			SAR_765 = { add_core = THIS }	
+			set_country_flag = IBRex1
+		}
+	}
+
+	ibr_conquest_of_Naples = {
+		potential = {
+			tag = IBR
+			NOT = { has_country_flag = IBRex2 }
+		}
+		allow = {
+			has_country_flag = IBRex1
+			war = no
+		}
+		effect = {
+			SIC = { all_core = { add_core = IBR } }
+			set_country_flag = IBRex2
+		}
+	}
+
+	ibr_Integration_Of_The_Sicilians = {
+		potential = {
+			tag = IBR
+			NOT = { has_country_flag = IBRint1 }
+		}
+		allow = {
+			SPA = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			is_greater_power = yes
+			has_country_flag = IBRex2
+		}
+		effect = {
+			add_accepted_culture = south italian
+			set_country_flag = IBRint1
+		}
+	}
+}

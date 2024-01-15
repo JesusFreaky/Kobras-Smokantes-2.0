@@ -1,0 +1,117 @@
+political_decisions = {
+
+	construct_the_walhalla = {
+		potential = {
+			OR = {
+				tag = BAV
+				tag = SGF
+				tag = GER
+			}
+			owns = 602
+			NOT = {
+				has_global_flag = the_walhalla_is_built
+			}
+		}
+
+		allow = {
+			romanticism = 1
+		}
+
+		effect = {
+			602 = {
+				add_province_modifier = {
+					name = the_walhalla
+					duration = -1
+				}
+			}
+			set_global_flag = the_walhalla_is_built
+		}
+	}
+
+	von_moltkes_staff_reforms = {
+		potential = {
+			OR = {
+				tag = PRU
+				tag = GER
+				tag = NGF
+			}
+			NOT = {
+				has_country_flag = von_moltke
+			}
+		}
+		allow = {
+			army_decision_making = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = prussian_general_staff
+				duration = 10950
+			}
+			prestige = 5
+			set_country_flag = von_moltke
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = no
+			}
+		}
+	}
+
+	the_ruhr_boom = {
+		potential = {
+			OR = {
+				tag = PRU
+				tag = GER
+				tag = NGF
+			}
+			owns = 578
+			owns = 2561
+			owns = 575
+			NOT = {
+				has_global_flag = ruhr_boom_has_happened
+			}
+		}
+
+		allow = {
+			market_structure = 1
+			organized_factories = 1
+			early_railroad = 1
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = ruhr_boom
+				duration = 3650
+			}
+			set_global_flag = ruhr_boom_has_happened
+		}
+	}
+
+	grossgermanium = {
+		potential = {
+			tag = GER
+			NOT = { has_country_flag = greater_germany }
+		}
+		allow = {
+
+			OR = {
+				AUS = { all_core = { NOT = { owned_by = AUS } } }
+				KUK = { all_core = { NOT = { owned_by = KUK } } }
+			}
+			owns = 629
+			owns = 619
+			owns = 613
+		}
+		effect = {
+			badboy = 15
+			AUS_627 = { add_core = GER }
+			AUS_612 = { add_core = GER }
+			AUS_619 = { add_core = GER }
+			AUS_734 = { add_core = GER }
+			prestige = 25
+			set_country_flag = greater_germany
+		}
+	}
+}

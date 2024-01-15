@@ -1,0 +1,119 @@
+# +2 A +3 D
+leader = {
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
+}
+
+leader = {
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
+	prestige = 0.1
+}
+
+army = {
+	name = "Ej�rcito del Norte"
+	location = 2146
+	regiment = {
+		name= "1.Division Cos"
+		type = artillery
+		home = 2174
+	}
+
+	regiment = {
+		name= "2.Division Cos"
+		type = artillery
+		home = 2174
+	}
+
+	regiment = {
+		name= "3.Division Cos"
+		type = artillery
+		home = 2174
+	}
+	
+	regiment = {
+		name= "1.Oajaca y Tlaxcala"
+		type = artillery
+		home = 2177
+	}
+
+	regiment = {
+		name= "2.Oajaca y Tlaxcala"
+		type = artillery
+		home = 2177
+	}
+
+	regiment = {
+		name= "3.Oajaca y Tlaxcala"
+		type = artillery
+		home = 2177
+	}
+
+	regiment = {
+		name= "1.Division Comonfort"
+		type = artillery
+		home = 2176
+	}
+
+	regiment = {
+		name= "2.Division Comonfort"
+		type = artillery
+		home = 2176
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = artillery
+		home = 2176
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = artillery
+		home = 2173
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = hussar
+		home = 2167
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = hussar
+		home = 2172
+	}
+}
+
+navy = {
+	name = "Armada de Mexico"
+	location = 2162
+	ship = {
+		name= "Vencedor del Alamo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Matilda"
+		type = clipper_transport
+	}
+
+}

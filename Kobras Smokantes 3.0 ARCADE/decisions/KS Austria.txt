@@ -1,0 +1,158 @@
+political_decisions = {
+
+	annex_galicia = {
+		potential = {
+			TAG = AUS
+			NOT = {
+				has_country_flag = AUSINT1
+			}
+		}
+		allow = {
+			war = no
+			prestige = 50
+		}
+		effect = {
+			RUT = { annex_to = THIS }
+			prestige = 15
+			badboy = 15
+			set_country_flag = AUSINT1
+		}
+	}
+	
+	hungarian_crown = {
+		potential = {
+			NOT = {
+				OR = {
+					tag = SGF
+					has_country_flag = AUSEMP1
+				}
+			}
+			tag = AUS
+		}
+		allow = {
+			war = no
+			exists = HUN
+			year = 1840
+		}
+		effect = {
+			release_vassal = HUN
+			release_vassal = CRO
+			CRO = {
+				annex_to = HUN
+				all_core = {
+					add_core = HUN
+				}
+			}
+			HUN = {
+				all_core = {
+					add_core = AUS
+				}
+			}
+			set_country_flag = AUSEMP1
+			badboy = 15
+		}
+	}
+
+	austrian_empire = {
+		potential = {
+			tag = AUS
+			has_country_flag = AUSEMP1
+			NOT = {
+				OR = {
+					tag = SGF
+					has_country_flag = AUSEMP2
+				}
+			}
+		}
+		
+		allow = {
+			nationalism_n_imperialism = 1
+			prestige = 50
+			AUS = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+			add_accepted_culture = hungarian
+			add_accepted_culture = slovak
+			add_accepted_culture = slovene
+			add_accepted_culture = croatian
+			set_country_flag = AUSEMP2
+			change_tag = KUK
+			prestige = 50
+		}
+	}
+
+	integrate_romanians = {
+		potential = {
+			tag = KUK
+			NOT = AUSROMINT
+		}
+
+		allow = {
+			war = no
+			revolution_n_counterrevolution = 1
+		}
+		
+		effect = {
+			add_accepted_culture = romanian
+			set_country_flag = KUKROMINT
+		}
+	}
+
+	the_swiss_lands = {
+		potential = {
+			tag = SGF
+			NOT = { has_country_flag = SGFIMP1 }
+			NOT = { has_country_flag = SARex2 }
+		}
+		allow = {
+			prestige = 50
+			all_core = { owned_by = THIS }
+		}
+		effect = {
+			add_accepted_culture = swiss
+			badboy = 10
+			SWI = { all_core = { add_core = SGF } }
+			prestige = -25
+			set_country_flag = SGFIMP1
+		}
+	}
+
+
+	integrate_italia = {
+		potential = {
+			OR = {
+				tag = SGF
+			}
+			NOT = { has_country_flag = AUSITAint }
+			NOT = { has_country_flag = SARex2 }
+		}
+		allow = {
+			war = no
+			all_core = { owned_by = THIS }
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			add_accepted_culture = north_italian
+			VEN = { all_core = { add_core = SGF } }
+			LOM = { all_core = { add_core = SGF } }
+			SAR_720 = { add_core = SGF }
+			SAR_466 = { add_core = SGF }
+
+			set_country_flag = AUSITAint
+			any_country = {
+				limit = {
+					OR = { 
+						primary_culture = north_italian
+						tag = PAP
+					}
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+				annex_to = THIS
+			}
+		}
+	}
+}

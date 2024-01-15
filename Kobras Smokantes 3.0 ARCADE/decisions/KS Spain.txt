@@ -1,0 +1,103 @@
+political_decisions = {
+
+	claim_pyrenees = {
+		potential = {
+			tag = SPA
+			NOT = { has_country_flag = pyrenees_claimed }
+		}
+		
+		allow = {
+			owns = 460
+			owns = 464
+		}
+
+		effect = {
+			FRA_464 = { add_core = THIS }
+			set_country_flag = pyrenees_claimed
+			prestige = 5
+		}
+	}
+
+	Empire_Of_Iberia = {
+		potential = {
+			is_culture_group = iberian
+			NOT = { has_country_flag = Iberian_Empire_Formed }
+		}
+
+		allow = {
+			POR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			SPA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			prestige = 25
+			change_tag = IBR
+			set_country_flag = Iberian_Empire_Formed
+			add_accepted_culture = portuguese
+			add_accepted_culture = spanish
+			add_accepted_culture = catalan
+			add_accepted_culture = caribeno
+			inherit = SPA
+			inherit = POR
+			IBR = { add_core = 517 }
+			IBR = { all_core = { remove_core = SPA } }
+			IBR = { all_core = { remove_core = POR } }
+			CAT = { all_core = { remove_core = CAT } }
+		}
+	}
+
+	Vice_Royalty_of_Gran_Colombia = {
+		potential = {
+			OR = {
+				tag = SPA
+				tag = IBR
+			}
+			NOT = { has_country_flag = SPACol }
+		}
+
+		allow = {
+			COL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			VNZ = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			set_country_flag =  SPACol
+			add_accepted_culture =  north_andean
+	}
+}

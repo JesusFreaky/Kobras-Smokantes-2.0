@@ -1,0 +1,174 @@
+# +2 A +3 D
+leader = {
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
+}
+
+leader = {
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
+	prestige = 0.1
+}
+
+army = {
+	name = "1st Army"
+	location = 326
+	regiment = {
+		name= "Svea Livgarde"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "S�dermanlands Regemente"
+		type = infantry
+		home = 326
+	}
+
+	regiment = {
+		name= "F�rsta Livgrenadj�rregementet"
+		type = infantry
+		home = 325
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 324
+	}
+
+	regiment = {
+		name= "V�stg�ta Regemente"
+		type = hussar
+		home = 330
+	}
+
+	regiment = {
+		name= "Kalmar Regemente"
+		type = artillery
+		home = 332
+	}
+
+	regiment = {
+		name= "J�nk�pings Regemente"
+		type = artillery
+		home = 333
+	}
+
+	regiment = {
+		name= "S�dra Sk�nska Infanteriregementet"
+		type = artillery
+		home = 334
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = artillery
+		home = 335
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = artillery
+		home = 321
+	}
+
+}
+
+navy = {
+	name = "Swedish Navy"
+	location = 322
+	ship = {
+		name= "Karl XIII"
+		type = frigate
+	}
+
+	ship = {
+		name= "Karl XIV Johan"
+		type = frigate
+	}
+
+	ship = {
+		name= "F�derneslandet"
+		type = frigate
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = frigate
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = frigate
+	}
+
+	ship = {
+		name= "3e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9e Transport Eskader"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10e Transport Eskader"
+		type = clipper_transport
+	}
+
+}
+

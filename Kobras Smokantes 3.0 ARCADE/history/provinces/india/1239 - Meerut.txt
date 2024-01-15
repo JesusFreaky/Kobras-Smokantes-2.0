@@ -1,0 +1,7 @@
+owner = AWA
+controller = AWA
+add_core = MUG
+add_core = HND
+add_core = AWA
+trade_goods = grain
+life_rating = 32

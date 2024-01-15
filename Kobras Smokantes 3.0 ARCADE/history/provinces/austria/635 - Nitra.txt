@@ -1,0 +1,15 @@
+owner = HUN
+controller = HUN
+add_core = HUN
+trade_goods = iron
+life_rating = 32
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}

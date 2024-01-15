@@ -1,0 +1,125 @@
+political_decisions = {
+	cavours_diplomacy = {
+		potential = {
+			OR = {
+				AND = {
+					tag = ITA
+					NOT = { exists = SAR }
+				}
+				AND = {
+					tag = SAR
+					NOT = { exists = ITA }
+				}
+			}
+			NOT = {
+				has_country_flag = cavour_has_done_his
+			}
+			owns = 465
+			owns = 466
+			owns = 472
+			FRA = {
+				exists = yes
+				is_greater_power = yes
+			}
+		}
+		allow = {
+			owns = 726
+			owns = 727
+			owns = 728
+		}
+
+		effect = {
+			prestige = 20
+			badboy = -10
+			726 = {
+				add_core = SAR
+			}
+			727 = {
+				add_core = SAR
+			}
+			728 = {
+				add_core = SAR
+			}
+			465 = {
+				remove_core = ITA
+				remove_core = SAR
+				add_core = FRA
+				secede_province = FRA
+			}
+			466 = {
+				remove_core = ITA
+				remove_core = SAR
+				add_core = FRA
+				secede_province = FRA
+			}
+			472 = {
+				remove_core = ITA
+				remove_core = SAR
+				add_core = FRA
+				secede_province = FRA
+			}
+			set_country_flag = cavour_has_done_his
+		}
+	}
+
+	award_order_of_st_francis = {
+		potential = {
+			tag = SIC
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = order_awarded
+			}
+		}
+
+		allow = {
+			ideological_thought = 1
+			prestige = 25
+		}
+
+		effect = {
+			years_of_research = 0.6
+			set_country_flag = order_awarded
+		}
+	}
+
+	statuto_albertino = {
+		potential = {
+			tag = SAR
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = get_your_statuto_albertino_here
+			}
+		}
+
+		allow = {
+			average_militancy = 3
+		}
+
+		effect = {
+			any_pop = {
+				militancy = -2
+			}
+			prestige = 5
+			set_country_flag = get_your_statuto_albertino_here
+		}
+	}
+
+	law_of_guarantees = {
+		potential = {
+			tag = ITA
+			NOT = {
+				capital = 749
+			}
+		}
+
+		allow = {
+			owns = 749
+		}
+
+		effect = {
+			capital = 749
+			prestige = 5
+			badboy = -2
+		}
+	}
+}

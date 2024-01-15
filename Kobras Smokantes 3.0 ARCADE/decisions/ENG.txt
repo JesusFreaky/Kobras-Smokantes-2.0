@@ -1,0 +1,61 @@
+political_decisions = {
+
+	annex_australia = {
+		potential = {
+			tag = ENG
+			AST = {
+				ai = yes
+			}
+			NOT = { year = 1848 }
+		}
+		allow = {
+
+		}	
+		effect = {
+			AST = { annex_to = THIS }
+			badboy = 5
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	annex_new_zealand = {
+		potential = {
+			tag = ENG
+			NZL = {
+				ai = yes
+			}
+			NOT = { year = 1848 }
+		}
+		allow = {
+		}
+		effect = {
+			NZL = { annex_to = THIS }
+			badboy = 5
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	annex_canada = {
+		potential = {
+			tag = ENG
+			CAN = {
+				ai = yes
+			}
+			NOT = { year = 1848 }
+		}
+		allow = {
+
+		}
+		effect = {
+			CAN = { annex_to = THIS }
+			badboy = 15
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

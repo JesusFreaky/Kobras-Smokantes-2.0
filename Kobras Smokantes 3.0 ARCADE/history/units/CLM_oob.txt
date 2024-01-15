@@ -1,0 +1,69 @@
+# +2 A +3 D
+leader = {
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
+}
+
+leader = {
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
+	prestige = 0.1
+}
+
+army = {
+	name = "Ej�rcito de Colombia"
+	location = 2253
+	regiment = {
+		name= "1. Brigada de Infanter�a"
+		type = artillery
+		home = 2247
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanter�a"
+		type = artillery
+		home = 2252
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanter�a"
+		type = artillery
+		home = 2254
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanter�a"
+		type = artillery
+		home = 2252
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanter�a"
+		type = artillery
+		home = 2254
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballer�a"
+		type = hussar
+		home = 2250
+	}
+
+}

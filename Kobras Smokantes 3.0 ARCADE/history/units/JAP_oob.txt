@@ -1,0 +1,216 @@
+# +2 A +3 D
+leader = {
+	name = "Jonas Desaparecido"
+	date = 1801.1.1
+	type = land
+	personality = relentless
+	background = school_of_defense
+	prestige = 0.4
+}
+
+# +3 A +2 D
+leader = {
+	name = "JesusFreakk"
+	date = 1814.1.1
+	type = land
+	personality = merciless
+	background = war_college
+	prestige = 0.3
+}
+
+leader = {
+	name = "Viont"
+	date = 1835.1.1
+	type = sea
+	personality = harsh
+	background = school_of_offense
+	prestige = 0.1
+}
+
+army = {
+	name = "Army of Daimyo Mori"
+	location = 1640
+	regiment = {
+		name= "1.Choshu"
+		type = cavalry
+		home = 1640
+	}
+
+	regiment = {
+		name= "2.Choshu"
+		type = cavalry
+		home = 1638
+	}
+
+	regiment = {
+		name= "3.Choshu"
+		type = cavalry
+		home = 1641
+	}
+
+	regiment = {
+		name= "1.Edo"
+		type = cavalry
+		home = 1650
+	}
+
+	regiment = {
+		name= "2.Edo"
+		type = cavalry
+		home = 1649
+	}
+
+	regiment = {
+		name= "3.Edo"
+		type = cavalry
+		home = 1652
+	}
+
+}
+
+army = {
+	name = "Army of Daimyo Shimazu"
+	location = 1662
+	regiment = {
+		name= "1.1 Satsuma"
+		type = cavalry
+		home = 1662
+	}
+
+	regiment = {
+		name= "2.1 Satsuma"
+		type = cavalry
+		home = 1660
+	}
+
+	regiment = {
+		name= "3.1 Satsuma"
+		type = cavalry
+		home = 1661
+	}
+
+}
+
+army = {
+	name = "Army of Daimyo Yamanuchi"
+	location = 1665
+	regiment = {
+		name= "1.Tosa"
+		type = cavalry
+		home = 1665
+	}
+
+	regiment = {
+		name= "2.Tosa"
+		type = cavalry
+		home = 1667
+	}
+
+	regiment = {
+		name= "3.Tosa"
+		type = cavalry
+		home = 1666
+	}
+
+}
+
+army = {
+	name = "Army of Daimyo Date"
+	location = 1668
+	regiment = {
+		name= "1.Sendai"
+		type = cavalry
+		home = 1668
+	}
+
+	regiment = {
+		name= "2.Sendai"
+		type = cavalry
+		home = 1673
+	}
+
+	regiment = {
+		name= "3.Sendai"
+		type = cavalry
+		home = 1669
+	}
+
+}
+
+army = {
+	name = "Army of Daimyo Maeda"
+	location = 1646
+	regiment = {
+		name= "1.Kaga"
+		type = cavalry
+		home = 1645
+	}
+
+	regiment = {
+		name= "2.Kaga"
+		type = cavalry
+		home = 1675
+	}
+
+	regiment = {
+		name= "3.Kaga"
+		type = cavalry
+		home = 1677
+	}
+
+}
+
+navy = {
+	name = "Imperial Fleet"
+	location = 1657
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1 Yusosentai"
+		type = clipper_transport
+	}
+}
+

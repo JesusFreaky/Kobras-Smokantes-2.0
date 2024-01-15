@@ -1,0 +1,118 @@
+political_decisions = {
+	
+	The_Dual_Monarchy = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = Eagle_Rise }
+			NOT = { has_country_flag = The_Dual_Monarchy }
+		}
+		allow = {
+			war = no
+			is_greater_power = yes
+			prestige = 120
+			ENG_300 = { owned_by = THIS }
+			ENG_296 = { owned_by = THIS }
+		}
+		effect = {
+			ENG_300 = { add_core = THIS }
+			ENG_296 = { add_core = THIS }
+			ENG_284 = { add_core = THIS }
+			ENG_291 = { add_core = THIS }
+			set_country_flag = The_Dual_Monarchy
+		}
+	}
+
+	Frank_English_Union = {
+		potential = {
+			tag = FRA
+			has_country_flag = The_Dual_Monarchy
+			NOT = { has_country_flag = DUALUNION }
+		}
+		allow = {
+			war = no
+			FRA = { all_core = { owned_by = THIS }}
+		}
+		effect = {
+			set_country_flag = DUALUNION
+			add_accepted_culture = Britsh
+			ENG_273 = { add_core = THIS }
+			ENG_277 = { add_core = THIS }
+			ENG_280 = { add_core = THIS }
+		}
+	}
+	The_Eagle_Rises = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = Eagle_Rise }
+			NOT = { has_country_flag = The_Dual_Monarchy }
+		}
+		allow = {
+			war = no
+			is_greater_power = yes
+			prestige = 120
+			BEL = { all_core = { owned_by = THIS } }
+			LUX = { all_core = { owned_by = THIS } } 
+		}
+		effect = {
+			BEL = { all_core = { add_core = THIS } }
+			LUX = { all_core = { add_core = THIS } }
+			NET_381 = { add_core = THIS }
+			set_country_flag = Eagle_Rise
+		}
+	}
+	
+	The_Alps_question = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = INTfra1 }
+			has_country_flag = { Eagle_Rise }
+		}
+		allow = {
+			FRA = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+		}
+		effect = {
+			add_accepted_culture = wallonian
+			add_accepted_culture = flemish
+			set_country_flag = INTfra1
+		}
+	}
+
+	FRA_Two_Cultures_One_Country = {
+
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = INTfra2 }
+		}
+
+		allow = {
+			all_core = { owned_by = THIS }
+			war = no 
+		}
+
+		effect = {
+			add_accepted_culture = occitan
+			set_country_flag = INTfra2
+		}
+	}
+	New_Frontiers = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = RTRhine }
+		}
+		allow = {
+			PRU_572 = { owned_by = THIS }
+		}
+		effect = {
+			FRA = { add_core = 570 }
+			FRA = { add_core = 571 }
+			FRA = { add_core = 572 }
+			FRA = { add_core = 573 }
+			FRA = { add_core = 574 }
+			FRA = { add_core = 575 }
+			FRA = { add_core = 576 }
+			FRA = { add_core = 577 }
+			set_country_flag = RTRhine
+		}
+	}
+}

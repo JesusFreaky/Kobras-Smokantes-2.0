@@ -1,0 +1,219 @@
+political_decisions = {
+    ENG_Three_Cultures_One_Country = {
+
+		potential = {
+			tag = ENG
+			NOT = { has_country_flag = ENGint1 }
+		}
+
+		allow = {
+			all_core = { owned_by = THIS }
+			war = no 
+		}
+
+		effect = {
+			add_accepted_culture = irish
+			set_country_flag = ENGint1
+		}
+	}
+
+    End_Of_The_Dutch_Partnership = {
+        potential = {
+            tag = ENG 
+            NOT = { has_country_flag = ENGexp3 }
+            NOT = { has_country_flag = ENGexp1 }
+        }
+
+        allow = {
+            war = no
+            375 = { owned_by = THIS }
+        }
+
+        effect = {
+            NET_375 = { add_core = THIS }
+            NET_385 = { add_core = THIS }
+            set_country_flag = ENGexp1
+        }
+    }
+
+    Integrate_the_Dutch = {
+        potential = {
+            tag = ENG
+            has_country_flag = ENGexp1
+            NOT = { has_country_flag = ENGint2 }
+            NOT = { has_country_flag = ENGUNION }
+        }
+
+        allow = {
+            war = no
+            all_core = { owned_by = THIS }
+            year = 1852
+        }
+
+        effect = {
+            NET = { all_core = { add_core = THIS } }
+            set_country_flag = ENGint2
+            add_accepted_culture = dutch
+            add_accepted_culture = flemish
+            add_accepted_culture = wallonian
+        }
+    }
+
+    Bring_back_old_rivalries = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = ENGint2 }
+            NOT = { has_country_flag = ENGexp2 }
+            NOT = { has_country_flag = ENGexp3 }
+        }
+
+        allow = {
+            war = no
+            all_core = { owned_by = THIS }
+        }
+
+        effect = {
+            set_country_flag = ENGexp2
+            FRA_418 = { add_core = THIS }
+            FRA_399 = { add_core = THIS }
+        }
+    }
+
+    realize_the_union = {
+        potential = {
+            tag = ENG
+            has_country_flag = ENGexp2
+            NOT = { has_country_flag = ENGint2 }
+            NOT = { has_country_flag = ENGUNION }
+        }
+        allow = {
+            war = no
+            all_core = { owned_by = THIS }
+            FRA_420 = { owned_by = THIS }
+            FRA_435 = { owned_by = THIS }
+            FRA_438 = { owned_by = THIS }
+            FRA_425 = { owned_by = THIS }
+            FRA_404 = { owned_by = THIS }
+        }
+        effect = {
+            set_country_flag = ENGUNION
+            FRA_420 = { add_core = THIS }
+            FRA_435 = { add_core = THIS }
+            FRA_438 = { add_core = THIS }
+            FRA_425 = { add_core = THIS }
+            FRA_404 = { add_core = THIS }
+            FRA_428 = { add_core = THIS }
+            FRA_411 = { add_core = THIS }
+        }
+    }
+
+    Realize_The_Wedding = {
+        potential = {
+            tag = ENG
+            has_country_flag = ENGUNION
+            NOT = { has_country_flag = ENGWEDDING }
+        }
+        allow = {
+            war = no
+            all_core = { owned_by = THIS }
+            FRA = { is_greater_power = 0 }
+        }
+        effect = {
+            set_country_flag = ENGWEDDING
+            add_accepted_culture = French
+        }
+    }
+
+    New_Order = {
+        potential = {
+            tag = ENG
+            has_country_flag = ENGexp1
+            has_country_flag = ENGexp2
+            NOT = { has_country_flag = ENGint2 }
+            NOT = { has_country_flag = ENGUNION }
+            NOT = { has_country_flag = THENEWORDER }
+        }
+
+        allow = {
+            war = no
+            FRA_420 = { owned_by = THIS }
+            FRA_435 = { owned_by = THIS }
+            FRA_438 = { owned_by = THIS }
+            FRA_425 = { owned_by = THIS }
+            FRA_404 = { owned_by = THIS }
+            NET_381 = { owned_by = THIS }
+            BEL = { all_core = { owned_by = THIS } }
+            all_core = { owned_by = THIS }
+        }
+
+        effect = {
+            NET = { all_core = { add_core = THIS } }
+            FRA_420 = { add_core = THIS }
+            FRA_435 = { add_core = THIS }
+            FRA_438 = { add_core = THIS }
+            FRA_425 = { add_core = THIS }
+            FRA_404 = { add_core = THIS }
+            FRA_428 = { add_core = THIS }
+            FRA_411 = { add_core = THIS }
+            set_country_flag = THENEWORDER
+            add_accepted_culture = french
+            add_accepted_culture = dutch
+            add_accepted_culture = flemish
+            add_accepted_culture = wallonian
+        }
+    }
+
+    Take_Control_of_the_North_Sea = {
+        potential = {
+            tag = ENG 
+            NOT = { has_country_flag = ENGexp1 }
+            NOT = { has_country_flag = ENGexp2 }
+            NOT = { has_country_flag = ENGexp3 }
+        }
+
+        allow = {
+            war = no
+            NOR = { 
+                all_core = {
+                     owned_by = THIS
+                }
+            }
+        }
+
+        effect = {
+            NOR = { all_core = { add_core = THIS } }
+            set_country_flag = ENGexp3
+        }
+    }
+
+    The_North_Sea_Empire = {
+        potential = {
+            tag = ENG
+            has_country_flag = ENGexp3 
+            NOT = { has_country_flag =  }
+        }
+
+        allow = {
+            war = no
+            all_core = { owned_by = THIS }
+            DEN = { 
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            SWE = { 
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+        }
+
+        effect = {
+            DEN = { all_core = { add_core = ENG } }
+            SWE = { all_core = { add_core = ENG } }
+            add_accepted_culture = norwegian
+            add_accepted_culture = swedish
+            add_accepted_culture = danish
+        }
+    }
+}

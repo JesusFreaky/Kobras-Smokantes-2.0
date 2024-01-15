@@ -1,0 +1,5 @@
+name = "Kobras Smokantes 3.0 ARCADE"
+path = "mod/Kobras Smokantes 3.0 ARCADE"
+user_dir = "Kobras Smokantes 3. ARCADE"
+replace_path = "movies"
+replace_path = "history"
