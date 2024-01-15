@@ -34,7 +34,7 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = DUALUNION
-			add_accepted_culture = British
+			add_accepted_culture = british
 			ENG_273 = { add_core = THIS }
 			ENG_277 = { add_core = THIS }
 			ENG_280 = { add_core = THIS }
@@ -61,7 +61,7 @@ political_decisions = {
 		}
 	}
 	
-	The_Alps_question = {
+	The_Belgium_question = {
 		potential = {
 			tag = FRA
 			NOT = { has_country_flag = INTfra1 }
