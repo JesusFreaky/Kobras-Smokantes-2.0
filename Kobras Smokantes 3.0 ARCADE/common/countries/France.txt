@@ -31,8 +31,8 @@ party = {
 
 party = {
 	name = "FRA_conservative"
-	start_date = 2000.1.1
-	end_date = 1870.1.1
+	start_date = 1836.1.1
+	end_date = 2000.1.1
 
 	ideology = conservative
 
@@ -40,7 +40,7 @@ party = {
 	trade_policy = free_trade
 	religious_policy = secularized
 	citizenship_policy = full_citizenship
-	war_policy = anti_military
+	war_policy = jingoism
 }
 
 party = {

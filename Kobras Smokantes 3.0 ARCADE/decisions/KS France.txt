@@ -34,7 +34,7 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = DUALUNION
-			add_accepted_culture = Britsh
+			add_accepted_culture = British
 			ENG_273 = { add_core = THIS }
 			ENG_277 = { add_core = THIS }
 			ENG_280 = { add_core = THIS }
