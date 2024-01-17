@@ -3,7 +3,6 @@ political_decisions = {
 	Look_Towards_West = {
 		potential = {
 			OR = {
-				tag = PRU
 				tag = NGF
 			}
 			NOT = {

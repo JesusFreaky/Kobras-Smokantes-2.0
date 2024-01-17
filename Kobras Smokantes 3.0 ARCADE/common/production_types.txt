@@ -430,7 +430,8 @@ clipper_shipyard = {
 
 small_arms_factory = {       
 	template = factory_template
-	input_goods = {        
+	input_goods = {   
+		lumber = 5.0     
 		ammunition = 2.0	#35
 		steel = 3.0		#14.1		total input+maint = 60
 	}
@@ -445,6 +446,10 @@ small_arms_factory = {
 		trigger = { has_building = ammunition_factory }
 		value = 0.1
 	}
+	bonus = {
+		trigger = { has_building = lumber_mill }
+		value = 0.1
+	}
 }
 
 ############# COMMON FACTORIES
@@ -452,8 +457,8 @@ small_arms_factory = {
 furniture_factory = {       
 	template = factory_template
 	input_goods = { 
-		lumber = 20		#20
-		timber = 20		#18		total input+maint = 48
+		lumber = 40		#20
+		#timber = 20		18		total input+maint = 48
 	}
 	output_goods = furniture 
 	value = 12			#58.8
@@ -470,7 +475,7 @@ furniture_factory = {
 paper_mill = {       
 	template = factory_template
 	input_goods = { 
-		timber = 50		#45	total input+maint = 55
+		lumber = 50		#45	total input+maint = 55
 	}
 	output_goods = paper 
 	value = 20			#68
@@ -1140,18 +1145,27 @@ artisan_artillery = {
 artisan_clipper = {       
 	input_goods = {         
 		fabric = 100		#162
-		timber = 100		#90
+		lumber = 80		#90
 		steel = 30		#141		total input+maint = 393
 	}
 	output_goods = clipper_convoy 
 	is_coastal = yes
 	value = 10			#420
-	
+
 	owner = {
 		poptype = artisan 
 		effect = output
 	}
-	
+
+	bonus = {
+		trigger = { has_building = lumber_mill }
+		value = 0.15
+	}
+
+	bonus = {
+		trigger = { trade_goods_in_state = timber }
+		value = 0.15
+	}
 	type = artisan
 	
 
@@ -1180,8 +1194,8 @@ artisan_small_arms = {
        
 artisan_furniture = {       
 	input_goods = { 
-		lumber = 20		#20
-		timber = 20		#18		total input+maint = 48
+		lumber = 40		#20
+		#timber = 20	18		total input+maint = 48
 	}
 	output_goods = furniture 
 	value = 12			#58.8
@@ -1198,7 +1212,7 @@ artisan_furniture = {
 
 artisan_paper = {       
 	input_goods = { 
-		timber = 50		#45	total input+maint = 55
+		lumber = 50		#45	total input+maint = 55
 	}
 	output_goods = paper 
 	value = 20			#68

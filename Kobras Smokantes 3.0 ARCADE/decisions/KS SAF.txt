@@ -1,0 +1,25 @@
+political_decisions = {
+
+	saf_beacon_of_liberty = {
+		potential = {
+			OR = {
+				tag = NET
+				tag = TRN
+				tag = ORA
+			}
+			NOT = { has_country_flag = african_acceptance }
+		}
+		allow = {
+			owns = 2113
+			owns = 2101
+			owns = 2105
+			owns = 2096
+			owns = 2087
+		}
+		effect = {
+			add_accepted_culture = boer
+			add_accepted_culture = zulu
+			set_country_flag = african_acceptance
+		}
+	}
+}

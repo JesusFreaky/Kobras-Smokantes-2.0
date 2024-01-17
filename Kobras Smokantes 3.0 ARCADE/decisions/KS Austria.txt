@@ -130,6 +130,7 @@ political_decisions = {
 		allow = {
 			war = no
 			all_core = { owned_by = THIS }
+			revolution_n_counterrevolution = 1
 		}
 		effect = {
 			add_accepted_culture = north_italian

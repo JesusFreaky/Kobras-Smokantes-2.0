@@ -171,7 +171,7 @@ political_decisions = {
 							has_pop_culture = bosniak
 						}
 					}
-					reduce_pop = 1.10
+					reduce_pop = 1.15
 				}
 			}
 
@@ -222,7 +222,7 @@ political_decisions = {
 							has_pop_culture = ukrainian
 						}
 					}
-					reduce_pop = 0.90
+					reduce_pop = 1 # no reduction
 				}
 			}
 			#Japan pop debuffs
@@ -245,7 +245,7 @@ political_decisions = {
 							has_pop_culture = occitan
 						}
 					}
-					reduce_pop = 0.85
+					reduce_pop = 1 #no reduction
 				}
 			}
 
@@ -315,7 +315,7 @@ political_decisions = {
 							has_pop_culture = ashkenazi
     					}
     				}
-    				literacy = 0.30
+    				literacy = 0.50
     			}
 				any_pop = {
     				limit = {
