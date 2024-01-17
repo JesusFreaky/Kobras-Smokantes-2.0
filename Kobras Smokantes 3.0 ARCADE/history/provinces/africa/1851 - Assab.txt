@@ -1,6 +1,10 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = AWS
+controller = AWS
+add_core = AWS
 add_core = ETH
 trade_goods = fruit
 life_rating = 32
+1861.1.1 = {
+	owner = ETH
+	controller = ETH
+}

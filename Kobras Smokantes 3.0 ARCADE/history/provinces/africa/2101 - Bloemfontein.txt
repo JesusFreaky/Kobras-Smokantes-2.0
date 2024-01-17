@@ -1,6 +1,7 @@
-owner = ORA
-controller = ORA
-add_core = ORA
+owner = BSH
+controller = BSH
+add_core = BSH
 add_core = SAF
 trade_goods = wool
 life_rating = 32
+terrain = steppe

@@ -671,7 +671,6 @@ naval_base = {
 	port = yes
 	visibility = yes
 	max_level = 6
-	# Audax Validator "." Ignore_NEXT
 	colonial_points = { 30 50 70 90 110 130 } #points at levels 1-6
 	province = yes
 	one_per_state = yes

@@ -1,5 +1,5 @@
 political_decisions = {
-   gtfo_on = { picture = gtfo alert = no potential = { num_of_vassals_no_substates = 1 NOT = { has_country_flag = gtfo } } allow = { ai = no } effect = { set_country_flag = gtfo }
+   gtfo_on = { picture = gtfo alert = no potential = { num_of_vassals_no_substates = 1 NOT = { has_country_flag = gtfo } } allow = { ai = no } effect = { set_country_flag = gtfo } }
    gtfo_off = { picture = gtfo alert = no potential = { has_country_flag = gtfo } allow = { ai = no } effect = { clr_country_flag = gtfo } }
    gtfo_GCO = { picture = gtfo alert = no potential = { has_country_flag = gtfo GCO = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { release_vassal = GCO diplomatic_influence = { who = GCO value = -100 } } }
    gtfo_TPG = { picture = gtfo alert = no potential = { has_country_flag = gtfo TPG = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { release_vassal = TPG diplomatic_influence = { who = TPG value = -100 } } }

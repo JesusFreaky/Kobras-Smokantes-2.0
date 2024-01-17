@@ -190,7 +190,7 @@ political_decisions = {
         potential = {
             tag = ENG
             has_country_flag = ENGexp3 
-            NOT = { has_country_flag =  }
+            NOT = { has_country_flag = NSE }
         }
 
         allow = {
@@ -209,6 +209,7 @@ political_decisions = {
         }
 
         effect = {
+            set_country_flag = NSE
             DEN = { all_core = { add_core = ENG } }
             SWE = { all_core = { add_core = ENG } }
             add_accepted_culture = norwegian

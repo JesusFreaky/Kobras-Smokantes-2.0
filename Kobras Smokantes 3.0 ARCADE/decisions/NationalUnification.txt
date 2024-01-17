@@ -141,6 +141,7 @@ political_decisions = {
 				exists = GER
 				tag = ISR
 			}
+			NOT = { has_country_flag = NGF_Look_west }
 			NOT = { has_country_flag = AUSITAint }
 		}
 
@@ -153,6 +154,7 @@ political_decisions = {
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
+							}
 							
 						}
 					}
@@ -391,7 +393,7 @@ political_decisions = {
 		}
 	}
 
-unite_moldavia_wallachia = {
+	unite_moldavia_wallachia = {
 		potential = {
 			OR = {
 				tag = WAL
