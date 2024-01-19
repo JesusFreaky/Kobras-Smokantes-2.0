@@ -53,8 +53,8 @@ leader = {
 	name = "Jonas Desaparecido"
 	date = 1801.1.1
 	type = land
-	personality = relentless
-	background = school_of_defense
+	personality = attack_2.1
+	background = defence_3.1
 	prestige = 0.4
 }
 
@@ -63,8 +63,8 @@ leader = {
 	name = "JesusFreakk"
 	date = 1814.1.1
 	type = land
-	personality = merciless
-	background = war_college
+	personality = attack_3.1
+	background = defence_2.1
 	prestige = 0.3
 }
 
@@ -72,8 +72,8 @@ leader = {
 	name = "Viont"
 	date = 1835.1.1
 	type = sea
-	personality = harsh
-	background = school_of_offense
+	personality = attack_2.1
+	background = defence_2.1
 	prestige = 0.1
 }
 

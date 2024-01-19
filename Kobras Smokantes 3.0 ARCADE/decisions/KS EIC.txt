@@ -5,6 +5,7 @@ political_decisions = {
       NOT = { has_country_flag = indian_gurkhas }
     }
     allow = {
+      war = no
     }
     effect = {
       add_accepted_culture = bengali

@@ -47,7 +47,6 @@ political_decisions = {
 	}
 	
 	hong_kong_treaty_port = {
-		picture = hong_kong_china
 		potential = {
 			has_country_modifier = negotiating_treaty
 			1496 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }

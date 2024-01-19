@@ -10,6 +10,7 @@ political_decisions = {
 			}
 		}
 		allow = {
+			year = 1840
 			war = no
 			GER = {
 				all_core = {
@@ -39,7 +40,7 @@ political_decisions = {
 				limit = {
 					OR = {
 						primary_culture = south_german
-						tag = swiss
+						tag = SWI
 					}
 					in_sphere = THIS
 					NOT = {
@@ -84,6 +85,7 @@ political_decisions = {
 			}
 		}
 		allow = {
+			year = 1840
 			war = no
 			GER = {
 				all_core = {
@@ -147,15 +149,12 @@ political_decisions = {
 
 		allow = {
 			war = no
-			OR = {
-				GER = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-							
+			GER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
 						}
 					}
 				}
@@ -195,14 +194,12 @@ political_decisions = {
 
 		allow = {
 			war = no
-			OR = {
-				ITA = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
+			ITA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
 						}
 					}
 				}
@@ -325,71 +322,48 @@ political_decisions = {
 			clr_global_flag = germany_has_renamed_elsass
 		}
 	}
-
-	form_gran_colombia = {
+	
+	unite_two_crowns = {
 		potential = {
 			OR = {
-				primary_culture = north_andean
-				primary_culture = central_american
+				tag = SPA
+				tag = FRA
 			}
-			NOT = { exists = GCO }
-			NOT = { tag = GCO }
+			NOT = { has_country_flag = RTRhine }
+			NOT = { has_country_flag = Eagle_Rise }
+			NOT = { has_country_flag = The_Dual_Monarchy }
+			NOT = { has_country_flag = FRASPAUNI }
 		}
+
 		allow = {
-			war = no
-			GCO = {
+			SPA = {
 				all_core = {
-					owner = {
-						OR = {
-							tag = THIS
-							in_sphere = THIS
-							vassal_of = THIS
-						}
+					OR = {
+						owned_by = THIS
+						in_sphere = THIS
+						is_puppet = THIS
 					}
 				}
 			}
-		}
+			FRA = {
+				OR = {
+					owned_by = THIS
+					in_sphere = THIS
+					is_puppet = THIS
+				}
+			}
+		}	
 
 		effect = {
-			prestige = 10
-			any_country = {
-				limit = {
-					vassal_of = THIS
-					OR = {
-						primary_culture = north_andean
-						primary_culture = central_american
-						primary_culture = caribeno
-						tag = PEU
-					}
-				}
-				annex_to = THIS
-			}
-			any_country = {
-				limit = {
-					in_sphere = THIS
-				}
-
-				any_owned = {
-					limit = {
-						is_core = GCO
-					}
-					secede_province = THIS
-				}
-			}
-
-			2242 = { add_core = GCO } # Mahdia, prev VNZ core
-
-			# some early claims we can roll with for future colombian lebensraum
-			PEU_2289 = { add_core = GCO }
-			ENG_1979 = { add_core = GCO }
-			UCA_2201 = { add_core = GCO }
-			2235 = { add_core = GCO }
-			2234 = { add_core = GCO }
-			2237 = { add_core = GCO }
-			change_tag = GCO
-			add_accepted_culture = central_american
-			add_accepted_culture = north_andean
-			add_accepted_culture = caribeno
+			set_country_flag = FRASPAUNI
+			SPA = { annex_to = THIS }
+			FRA = { annex_to = THIS }
+			SPA = { all_core = { add_core = THIS } }
+			FRA = { all_core = { add_core = THIS } }
+			add_accepted_culture = french
+			add_accepted_culture = occitan
+			add_accepted_culture = spanish
+			add_accepted_culture = catalan
 		}
 	}
 

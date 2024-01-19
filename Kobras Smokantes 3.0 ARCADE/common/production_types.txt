@@ -106,7 +106,7 @@ cement_template = {
 		effect_multiplier = -2.5
 	}
 	
-	employees = {		
+	employees = {
 		{ 
 			poptype = craftsmen
 			effect = throughput
@@ -1012,7 +1012,7 @@ artisan_machine_parts = {
 		coal = 5		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
-	value = 1		#73
+	value = 2	#73
 	
 	owner = {
 		poptype = artisan 
@@ -1111,7 +1111,7 @@ artisan_steel = {
 	}
 	
 	output_goods = steel 		#94 
-	value = 12
+	value = 20
 	
 	owner = {
 		poptype = artisan 
@@ -1271,7 +1271,7 @@ artisan_ammunition = {
 		iron = 5		#17.5	total input+maint = 44
 	}
 	output_goods = ammunition 
-	value = 2.5			#52.5
+	value = 3			#52.5
 	
 	owner = {
 		poptype = artisan 

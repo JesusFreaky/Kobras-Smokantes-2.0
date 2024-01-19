@@ -1,0 +1,484 @@
+#Bosnia Region (864000)
+#under the rule of Ottoman Empire in 1836
+#Sarajevo (148000/37000 POPS)
+783 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = bosniak
+        religion = sunni
+        size = 275
+    }
+
+    officers = {
+        culture = bosniak
+        religion = sunni
+        size = 225
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 4000
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 375
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 15475
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 120
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 2100
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 10980
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 90
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 570
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 4140
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 25
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 775
+    }
+}
+#Bihac (100000/25000 POPS)
+784 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 750
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 16425
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 90
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 360
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 4350
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 60
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 240
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 3300
+    }
+}
+#Banja Luka (116000/29000 POPS)
+785 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 4350
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 210
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 600
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 21990
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 90
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 180
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 4530
+    }
+}
+#Tuzla (168000/42000 POPS)
+786 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 700
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 450
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 14525
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 210
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 840
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 22950
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 90
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 5610
+    }
+}
+#Foca (92000/23000 POPS)
+787 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 5725
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 180
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 660
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 18360
+    }
+}
+#Mostar (104000/26000 POPS)
+788 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 3650
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 17250
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 240
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 6900
+    }
+}
+#Livno (136000/34000 POPS)
+789 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 960
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 16890
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 180
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 780
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 19560
+    }
+}

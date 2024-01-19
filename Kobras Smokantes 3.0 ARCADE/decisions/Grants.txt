@@ -5,16 +5,16 @@ political_decisions = {
 		potential = {
 			ai = no
 			NOT = { has_country_flag = will_receive_grants }
-			}
+		}
 
 		allow = {
 			NOT = { has_country_flag = will_receive_grants }
 			ai = no
-			}
+		}
+
 		effect = {
 			country_event = {id = 100000 days = 0}
 		}
-
 	}
 
 	will_give = {
@@ -22,9 +22,10 @@ political_decisions = {
 		potential = {
 			ai = no
 			NOT = { has_country_flag = will_give_grants }
-			}
+		}
 
 		allow = { NOT = { has_country_flag = will_give_grants } }
+		
 		effect = {
 			set_country_flag = will_give_grants
 		}

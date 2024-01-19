@@ -20,7 +20,7 @@ leader = {
 	name = "Julius von Hartmann"
 	date = 1825.1.1
 	type = land
-	personality = defence_3.1
+	personality = defence_2.1
 	background = attack_0.1
 	prestige = 0.2
 }

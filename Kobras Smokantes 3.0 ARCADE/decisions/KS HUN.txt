@@ -8,15 +8,16 @@ political_decisions = {
             }
         }
         allow = {
+            war = no
         }
         effect = {
             AUS = {
                 release_vassal = HUN
                 release_vassal = CRO
                 relation = {
-	            who = HUN
-	            value = -200
-            }
+	                who = HUN
+	                value = -200
+                }
                 diplomatic_influence = {
                     who = HUN
                     value = -200
@@ -36,14 +37,13 @@ political_decisions = {
         potential = {
             tag = HUN
             has_country_flag = HUNFREEDOM
-            NOT = {
-                has_country_flag = HUNEXP1
-            }
+            NOT = { has_country_flag = HUNEXP1 }
         }
         allow = {
             war = no
         }
         effect = {
+            set_country_flag = HUNEXP1
             SER_794 = { add_core = THIS }
             TUR_788 = { add_core = THIS }
             ROM = {
@@ -58,9 +58,7 @@ political_decisions = {
         potential = {
             tag = HUN
             has_country_flag = HUNEXP1
-            NOT = {
-                has_country_flag = HUNINT1
-            }
+            NOT = { has_country_flag = HUNINT1 }
         }
 
         allow = {
@@ -76,16 +74,21 @@ political_decisions = {
             set_country_flag = HUNEXP1
             any_country = {
                 limit = {
-                    is_in_sphere = THIS
-                    is_puppet = THIS
-                    tag = WAL
-                    tag = MOL
+                    OR = {
+                        in_sphere = THIS
+                        is_vassal = THIS
+                    }
+                    OR = {
+                        tag = WAL
+                        tag = MOL
+                    }
                 }
                 annex_to = HUN
             }
             add_accepted_culture = serb
             add_accepted_culture = romanian
             add_accepted_culture = bosniak
+            add_accepted_culture = albanian
             set_country_flag = HUNINT1
         }
     }

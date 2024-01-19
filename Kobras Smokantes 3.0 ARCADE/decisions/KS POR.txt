@@ -1,35 +1,8 @@
 political_decisions = {
 
-	claim_galicia_portugal = {
-		potential = {
-			tag = POR
-			NOT = { has_country_flag = galicia_claimed }
-		}
-		allow = {
-			owns = 474
-		}
-		effect = {
-			SPA_474 = { add_core = THIS }
-			set_country_flag = galicia_claimed
-			SPA = { clr_country_flag = galicia_claimed }
-			any_owned = {
-				limit = {
-					OR = {
-						province_id = 474
-						province_id = 476
-					}
-				}
-				assimilate = yes
-			}
-		}
-	}
-
 	United_Kingdom_of_Portugal_Brazil_and_Algarves = {
 		potential = {
-			OR = {
-				tag = BRZ
-				tag = POR
-			}
+			tag = LUX
 		}
 		allow = {
 			BRZ_2306 = { 
@@ -64,10 +37,7 @@ political_decisions = {
 			}
 		}
 		effect = {
-			change_tag = UPB
 			prestige = 25
-			inherit = POR
-			inherit = BRZ
 			POR = { all_core = { add_core = THIS } }
 			BRZ = { all_core = { add_core = THIS } }
 			add_accepted_culture = portuguese

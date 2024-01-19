@@ -6,11 +6,9 @@ political_decisions = {
 			NOT = { has_country_flag = balkans_lost }
 			NOT = { has_country_flag = balkan_focus }
 		}
-
 		allow = {
 			TUR = { all_core { owned_by = THIS } }
 		}
-
 		effect = {
 			TUR = { release_vassal = WAL }
 			TUR = { release_vassal = MOL }
@@ -33,11 +31,7 @@ political_decisions = {
 			GRE = {
 				all_core = {
 					NOT = {
-						CYP = {
-							all_core = {
-								owned_by = TUR
-							}
-						}
+						is_core = CYP
 					}
 					remove_core = TUR 
 				}
@@ -70,7 +64,6 @@ political_decisions = {
 			has_country_flag = balkans_lost
 			NOT = { has_country_flag = TURAsianExpansion }
 		}
-
 		allow = {
 			OR = {
 				is_greater_power = yes
@@ -78,7 +71,6 @@ political_decisions = {
 			}
 			all_core = { owned_by = THIS }
 		}
-
 		effect = {
 			PER_1112 = { add_core = TUR }
 			PER_1122 = { add_core = TUR }
@@ -115,11 +107,9 @@ political_decisions = {
 			NOT = { has_country_flag = balkans_lost }
 			NOT = { has_country_flag = balkan_focus }
 		}
-
 		allow = {
 			TUR = { all_core = { owned_by = THIS } }
 		}
-
 		effect = {
 			set_country_flag = balkan_focus
 			add_accepted_culture = greek
@@ -151,12 +141,10 @@ political_decisions = {
 			has_country_flag = balkan_focus
 			NOT = { has_country_flag = TUROld_Rival }
 		}
-
 		allow = {
 			is_greater_power = yes
 			prestige = 100
 		}
-
 		effect = {
 			badboy = 10
 			add_accepted_culture = romanian
@@ -174,7 +162,6 @@ political_decisions = {
 			has_country_flag = TUROld_Rival
 			NOT = { has_country_flag = TURFall_Of_Wien }
 		}
-
 		allow = {
 			is_greater_power = yes
 			ROM = { all_core = { owned_by= THIS } }
@@ -182,7 +169,6 @@ political_decisions = {
 			AUS_771 = { owned_by = THIS }
 			AUS_780 = { owned_by = THIS }
 		}
-		
 		effect = {
 			add_accepted_culture = hungarian
 			add_accepted_culture = slovak

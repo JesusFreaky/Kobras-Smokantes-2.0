@@ -3,8 +3,8 @@ leader = {
 	name = "ElFather"
 	date = 1835.1.1
 	type = land
-	personality = implacable
-	background = cursed_luck
+	personality = attack_5.1
+	background = defence_0.1
 	prestige = 0.6
 }
 

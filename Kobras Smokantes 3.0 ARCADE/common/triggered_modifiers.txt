@@ -5,21 +5,10 @@
 
 the_british_raj  = {
 	trigger = {
-		1236 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-		1251 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-		1297 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
+		tag = EIC
 	}
 	research_points = 1
-	prestige = 0.02
+	prestige = -10
 	icon = 19
 }
 

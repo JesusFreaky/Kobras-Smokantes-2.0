@@ -6,6 +6,7 @@ political_decisions = {
 			NOT = { has_country_flag = RTRhine }
 			NOT = { has_country_flag = Eagle_Rise }
 			NOT = { has_country_flag = The_Dual_Monarchy }
+			NOT = { has_country_flag = FRASPAUNI }
 		}
 		allow = {
 			war = no
@@ -44,6 +45,7 @@ political_decisions = {
 	The_Eagle_Rises = {
 		potential = {
 			tag = FRA
+			NOT = { has_country_flag = FRASPAUNI }
 			NOT = { has_country_flag = Eagle_Rise }
 			NOT = { has_country_flag = The_Dual_Monarchy }
 		}
@@ -51,12 +53,12 @@ political_decisions = {
 			war = no
 			is_greater_power = yes
 			BEL = { all_core = { owned_by = THIS } }
-			LUX = { all_core = { owned_by = THIS } } 
 		}
 		effect = {
 			BEL = { all_core = { add_core = THIS } }
-			LUX = { all_core = { add_core = THIS } }
 			NET_381 = { add_core = THIS }
+			add_accepted_culture = wallonian
+			add_accepted_culture = flemish
 			set_country_flag = Eagle_Rise
 		}
 	}
@@ -82,6 +84,7 @@ political_decisions = {
 	New_Frontiers = {
 		potential = {
 			tag = FRA
+			NOT = { has_country_flag = FRASPAUNI }
 			NOT = { has_country_flag = The_Dual_Monarchy }
 			NOT = { has_country_flag = RTRhine }
 		}
@@ -94,32 +97,11 @@ political_decisions = {
 		}
 	}
 
-	The_Belgium_question = {
-		potential = {
-			tag = FRA
-			NOT = { has_country_flag = INTfra1 }
-			has_country_flag = Eagle_Rise 
-			has_country_flag = RTRhine
-
-		}
-		allow = {
-			FRA = { all_core = { owned_by = THIS } }
-			is_greater_power = yes
-			NET = { all_core = { owned_by = THIS } }
-		}
-		effect = {
-			NET = { all_core = { add_core = THIS } }
-			add_accepted_culture = wallonian
-			add_accepted_culture = flemish
-			set_country_flag = INTfra1
-		}
-	}
-
 	Westphalia_Under_Our_Hands = {
 		potential = {
 			tag = FRA
 			NOT = { has_country_flag = FRAexp1 }
-			has_country_flag = { INTfra1 }
+			has_country_flag = INTfra1
 		}
 		allow = {
 			FRA = { all_core = { owned_by = THIS } }
@@ -127,6 +109,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = dutch
+			NET = { all_core = { add_core = THIS } }
 			PRU_581 = { add_core = THIS }
 			HES_2560 = { add_core = THIS }
 			OLD_540 = { add_core = THIS }

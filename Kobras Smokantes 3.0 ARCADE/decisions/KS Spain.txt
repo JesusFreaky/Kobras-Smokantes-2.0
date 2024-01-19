@@ -97,8 +97,8 @@ political_decisions = {
 		}
 
 		effect = {
-			set_country_flag =  SPACol
-			add_accepted_culture =  north_andean
+			set_country_flag = SPACol
+			add_accepted_culture = north_andean
 		}
 	}
 }

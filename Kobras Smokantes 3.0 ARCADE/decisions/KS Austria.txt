@@ -2,7 +2,7 @@ political_decisions = {
 
 	annex_galicia = {
 		potential = {
-			TAG = AUS
+			tag = AUS
 			NOT = {
 				has_country_flag = AUSINT1
 			}
@@ -66,7 +66,6 @@ political_decisions = {
 		}
 		
 		allow = {
-			nationalism_n_imperialism = 1
 			prestige = 50
 			AUS = { all_core = { owned_by = THIS } }
 		}
@@ -75,7 +74,8 @@ political_decisions = {
 			add_accepted_culture = hungarian
 			add_accepted_culture = slovak
 			add_accepted_culture = slovene
-			add_accepted_culture = croatian
+			add_accepted_culture = croat
+			add_accepted_culture = serb
 			set_country_flag = AUSEMP2
 			change_tag = KUK
 			prestige = 50
@@ -90,7 +90,6 @@ political_decisions = {
 
 		allow = {
 			war = no
-			revolution_n_counterrevolution = 1
 		}
 		
 		effect = {
@@ -121,16 +120,13 @@ political_decisions = {
 
 	integrate_italia = {
 		potential = {
-			OR = {
-				tag = SGF
-			}
+			tag = SGF
 			NOT = { has_country_flag = AUSITAint }
 			NOT = { has_country_flag = SARex2 }
 		}
 		allow = {
 			war = no
 			all_core = { owned_by = THIS }
-			revolution_n_counterrevolution = 1
 		}
 		effect = {
 			add_accepted_culture = north_italian
@@ -138,7 +134,6 @@ political_decisions = {
 			LOM = { all_core = { add_core = SGF } }
 			SAR_720 = { add_core = SGF }
 			SAR_466 = { add_core = SGF }
-
 			set_country_flag = AUSITAint
 			any_country = {
 				limit = {

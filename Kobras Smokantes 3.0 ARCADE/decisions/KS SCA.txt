@@ -7,9 +7,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			OR = {
-				SCO = { all_core = { owned_by = THIS } }
-			}
+			SCO = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			SCO = { all_core = { add_core = SCA } }
@@ -26,9 +24,7 @@ political_decisions = {
 
 		allow = {
 			war = no
-			OR = {
-				is_greater_power = yes
-			}
+			is_greater_power = yes
 			SCO = { all_core = { owned_by = THIS } }
 		}
 		

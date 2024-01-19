@@ -2,1691 +2,1681 @@
 #Ruled by Britain 1836
 #Sydney (64000/16000 POPS)
 2468 = {
-	bureaucrats = {
-		culture = australian
-		religion = protestant
-		size = 35
-	}
+    bureaucrats = {
+        culture = australian
+        religion = protestant
+        size = 105
+    }
 
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 65
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 195
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 3500
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 10500
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 1100
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 3300
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 4400
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 13200
+    }
 
-	clergymen = {
-		culture = australian
-		religion = catholic
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = catholic
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = catholic
-		size = 500
-	}
+    artisans = {
+        culture = australian
+        religion = catholic
+        size = 1500
+    }
 
-	farmers = {
-		culture = australian
-		religion = catholic
-		size = 2475
-	}
+    farmers = {
+        culture = australian
+        religion = catholic
+        size = 7425
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 450
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 2800
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 8400
+    }
 }
 #Newcastle (16000/4000 POPS)
 2469 = {
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 250
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 750
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 50
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 150
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 1670
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5010
+    }
 
-	clergymen = {
-		culture = australian
-		religion = catholic
-		size = 10
-	}
+    clergymen = {
+        culture = australian
+        religion = catholic
+        size = 30
+    }
 
-	artisans = {
-		culture = australian
-		religion = catholic
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = catholic
+        size = 150
+    }
 
-	farmers = {
-		culture = australian
-		religion = catholic
-		size = 960
-	}
+    farmers = {
+        culture = australian
+        religion = catholic
+        size = 2880
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 925
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2775
+    }
 }
 #Port Macquarie (12000/3000 POPS)
 2470 = {
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 2700
+    }
 
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
-
 #Eden (12000/3000 POPS)
 2472 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 1850
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5550
+    }
 }
 #Wagga Wagga (12000/3000 POPS)
 2473 = {
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 2700
+    }
 
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #uncolonized in 1836
 #Ophir (8000/2000 POPS)
 2471 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Moree (8000/2000 POPS)
 2474 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Broken Hill (12000/3000 POPS)
 2475 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 225
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 450
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 2700
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 8100
+    }
 }
 #Victoria Region - 44000
 #uncolonized in 1836
 #Melbourne (12000/3000 POPS)
 2476 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 225
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 450
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 2700
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 8100
+    }
 }
 #Warnambool (8000/2000 POPS)
 2477 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Ballarat (8000/2000 POPS)
 2478 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Sale (8000/2000 POPS)
 2479 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Beechworth (4000/1000 POPS)
 2480 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Swan Hill (4000/1000 POPS)
 2481 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
-
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Tasmania Region (36000)
 #ruled by Britain 1836
 #Hobart (36000/9000 POPS)
 2482 = {
-	bureaucrats = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    bureaucrats = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 100
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 300
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 2000
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 6000
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 100
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 300
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 6775
-	}
-
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 20325
+    }
 }
 #Queensland Region : 64000
 #ruled by Britain 1836
 #2483 - Brisbane (12000/3000 POPS)
 2483 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 2700
+    }
 }
 #uncolonized in 1836
 #Gladstone (8000/2000 POPS)
 2484 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Clermont (4000/1000 POPS)
 2485 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Toowoomba (8000/2000 POPS)
 2486 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Townsville (8000/2000 POPS)
 2487 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Cooktown (10000/2500 POPS)
 2488 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 125
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 375
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 2275
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 6825
+    }
 }
 #Longreach (4000/1000 POPS)
 2489 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Charleville (4000/1000 POPS)
 2490 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
-
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Normanton (6000/1500 POPS)
 2604 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 75
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 225
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1370
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 4110
+    }
 }
 #South Australia Region - 32000
 #uncolonized in 1836
 #Adelaide (12000/3000 POPS)
 2491 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 225
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 450
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 2700
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 8100
+    }
 }
 #Port Lincoln (4000/1000 POPS)
 2492 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Robe (4000/1000 POPS)
 2493 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Port Augusta (4000/1000 POPS)
 2494 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Oodnadatta (4000/1000 POPS)
 2495 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Tarcoola (4000/1000 POPS)
 2496 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
-
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Western Australia Region : 71000
 #ruled by Britain 1836
 #Perth (23000/5750 POPS)
 2497 = {
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 15
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 45
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 40
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 120
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 10
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 30
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 685
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 2055
+    }
 
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 75
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 225
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 125
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 375
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 250
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 750
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 4500
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 13500
+    }
 }
 #Kojonup (12000/3000 POPS)
 2498 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 225
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 450
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 2700
-	}
-
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 8100
+    }
 }
 #Geraldton (8000/2000 POPS)
 2499 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Kalgoorlie (4000/1000 POPS)
 2500 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Broome (8000/2000 POPS)
 2501 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Dampier (2000/500 POPS)
 2502 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 5
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 15
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 450
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 1350
+    }
 }
 #Laverton (2800/700 POPS)
 2503 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 35
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 105
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 630
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 1890
+    }
 }
 #Esperance (4000/1000 POPS)
 2504 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 900
-	}
-
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2700
+    }
 }
 #Halls Creek (2000/500 POPS)
 2601 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 5
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 15
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 5
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 15
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 450
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 1350
+    }
 }
 #Roebourne (2000/500 POPS)
 2602 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 5
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 15
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 5
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 15
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 450
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 1350
+    }
 }
 #Wiluna (3200/800 POPS)
 2605 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 40
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 120
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 725
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 2175
+    }
 }
 #Northern Australia Region (32000)
 #uncolonized in 1836
 #Palmerston (20000/5000 POPS)
 2505 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 75
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 225
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 125
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 375
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 250
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 750
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 4500
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 13500
+    }
 }
 #Tennant Creek (8000/2000 POPS)
 2506 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 75
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 1750
-	}
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 5250
+    }
 }
 #Alice Springs (2800/700 POPS)
 2507 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 35
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 105
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 10
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 30
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 630
-	}
-
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 1890
+    }
 }
 #Lajamanu (1200/300 POPS)
 2603 = {
-	aristocrats = {
-		culture = australian
-		religion = animist
-		size = 2
-	}
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 6
+    }
 
-	clergymen = {
-		culture = australian
-		religion = animist
-		size = 3
-	}
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
 
-	artisans = {
-		culture = australian
-		religion = animist
-		size = 15
-	}
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 45
+    }
 
-	soldiers = {
-		culture = australian
-		religion = animist
-		size = 5
-	}
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 15
+    }
 
-	farmers = {
-		culture = australian
-		religion = animist
-		size = 275
-	}
-
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 825
+    }
 }
 #Norfolk Island Region (1000)
 #Ruled by Britain 1836
 #Norfolk Island (1000/250 POPS)
 2508 = {
-	clergymen = {
-		culture = australian
-		religion = protestant
-		size = 3
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 9
+    }
 
-	artisans = {
-		culture = australian
-		religion = protestant
-		size = 10
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 30
+    }
 
-	soldiers = {
-		culture = australian
-		religion = protestant
-		size = 2
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 6
+    }
 
-	farmers = {
-		culture = australian
-		religion = protestant
-		size = 235
-	}
-
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 705
+    }
 }

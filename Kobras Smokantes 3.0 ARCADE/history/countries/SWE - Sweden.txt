@@ -79,7 +79,7 @@ basic_chemistry = 1
 
 #Inventions
 #corvettes = yes
-precision_work = 1
+precision_work = yes
 
 # Starting Consciousness
 consciousness = 2

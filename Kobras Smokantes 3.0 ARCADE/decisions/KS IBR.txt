@@ -53,7 +53,7 @@ political_decisions = {
 		
 		effect = {
 			add_accepted_culture = south italian
-			set_country_flag = IBRint1
+			set_country_flag = IBRint1 
 		}
 	}
 }

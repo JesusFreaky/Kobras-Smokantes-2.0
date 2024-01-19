@@ -2,9 +2,7 @@ political_decisions = {
 		
 	Look_Towards_West = {
 		potential = {
-			OR = {
-				tag = NGF
-			}
+			tag = NGF
 			NOT = {
 				has_country_flag = NGF_Look_west
 			}

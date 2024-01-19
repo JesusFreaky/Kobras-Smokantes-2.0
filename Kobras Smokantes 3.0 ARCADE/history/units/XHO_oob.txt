@@ -19,7 +19,7 @@ leader = {
    type = land
    date = 1836.1.1
    background = expert_raider
-   personality = merciless
+   personality = attack_3.1
 }
 
 army = {
