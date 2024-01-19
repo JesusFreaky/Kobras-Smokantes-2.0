@@ -138,16 +138,6 @@ political_decisions = {
                     remove_core = HUN
                 }
             }
-            BOH = {
-                all_core = {
-                    add_core = THIS
-                }
-            }
-            POL = {
-                all_core = {
-                    add_core = THIS
-                }
-            }
             add_accepted_culture = polish
             set_country_flag = JAG1
         }

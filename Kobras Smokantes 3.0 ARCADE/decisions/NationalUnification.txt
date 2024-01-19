@@ -337,6 +337,7 @@ political_decisions = {
 		}
 
 		allow = {
+			war = no
 			SPA = {
 				all_core = {
 					OR = {
