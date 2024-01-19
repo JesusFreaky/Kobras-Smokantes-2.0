@@ -1,79 +1,78 @@
 political_decisions = {
+
 	form_south_german_confederation = {
+
 		potential = {
-			primary_culture = south_german
+			tag = AUS
 			NOT = {
-				exists = SGF
-				exists = GER
 				tag = KUK
+				SGF = { exists = yes }
+				GER = { exists = yes }
 				has_country_flag = AUSEMP1
 			}
 		}
+
 		allow = {
-			year = 1840
 			war = no
-			GER = {
+			year = 1840
+			BAV = {
 				all_core = {
 					OR = {
-						OR = {
-							owned_by = THIS
-							province_id = 410
-							province_id = 409
-							province_id = 412
-							owner = {
-								in_sphere = THIS
-							}
-						}
-						NOT = {
-							culture = north_german
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
 						}
 					}
 				}
+			}
+			WUR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			BAD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			FRA_412 = {
+				owned_by = THIS
 			}
 		}
 
 		effect = {
-			prestige = -25
+			change_tag = SGF
 			any_country = {
 				limit = {
 					OR = {
-						primary_culture = south_german
-						tag = SWI
-					}
-					in_sphere = THIS
-					NOT = {
-						tag = THIS
+						tag = BAV
+						tag = WUR
+						tag = BAD
 					}
 				}
 				annex_to = THIS
 			}
-			any_owned = {
-				limit = {
-					is_core = GER
-				}
-				add_core = SGF
-			}
-			change_tag = SGF
-			release_vassal = CRO
 			release_vassal = HUN
+			release_vassal = CRO
 
-			CRO = {
+			CRO = { 
+				annex_to = HUN
 				all_core = {
-					annex_to = HUN
 					add_core = HUN
 				}
 			}
-			
-			AUS_780 = { secede_province = CRO }
-			MON_2582 = { secede_province = CRO }
-			HUN = { all_core = { remove_core = SGF } }
-			CRO = { all_core = { remove_core = SGF } }
-		}
-		ai_will_do = {
-			factor = 1
 		}
 	}
-
 	form_north_german_confederation = {
 		potential = {
 			primary_culture = north_german
@@ -320,16 +319,13 @@ political_decisions = {
 			clr_global_flag = germany_has_renamed_elsass
 		}
 	}
-	
+
 	unite_two_crowns = {
 		potential = {
 			OR = {
 				tag = SPA
 				tag = FRA
 			}
-			NOT = { has_country_flag = RTRhine }
-			NOT = { has_country_flag = Eagle_Rise }
-			NOT = { has_country_flag = The_Dual_Monarchy }
 			NOT = { has_country_flag = FRASPAUNI }
 		}
 
@@ -380,17 +376,26 @@ political_decisions = {
 
 		allow = {
 			WAL = {
-				war = no
+				all_core = {
+					OR = {
+						owned_by = THIS
+						in_sphere = THIS
+					}
+				}
 			}
 			MOL = {
-				war = no
+				all_core = {
+					OR = {
+						owned_by = THIS
+						in_sphere = THIS
+					}
+				}
 			}
 			ROM = {
 				all_core = {
 					OR = {
 						owned_by = THIS
 						in_sphere = THIS
-						is_vassal = THIS
 					}
 				}
 			}

@@ -121,6 +121,7 @@ political_decisions = {
 					OR = {
 					tag = WAL
 					tag = MOL
+					tag = ROM
 					tag = MON
 					tag = SER
 					tag = GRE
