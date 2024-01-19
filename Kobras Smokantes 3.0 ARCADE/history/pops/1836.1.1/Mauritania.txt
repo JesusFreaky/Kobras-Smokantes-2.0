@@ -1,384 +1,383 @@
-#Trarza-Brakna Region (276000) 
+#Trarza-Brakna Region (276000)
 #uncolonized in 1836/ruled by Emir of Trarza
-#Nouakchott (92000/23000 POPS) 
+#Nouakchott (92000/23000 POPS)
 1775 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 450
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 900
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 20
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 40
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 5
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 10
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 225
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 450
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 925
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1850
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 250
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 500
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 18125
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 36250
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 }
-#Rosso (72000/18000 POPS) 
+#Rosso (72000/18000 POPS)
 1776 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 350
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 700
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 175
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 350
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 900
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 175
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 350
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 11400
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 22800
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 5000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 10000
+    }
 }
-#uncolonized in 1836/ruled by Emir of Brakna  
-#Aleg (84000/21000 POPS) 
+#uncolonized in 1836/ruled by Emir of Brakna
+#Aleg (84000/21000 POPS)
 1777 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 390
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 780
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 10
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 20
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 5
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 10
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 850
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1700
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 220
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 440
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 13325
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 26650
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 6000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 12000
+    }
 }
-#Maghama (28000/7000 POPS) 
+#Maghama (28000/7000 POPS)
 1778 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 275
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 550
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 3475
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 6950
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 }
-#Adrar-Hodh Region (52000) 
+#Adrar-Hodh Region (52000)
 #uncolonized in 1836/ruled by Emirs of Adrar
-#Shingit (12000/3000 POPS) 
+#Shingit (12000/3000 POPS)
 1779 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 40
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 80
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 3
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 6
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 7
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 14
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 2700
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 5400
+    }
 }
-#Tichit (12000/3000 POPS) 
+#Tichit (12000/3000 POPS)
 1780 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 2700
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 5400
+    }
 }
-#Walata (28000/7000 POPS) 
+#Walata (28000/7000 POPS)
 1781 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 2700
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 5400
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 3675
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 7350
+    }
 }
 #Rio de Oro Region (16000) #see West Sahara.txt for balance of region
-#uncolonized in 1836  
-#Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
+#uncolonized in 1836
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania
 1782 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 10
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 20
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 15
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 30
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 900
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 1800
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 2700
-	}
-
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 5400
+    }
 }

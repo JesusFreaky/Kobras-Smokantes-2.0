@@ -1,92 +1,91 @@
-#Ruanda-Urundi Region (944000)  
+#Ruanda-Urundi Region (944000)
 #uncolonized in 1836/ruled by kingdom of Rwanda
-#Kigali (496000/124000 POPS) 
+#Kigali (496000/124000 POPS)
 2034 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 2450
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4900
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	officers = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1750
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 3500
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 6200
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 12400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1250
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2500
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 113200
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 226400
+    }
 }
 #uncolonized in 1836/ruled by kingdom of Burundi
-#Usumbura (448000/112000 POPS) 
+#Usumbura (448000/112000 POPS)
 2035 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 2175
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4350
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = animist
-		size = 15
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 30
+    }
 
-	officers = {
-		culture = african_minor
-		religion = animist
-		size = 110
-	}
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 220
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1125
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2250
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 5600
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 11200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1125
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2250
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 101850
-	}
-
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 203700
+    }
 }

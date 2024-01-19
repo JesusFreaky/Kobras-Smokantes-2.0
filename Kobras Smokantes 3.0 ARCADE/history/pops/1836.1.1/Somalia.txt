@@ -3,395 +3,394 @@
 #under the loose rule of Muscat in 1836
 #Mogadishu (216000/54000 POPS)
 1868 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 1050
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 2100
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 550
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 1100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 2175
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 4350
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 550
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 43575
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 87150
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 6000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 12000
+    }
 }
 #Kismayo (84000/21000 POPS)
 1870 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 275
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 550
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 650
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 13775
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 27550
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 250
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 500
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 4575
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 9150
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 }
 #uncolonized/ruled by the Sultan of Geledi in 1836
 #Baidoa (92000/23000 POPS)
 1869 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 450
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 900
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 225
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 450
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1150
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 225
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 450
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 20950
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 41900
+    }
 }
 #Majerteyn Region (192000)
 #under the loose rule of Muscat via Sultan of Majerteyn in 1836
 #Hobye (76000/19000 POPS)
 1871 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 350
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 700
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 175
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 350
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 775
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1550
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 15500
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 31000
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 }
 #Busaso (116000/29000 POPS)
 1872 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 540
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1080
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 10
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 20
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 275
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 550
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1175
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2350
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 300
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 21650
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 43300
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 5000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 10000
+    }
 }
 #Adal Region (244000)
 #under the loose rule of Egypt 1836
 #Berbera (184000/46000 POPS)
 1873 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 890
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1780
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 10
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 20
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 450
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 900
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1850
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 3700
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 475
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 950
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 33275
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 66550
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 7000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14000
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 }
 #Zayla (32000/8000 POPS)
 1874 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 400
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 7300
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 14600
+    }
 }
-#Jibuti (28000/7000 POPS) #now part of Djibouti  
+#Jibuti (28000/7000 POPS) #now part of Djibouti
 1875 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 2700
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 5400
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 3625
-	}
-
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 7250
+    }
 }

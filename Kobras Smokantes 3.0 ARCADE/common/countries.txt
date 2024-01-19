@@ -508,6 +508,9 @@ PLC		= "countries/Poland-Lithuania.txt"
 GCO		="countries/Gran Colombia.txt"
 IBR     = "countries/Iberia.txt"
 CTG     = "countries/Carthage.txt"
+JAG     = "countries/JAG.txt"
+DUA     = "countries/DUA.txt"
+NSE     = "countries/NSE.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"

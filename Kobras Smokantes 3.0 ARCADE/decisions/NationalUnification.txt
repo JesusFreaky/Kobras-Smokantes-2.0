@@ -7,6 +7,7 @@ political_decisions = {
 				exists = GER
 				tag = KUK
 				has_country_flag = AUSEMP1
+				has_country_flag = AUSINT1
 			}
 		}
 		allow = {
@@ -341,7 +342,7 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						in_sphere = THIS
-						is_puppet = THIS
+						is_vassal = THIS
 					}
 				}
 			}
@@ -349,7 +350,7 @@ political_decisions = {
 				OR = {
 					owned_by = THIS
 					in_sphere = THIS
-					is_puppet = THIS
+					is_vassal = THIS
 				}
 			}
 		}	

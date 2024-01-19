@@ -8,6 +8,7 @@ political_decisions = {
 			}
 		}
 		allow = {
+			year = 1838
 			war = no
 			prestige = 50
 		}
@@ -27,7 +28,7 @@ political_decisions = {
 					has_country_flag = AUSEMP1
 				}
 			}
-			tag = AUS
+			has_country_flag = AUSINT1
 		}
 		allow = {
 			war = no

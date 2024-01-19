@@ -9975,24 +9975,24 @@
     clergymen = {
         culture = anglo_canadian
         religion = protestant
-        size = 250
+        size = 125
     }
 
     artisans = {
         culture = anglo_canadian
         religion = protestant
-        size = 1000
+        size = 500
     }
 
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 125
+        size = 62
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 18625
+        size = 9312
     }
 }

@@ -24,22 +24,41 @@ political_decisions = {
 		}
 	}
 
-	Frank_English_Union = {
+	Taking_The_Kingdom_Of_England = {
 		potential = {
 			tag = FRA
 			has_country_flag = The_Dual_Monarchy
-			NOT = { has_country_flag = DUALUNION }
+			NOT = { has_country_flag = INTOENG }
 		}
 		allow = {
 			war = no
 			FRA = { all_core = { owned_by = THIS }}
 		}
 		effect = {
-			set_country_flag = DUALUNION
-			add_accepted_culture = british
+			set_country_flag = INTOENG
 			ENG_273 = { add_core = THIS }
 			ENG_277 = { add_core = THIS }
 			ENG_280 = { add_core = THIS }
+		}
+	}
+
+	Frank_English_Union = {
+		potential = {
+			tag = FRA
+			has_country_flag = INTOENG
+			NOT = { 
+				has_country_flag = DUALUNION 
+				DUA = { exists = yes }
+			}
+		}
+		allow = {
+			war = no
+			FRA = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			set_country_flag = DUALUNION
+			change_tag = DUA
+			add_accepted_culture = british
 		}
 	}
 	The_Eagle_Rises = {

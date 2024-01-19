@@ -89,11 +89,9 @@ political_decisions = {
         allow = {
             war = no
             all_core = { owned_by = THIS }
-            FRA_420 = { owned_by = THIS }
-            FRA_435 = { owned_by = THIS }
-            FRA_438 = { owned_by = THIS }
-            FRA_425 = { owned_by = THIS }
-            FRA_404 = { owned_by = THIS }
+            FRA_438 = { owned_by = THIS } # Region centre
+            FRA_425 = { owned_by = THIS } # Ille de france, Paris
+            FRA_404 = { owned_by = THIS } # champagne
         }
         effect = {
             set_country_flag = ENGUNION
@@ -102,8 +100,6 @@ political_decisions = {
             FRA_438 = { add_core = THIS }
             FRA_425 = { add_core = THIS }
             FRA_404 = { add_core = THIS }
-            FRA_428 = { add_core = THIS }
-            FRA_411 = { add_core = THIS }
         }
     }
 
@@ -111,14 +107,17 @@ political_decisions = {
         potential = {
             tag = ENG
             has_country_flag = ENGUNION
-            NOT = { has_country_flag = ENGWEDDING }
+            NOT = { 
+                has_country_flag = ENGWEDDING
+                DUA = { exists = yes }
+            }
         }
         allow = {
             war = no
             all_core = { owned_by = THIS }
-            FRA = { is_greater_power = no }
         }
         effect = {
+            change_tag = DUA
             set_country_flag = ENGWEDDING
             add_accepted_culture = french
         }
@@ -142,11 +141,12 @@ political_decisions = {
             FRA_425 = { owned_by = THIS }
             FRA_404 = { owned_by = THIS }
             NET_381 = { owned_by = THIS }
-            BEL = { all_core = { owned_by = THIS } }
+            NET = { all_core = { owned_by = THIS } }
             all_core = { owned_by = THIS }
         }
 
         effect = {
+            change_tag = DUA
             NET = { all_core = { add_core = THIS } }
             FRA_420 = { add_core = THIS }
             FRA_435 = { add_core = THIS }
@@ -175,12 +175,14 @@ political_decisions = {
             war = no
             NOR = { 
                 all_core = {
-                     owned_by = THIS
+                    owned_by = THIS
+                    in_sphere = THIS
                 }
             }
         }
 
         effect = {
+            add_accepted_culture = norwegian
             NOR = { all_core = { add_core = THIS } }
             set_country_flag = ENGexp3
         }
@@ -199,11 +201,13 @@ political_decisions = {
             DEN = { 
                 all_core = {
                     owned_by = THIS
+                    in_sphere = THIS
                 }
             }
             SWE = { 
                 all_core = {
                     owned_by = THIS
+                    in_sphere = THIS
                 }
             }
         }

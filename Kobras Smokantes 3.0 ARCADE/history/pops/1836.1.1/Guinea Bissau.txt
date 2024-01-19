@@ -2,103 +2,102 @@
 #Uncolonized in 1836/Portuguese trade post
 #Bissau (32000/8000 POPS)
 1877 = {
-	aristocrats = {
-		culture = portuguese
-		religion = catholic
-		size = 10
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 10
+    }
 
-	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 15
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 15
+    }
 
-	bureaucrats = {
-		culture = portuguese
-		religion = catholic
-		size = 5
-	}
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 5
+    }
 
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 25
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 25
+    }
 
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size = 20
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 20
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = catholic
-		size = 375
-	}
+    artisans = {
+        culture = african_minor
+        religion = catholic
+        size = 750
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = catholic
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = catholic
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = catholic
-		size = 5500
-	}
+    farmers = {
+        culture = african_minor
+        religion = catholic
+        size = 11000
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = catholic
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = catholic
+        size = 4000
+    }
 }
 #Uncolonized in 1836/ruled by kingdom of Gabu
 #Gabu (76000/19000 POPS)
 1878 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 200
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 200
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 200
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 14400
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 28800
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
-
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 }

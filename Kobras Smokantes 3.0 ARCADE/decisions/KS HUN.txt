@@ -3,6 +3,7 @@ political_decisions = {
     Enough_Of_Austrian_Opression = {
         potential = {
             tag = HUN
+            NOT = { has_country_flag = JAG1 }
             NOT = {
                 has_country_flag = HUNFREEDOM
             }
@@ -90,6 +91,172 @@ political_decisions = {
             add_accepted_culture = bosniak
             add_accepted_culture = albanian
             set_country_flag = HUNINT1
+        }
+    }
+
+    Louis_Heritage = {
+        potential = {
+            tag = HUN
+            NOT = { has_country_flag = HUNFREEDOM }
+            NOT = { has_country_flag = JAG1 }
+        }
+
+        allow = {
+            war = no
+            RUT = { 
+                exists = yes 
+            }
+        }
+
+        effect = {
+            set_country_flag = JAG1
+            AUS = {
+                release_vassal = HUN
+                release_vassal = CRO
+                relation = {
+	                who = HUN
+	                value = -200
+                }
+                diplomatic_influence = {
+                    who = HUN
+                    value = -200
+                }
+            }
+            any_country = {
+                limit = {
+                    OR = {
+                        tag = RUT
+                        tag = KRA
+                    }
+                }
+                annex_to = HUN
+            }
+            AUS_702 = { add_core = THIS }
+            AUS_704 = { add_core = THIS }
+            CRO = {
+                all_core = {
+                    remove_core = HUN
+                }
+            }
+            BOH = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            POL = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            add_accepted_culture = polish
+            set_country_flag = JAG1
+        }
+    }
+
+    Recovering_The_Bohemian_Crown = {
+        potential = {
+            has_country_flag = JAG1
+            NOT = { has_country_flag = JAG2 }
+        }
+
+        allow = {
+            war = no
+            BOH = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            HUN = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+        }
+
+        effect = {
+            set_country_flag = JAG2
+            any_country = {
+                limit = {
+                    tag = BOH
+                }
+                add_core = THIS
+            }
+            add_accepted_culture = czech
+            set_country_flag = JAG2
+        }
+    }
+
+    Reconquest_Of_Poland = {
+        potential = {
+            has_country_flag = JAG2
+            NOT = { has_country_flag = JAG3 }
+        }
+
+        allow = {
+            war = no
+            LIT = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            POL = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            HUN = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+        }
+
+        effect = {
+            change_tag = JAG
+            set_country_flag = JAG3
+            LIT = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            POL = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            add_accepted_culture = lithuanian
+            prestige = 25
+        }
+    }
+
+    Fullfill_the_dream = {
+        potential = {
+            has_country_flag = JAG3
+            NOT = { has_country_flag = JAG4 }
+        }
+
+        allow = {
+            war = no
+            JAG = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            ROM = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+        }
+
+        effect = {
+            ROM = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            add_accepted_culture = romanian
+            set_country_flag = JAG4
         }
     }
 }

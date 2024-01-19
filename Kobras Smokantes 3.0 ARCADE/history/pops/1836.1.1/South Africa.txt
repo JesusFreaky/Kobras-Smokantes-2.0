@@ -1715,31 +1715,31 @@
     aristocrats = {
         culture = african_minor
         religion = animist
-        size = 50
+        size = 100
     }
 
     clergymen = {
         culture = african_minor
         religion = animist
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = african_minor
         religion = animist
-        size = 150
+        size = 300
     }
 
     soldiers = {
         culture = african_minor
         religion = animist
-        size = 25
+        size = 50
     }
 
     farmers = {
         culture = african_minor
         religion = animist
-        size = 4700
+        size = 9400
     }
 
     aristocrats = {

@@ -3,16 +3,6 @@
 #
 # Effects are fully scriptable here.
 
-the_british_raj  = {
-	trigger = {
-		tag = EIC
-	}
-	research_points = 1
-	prestige = -10
-	icon = 19
-}
-
-
 dutch_east_india = {
 	trigger = {
 		1413 = {
