@@ -341,7 +341,6 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						in_sphere = THIS
-						is_vassal = THIS
 					}
 				}
 			}
@@ -350,7 +349,6 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						in_sphere = THIS
-						is_vassal = THIS
 					}
 				}
 			}
