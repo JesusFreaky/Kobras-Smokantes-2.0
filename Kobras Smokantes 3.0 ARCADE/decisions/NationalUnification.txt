@@ -27,7 +27,7 @@ political_decisions = {
 							}
 						}
 						NOT = {
-							culture = south_german
+							culture = north_german
 						}
 					}
 				}
@@ -340,7 +340,9 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						in_sphere = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
 				}
 			}
@@ -348,7 +350,9 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						in_sphere = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
 				}
 			}

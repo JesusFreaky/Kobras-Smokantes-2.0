@@ -173,17 +173,40 @@ political_decisions = {
 
         allow = {
             war = no
-            NOR = { 
-                all_core = {
+            SWE_309 = { 
+                OR = {
                     owned_by = THIS
-                    in_sphere = THIS
+					owner = {
+						in_sphere = THIS
+					}
+                }
+            }
+            SWE_313 = { 
+                OR = {
+                    owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+                }
+            }
+            SWE_308 = { 
+                OR = {
+                    owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
                 }
             }
         }
 
         effect = {
             add_accepted_culture = norwegian
-            NOR = { all_core = { add_core = THIS } }
+            NOR = { 
+                all_core = { 
+                    add_core = THIS 
+                    secede_province = THIS
+                } 
+            }
             set_country_flag = ENGexp3
         }
     }
@@ -192,28 +215,77 @@ political_decisions = {
         potential = {
             tag = ENG
             has_country_flag = ENGexp3 
-            NOT = { has_country_flag = NSE }
+            NOT = { has_country_flag = NSEFOR }
         }
 
         allow = {
             war = no
             all_core = { owned_by = THIS }
-            DEN = { 
-                all_core = {
+            DEN_367 = { 
+                OR = {
                     owned_by = THIS
-                    in_sphere = THIS
+					owner = {
+						in_sphere = THIS
+					}
                 }
             }
-            SWE = { 
-                all_core = {
+            DEN_372 = { 
+                OR = {
                     owned_by = THIS
-                    in_sphere = THIS
+					owner = {
+						in_sphere = THIS
+					}
+                }
+            }
+            SWE_334 = { 
+                OR = {
+                    owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+                }
+            }
+            SWE_332 = { 
+                OR = {
+                    owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+                }
+            }
+            SWE_329 = { 
+                OR = {
+                    owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+                }
+            }
+            SWE_322 = { 
+                OR = {
+                    owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+                }
+
+            }
+            SWE_318 = { 
+                OR = {
+                    owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
                 }
             }
         }
 
         effect = {
-            set_country_flag = NSE
+            inherit = SWE
+            inherit = DEN
+            inherit = FIN
+            set_country_flag = NSEFOR
+            change_tag = NSE
             DEN = { all_core = { add_core = ENG } }
             SWE = { all_core = { add_core = ENG } }
             add_accepted_culture = norwegian
