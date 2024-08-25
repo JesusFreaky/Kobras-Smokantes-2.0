@@ -5,8 +5,8 @@ political_decisions = {
 		 	civilized = no
 		 	NOT = {
 				has_country_flag = liberia_liberated
-				}
-    		}
+			}
+    	}
 
     		allow = { 
 				war = no

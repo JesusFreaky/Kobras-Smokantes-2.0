@@ -2,2319 +2,2318 @@
 #uncolonized in 1836/ruled by the Yoruba
 #Lagos (168000/42000 POPS)
 1923 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 775
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1550
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 400
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 800
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1600
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 400
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 800
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 18825
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 37650
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 18000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 36000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3600
+    }
 }
 #Abeokuta (392000/98000 POPS)
 1924 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 1825
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 3650
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 925
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1850
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 3750
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 7500
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 950
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1900
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 66550
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 133100
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 19000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 38000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 250
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 500
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 4550
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 9100
+    }
 }
 #Ibadan (584000/146000 POPS)
 1925 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 2900
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 5800
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 300
+    }
 
-	officers = {
-		culture = african_minor
-		religion = animist
-		size = 450
-	}
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 900
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1450
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2900
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 5850
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 11700
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1475
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2950
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 101725
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 203450
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 31000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 62000
+    }
 }
 #Ife (432000/108000 POPS)
 1926 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 2125
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4250
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1075
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 5400
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 10800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 79300
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 158600
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 20000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 40000
+    }
 }
 #Ilorin (248000/62000 POPS) african_Minor includes Nupe
 1927 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 950
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1900
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 525
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1050
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 2500
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 5000
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 39025
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 78050
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 6000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 12000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 250
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 500
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 500
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1000
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 9050
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 18100
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 }
 #Edo Region (1676000)
 #uncolonized in 1836/ruled by kingdom of Benin
 #Benin (572000/143000 POPS)
 1928 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 2125
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4250
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	officers = {
-		culture = african_minor
-		religion = animist
-		size = 350
-	}
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 700
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1075
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 4300
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 8600
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1075
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 63075
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 126150
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 35000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 70000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 700
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1400
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 350
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 700
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1450
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2900
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 375
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 750
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 22125
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 44250
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 11000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 22000
+    }
 }
 #Lokoja (332000/83000 POPS)
 1930 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 575
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1175
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2350
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 18650
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 37300
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 8000
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 16000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 550
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 2250
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 4500
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 575
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 35525
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 71050
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 16000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 32000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 1550
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 3100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 775
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1550
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 3125
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 6250
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 800
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 45750
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 91500
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 26000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 52000
+    }
 }
 #Warri (616000/154000 POPS) african_minor includes Ijaw
 1931 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 3075
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 6150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1550
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 3100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 6175
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 12350
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1550
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 3100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 102650
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 205300
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 39000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 78000
+    }
 }
 #uncolonized in 1836/ruled by the Yoruba
 #Akure (156000/39000 POPS) african_Minor includes Nupe
 1929 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 425
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 850
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 225
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 450
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 225
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 450
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 17025
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 34050
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 5475
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 10950
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 200
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 450
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 900
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 7125
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 14250
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 }
 #Oil Rivers Region (1580000)
 #uncolonized in 1836/ruled by Calabar and the Ibo States
 #Bonny (112000/28000 POPS) african_minor includes Ijaw
 1932 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 550
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 275
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 550
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1125
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2250
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 18750
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 37500
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 7000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14000
+    }
 }
 #Awka (632000/158000 POPS)
 1933 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 3150
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 6300
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1575
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 3150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 6325
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 12650
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1600
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 3200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 107350
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 214700
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 38000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 76000
+    }
 }
 #Calabar (420000/105000 POPS)
 1934 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 2075
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1050
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 4200
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 8400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1050
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 74625
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 149250
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 22000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 44000
+    }
 }
 #Aruchukwu (416000/104000 POPS)
 1935 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 2075
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 4150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 1050
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 2100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 4175
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 8350
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 1050
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 78650
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 157300
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 17000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 34000
+    }
 }
 #Kwararafa Region (548000)
 #uncolonized in 1836
 #Makurdi (372000/93000 POPS)
 1936 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 1850
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 3700
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 925
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 1850
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 3725
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 7450
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 950
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1900
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 62550
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 125100
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 23000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 46000
+    }
 }
 #Tukari (176000/44000 POPS)
 1937 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 875
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1750
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 450
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 900
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1775
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3550
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 450
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 900
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 34250
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 68500
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 8000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 16000
+    }
 }
-#Borgu Region (56000) #see Benin.txt for balance of region  
+#Borgu Region (56000) #see Benin.txt for balance of region
 #ruled by Sokoto in 1836
-#Bussa (56000/14000 POPS) #now part of Nigeria  
+#Bussa (56000/14000 POPS) #now part of Nigeria
 1938 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3600
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 225
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 450
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 125
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 250
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 500
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1000
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 125
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 250
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 9025
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 18050
+    }
 }
 #Nupe-Jos Region (600000)
 #under rule of Sokoto in 1836
 #Zaria (216000/54000 POPS) #african_Minor includes Gwari
 1939 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 375
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 750
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1100
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 18150
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 36300
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 200
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 3650
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 7300
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 375
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 750
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 400
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 800
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 775
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1550
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 10375
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 20750
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 200
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 550
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1100
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 10025
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 20050
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 6000
+    }
 }
 #Bida (68000/17000 POPS) #african_Minor includes Gwari
 1940 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 325
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 650
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 700
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 10625
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21250
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 5000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 10000
+    }
 }
 #Abuja (64000/16000 POPS) #african_Minor includes Gwari and Chamba
 1941 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 300
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 650
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 10725
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21450
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 4000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 8000
+    }
 }
 #Bauchi (152000/38000 POPS) #african_Minor includes Chamba
 1942 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 450
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 900
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 8200
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 16400
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 375
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 750
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 775
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1550
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 12600
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 25200
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 2700
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 5400
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 700
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 6375
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12750
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 }
 #Jos (52000/13000 POPS) #african_Minor includes Chamba
 1943 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 125
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 250
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 300
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 600
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 4425
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 8850
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 5475
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 10950
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 }
 #Gombe (48000/12000 POPS)
 1944 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 175
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 350
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 400
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 7225
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 14450
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3600
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 }
 #Hausaland Region (3056000)
 #under rule of Sokoto in 1836
 #Kano (852000/213000 POPS)
 1945 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 2625
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 5250
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 1325
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 2650
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 6600
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 13200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1325
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2650
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 120125
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 240250
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 550
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 325
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 650
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1500
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3000
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 27325
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 54650
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 14000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 28000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 1100
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 2200
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 500
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 1000
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 2050
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 4100
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 525
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1050
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 32925
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 65850
+    }
 }
 #Kebbi (252000/63000 POPS)
 1946 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 800
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1600
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 400
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 800
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 2050
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 4100
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 425
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 850
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 37325
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 74650
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3600
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 375
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 750
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 800
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1600
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 16625
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 33250
+    }
 }
 #Katsina (656000/164000 POPS)
 1947 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 1925
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 3850
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 975
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 1950
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 4900
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 9800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 90100
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 180200
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 525
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1050
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 275
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 550
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1400
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 25500
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 51000
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 14000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 28000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 725
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1450
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 375
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 750
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1500
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 3000
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 375
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 750
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 20025
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 40050
+    }
 }
 #Sokoto (888000/220000 POPS)
 1948 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 2325
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 4650
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 125
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 250
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 250
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 500
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 1175
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 2350
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 5850
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 11700
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1175
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2350
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 106025
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 212050
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 575
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1500
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 3000
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 27325
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 54650
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 13000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 26000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 1325
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 2650
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 150
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 300
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 450
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 900
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 675
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 1350
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 2700
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 5400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 675
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1350
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 48025
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 96050
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 300
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 600
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 5475
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 10950
+    }
 }
 #Hadejia (416000/104000 POPS)
 1949 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 1150
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 2300
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 600
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 1200
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 2950
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 5900
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 600
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 53700
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 107400
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 225
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 450
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 600
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 10925
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21850
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 7000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 14000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 650
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1300
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 325
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 650
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1325
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2650
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 350
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 700
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 23350
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 46700
+    }
 }
-#Adamawa Region (140000) #see Cameroun.txt for balance of region   
+#Adamawa Region (140000) #see Cameroun.txt for balance of region
 #under rule of Sokoto in 1836
 #Yola (140000/35000 POPS)
 1950 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 3650
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 7300
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3600
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 225
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 450
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 125
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 250
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 525
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1050
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 2200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 10125
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 20250
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 300
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 650
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1300
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 10725
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21450
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 4000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 8000
+    }
 }
 #Borno Region (636000)
 #uncolonized/under rule of Borno in 1836
 #Kuka (240000/60000 POPS)
 1951 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 1150
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 2300
+    }
 
-	bureaucrats = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    bureaucrats = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	officers = {
-		culture = african_minor
-		religion = sunni
-		size = 175
-	}
+    officers = {
+        culture = african_minor
+        religion = sunni
+        size = 350
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 625
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 1250
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 2400
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 4800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 600
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 40000
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 80000
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 15000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 30000
+    }
 }
 #Nguru (192000/48000 POPS)
 1952 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 550
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1100
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 325
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 650
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1200
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 2400
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 300
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 600
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 18625
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 37250
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 9000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 18000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 325
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 650
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 175
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 350
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 900
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 1800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 200
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 400
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 16400
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 32800
+    }
 }
 #Dikoa (204000/51000 POPS)
 1953 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 975
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 1950
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 500
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 1000
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1975
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 3950
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 500
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 1000
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 36050
-	}
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 72100
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 9000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 18000
+    }
 
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = sunni
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 100
-	}
+    artisans = {
+        culture = african_minor
+        religion = sunni
+        size = 200
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 25
-	}
+    soldiers = {
+        culture = african_minor
+        religion = sunni
+        size = 50
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 1800
-	}
-
+    farmers = {
+        culture = african_minor
+        religion = sunni
+        size = 3600
+    }
 }

@@ -656,7 +656,7 @@ fort = {
 
 naval_base = {
 	type = naval_base
-	cost = 15000
+	cost = 0
 	goods_cost = {
 		timber = 50
 		lumber = 50
@@ -671,7 +671,6 @@ naval_base = {
 	port = yes
 	visibility = yes
 	max_level = 6
-	# Audax Validator "." Ignore_NEXT
 	colonial_points = { 30 50 70 90 110 130 } #points at levels 1-6
 	province = yes
 	one_per_state = yes

@@ -15,7 +15,6 @@ political_decisions = {
 		}
 
 		allow = {
-			ideological_thought = 1
 		}
 
 		effect = {
@@ -42,8 +41,7 @@ political_decisions = {
 		}
 
 		allow = {
-			biologism = 1
-			iron_steamers = 1
+
 		}
 
 		effect = {
@@ -70,7 +68,7 @@ political_decisions = {
 		}
 
 		allow = {
-			mechanical_production = 1
+
 			325 = {
 				state_scope = {
 					has_building = machine_parts_factory

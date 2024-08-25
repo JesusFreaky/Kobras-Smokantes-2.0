@@ -1,6 +1,9 @@
-owner = ORA
-controller = ORA
-add_core = ORA
+owner = BSH
+controller = BSH
+add_core = BSH
 add_core = SAF
+add_core = MAT
 trade_goods = coal
 life_rating = 32
+terrain = hills
+

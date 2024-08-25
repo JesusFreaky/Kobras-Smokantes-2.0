@@ -88,8 +88,8 @@ political_decisions = {
         }
         allow = {
             war = no
-            all_core = { owned_by = THIS }
             state_n_government = 1
+            all_core = { owned_by = THIS }
             SIC_763 = { owned_by = THIS }
             SAR_765 = { owned_by = THIS }
         }

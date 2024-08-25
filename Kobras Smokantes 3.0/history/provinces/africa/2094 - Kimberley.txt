@@ -1,3 +1,5 @@
-trade_goods = cattle
-life_rating = 15
+owner = SAF
+controller = SAF
 add_core = SAF
+trade_goods = cattle
+life_rating = 25

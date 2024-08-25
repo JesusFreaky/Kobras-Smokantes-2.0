@@ -2,876 +2,875 @@
 #Ruled by Bolivia 1836
 #Antofagasta (80000/20000 POPS)
 2305 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 425
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 850
+    }
 
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 25
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 25
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 150
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 300
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 400
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 800
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 150
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 6900
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 13800
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 600
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1200
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 11225
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 22450
+    }
 }
 #Calama (32000/8000 POPS)
 2309 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 350
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 150
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 300
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 2575
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 5150
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 250
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 500
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 4700
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 9400
+    }
 }
 #Ruled by Peru 1836
 #Iquique (32000/8000 POPS)
 2307 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 175
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 25
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 1650
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 1650
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 300
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 300
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 75
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 5575
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 5575
+    }
 }
 #Arica (20000/5000 POPS)
 2308 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 125
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 75
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 10
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 10
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 740
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 740
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 25
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 200
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 200
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 3725
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 3725
+    }
 }
 #Chile Norte Region (116000)
 #Ruled by Chile 1836
 #Copiapo (52000/13000 POPS)
 2322 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 275
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 550
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 650
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1300
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 11825
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 23650
+    }
 }
 #La Serena (64000/16000 POPS)
 2323 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 350
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 700
+    }
 
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 25
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 150
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 300
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 800
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1600
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 350
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 14450
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 28900
+    }
 }
 #Valle Central Region (640000)
 #Ruled by Chile 1836
 #Santiago (420000/105000 POPS)
 2324 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 2200
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 4400
+    }
 
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 300
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 600
+    }
 
-	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 350
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 1050
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 2100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 10000
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 20000
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 7500
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 15000
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 4000
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 8000
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 79775
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 159550
+    }
 }
 #Valparaiso (128000/32000 POPS)
 2325 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 675
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 1350
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 325
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 650
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 10000
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 20000
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 2000
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 4000
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 2200
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 18000
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 36000
+    }
 }
 #Vina del Mar (72000/18000 POPS)
 2326 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 375
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 750
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 350
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 900
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1800
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 2200
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 15550
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 31100
+    }
 }
 #Talca (20000/5000 POPS)
 2327 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 250
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 500
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 4525
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 9050
+    }
 }
 #Bio-Bio Region (232000)
 #Ruled by Chile 1836
 #Valdivia (92000/23000 POPS)
 2328 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 350
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 700
+    }
 
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 350
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 850
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1700
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 2200
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 14550
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 29100
+    }
 
-	aristocrats = {
-		culture = south_andean
-		religion = animist
-		size = 100
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 200
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = animist
-		size = 300
-	}
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 600
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = animist
-		size = 5475
-	}
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 10950
+    }
 }
 #Temuco (36000/9000 POPS)
 2329 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 250
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 500
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 4525
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 9050
+    }
 
-	aristocrats = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = animist
-		size = 200
-	}
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 400
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = animist
-		size = 3625
-	}
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 7250
+    }
 }
 #Cauquenes (68000/17000 POPS)
 2330 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 350
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 700
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 150
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 300
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 850
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1700
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1100
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 2200
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 14650
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 29300
+    }
 }
 #Chillan (36000/9000 POPS)
 2331 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 350
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 150
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 350
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 700
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 150
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 6325
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 12650
+    }
 
-	aristocrats = {
-		culture = south_andean
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 3600
+    }
 }
 #Magellanes Region (92000)
 #Ruled by Chile 1836
 #Osorno (68000/17000 POPS)
 2332 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 275
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 550
+    }
 
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 15
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 30
+    }
 
-	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 10
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 650
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1300
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 11800
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 23600
+    }
 
-	aristocrats = {
-		culture = south_andean
-		religion = animist
-		size = 75
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = animist
-		size = 200
-	}
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 400
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = animist
-		size = 3600
-	}
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 7200
+    }
 }
 #uncolonized/claimed by Chile 1836
 #Puerto Aisen (12000/3000 POPS)
 2333 = {
-	aristocrats = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = animist
-		size = 150
-	}
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 300
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = animist
-		size = 2700
-	}
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 5400
+    }
 }
 #Punta Arenas (8000/2000 POPS)
 2334 = {
-	aristocrats = {
-		culture = south_andean
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 50
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = animist
-		size = 100
-	}
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 200
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = animist
-		size = 25
-	}
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 50
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 3600
+    }
 }
 #Porvenir (4000/1000 POPS)
 2335 = {
-	aristocrats = {
-		culture = south_andean
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 20
+    }
 
-	clergymen = {
-		culture = south_andean
-		religion = animist
-		size = 25
-	}
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 50
+    }
 
-	artisans = {
-		culture = south_andean
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 100
+    }
 
-	soldiers = {
-		culture = south_andean
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 30
+    }
 
-	farmers = {
-		culture = south_andean
-		religion = animist
-		size = 900
-	}
-
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 1800
+    }
 }

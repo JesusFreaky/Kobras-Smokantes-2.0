@@ -1,2 +1,6 @@
+owner = CLA
+controller = CLA
+add_core = CLA
+add_core = ARO
 trade_goods = coal
-life_rating = 15
+life_rating = 32

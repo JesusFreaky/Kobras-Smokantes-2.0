@@ -5,11 +5,27 @@ political_decisions = {
       NOT = { has_country_flag = indian_gurkhas }
     }
     allow = {
+      all_core = { owned_by = THIS }
       nationalism_n_imperialism = 1
     }
     effect = {
       add_accepted_culture = bengali
       set_country_flag = indian_gurkhas
+    }
+  }
+
+  form_india = {
+    potential = {
+      tag = EIC
+      NOT = { has_country_flag = INDIA }
+    }
+    allow = {
+      revolution_ncounterrevolution = 1
+      HND = { all_core = { owned_by = THIS } }
+    }
+    effect = {
+      change_tag = HND
+      set_country_flag = INDIA
     }
   }
 }

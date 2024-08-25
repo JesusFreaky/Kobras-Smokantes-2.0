@@ -95,11 +95,13 @@ political_decisions = {
       has_country_flag = PERexp3
       NOT = { has_country_flag = PERexp4 }
     }
+    
     allow = {
       PER = { all_core = { owned_by = THIS } }
       nationalism_n_imperialism = 1
       is_greater_power = yes
     }
+
     effect = {
       TUR_889 = { add_core = THIS }
       TUR_885 = { add_core = THIS }
@@ -117,11 +119,13 @@ political_decisions = {
       has_country_flag = PERexp3
       NOT = { has_country_flag = PERint3 }
     }
+
     allow = {
       PER = { all_core = { owned_by = THIS } }
       nationalism_n_imperialism = 1
       prestige = 50
     }
+
     effect = {
       add_accepted_culture = mashriqi
       add_accepted_culture = kurdish

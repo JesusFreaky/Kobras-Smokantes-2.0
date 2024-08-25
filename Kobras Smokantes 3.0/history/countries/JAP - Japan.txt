@@ -19,7 +19,7 @@ upper_house = {
 }
 
 1836.1.1 = {
-Technologies
+# Technologies
 	flintlock_rifles = 1
 	bronze_muzzle_loaded_artillery = 1
 
@@ -32,7 +32,6 @@ Technologies
 	foreign_weapons = yes_foreign_weapons
 	foreign_naval_officers = yes_foreign_naval_officers
 	foreign_navies = yes_foreign_navies
-
 }
 
 # Starting Consciousness
@@ -60,7 +59,6 @@ oob = "JAP_oob.txt"
 	foreign_weapons = yes_foreign_weapons
 	foreign_naval_officers = yes_foreign_naval_officers
 	foreign_navies = yes_foreign_navies
-
 }
 
 slavery = no_slavery

@@ -27,8 +27,8 @@ political_decisions = {
 
 		allow = {
 			war = no
-			all_core = { owned_by = THIS }
 			state_n_government = 1
+			all_core = { owned_by = THIS }
 		}
 
 		effect = {
@@ -47,8 +47,8 @@ political_decisions = {
 		}
 
 		allow = {
-			nationalism_n_imperialism = 1
 			all_core = { owned_by = THIS }
+			nationalism_n_imperialism = 1
 			war = no 
 		}
 
@@ -68,14 +68,15 @@ political_decisions = {
 		potential = {
 			tag = SAR
 			has_country_flag = SARex1
+			NOT = { SGF = { exists = yes } }
 			NOT = { has_country_flag = SARex4 }
 			NOT = { has_country_flag = SARex2 }
 		}
 
 		allow = {
 			war = no
-			all_core = { owned_by = THIS }
 			state_n_government = 1
+			all_core = { owned_by = THIS }
 		}
 
 		effect = {
@@ -99,10 +100,10 @@ political_decisions = {
 
 		allow = {
 			war = no
+			nationalism_n_imperialism = 1
 			all_core = { owned_by = THIS }
 			AUS_729 = { owned_by = THIS }
 			AUS_734 = { owned_by = THIS }
-			nationalism_n_imperialism = 1
 		}
 
 		effect = {
@@ -132,8 +133,8 @@ political_decisions = {
 		}
 
 		allow = {
-			war = no
 			state_n_government = 1
+			war = no
 		}
 
 		effect = {
@@ -145,14 +146,16 @@ political_decisions = {
 
 	Break_Into_The_Papal_States = {
 		potential = {
-			tag = SAR
-			tag = SIC
+			OR = {
+				tag = SIC
+				tag = SAR
+			}
 			NOT = { has_country_flag = POPEINV }
 		}
 		
 		allow = {
-			war = no
 			ideological_thought = 1
+			war = no
 		}
 
 		effect = {
@@ -164,7 +167,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					in_sphere = THIS
-					is_puppet = THIS
+					is_vassal = yes
 					tag = PAP
 				}
 				annex_to = THIS
@@ -181,8 +184,8 @@ political_decisions = {
 		}
 
 		allow = {
-			war = no
 			state_n_government = 1
+			war = no
 		}
 
 		effect = {
@@ -216,9 +219,9 @@ political_decisions = {
 					add_core = SIC 
 				}
 			}
-			add_accepted_culture = Spanish
-			add_accepted_culture = Basque
-			add_accepted_culture = Caribeno
+			add_accepted_culture = spanish
+			add_accepted_culture = basque
+			add_accepted_culture = caribeno
 			set_country_flag = SICex2
 		}
 	}

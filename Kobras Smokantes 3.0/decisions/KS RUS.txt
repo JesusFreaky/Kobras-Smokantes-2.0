@@ -1,108 +1,5 @@
 political_decisions = {
 	
-	abolish_serfdom = {
-		potential = {
-			OR = {
-				tag = RUS
-				has_country_flag = serfdom_not_abolished
-			}
-		}
-
-		allow = {
-			has_country_flag = serfdom_not_abolished
-			state_n_government = 1
-		}
-
-		effect = {
-			clr_country_flag = serfdom_not_abolished
-			add_country_modifier = {
-				name = Russian_Progressism
-				duration = 1600
-			}
-		}
-	}
-
-	establish_the_sovnarkom = {
-		potential = {
-			tag = RUS
-			NOT = {
-				has_country_flag = big_brother_is_watching
-			}
-			government = proletarian_dictatorship
-		}
-		allow = {
-			mass_politics = 1
-		}
-
-		effect = {
-			any_pop = {
-				militancy = -1
-				consciousness = -1
-				ideology = {
-					value = socialist
-					factor = 0.25
-				}
-			}
-			prestige = 5
-			set_country_flag = big_brother_is_watching
-		}
-	}
-
-	manifesto_on_unshakable_autocracy = {
-		potential = {
-			tag = RUS
-			government = absolute_monarchy
-			NOT = {
-				has_country_flag = the_manifesto
-			}
-			nationalism_n_imperialism = 1
-		}
-
-		allow = {
-			revolution_n_counterrevolution = 1
-		}
-
-		effect = {
-			prestige = 5
-			badboy = 3
-			any_pop = {
-				consciousness = -0.5
-				militancy = -0.5
-			}
-			set_country_flag = the_manifesto
-		}
-	}
-
-	promulgate_the_ems_ukaz = {
-		potential = {
-			tag = RUS
-			NOT = {
-				has_country_flag = ems_ukaz_dispatched
-			}
-			government = absolute_monarchy
-			owns = 958
-			phenomenalism = 1
-			exists = GER
-			GER = {
-				owns = 570
-			}
-		}
-
-		allow = {
-			biologism = 1
-		}
-
-		effect = {
-			any_pop = {
-				limit = {
-					has_pop_culture = ukrainian
-				}
-				militancy = 3
-				consciousness = -2
-			}
-			set_country_flag = ems_ukaz_dispatched
-		}
-	}
 
 	protect_eastern_christians = {
 		potential = {
@@ -113,8 +10,12 @@ political_decisions = {
 
 		allow = {
 			war = no
-			ideological_thought = 1
-			all_core = { owned_by = THIS }
+			state_n_government = 1
+			RUS = {
+				all_core = { 
+					owned_by = THIS
+				}
+			}
 		}
 
 		effect = {
@@ -144,7 +45,8 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			MCK = {
-					owns = 1082 }
+				owns = 1082 
+			}
 			NOT = {
 				has_country_flag = peking_convention
 				war_with = MCK
@@ -181,7 +83,7 @@ political_decisions = {
 			owns = 1084
 			owns = 2617
 			owns = 1083
-     	   owns = 1082
+     	   	owns = 1082
 			NOT = {
 				has_global_flag = russian_vladivostok
 			}
@@ -235,24 +137,6 @@ political_decisions = {
 
 		ai_will_do = {
 			factor = 1
-		}
-	}
-
-	claim_kars = {
-		potential = {
-			tag = RUS
-			has_country_flag = eastern_christians_up_in_here_yall
-			NOT = { has_country_flag = kars_claimed }
-		}
-
-		allow = {
-			owns = 885
-		}
-
-		effect = {
-			prestige = 3
-			TUR_885 = { add_core = RUS }
-			set_country_flag = kars_claimed
 		}
 	}
 
@@ -322,6 +206,7 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = RUSint1 }
+			NOT = { has_country_flag = RUSint2 }
 		}
 
 		allow = {
@@ -342,7 +227,6 @@ political_decisions = {
 			tag = RUS
 			NOT = { has_country_flag = RUSint1 }
 			NOT = { has_country_flag = RUSint2 }
-
 		}
 
 		allow = {
@@ -366,10 +250,11 @@ political_decisions = {
 
 		allow = {
 			revolution_n_counterrevolution = 1
-			all_core = { owned_by = THIS }
+			SWE = { all_core = { owned_by = THIS } }
 		}
 
 		effect = {
+			SWE = { all_core = { add_core = THIS } }
 			add_accepted_culture = swedish
 			add_accepted_culture = norwegian
 			set_country_flag = RUSint3

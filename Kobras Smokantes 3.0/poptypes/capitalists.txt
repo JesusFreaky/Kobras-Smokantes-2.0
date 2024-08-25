@@ -1,7 +1,6 @@
 sprite = 4
 color = { 18 129 10 }
 strata = rich
-is_artisan = yes
 state_capital_only = yes
 
 demote_migrant = yes
@@ -776,8 +775,7 @@ promote_to =
 			}
 		}
 	}
-			artisans =
-	{
+	artisans = {
 		factor = 0.01
 		group = {
 			modifier = {
@@ -811,7 +809,7 @@ promote_to =
 				clergymen = 0.008
 			}
 			modifier = {
-				factor = 1
+			factor = 1
 				clergymen = 0.012
 			}
 			modifier = {
@@ -862,35 +860,35 @@ promote_to =
 			}
 		}
 		group = {
-		modifier = {
-			factor = 2
-			soldiers = 0.01
-		}
-		modifier = {
-			factor = 2
-			soldiers = 0.02
-		}
-		modifier = {
-			factor = 2
-			soldiers = 0.03
-		}
-		modifier = {
-			factor = 2
-			soldiers = 0.04
-		}
-		modifier = {
-			factor = 2
-			soldiers = 0.05
-		}
+			modifier = {
+				factor = 2
+				soldiers = 0.01
+			}
+			modifier = {
+				factor = 2
+				soldiers = 0.02
+			}
+			modifier = {
+				factor = 2
+				soldiers = 0.03
+			}
+			modifier = {
+				factor = 2
+				soldiers = 0.04
+			}
+			modifier = {
+				factor = 2
+				soldiers = 0.05
+			}
 		}
 		modifier = {
 			factor = -5
 			state_scope = {
 				work_available = {
 					worker = clerks
-					}
 				}
 			}
+		}
 
 		modifier = {
 			factor = 10
@@ -902,7 +900,6 @@ promote_to =
 			}
 		}
 	}
-
 }
 
 

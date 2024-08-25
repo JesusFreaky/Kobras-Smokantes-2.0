@@ -15,7 +15,6 @@ political_decisions = {
 			state_n_government = 1
 			prestige = 60
 			is_greater_power = yes
-			SGF = { exists = yes }
 		}
 		effect = {
 			NET = { all_core = { add_core = THIS } }
@@ -31,6 +30,7 @@ political_decisions = {
 	The_Polish_Integration = {
 		potential = {
 			tag = NGF
+			has_country_flag = NGF_Look_west
 			NOT = { has_country_flag = NGFint1 }
 		}
 		allow = {

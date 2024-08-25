@@ -1,79 +1,20 @@
 political_decisions = {
 
-	tanzimat_reforms = {
-		potential = {
-			tag = TUR
-			NOT = {
-				has_country_flag = tanzimat_reforms_enacted
-			}
-			government = absolute_monarchy
-		}
-
-		allow = {
-			average_militancy = 3
-			average_consciousness = 4
-		}
-
-		effect = {
-			any_pop = {
-				limit = {
-					NOT = {
-						has_pop_culture = turkish
-					}
-				}
-				militancy = -3
-				consciousness = 1
-			}
-			set_country_flag = tanzimat_reforms_enacted
-		}
-	}
-
-	kanun_i_esasi = {
-		potential = {
-			tag = TUR
-			NOT = {
-				has_country_flag = kanun_i_esasi_here
-			}
-		}
-
-		allow = {
-			nationalism_n_imperialism = 1
-		}
-
-		effect = {
-			any_pop = {
-				militancy = -3
-				consciousness = 2
-			}
-			prestige = 5
-			set_country_flag = kanun_i_esasi_here
-		}
-
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					average_militancy = 1
-				}
-			}
-		}
-	}
-
 	Expand_towards_east = {
 		potential = {
 			tag = TUR
 			NOT = { has_country_flag = balkans_lost }
 			NOT = { has_country_flag = balkan_focus }
 		}
-
 		allow = {
 			state_n_government = 1
-			TUR = { all_core { owned_by = THIS } }
+			TUR = {
+				all_core = {
+					owned_by = THIS 
+				} 
+			}
 		}
-
 		effect = {
-
 			TUR = { release_vassal = WAL }
 			TUR = { release_vassal = MOL }
 			release = ALB
@@ -92,17 +33,13 @@ political_decisions = {
 			SER = { all_core = { remove_core = TUR } }
 			BUL = { all_core = { remove_core = TUR } }
 			MON = { all_core = { remove_core = TUR } }
-			GRE = { 
+			GRE = {
 				all_core = {
 					NOT = {
-						CYP = {
-							all_core = {
-								owned_by = TUR
-							}
-						}
-					} 
+						is_core = CYP
+					}
 					remove_core = TUR 
-				} 
+				}
 			}
 			WAL_665 = { remove_core = TUR }
 			TUR_819 = { remove_core = TUR }
@@ -122,7 +59,7 @@ political_decisions = {
 			YEM = { all_core = { add_core = THIS } }
 			OMA = { all_core = { add_core = THIS } }
 			NEJ = { all_core = { add_core = THIS } }
-			set_country_flag = balkans_lost
+			set_country_flag = balkans_lost 
 		}
 	}
 
@@ -132,7 +69,6 @@ political_decisions = {
 			has_country_flag = balkans_lost
 			NOT = { has_country_flag = TURAsianExpansion }
 		}
-
 		allow = {
 			OR = {
 				functionalism = 1
@@ -143,7 +79,6 @@ political_decisions = {
 				all_core = { owned_by = THIS }
 			}
 		}
-
 		effect = {
 			PER_1112 = { add_core = TUR }
 			PER_1122 = { add_core = TUR }
@@ -160,7 +95,7 @@ political_decisions = {
 		potential = {
 			tag = TUR
 			has_country_flag = TURAsianExpansion
-			NOT = { has_country_flag = }
+			NOT = { has_country_flag = INTEAST }
 		}
 		allow = {
 			war = no
@@ -168,6 +103,7 @@ political_decisions = {
 			nationalism_n_imperialism = 1
 		}
 		effect = {
+			set_country_flag = INTEAST
 			add_accepted_culture = azerbaijani
 			add_accepted_culture = georgian
 			add_accepted_culture = armenian
@@ -181,12 +117,10 @@ political_decisions = {
 			NOT = { has_country_flag = balkans_lost }
 			NOT = { has_country_flag = balkan_focus }
 		}
-
 		allow = {
 			state_n_government = 1
 			TUR = { all_core = { owned_by = THIS } }
 		}
-
 		effect = {
 			set_country_flag = balkan_focus
 			add_accepted_culture = greek
@@ -198,6 +132,7 @@ political_decisions = {
 					OR = {
 					tag = WAL
 					tag = MOL
+					tag = ROM
 					tag = MON
 					tag = SER
 					tag = GRE
@@ -218,18 +153,16 @@ political_decisions = {
 			has_country_flag = balkan_focus
 			NOT = { has_country_flag = TUROld_Rival }
 		}
-
 		allow = {
 			is_greater_power = yes
 			nationalism_n_imperialism = 1
 			prestige = 100
 		}
-
 		effect = {
 			badboy = 10
 			add_accepted_culture = romanian
-			add_accepted_culture = serbian
-			ROM = { all_core = { add_core = TUR } }	
+			add_accepted_culture = serb
+			ROM = { all_core = { add_core = TUR } }
 			AUS_777 = { add_core = TUR }
 			AUS_780 = { add_core = TUR }
 			set_country_flag = TUROld_Rival
@@ -242,7 +175,6 @@ political_decisions = {
 			has_country_flag = TUROld_Rival
 			NOT = { has_country_flag = TURFall_Of_Wien }
 		}
-
 		allow = {
 			revolution_counterrevolution = 1
 			is_greater_power = yes
@@ -251,9 +183,9 @@ political_decisions = {
 			AUS_771 = { owned_by = THIS }
 			AUS_780 = { owned_by = THIS }
 		}
-		
 		effect = {
 			add_accepted_culture = hungarian
+			add_accepted_culture = slovak
 			add_accepted_culture = croatian
 			set_country_flag = TURFall_Of_Wien
 		}

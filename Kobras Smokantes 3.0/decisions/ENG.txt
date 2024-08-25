@@ -3,15 +3,19 @@ political_decisions = {
 	annex_australia = {
 		potential = {
 			tag = ENG
+			NOT = { has_country_flag = ANNEXAUS }
 			AST = {
 				ai = yes
 			}
 			NOT = { year = 1848 }
 		}
-		allow = {}
+		allow = {
+
+		}	
 		effect = {
 			AST = { annex_to = THIS }
-			badboy = 5
+			badboy = 10
+			set_country_flag = ANNEXAUS
 		}
 		ai_will_do = {
 			factor = 0
@@ -21,15 +25,18 @@ political_decisions = {
 	annex_new_zealand = {
 		potential = {
 			tag = ENG
+			NOT = { has_country_flag = ANNEXZEA }
 			NZL = {
 				ai = yes
 			}
 			NOT = { year = 1848 }
 		}
-		allow = {}
+		allow = {
+		}
 		effect = {
 			NZL = { annex_to = THIS }
 			badboy = 5
+			set_country_flag = ANNEXZEA
 		}
 		ai_will_do = {
 			factor = 0
@@ -39,15 +46,19 @@ political_decisions = {
 	annex_canada = {
 		potential = {
 			tag = ENG
+			NOT = { has_country_flag = ANNEXCAN }
 			CAN = {
 				ai = yes
 			}
 			NOT = { year = 1848 }
 		}
-		allow = {}
+		allow = {
+
+		}
 		effect = {
 			CAN = { annex_to = THIS }
 			badboy = 15
+			set_country_flag = ANNEXCAN
 		}
 		ai_will_do = {
 			factor = 0

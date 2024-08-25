@@ -2,181 +2,180 @@
 #uncolonized in 1836/ruled by Teke in 1836
 #Nkuna (40000/10000 POPS)
 1977 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 400
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 7225
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 14450
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 }
 #Madingou (16000/4000 POPS)
 1978 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 175
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 100
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 2650
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 5300
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 2200
+    }
 }
 #Loango (32000/8000 POPS)
 2624 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 300
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 325
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 650
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 100
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 5350
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 10700
+    }
 
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 2000
-	}
+    slaves = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
 }
-#uncolonized in 1836 
+#uncolonized in 1836
 #Djambala (28000/7000 POPS)
 1980 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 125
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 700
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 6375
-	}
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 12750
+    }
 }
 #Impfondo (32000/8000 POPS)
 1981 = {
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 300
+    }
 
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 400
-	}
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 800
+    }
 
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
 
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 7300
-	}
-
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 14600
+    }
 }

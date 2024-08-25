@@ -909,7 +909,7 @@ CHI_1529 = { 1529 1526 1525 1528 1524 1527 1530 } #Hunan
 
 CHI_2562 = { 2562 1485 } #Formosa
 
-RUS_340 = { 343 340 341 344 345 347 341 } #Southern Finland
+RUS_340 = { 343 340 341 344 345 347 } #Southern Finland
 
 RUS_336 = { 336 337 338 346 342 } #Northern Finland
 
