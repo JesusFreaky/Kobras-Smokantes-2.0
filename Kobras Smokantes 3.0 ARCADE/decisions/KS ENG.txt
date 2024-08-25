@@ -286,8 +286,8 @@ political_decisions = {
             inherit = FIN
             set_country_flag = NSEFOR
             change_tag = NSE
-            DEN = { all_core = { add_core = ENG } }
-            SWE = { all_core = { add_core = ENG } }
+            DEN = { all_core = { add_core = THIS } }
+            SWE = { all_core = { add_core = THIS } }
             add_accepted_culture = norwegian
             add_accepted_culture = swedish
             add_accepted_culture = danish

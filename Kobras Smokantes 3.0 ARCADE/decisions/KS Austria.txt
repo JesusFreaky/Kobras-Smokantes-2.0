@@ -68,7 +68,14 @@ political_decisions = {
 		
 		allow = {
 			prestige = 50
-			AUS = { all_core = { owned_by = THIS } }
+			AUS_623 = { owned_by = THIS }
+			AUS_633 = { owned_by = THIS }
+			AUS_641 = { owned_by = THIS }
+			AUS_654 = { owned_by = THIS }
+			AUS_657 = { owned_by = THIS }
+			AUS_777 = { owned_by = THIS }
+			AUS_771 = { owned_by = THIS }
+			FRA_1097 = { owned_by = THIS }
 		}
 
 		effect = {

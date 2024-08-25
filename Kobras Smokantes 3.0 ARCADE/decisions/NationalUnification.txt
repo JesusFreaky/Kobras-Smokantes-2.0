@@ -320,51 +320,6 @@ political_decisions = {
 		}
 	}
 
-	unite_two_crowns = {
-		potential = {
-			OR = {
-				tag = SPA
-				tag = FRA
-			}
-			NOT = { has_country_flag = FRASPAUNI }
-		}
-
-		allow = {
-			SPA = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			FRA = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-		}	
-
-		effect = {
-			set_country_flag = FRASPAUNI
-			SPA = { annex_to = THIS }
-			FRA = { annex_to = THIS }
-			SPA = { all_core = { add_core = THIS } }
-			FRA = { all_core = { add_core = THIS } }
-			add_accepted_culture = french
-			add_accepted_culture = occitan
-			add_accepted_culture = spanish
-			add_accepted_culture = catalan
-		}
-	}
-
 	unite_moldavia_wallachia = {
 		potential = {
 			OR = {
