@@ -173,13 +173,13 @@ political_decisions = {
     Take_Control_of_the_North_Sea = {
         potential = {
             tag = ENG
-            state_n_government = 1
             NOT = { has_country_flag = ENGexp1 }
             NOT = { has_country_flag = ENGexp2 }
             NOT = { has_country_flag = ENGexp3 }
         }
 
         allow = {
+            state_n_government = 1
             war = no
             SWE_309 = { 
                 OR = {

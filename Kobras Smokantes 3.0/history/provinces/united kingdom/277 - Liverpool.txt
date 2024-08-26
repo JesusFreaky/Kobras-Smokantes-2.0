@@ -2,7 +2,7 @@ owner = ENG
 controller = ENG
 add_core = ENG
 trade_goods = fish
-life_rating = 45
+life_rating = 36 = 45
 railroad = 1
 state_building = {
 	level = 3

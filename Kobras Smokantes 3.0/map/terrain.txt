@@ -68,7 +68,7 @@ categories =  {
 	
 	mountain = {
 		movement_cost = 1.4
-		defence = 3
+		defence = 2
 		color = { 117 108 119 }
 		farm_rgo_size = 0
 		farm_rgo_eff = -0.25

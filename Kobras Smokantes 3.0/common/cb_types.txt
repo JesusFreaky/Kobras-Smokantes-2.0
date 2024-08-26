@@ -166,6 +166,10 @@ conquest = {
 		NOT = { number_of_states = 5 }
 		OR = {
 			AND = {
+				this = { tag = JAP }
+				tag = KOR
+			}
+			AND = {
 				civilized = yes
 				NOT = { total_pops = 1000000}
 				NOT = { number_of_states = 4 }
@@ -1191,12 +1195,12 @@ demand_concession_casus_belli = {
 			civilized = yes
 		}
 		civilized = no
-		number_of_states = 2
+		number_of_states >= 2
 	}
 	
 	allowed_states = {
 		any_owned_province = {
-			is_colonial = no
+			is_colonial = yes
 		}
 	}
 	
@@ -1246,6 +1250,10 @@ establish_protectorate_casus_belli = {
 			NOT = {
 				number_of_states = 3
 				total_pops = 1800000
+			}
+			NOT = {
+				number_of_states = 2
+				total_pops = 2500000
 			}
 			AND = {
 				THIS = {

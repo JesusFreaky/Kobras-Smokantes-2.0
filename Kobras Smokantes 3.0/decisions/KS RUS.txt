@@ -180,6 +180,7 @@ political_decisions = {
 				tag = SWE
 				tag = SCA
 				tag = RUS
+				tag = NSE
 			}
 			NOT = { has_country_flag = Baltic_integration }
 		}

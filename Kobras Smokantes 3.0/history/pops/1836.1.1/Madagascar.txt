@@ -5,79 +5,79 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 12525
+        size = 21918
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 6375
+        size = 11156
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 30000
+        size = 52500
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 900
+        size = 1575
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 21000
+        size = 36750
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 432225
+        size = 756393
     }
 
     clergymen = {
         culture = boer
         religion = catholic
-        size = 15
+        size = 26
     }
 
     artisans = {
         culture = boer
         religion = catholic
-        size = 30
+        size = 52
     }
 
     farmers = {
         culture = boer
         religion = catholic
-        size = 705
+        size = 1233
     }
 
     aristocrats = {
         culture = boer
         religion = protestant
-        size = 75
+        size = 131
     }
 
     clergymen = {
         culture = boer
         religion = protestant
-        size = 75
+        size = 131
     }
 
     artisans = {
         culture = boer
         religion = protestant
-        size = 150
+        size = 262
     }
 
     farmers = {
         culture = boer
         religion = protestant
-        size = 2700
+        size = 4725
     }
 }
 #Fianarantsoa (280000/7000 POPS)
@@ -85,31 +85,31 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 4050
+        size = 7087
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 2175
+        size = 3806
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 10500
+        size = 18375
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 12000
+        size = 21000
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 181275
+        size = 317231
     }
 }
 #Tolanaro (176000/44000 POPS)
@@ -117,67 +117,67 @@
     aristocrats = {
         culture = boer
         religion = sunni
-        size = 1425
+        size = 2493
     }
 
     clergymen = {
         culture = boer
         religion = sunni
-        size = 750
+        size = 1312
     }
 
     artisans = {
         culture = boer
         religion = sunni
-        size = 3300
+        size = 5775
     }
 
     soldiers = {
         culture = boer
         religion = sunni
-        size = 750
+        size = 1312
     }
 
     farmers = {
         culture = boer
         religion = sunni
-        size = 45075
+        size = 78881
     }
 
     slaves = {
         culture = boer
         religion = animist
-        size = 24000
+        size = 42000
     }
 
     aristocrats = {
         culture = boer
         religion = animist
-        size = 1050
+        size = 1837
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 600
+        size = 1050
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 2850
+        size = 4987
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 600
+        size = 1050
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 51900
+        size = 90825
     }
 }
 #Toamasina (116000/29000 POPS)
@@ -185,109 +185,109 @@
     aristocrats = {
         culture = boer
         religion = sunni
-        size = 675
+        size = 1181
     }
 
     clergymen = {
         culture = boer
         religion = sunni
-        size = 375
+        size = 656
     }
 
     artisans = {
         culture = boer
         religion = sunni
-        size = 1500
+        size = 2625
     }
 
     soldiers = {
         culture = boer
         religion = sunni
-        size = 375
+        size = 656
     }
 
     farmers = {
         culture = boer
         religion = sunni
-        size = 12075
+        size = 21131
     }
 
     slaves = {
         culture = boer
         religion = animist
-        size = 21000
+        size = 36750
     }
 
     aristocrats = {
         culture = boer
         religion = animist
-        size = 750
+        size = 1312
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 450
+        size = 787
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 2100
+        size = 3675
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 450
+        size = 787
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 38250
+        size = 66937
     }
 
     clergymen = {
         culture = boer
         religion = catholic
-        size = 75
+        size = 131
     }
 
     artisans = {
         culture = boer
         religion = catholic
-        size = 150
+        size = 262
     }
 
     farmers = {
         culture = boer
         religion = catholic
-        size = 2775
+        size = 4856
     }
 
     aristocrats = {
         culture = boer
         religion = protestant
-        size = 150
+        size = 262
     }
 
     clergymen = {
         culture = boer
         religion = protestant
-        size = 150
+        size = 262
     }
 
     artisans = {
         culture = boer
         religion = protestant
-        size = 300
+        size = 525
     }
 
     farmers = {
         culture = boer
         religion = protestant
-        size = 5400
+        size = 9450
     }
 }
 #Antsiranana (104000/26000 POPS)
@@ -295,67 +295,67 @@
     aristocrats = {
         culture = boer
         religion = sunni
-        size = 525
+        size = 918
     }
 
     clergymen = {
         culture = boer
         religion = sunni
-        size = 300
+        size = 525
     }
 
     artisans = {
         culture = boer
         religion = sunni
-        size = 1500
+        size = 2625
     }
 
     soldiers = {
         culture = boer
         religion = sunni
-        size = 300
+        size = 525
     }
 
     farmers = {
         culture = boer
         religion = sunni
-        size = 9375
+        size = 16406
     }
 
     slaves = {
         culture = boer
         religion = animist
-        size = 18000
+        size = 31500
     }
 
     aristocrats = {
         culture = boer
         religion = animist
-        size = 825
+        size = 1443
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 450
+        size = 787
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 2400
+        size = 4200
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 525
+        size = 918
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 43800
+        size = 76650
     }
 }
 #Sakalava Region (588000)
@@ -365,65 +365,133 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 1425
+        size = 2493
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 750
+        size = 1312
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 3750
+        size = 6562
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 750
+        size = 1312
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 68325
+        size = 119568
     }
 
     aristocrats = {
         culture = boer
         religion = animist
-        size = 1875
+        size = 3281
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 975
+        size = 1706
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 4800
+        size = 8400
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 3300
+        size = 5775
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 85350
+        size = 149362
     }
 }
 #Mahajanga (188000/47000 POPS)
 2121 = {
+    aristocrats = {
+        culture = boer
+        religion = sunni
+        size = 2756
+    }
+
+    clergymen = {
+        culture = boer
+        religion = sunni
+        size = 1443
+    }
+
+    artisans = {
+        culture = boer
+        religion = sunni
+        size = 5775
+    }
+
+    soldiers = {
+        culture = boer
+        religion = sunni
+        size = 1443
+    }
+
+    farmers = {
+        culture = boer
+        religion = sunni
+        size = 69693
+    }
+
+    slaves = {
+        culture = boer
+        religion = animist
+        size = 55387
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = animist
+        size = 1968
+    }
+
+    clergymen = {
+        culture = boer
+        religion = animist
+        size = 1050
+    }
+
+    artisans = {
+        culture = boer
+        religion = animist
+        size = 5775
+    }
+
+    soldiers = {
+        culture = boer
+        religion = animist
+        size = 1050
+    }
+
+    farmers = {
+        culture = boer
+        religion = animist
+        size = 95681
+    }
+}
+#Toliara (172000/43000 POPS)
+2122 = {
     aristocrats = {
         culture = boer
         religion = sunni
@@ -433,128 +501,60 @@
     clergymen = {
         culture = boer
         religion = sunni
-        size = 825
+        size = 787
     }
 
     artisans = {
         culture = boer
         religion = sunni
-        size = 3300
+        size = 3412
     }
 
     soldiers = {
         culture = boer
         religion = sunni
-        size = 825
+        size = 918
     }
 
     farmers = {
         culture = boer
         religion = sunni
-        size = 39825
+        size = 19556
     }
 
     slaves = {
         culture = boer
         religion = animist
-        size = 31650
+        size = 57750
     }
 
     aristocrats = {
         culture = boer
         religion = animist
-        size = 1125
+        size = 2625
     }
 
     clergymen = {
         culture = boer
         religion = animist
-        size = 600
+        size = 1443
     }
 
     artisans = {
         culture = boer
         religion = animist
-        size = 3300
+        size = 7087
     }
 
     soldiers = {
         culture = boer
         religion = animist
-        size = 600
+        size = 5775
     }
 
     farmers = {
         culture = boer
         religion = animist
-        size = 54675
-    }
-}
-#Toliara (172000/43000 POPS)
-2122 = {
-    aristocrats = {
-        culture = boer
-        religion = sunni
-        size = 900
-    }
-
-    clergymen = {
-        culture = boer
-        religion = sunni
-        size = 450
-    }
-
-    artisans = {
-        culture = boer
-        religion = sunni
-        size = 1950
-    }
-
-    soldiers = {
-        culture = boer
-        religion = sunni
-        size = 525
-    }
-
-    farmers = {
-        culture = boer
-        religion = sunni
-        size = 11175
-    }
-
-    slaves = {
-        culture = boer
-        religion = animist
-        size = 33000
-    }
-
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 1500
-    }
-
-    clergymen = {
-        culture = boer
-        religion = animist
-        size = 825
-    }
-
-    artisans = {
-        culture = boer
-        religion = animist
-        size = 4050
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 3300
-    }
-
-    farmers = {
-        culture = boer
-        religion = animist
-        size = 71925
+        size = 125868
     }
 }
