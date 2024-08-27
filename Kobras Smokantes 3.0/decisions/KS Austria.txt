@@ -80,7 +80,6 @@ political_decisions = {
 			AUS_657 = { owned_by = THIS }
 			AUS_777 = { owned_by = THIS }
 			AUS_771 = { owned_by = THIS }
-			FRA_1097 = { owned_by = THIS }
 		}
 
 		effect = {

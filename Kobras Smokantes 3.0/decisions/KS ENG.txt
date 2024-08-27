@@ -212,8 +212,7 @@ political_decisions = {
             NOR = { 
                 all_core = { 
                     add_core = THIS 
-                    secede_province = THIS
-                } 
+                }
             }
             set_country_flag = ENGexp3
         }

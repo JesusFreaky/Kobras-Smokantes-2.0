@@ -138,6 +138,7 @@ political_decisions = {
 			NOT = {
 				exists = GER
 				tag = ISR
+				tag = KUK
 			}
 			NOT = { has_country_flag = NGF_Look_west }
 			NOT = { has_country_flag = AUSITAint }

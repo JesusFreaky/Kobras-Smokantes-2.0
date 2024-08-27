@@ -2,5 +2,5 @@ owner = TUN
 controller = TUN
 add_core = MOR
 add_core = TUN
-trade_goods = grain
+trade_goods = sulphur
 life_rating = 32

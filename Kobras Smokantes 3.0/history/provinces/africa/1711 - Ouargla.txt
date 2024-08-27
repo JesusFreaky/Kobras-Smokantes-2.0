@@ -2,5 +2,5 @@ owner = ALD
 controller = ALD
 add_core = ALD
 add_core = MOR
-trade_goods = wool
+trade_goods = coal
 life_rating = 32
