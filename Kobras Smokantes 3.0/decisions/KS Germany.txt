@@ -38,7 +38,7 @@ political_decisions = {
 			is_greater_power = yes
 		}
 		effect = {
-			add_accepted_culture = polish
+			add_accepted_culture = north_polish
 			set_country_flag = NGFint1
 		}
 	}

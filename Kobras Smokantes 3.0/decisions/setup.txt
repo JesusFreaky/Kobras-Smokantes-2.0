@@ -54,6 +54,19 @@ political_decisions = {
     				literacy = 0.20
     			}
 			}
+      		any_country = {
+				limit = {
+					tag = FRA
+				}
+        		any_pop = {
+    				limit = {
+    					OR = {
+							has_pop_culture = occitan
+    					}
+    				}
+    				literacy = 0.55
+    			}
+			}
 			any_country = {
 				limit = {
 					tag = ENG
@@ -62,7 +75,7 @@ political_decisions = {
     				limit = {
     					has_pop_culture = irish
     				}
-    				literacy = 0.20
+    				literacy = 0.60
     			}
 			}
 			any_country = {

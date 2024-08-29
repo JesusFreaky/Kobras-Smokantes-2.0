@@ -1,5 +1,6 @@
 capital = 703
-primary_culture = polish
+primary_culture = south_polish
+culture = north_polish
 culture = ashkenazi
 religion = catholic
 government = democracy

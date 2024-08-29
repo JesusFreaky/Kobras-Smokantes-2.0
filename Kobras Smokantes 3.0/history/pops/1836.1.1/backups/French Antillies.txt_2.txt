@@ -29,7 +29,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 624
+        size = 312
     }
 
     farmers = {
@@ -91,7 +91,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 750
+        size = 375
     }
 
     farmers = {

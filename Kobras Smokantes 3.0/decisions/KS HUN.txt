@@ -35,6 +35,34 @@ political_decisions = {
         }
     }
 
+    Integrating_Ruthenia = {
+        potential = {
+            tag = HUN
+            NOT = {
+                has_country_flag = INTRUT
+            }
+        }
+        allow = {
+            war = no
+            AUS_704 = { owned_by = THIS }
+            AUS_702 = { owned_by = THIS }
+        }
+        effect = {
+            RUT = {
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            KRA = {
+                all_core = {
+                    add_core = HUN
+                }
+            }
+            set_country_flag = INTRUT
+            add_accepted_culture = south_polish
+        }
+    }
+
     The_Hungarian_Horses = {
         potential = {
             tag = HUN
@@ -54,6 +82,8 @@ political_decisions = {
             set_country_flag = HUNEXP1
             SER_794 = { add_core = THIS }
             TUR_788 = { add_core = THIS }
+            WAL_665 = { add_core = THIS }
+            MOL_673 = { add_core = THIS }
             any_country = {
                 limit = {
                     is_in_sphere = THIS

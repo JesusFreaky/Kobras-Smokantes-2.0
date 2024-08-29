@@ -600,6 +600,36 @@ polish_culture_group = {
 		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
 		radicalism = 10
 	}
+	north_polish = {
+		color = {255 120 120}
+		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej J�zef
+		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+
+		last_names = { Bem B�r-Komorowski Brz�ska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+		Mikolajczyk Mokronowski Niepok�lczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+		Rokossowski Rola-Zymierski R�mmel R�zicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+		radicalism = 10
+	}
+	south_polish = {
+		color = {188 90 90}
+		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej J�zef
+		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+
+		last_names = { Bem B�r-Komorowski Brz�ska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+		Mikolajczyk Mokronowski Niepok�lczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+		Rokossowski Rola-Zymierski R�mmel R�zicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+		radicalism = 10
+	}
 	western_slavic = {
 		color = {147 63 109}
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil

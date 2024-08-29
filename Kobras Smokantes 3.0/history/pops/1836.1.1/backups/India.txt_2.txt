@@ -7757,7 +7757,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 62
+        size = 31
     }
 
     clergymen = {

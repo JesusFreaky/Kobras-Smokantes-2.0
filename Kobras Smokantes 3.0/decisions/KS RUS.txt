@@ -218,6 +218,8 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = ukrainian
 			add_accepted_culture = byelorussian
+			add_accepted_culture = north_polish
+			add_accepted_culture = south_polish
 			set_country_flag = RUSint1
 			NOT = { has_country_flag = RUSint2 }
 		}

@@ -1,5 +1,6 @@
 capital = 703 #Krakow
-primary_culture = polish
+primary_culture = north_polish
+culture = south_polish
 culture = lithuanian
 culture = ashkenazi
 religion = catholic

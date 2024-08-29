@@ -3,9 +3,9 @@ primary_culture = french
 culture = french_canadian
 religion = catholic
 government = constitutionalist_monarchy
-plurality = 15
+plurality = 25
 nationalvalue = nv_equality
-literacy = 0.60
+literacy = 0.55
 civilized = yes
 
 #GreaterPowers = prestige
@@ -70,7 +70,7 @@ commerce_raiders = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_liberal
+ruling_party = FRA_conservative
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0

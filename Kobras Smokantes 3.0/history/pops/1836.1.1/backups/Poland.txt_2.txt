@@ -57,25 +57,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 920
     }
@@ -113,25 +113,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1825
     }
@@ -193,25 +193,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1825
     }
@@ -387,25 +387,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1750
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1300
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 31600
     }
@@ -473,25 +473,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 85
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4615
     }
@@ -601,25 +601,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 625
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 3200
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2300
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50075
     }
@@ -711,25 +711,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 675
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 3650
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 67675
     }
@@ -880,25 +880,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 5000
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1875
     }
@@ -960,25 +960,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 6525
     }
@@ -1016,25 +1016,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 6625
     }
@@ -1072,25 +1072,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 450
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 7475
     }
@@ -1164,25 +1164,25 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1300
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 24225
     }
@@ -1222,49 +1222,49 @@
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 325
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 1800
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 1300
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 32575
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4625
     }
@@ -1352,31 +1352,31 @@
     }
 
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4000
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2400
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 74400
     }
@@ -1450,31 +1450,31 @@
     }
 
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1200
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 22375
     }
@@ -1548,31 +1548,31 @@
     }
 
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 825
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2300
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 89325
     }
@@ -1581,67 +1581,67 @@
 #Lodz (244000/61000 POPS)
 712 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1500
     }
 
     bureaucrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 100
     }
 
     officers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1300
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 36550
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 9325
     }
@@ -1697,55 +1697,55 @@
 #Kalicz (252000/63000 POPS)
 717 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1450
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2600
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 46500
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 2775
     }
@@ -2117,43 +2117,43 @@
 #Radom (444000/111000 POPS)
 713 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2525
     }
 
     bureaucrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 525
     }
 
     officers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 950
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4900
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 950
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 87650
     }
@@ -2185,31 +2185,31 @@
 #Lublin (476000/119000 POPS)
 715 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2700
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 825
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4200
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 800
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 75475
     }
@@ -2265,55 +2265,55 @@
 #Kielce (448000/112000 POPS)
 716 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2550
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 950
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4900
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 950
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 88650
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 575
     }
@@ -2453,79 +2453,79 @@
 #Warsaw (720000/180000 POPS)
 706 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4250
     }
 
     bureaucrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 500
     }
 
     officers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1500
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 150450
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = protestant
         size = 2400
     }
@@ -2581,31 +2581,31 @@
 #Suwalki (196000/49000 POPS)
 707 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1150
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1900
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 375
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 35250
     }
@@ -2661,31 +2661,31 @@
 #Plock (396000/99000 POPS)
 708 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2050
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 875
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4400
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 79775
     }
@@ -2741,31 +2741,31 @@
 #Lomza (200000/50000 POPS)
 709 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1150
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2150
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 38875
     }
@@ -2797,31 +2797,31 @@
 #Skierniewicz (436000/109000 POPS)
 710 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2500
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 925
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 4750
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 950
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 85875
     }
@@ -2877,31 +2877,31 @@
 #Siedlice (472000/118000 POPS)
 711 = {
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 2700
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1100
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 5250
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1050
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 95000
     }
@@ -2959,31 +2959,31 @@
     }
 
     aristocrats = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 1900
     }
 
     clergymen = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = north_polish
+        culture = polish
         religion = catholic
         size = 5575
     }

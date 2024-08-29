@@ -40,7 +40,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 5250
+        size = 2625
     }
 
     labourers = {
@@ -72,7 +72,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -128,7 +128,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2874
+        size = 1437
     }
 
     farmers = {
@@ -166,7 +166,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3750
+        size = 1875
     }
 
     farmers = {
@@ -198,7 +198,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -243,7 +243,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3750
+        size = 1875
     }
 
     farmers = {
@@ -275,7 +275,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -313,7 +313,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 1874
+        size = 937
     }
 
     farmers = {
@@ -358,7 +358,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -390,7 +390,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -428,7 +428,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -569,7 +569,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 686
+        size = 343
     }
 
     farmers = {
@@ -667,7 +667,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 874
+        size = 437
     }
 
     farmers = {
@@ -712,7 +712,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -792,7 +792,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 1624
+        size = 812
     }
 
     farmers = {
@@ -890,7 +890,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 1874
+        size = 937
     }
 
     farmers = {
@@ -952,7 +952,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     labourers = {
@@ -1033,7 +1033,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 5000
+        size = 2500
     }
 
     farmers = {
@@ -1065,7 +1065,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1097,7 +1097,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3000
+        size = 1500
     }
 
     farmers = {
@@ -1135,7 +1135,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 6874
+        size = 3437
     }
 
     farmers = {
@@ -1186,7 +1186,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3500
+        size = 1750
     }
 
     farmers = {
@@ -1218,7 +1218,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3750
+        size = 1875
     }
 
     farmers = {
@@ -1250,7 +1250,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1288,7 +1288,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3124
+        size = 1562
     }
 
     labourers = {
@@ -1320,7 +1320,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3500
+        size = 1750
     }
 
     farmers = {
@@ -1503,7 +1503,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 10000
+        size = 5000
     }
 
     farmers = {
@@ -1545,7 +1545,7 @@
     soldiers = {
         culture = french
         religion = jewish
-        size = 124
+        size = 62
     }
 }
 #Chartres (284000/71000 POPS)
@@ -1571,7 +1571,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1603,7 +1603,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1648,7 +1648,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1680,7 +1680,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1712,7 +1712,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3750
+        size = 1875
     }
 
     farmers = {
@@ -1744,7 +1744,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1789,7 +1789,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3750
+        size = 1875
     }
 
     farmers = {
@@ -1827,7 +1827,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -1878,7 +1878,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 5000
+        size = 2500
     }
 
     labourers = {
@@ -1910,7 +1910,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2250
+        size = 1125
     }
 
     farmers = {
@@ -1942,7 +1942,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 3000
+        size = 1500
     }
 
     farmers = {
@@ -1974,7 +1974,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2250
+        size = 1125
     }
 
     labourers = {
@@ -2025,7 +2025,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -2057,7 +2057,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -2089,7 +2089,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -2121,7 +2121,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -2166,7 +2166,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2874
+        size = 1437
     }
 
     farmers = {
@@ -2198,7 +2198,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 1874
+        size = 937
     }
 
     farmers = {
@@ -2230,7 +2230,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -2275,7 +2275,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 1874
+        size = 937
     }
 
     farmers = {
@@ -2307,7 +2307,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 3374
+        size = 1687
     }
 
     farmers = {
@@ -2339,7 +2339,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 5000
+        size = 2500
     }
 
     farmers = {
@@ -2384,7 +2384,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 4624
+        size = 2312
     }
 
     farmers = {
@@ -2416,7 +2416,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -2448,7 +2448,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 1874
+        size = 937
     }
 
     farmers = {
@@ -2541,7 +2541,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 5250
+        size = 2625
     }
 
     farmers = {
@@ -2603,7 +2603,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2874
+        size = 1437
     }
 
     farmers = {
@@ -2635,7 +2635,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 4124
+        size = 2062
     }
 
     farmers = {
@@ -2667,7 +2667,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 4374
+        size = 2187
     }
 
     farmers = {
@@ -2718,7 +2718,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 4374
+        size = 2187
     }
 
     farmers = {
@@ -2750,7 +2750,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 3750
+        size = 1875
     }
 
     farmers = {
@@ -2782,7 +2782,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -2845,7 +2845,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 4000
+        size = 2000
     }
 
     farmers = {
@@ -2877,7 +2877,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 3500
+        size = 1750
     }
 
     farmers = {
@@ -2909,7 +2909,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 3124
+        size = 1562
     }
 
     farmers = {
@@ -2990,7 +2990,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 4500
+        size = 2250
     }
 
     farmers = {
@@ -3022,7 +3022,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 3250
+        size = 1625
     }
 
     farmers = {
@@ -3054,7 +3054,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -3086,7 +3086,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 374
+        size = 187
     }
 
     farmers = {
@@ -3257,7 +3257,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -3289,7 +3289,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 1500
+        size = 750
     }
 
     farmers = {
@@ -3321,7 +3321,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 874
+        size = 437
     }
 
     farmers = {
@@ -3359,7 +3359,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
@@ -3391,7 +3391,7 @@
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 874
+        size = 437
     }
 
     farmers = {
@@ -3474,7 +3474,7 @@
     soldiers = {
         culture = french
         religion = catholic
-        size = 2750
+        size = 1375
     }
 
     farmers = {
