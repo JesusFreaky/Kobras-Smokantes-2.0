@@ -125,6 +125,9 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = swiss
 			badboy = 10
+			FRA_412 = {
+				add_core = THIS
+			}
 			SWI = { all_core = { add_core = SGF } }
 			prestige = -25
 			set_country_flag = SGFIMP1
