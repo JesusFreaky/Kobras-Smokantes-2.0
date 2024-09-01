@@ -144,18 +144,18 @@ vassal = {
 vassal = {
 	first = ENG
 	second = AST
-	start_date = 1836.1.2
+	start_date = 1836.1.1
 	end_date = 1935.12.31
 }
 vassal = {
 	first = ENG
 	second = NZL
-	start_date = 1836.1.2
+	start_date = 1836.1.1
 	end_date = 1935.12.31
 }
 vassal = {
 	first = ENG
 	second = EIC
-	start_date = 1836.1.2
+	start_date = 1836.1.1
 	end_date = 1935.12.31
 }

@@ -3,22 +3,6 @@
 #
 # Effects are fully scriptable here.
 
-dutch_east_india = {
-	trigger = {
-		1413 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-		1418 = {
-			is_colonial = yes
-			owned_by = THIS
-		}
-	}
-	research_points = 0.5
-	prestige = 0.01
-	icon = 19
-}
-
 vassal_nation = {
 	trigger = {
 		is_vassal = yes

@@ -5,8 +5,8 @@
 ##### British Raj #####
 
 the_british_raj  = {
-	research_points = 1
-	prestige = -1
+	research_points = 0.1
+	prestige = -0.25
 	icon = 19
 }
 
