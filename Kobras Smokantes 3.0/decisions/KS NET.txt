@@ -1,0 +1,19 @@
+political_decisions = {
+
+	Consolidate_The_Eastern_People = {
+		potential = {
+			tag = NET
+			NOT = {
+				has_country_flag = 
+			}
+		}
+		allow = {
+			1413 = { owned_by = this }
+			war = no
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			add_accepted_culture = javan
+		}
+	}
+}
