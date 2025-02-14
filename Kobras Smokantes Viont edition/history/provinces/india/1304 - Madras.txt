@@ -1,0 +1,9 @@
+OWNER = ENG
+CONTROLLER = ENG colonial = 2
+add_core = HYD
+add_core = HND
+add_core = TRA
+trade_goods = grain
+life_rating = 32
+fort = 1
+naval_base = 1

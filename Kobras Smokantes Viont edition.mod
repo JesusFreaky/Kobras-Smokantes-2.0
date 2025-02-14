@@ -1,0 +1,5 @@
+name = "Kobras Smokantes Viont edition"
+path = "mod/Kobras Smokantes Viont edition"
+user_dir = "Kobras Smokantes Viont edition"
+replace_path = "movies"
+replace_path = "history"

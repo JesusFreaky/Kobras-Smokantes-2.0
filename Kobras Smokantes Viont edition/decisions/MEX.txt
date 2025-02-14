@@ -1,0 +1,34 @@
+political_decisions = {
+	restore_mexican_empire = {
+		potential = {
+			tag = MEX
+			NOT = {
+				has_country_flag = we_have_tried_this_once
+			}
+		}
+		allow = {
+			OR = {
+				ruling_party_ideology = conservative
+				ruling_party_ideology = reactionary
+			}
+			owns = 132
+			owns = 100
+			owns = 96
+			owns = 84
+		}
+		effect = {
+			government = hms_government
+			any_pop = {
+				scaled_militancy = {
+					ideology = liberal
+					factor = 8
+				}
+			}
+			add_accepted_culture = texan
+			add_accepted_culture = caribeno
+			add_accepted_culture = central_american
+			set_country_flag = we_have_tried_this_once
+			132 = { add_core = THIS }
+		}
+	}
+}

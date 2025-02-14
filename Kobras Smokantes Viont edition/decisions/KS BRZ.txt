@@ -1,0 +1,20 @@
+political_decisions = {
+
+	accept_the_africans = {
+
+		potential = {
+			tag = BRZ
+			not = { has_country_flag = BRZint1 }
+		}
+
+		allow = { 
+			war = no
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			add_accepted_culture = afro_brazilian
+			set_country_flag = BRZint1
+		}
+	}
+}

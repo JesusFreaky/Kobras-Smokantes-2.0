@@ -1,0 +1,6 @@
+OWNER = ENG
+CONTROLLER = ENG colonial = 2
+add_core = HYD
+add_core = HND
+trade_goods = grain
+life_rating = 32
