@@ -201,7 +201,7 @@ loyal_askaris = {
 }
 
 muhammad_alis_reforms = {
-	research_points_modifier = 0.5
+	research_points_modifier = 0.25
 	pop_consciousness_modifier = 0.05
 	icon = 5
 }

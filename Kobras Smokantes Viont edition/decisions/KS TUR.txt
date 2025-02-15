@@ -8,11 +8,19 @@ political_decisions = {
 		}
 		allow = {
 			state_n_government = 1
-			TUR = {
-				all_core = {
-					owned_by = THIS 
-				} 
+			TUR_853 = {
+				owned_by = THIS
 			}
+			TUR_809 = {
+				owned_by = THIS
+			}
+			TUR_805 = {
+				owned_by = THIS
+			}
+			TUR_788 = {
+				owned_by = THIS
+			}
+			
 		}
 		effect = {
 			TUR = { release_vassal = WAL }
@@ -76,7 +84,15 @@ political_decisions = {
 					is_greater_power = yes
 					prestige = 50	
 				}
-				all_core = { owned_by = THIS }
+			}
+			EGY_921 = {
+				owned_by = THIS
+			}
+			EGY_897 = {
+				owned_by = THIS
+			}
+			EGY_915 = {
+				owned_by = THIS
 			}
 		}
 		effect = {

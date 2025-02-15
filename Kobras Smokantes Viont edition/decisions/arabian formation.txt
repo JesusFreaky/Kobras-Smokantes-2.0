@@ -5,7 +5,10 @@ political_decisions = {
 
 		potential = {
 			ARA = { exists = no }
-			is_culture_group = arab
+			AND = {
+				NOT = EGY
+				is_culture_group = arab
+			}
 		}
 		
 		allow = {
