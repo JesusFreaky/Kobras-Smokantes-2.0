@@ -1783,11 +1783,26 @@ negotiated_transfer = {
 	construction_speed = 2.0
 
 	can_use = {
+		number_of_states = 2 # annex if you want their last state
 		is_independant = yes
 		ai = no
-		THIS = { ai = no }
-		not = { is_capital = yes }
+		THIS = { ai = no } 
 	}
+	
+	allowed_states = {
+		OR = {
+			is_colonial = yes
+			is_colonial = no
+		}
+		any_owned_province = {
+                     OR = {
+			is_colonial = yes
+			is_colonial = no
+                     }
+		}
+		not = { any_owned_province = { is_capital = yes } }
+	}
+
 	po_demand_state = yes
 	
 	war_name = WAR_NEGOTIATE_NAME
@@ -1863,7 +1878,7 @@ conquest_low = {
 
 conquest_tiny = {
 	sprite_index = 2
-	is_triggered_only = yes
+	is_triggered_only = yesnegotiated_transfer
 	months = 12
 	crisis = no
 	

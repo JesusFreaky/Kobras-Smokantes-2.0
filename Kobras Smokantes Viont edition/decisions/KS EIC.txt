@@ -5,7 +5,6 @@ political_decisions = {
       NOT = { has_country_flag = indian_gurkhas }
     }
     allow = {
-      all_core = { owned_by = THIS }
       state_n_government = 1
     }
     effect = {

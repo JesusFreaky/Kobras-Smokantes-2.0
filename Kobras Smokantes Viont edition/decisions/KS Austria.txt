@@ -19,7 +19,30 @@ political_decisions = {
 			set_country_flag = AUSINT1
 		}
 	}
-	
+
+		annex_bavaria = {
+		potential = {
+			TAG = AUS
+			NOT = {
+				has_country_flag = AUSbav
+			}
+		}
+		allow = {
+			war = no
+			BAV = {
+				in_sphere = THIS
+			}
+			ideological_thought = 1
+			prestige = 50
+		}
+		effect = {
+			BAV = { BAV_599 = { secede_province = AUS } }
+			prestige = 15
+			badboy = 15
+			set_country_flag = AUSbav
+		}
+	}
+
 	hungarian_crown = {
 		potential = {
 			NOT = {
