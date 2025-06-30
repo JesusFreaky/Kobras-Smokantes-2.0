@@ -38,7 +38,8 @@ political_decisions = {
 		effect = {
 			BAV = { BAV_599 = { secede_province = AUS } }
 			prestige = 15
-			badboy = 15
+			badboy = 10
+			AUS = { release_vassal = RUT } 
 			set_country_flag = AUSbav
 		}
 	}
