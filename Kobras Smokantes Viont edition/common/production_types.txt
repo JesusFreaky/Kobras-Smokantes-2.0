@@ -375,7 +375,7 @@ steel_factory = {
 	}
 
 	output_goods = steel 		#94 
-	value = 18
+	value = 21
 	bonus = {
 		trigger = { trade_goods_in_state = iron }
 		value = 0.125
@@ -431,12 +431,12 @@ clipper_shipyard = {
 small_arms_factory = {       
 	template = factory_template
 	input_goods = {   
-		lumber = 5.0     
+		lumber = 15.0     
 		ammunition = 2.0	#35
 		steel = 3.0		#14.1		total input+maint = 60
 	}
 	output_goods = small_arms 
-	value = 2			#74
+	value = 3			#74
 
 	bonus = {
 		trigger = { has_building = steel_factory }
@@ -461,21 +461,17 @@ furniture_factory = {
 		#timber = 20		18		total input+maint = 48
 	}
 	output_goods = furniture 
-	value = 12			#58.8
+	value = 21			#58.8
 	bonus = {
 		trigger = { has_building = lumber_mill }
 		value = 0.15
-	}
-	bonus = {
-		trigger = { trade_goods_in_state = timber }
-		value = 0.1
 	}
 }
 
 paper_mill = {       
 	template = factory_template
 	input_goods = { 
-		lumber = 50		#45	total input+maint = 55
+		lumber = 40		#45	total input+maint = 55
 	}
 	output_goods = paper 
 	value = 20			#68
@@ -539,10 +535,10 @@ ammunition_factory = {
 canned_food_factory = {       
 	template = cheap_factory_template
 	input_goods = { 
-		fruit = 2 		#7.2
-		cattle = 4 		#8
-		grain = 4 		#8.8
-		fish = 4 		#6	total input+maint = 29.8
+		cattle = 3 		#8
+		grain = 3 		#8.8
+		fish = 3 		#6	total input+maint = 29.8
+		steel = 0.5
 	}
 	output_goods = canned_food 
 	value = 2			#32
@@ -555,10 +551,9 @@ canned_food_factory = {
 			OR = {
 				trade_goods_in_state = fish
 				trade_goods_in_state = cattle
-				trade_goods_in_state = fruit
 				}
 			}
-		value = 0.1
+		value = 0.2
 	}
 	bonus = {
 		trigger = { has_building = steel_factory }
@@ -1173,12 +1168,13 @@ artisan_clipper = {
 }
 
 artisan_small_arms = {       
-	input_goods = {        
+	input_goods = {
+		lumber = 15
 		ammunition = 2.0	#35
 		steel = 3.0		#14.1		total input+maint = 60
 	}
 	output_goods = small_arms 
-	value = 2			#74
+	value = 3			#74
 
 	owner = {
 		poptype = artisans
