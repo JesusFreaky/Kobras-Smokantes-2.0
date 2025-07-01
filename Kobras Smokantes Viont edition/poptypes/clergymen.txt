@@ -28,8 +28,8 @@ everyday_needs_income = {
 
 luxury_needs_income =
 {
-	type = education
-	weight = 0.3
+	type = reforms
+	weight = 0.5
 }
 
 luxury_needs = {
@@ -38,7 +38,7 @@ luxury_needs = {
 	luxury_furniture = 1
 	telephones = 1.25
 	automobiles = 1.0
-	wine = 10
+	wine = 3
 	aeroplanes = 0.4
 	radio = 1.0
 	fuel = 0.2
@@ -46,6 +46,7 @@ luxury_needs = {
 }
 
 everyday_needs = {
+	wine = 1
 	coal = 1
 	liquor = 5
 	regular_clothes = 5

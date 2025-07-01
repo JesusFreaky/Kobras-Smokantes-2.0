@@ -7,13 +7,13 @@ trade_goods = iron
 life_rating = 36
 
 state_building = {
-	level = 1
+	level = 2
 	building = steel_factory
 	upgrade = yes
 }
 
 state_building = {
-	level = 1
+	level = 2
 	building = artillery_factory
 	upgrade = yes
 }

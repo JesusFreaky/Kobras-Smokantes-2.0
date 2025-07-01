@@ -623,6 +623,7 @@ iron_muzzle_loaded_artillery = {
 	artillery = {
 		attack = 0.25
 		support = 0.5
+		discipline = 0.05
 		supply_consumption = 0.15
 	}
 
@@ -667,6 +668,7 @@ iron_breech_loaded_artillery = {
 	artillery = {
 		attack = 0.25
 		support = 0.5
+		discipline = 0.05
 		supply_consumption = 0.3
 	}
 	ai_chance = {
@@ -710,6 +712,7 @@ steel_breech_loaded_artillery = {
 	artillery = {
 		attack = 0.5
 		support = 0.5
+		discipline = 0.1
 		supply_consumption = 0.3
 	}
 
@@ -755,6 +758,7 @@ indirect_artillery_fire = {
 		attack = 1
 		defence = 1
 		support = 0.5
+		discipline = 0.15
 		supply_consumption = 0.3
 	}
 

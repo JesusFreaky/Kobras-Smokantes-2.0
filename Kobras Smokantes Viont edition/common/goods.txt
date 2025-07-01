@@ -140,7 +140,7 @@ industrial_goods = {
 		color = { 186 50 40 }
 	}
 	lumber = { 
-		cost = 3
+		cost = 2
 		color = { 180 94 26 }
 	}
 }

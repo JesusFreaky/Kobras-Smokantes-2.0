@@ -3236,8 +3236,15 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 19200
+        size = 18200
     }
+	
+    craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 1000
+    }
+	
 }
 #Koblenz (200000/50000 POPS)
 579 = {
@@ -3400,7 +3407,13 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 24425
+        size = 22025
+    }
+	
+	craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 2400
     }
 
     aristocrats = {
@@ -3480,9 +3493,15 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 14625
+        size = 13625
     }
 
+    craftsmen = {
+        culture = north_german
+        religion = protestant
+        size = 1000
+    }
+	
     aristocrats = {
         culture = north_german
         religion = catholic
