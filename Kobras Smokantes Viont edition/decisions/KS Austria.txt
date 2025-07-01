@@ -5,6 +5,7 @@ political_decisions = {
 			TAG = AUS
 			NOT = {
 				has_country_flag = AUSINT1
+				has_country_flag = AUSbav
 			}
 		}
 		allow = {
@@ -24,6 +25,7 @@ political_decisions = {
 		potential = {
 			TAG = AUS
 			NOT = {
+				has_country_flag = AUSINT1
 				has_country_flag = AUSbav
 			}
 		}

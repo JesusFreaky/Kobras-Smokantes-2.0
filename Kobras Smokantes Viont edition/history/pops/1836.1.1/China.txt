@@ -1075,31 +1075,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 600
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 27300
     }
@@ -1233,31 +1233,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 22750
     }
@@ -2281,31 +2281,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3250
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1650
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 8200
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1650
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 149250
     }
@@ -2849,31 +2849,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2550
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 525
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 46425
     }
@@ -3214,31 +3214,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 9100
     }
@@ -3378,31 +3378,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1175
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3150
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 625
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 59225
     }
@@ -3500,31 +3500,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 20
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 900
     }
@@ -3612,61 +3612,61 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1775
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 13650
     }
@@ -3758,61 +3758,61 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1950
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 35500
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 7375
     }
@@ -3892,31 +3892,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 525
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2575
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 525
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 47375
     }
@@ -5432,31 +5432,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2750
     }
@@ -5518,31 +5518,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1950
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 35500
     }
@@ -5758,31 +5758,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1050
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 550
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2700
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 49150
     }
@@ -7136,31 +7136,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1800
     }
@@ -7288,31 +7288,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1225
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3100
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 625
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 56425
     }
@@ -10082,67 +10082,67 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 7300
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3750
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 8500
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3700
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 336750
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2200
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 5550
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1125
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 101025
     }
@@ -10284,61 +10284,61 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1800
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2000
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1050
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 5250
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1050
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 95650
     }
@@ -10530,31 +10530,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2150
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 5450
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 99200
     }
@@ -10634,61 +10634,61 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 7325
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 450
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 8200
     }
@@ -10818,91 +10818,91 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 5475
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 9000
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1125
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 525
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2600
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 525
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 47325
     }
@@ -10958,67 +10958,67 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 5400
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2750
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3500
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 2700
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 245650
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 525
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1350
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 275
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 24575
     }
@@ -11086,91 +11086,91 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1700
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 900
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 4400
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 80100
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3650
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 625
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 325
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1600
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 325
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 29175
     }
@@ -11318,31 +11318,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 3650
     }
@@ -11564,31 +11564,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 700
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 12750
     }
@@ -11836,31 +11836,31 @@
     }
 
     aristocrats = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 1050
     }
 
     soldiers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 225
     }
 
     farmers = {
-        culture = yi
+        culture = nanfaren
         religion = animist
         size = 19125
     }

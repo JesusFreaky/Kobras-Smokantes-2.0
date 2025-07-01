@@ -693,31 +693,31 @@
     }
 
     aristocrats = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 4550
     }
@@ -3871,31 +3871,31 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 5500
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 6000
     }
@@ -4131,31 +4131,31 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 4550
     }
@@ -4187,61 +4187,61 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 875
     }
 
     aristocrats = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 650
     }
 
     clergymen = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 275
     }
 
     artisans = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 1450
     }
 
     soldiers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 300
     }
 
     farmers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 26325
     }
@@ -4495,31 +4495,31 @@
 #Temen (60000/15000 POPS)
 1049 = {
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 275
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 750
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 12825
     }
@@ -4593,67 +4593,67 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 250
     }
 
     officers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 650
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 11775
     }
 
     aristocrats = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 15
     }
 
     clergymen = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 25
     }
 
     artisans = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 50
     }
 
     soldiers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 10
     }
 
     farmers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 900
     }
@@ -4715,31 +4715,31 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 425
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 18175
     }
@@ -4773,37 +4773,37 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 650
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 350
     }
 
     officers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 1800
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 375
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 32775
     }
@@ -4859,31 +4859,31 @@
 #Gunib (164000/41000 POPS)
 1053 = {
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 650
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 350
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 1750
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 350
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 32200
     }
@@ -4965,31 +4965,31 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 350
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 175
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 900
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 16425
     }
@@ -4997,31 +4997,31 @@
 #Grozny (68000/17000 POPS)
 1055 = {
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 325
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 850
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 15475
     }
@@ -5029,37 +5029,37 @@
 #Pyatigorsk (136000/34000 POPS)
 1056 = {
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 675
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 350
     }
 
     officers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 1700
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 350
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 30875
     }
@@ -5097,31 +5097,31 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 350
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 6375
     }
@@ -8948,31 +8948,31 @@
     }
 
     aristocrats = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 175
     }
 
     clergymen = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 125
     }
 
     artisans = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 600
     }
 
     soldiers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 125
     }
 
     farmers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 10975
     }
@@ -9150,31 +9150,31 @@
     }
 
     aristocrats = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 325
     }
 
     clergymen = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 175
     }
 
     artisans = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 850
     }
 
     soldiers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 175
     }
 
     farmers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 15475
     }
@@ -9212,31 +9212,31 @@
     }
 
     aristocrats = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 175
     }
 
     clergymen = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 75
     }
 
     artisans = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 450
     }
 
     soldiers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 100
     }
 
     farmers = {
-        culture = mongol
+        culture = russian
         religion = gelugpa
         size = 8200
     }

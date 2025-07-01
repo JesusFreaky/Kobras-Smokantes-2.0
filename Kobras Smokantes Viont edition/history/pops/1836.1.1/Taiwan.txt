@@ -45,37 +45,37 @@
     }
 
     aristocrats = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 1350
     }
 
     clergymen = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 1080
     }
 
     artisans = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 4500
     }
 
     artisans = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 900
     }
 
     soldiers = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 1080
     }
 
     farmers = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 99090
     }
@@ -131,37 +131,37 @@
     }
 
     aristocrats = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 1575
     }
 
     clergymen = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 1125
     }
 
     artisans = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 4500
     }
 
     artisans = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 1125
     }
 
     soldiers = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 1125
     }
 
     farmers = {
-        culture = min
+        culture = yue
         religion = mahayana
         size = 103050
     }

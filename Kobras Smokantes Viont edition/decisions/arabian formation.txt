@@ -5,8 +5,8 @@ political_decisions = {
 
 		potential = {
 			ARA = { exists = no }
-			AND = {
-				NOT = EGY
+			OR = {
+				tag = EGY
 				is_culture_group = arab
 			}
 		}

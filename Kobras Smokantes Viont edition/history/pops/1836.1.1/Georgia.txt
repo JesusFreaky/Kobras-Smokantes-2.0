@@ -69,31 +69,31 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 25
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 2775
     }
@@ -203,31 +203,31 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 50
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 5500
     }
@@ -463,61 +463,61 @@
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 450
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = orthodox
         size = 8225
     }
 
     aristocrats = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = north_caucasian
+        culture = russian
         religion = sunni
         size = 4550
     }

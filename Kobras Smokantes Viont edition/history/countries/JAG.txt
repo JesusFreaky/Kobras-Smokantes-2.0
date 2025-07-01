@@ -3,7 +3,8 @@
 #========================= H E A D E R =========================
 
 capital = 703
-primary_culture = polish
+primary_culture = north_polish
+culture = south_polish
 culture = hungarian
 culture = czech
 culture = slovak
@@ -15,7 +16,7 @@ literacy = 0,3
 civilized = yes 
 prestige = 0
 schools = traditional_academic
-oob = "JAG.txt"
+oob = "PLC.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================
