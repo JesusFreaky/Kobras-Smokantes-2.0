@@ -1,10 +1,10 @@
-IBR;Empire Of Iberia;x;;;
-IBR_ADJ;Iberians;x;;;
-CTG;Carthage Empire;x;;;
-CTG_ADJ;Carthagians;x;;;
-NSE;North Sea Empire;x;;;
-NSE_ADJ;Northist;x;;;
-DUA;Dual Monarchy;x;;;
-DUA_ADJ;Dualist;x;;;
-JAG;Jagiellonian Empire;x;;;
-JAG_ADJ;Jagiellonian;x;;;
+IBR;Empire Of Iberia;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+IBR_ADJ;Iberians;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+CTG;Carthage Empire;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+CTG_ADJ;Carthagians;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+NSE;North Sea Empire;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+NSE_ADJ;Northist;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+DUA;Dual Monarchy;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+DUA_ADJ;Dualist;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+JAG;Jagiellonian Empire;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+JAG_ADJ;Jagiellonian;;;;;;;;;;;;;X,,,,,,,,,,,,,,

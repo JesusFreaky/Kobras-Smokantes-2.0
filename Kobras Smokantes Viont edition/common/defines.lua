@@ -30,7 +30,7 @@ country = {
 	BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, -- Influence value which is distributed each day
 	AI_SUPPORT_REFORM = 0.05, -- At least this many % needs to support a reform for the AI to take it
 	BASE_MONTHLY_DIPLOPOINTS = 1, -- Base value gain for diplomatic actions each month
-	DIPLOMAT_TRAVEL_TIME = -1,
+	DIPLOMAT_TRAVEL_TIME = 4,
 	PROVINCE_OVERSEAS_PENALTY = 0.015, -- Each province req. this many goods flagged as overseas penalty
 	NONCORE_TAX_PENALTY = -0.1, -- -10% for each non-core in state
 	BASE_TARIFF_EFFICIENCY = 0, -- baseline tariff efficiency
@@ -618,7 +618,7 @@ diplomacy = {
 
 
 pops = {
-	BASE_CLERGY_FOR_LITERACY = 0.005,
+	BASE_CLERGY_FOR_LITERACY = 0.0065,
 	MAX_CLERGY_FOR_LITERACY = 0.04,
 	LITERACY_CHANGE_SPEED = 0.1,
 

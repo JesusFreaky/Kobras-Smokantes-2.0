@@ -28,36 +28,12 @@ political_decisions = {
 		}
 	}
 
-		taking_down_the_turks = {
-		potential = {
-			has_country_flag = EGYTURK
-		}
-		allow = {
-			war = no
-			EGY_1750 = {
-				owned_by = THIS
-			}
-			state_n_government = 1
-		}
-		effect = {
-			MAJ = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			ETH = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			add_accepted_culture = amhara
-			set_country_flag = EGYTURK
-		}
-	}
-
 	enact_muhammad_alis_reforms = {
 		potential = {
-			tag = EGY
+			OR = {
+				tag = EGY
+				tag = ARA
+			}
 			NOT = {
 				has_country_flag = muhammad_alis_reforms_enacted
 			}

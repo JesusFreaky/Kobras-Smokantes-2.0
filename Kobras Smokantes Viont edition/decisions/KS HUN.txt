@@ -1,4 +1,4 @@
-political_decisions = {
+	political_decisions = {
 
     Enough_Of_Austrian_Opression = {
         potential = {
@@ -45,6 +45,7 @@ political_decisions = {
         }
         allow = {
             war = no
+			ai = no
             AUS_704 = { owned_by = THIS }
             AUS_702 = { owned_by = THIS }
         }
@@ -82,10 +83,15 @@ political_decisions = {
             MOL_673 = { add_core = THIS }
             any_country = {
                 limit = {
-                    is_in_sphere = THIS
-                    is_puppet = THIS
-                    tag = WAL
-                    tag = MOL
+					OR = {
+						in_sphere = HUN
+						is_puppet = HUN
+					}
+					OR = {
+						tag = WAL
+						tag = MOL
+					}
+
                 }
                 annex_to = HUN
             }
@@ -113,8 +119,8 @@ political_decisions = {
             any_country = {
                 limit = {
                     OR = {
-                        in_sphere = THIS
-                        is_vassal = THIS
+                        in_sphere = HUN
+                        is_vassal = HUN
                     }
                     OR = {
                         tag = WAL
@@ -139,8 +145,8 @@ political_decisions = {
         }
 
         allow = {
+		ideological_thought = 1
             war = no
-			ideological_thought = 1
             RUT = { 
                 exists = yes 
             }
@@ -180,6 +186,21 @@ political_decisions = {
         }
     }
 
+    Cede_The_Bohemian_Crown = {
+        potential = {
+            has_country_flag = JAG1
+            NOT = { has_country_flag = JAG2 }
+        }
+
+        allow = {
+            war = no
+        }
+
+        effect = {
+            set_country_flag = JAG2
+		}
+    }
+	
     Recovering_The_Bohemian_Crown = {
         potential = {
             has_country_flag = JAG1
@@ -202,11 +223,10 @@ political_decisions = {
 
         effect = {
             set_country_flag = JAG2
-            any_country = {
-                limit = {
-                    tag = BOH
-                }
-                add_core = HUN
+            CZH = {
+				all_core = {
+					add_core = HUN
+				}
             }
             add_accepted_culture = czech
         }
@@ -221,13 +241,13 @@ political_decisions = {
         allow = {
             war = no
 			nationalism_n_imperialism = 1
-            LIT = {
-                all_core = {
-                    owned_by = THIS
-                }
             POL = {
-            }
                 all_core = {
+					limit = {
+						NOT = {
+							is_core = PRU
+						}
+					}
                     owned_by = THIS
                 }
             }
@@ -246,11 +266,6 @@ political_decisions = {
                     add_core = THIS
                 }
             }
-            POL = {
-                all_core = {
-                    add_core = THIS
-                }
-            }
 			capital = 706
 			add_accepted_culture = north_polish
             add_accepted_culture = lithuanian
@@ -259,7 +274,7 @@ political_decisions = {
     }
 
 
-    Fullfill_the_dream = {
+    the_great_jagiellonia = {
         potential = {
             has_country_flag = JAG3
             NOT = { has_country_flag = JAG4 }
@@ -286,7 +301,7 @@ political_decisions = {
                     add_core = THIS
                 }
             }
-			add_accepted_culture = ukranian
+			add_accepted_culture = ukrainian
 			add_accepted_culture = byelorussian
             add_accepted_culture = romanian
             set_country_flag = JAG4

@@ -84,7 +84,7 @@ political_decisions = {
         }
         allow = {
             war = no
-            nationlism_n_imperialism = 1
+            nationalism_n_imperialism = 1
             all_core = { owned_by = THIS }
             SIC_763 = { owned_by = THIS }
             SAR_765 = { owned_by = THIS }

@@ -16,7 +16,10 @@ political_decisions = {
 			#literacy adjustments
 			any_country = {
 				limit = {
-					tag = AUS
+					OR = {
+						tag = AUS
+						tag = HUN
+					}
 				}
 				any_pop = {
 					limit = {
@@ -51,7 +54,7 @@ political_decisions = {
     						has_pop_culture = north_italian
     					}
     				}
-    				literacy = 0.20
+    				literacy = 0.50
     			}
 			}
       		any_country = {
@@ -90,10 +93,11 @@ political_decisions = {
 							has_pop_culture = ashkenazi
     					}
     				}
-    				literacy = 0.50
+    				literacy = 0.35
     			}
 				any_pop = {
     				limit = {
+							has_pop_culture = russian
 							has_pop_culture = polish
     				}
     				literacy = 0.05

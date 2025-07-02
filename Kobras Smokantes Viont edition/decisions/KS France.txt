@@ -50,7 +50,7 @@ political_decisions = {
 		}
 	
 	}
-	The_Dual_Monarchy = {
+	FRA_The_Dual_Monarchy = {
 		potential = {
 			tag = FRA
 			NOT = { has_country_flag = ENGexp1}
@@ -94,7 +94,7 @@ political_decisions = {
 		}
 	}
 
-	Frank_English_Union = {
+	FRA_Frank_English_Union = {
 		potential = {
 			tag = FRA
 			has_country_flag = INTOENG

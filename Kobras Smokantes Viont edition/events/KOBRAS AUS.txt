@@ -1,0 +1,65 @@
+#conquest of Hungrary
+country_event = {
+
+	id = 77777
+
+	trigger = {
+		has_country_flag = AUSEMP1
+		NOT = {
+			has_country_flag = AUSHUNWAR
+		}
+	}
+	
+	is_triggered_only = yes
+
+	title = "Taking Hungrary"
+	desc = "Hungray belongs to us! We shall conquest the Hungrary kingdom"
+	picture = "Administration"
+
+	option = {
+		name = "We shall march into Hungrary!"
+		
+		war = {
+			target = HUN
+			attacker_goal = { casus_belli = conquest }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		set_country_flag = AUSHUNWAR
+		
+	}
+}
+
+#cores in Hungary
+country_event = {
+
+	id = 77778
+
+	trigger = {
+		HUN = {
+			all_core = {
+				OR = {
+					owned_by = AUS
+					NOT = {
+						is_core = AUS
+					}
+				}
+			}
+		}
+	}
+	
+	is_triggered_only = yes
+
+	title = "The Austrian Soberany"
+	desc = "The kingdom of Hungrary is a rightful Austrian claim"
+	picture = "smoking"
+
+	option = {
+		name = "Yummi Yummi, delicious!"
+		HUN = {
+			all_core = {
+				add_core = AUS
+			}
+		}
+	}
+}

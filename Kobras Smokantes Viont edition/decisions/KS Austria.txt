@@ -2,7 +2,7 @@ political_decisions = {
 
 	annex_galicia = {
 		potential = {
-			TAG = AUS
+			tag = AUS
 			NOT = {
 				has_country_flag = AUSINT1
 				has_country_flag = AUSbav
@@ -16,14 +16,13 @@ political_decisions = {
 		effect = {
 			RUT = { annex_to = THIS }
 			prestige = 15
-			badboy = 15
 			set_country_flag = AUSINT1
 		}
 	}
 
 		annex_bavaria = {
 		potential = {
-			TAG = AUS
+			tag = AUS
 			NOT = {
 				has_country_flag = AUSINT1
 				has_country_flag = AUSbav
@@ -40,8 +39,7 @@ political_decisions = {
 		effect = {
 			BAV = { BAV_599 = { secede_province = AUS } }
 			prestige = 15
-			badboy = 10
-			AUS = { release_vassal = RUT } 
+			AUS = { release_vassal = RUT }
 			set_country_flag = AUSbav
 		}
 	}
@@ -59,9 +57,10 @@ political_decisions = {
 		allow = {
 			war = no
 			exists = HUN
-			year = 1840
+			state_n_government = 1
 		}
 		effect = {
+			leave_alliance = HUN
 			release_vassal = HUN
 			release_vassal = CRO
 			CRO = {
@@ -70,17 +69,7 @@ political_decisions = {
 					add_core = HUN
 				}
 			}
-			HUN = {
-				all_core = {
-					NOT = {
-						is_core = MOL
-						is_core = WAL
-					}
-					add_core = AUS
-				}
-			}
 			set_country_flag = AUSEMP1
-			badboy = 15
 		}
 	}
 

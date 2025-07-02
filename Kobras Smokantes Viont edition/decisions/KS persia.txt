@@ -7,6 +7,7 @@ political_decisions = {
       NOT = { has_country_flag = TPEPER }
     }
     allow = {
+	  war = no
       AFG_1214 = { owned_by = THIS }
       AFG_1217 = { owned_by = THIS }
       KAL_1221 = { owned_by = THIS }
@@ -49,13 +50,13 @@ political_decisions = {
       NOT = { has_country_flag = REBOPER }
     }
     allow = {
+	  war = no
       civilized = yes
+	  state_n_government = 1
       PER = { all_core = { owned_by = THIS } }
-      SIN_1288 = { owned_by = THIS }
       RUS_1196 = { owned_by = THIS }
     }
     effect = {
-      SIN_1288 = { add_core = THIS }
       RUS_1196 = { add_core = THIS }
       add_accepted_culture = turkmen
       set_country_flag = REBOPER
@@ -70,9 +71,16 @@ political_decisions = {
     }
 
     allow = {
-      PER = { all_core = { owned_by = THIS } }
-      state_n_government = 1
-      prestige = 50
+	  war = no
+      TUR_923 = { owned_by = THIS }
+      TUR_935 = { owned_by = THIS }
+      TUR_931 = { owned_by = THIS }
+      EGY_903 = { owned_by = THIS }
+      EGY_897 = { owned_by = THIS }
+      EGY_915 = { owned_by = THIS }
+      EGY_910 = { owned_by = THIS }
+      EGY_921 = { owned_by = THIS }
+      nationalism_n_imperialism = 1
     }
 
     effect = {
@@ -84,7 +92,7 @@ political_decisions = {
       EGY_915 = { add_core = THIS }
       EGY_910 = { add_core = THIS }
       EGY_921 = { add_core = THIS }
-
+	  add_accepted_culture = mashriqi
       set_country_flag = PERexp3
     }
   }
@@ -97,9 +105,9 @@ political_decisions = {
     }
     
     allow = {
+	  war = no
       PER = { all_core = { owned_by = THIS } }
       nationalism_n_imperialism = 1
-      is_greater_power = yes
     }
 
     effect = {
@@ -121,13 +129,14 @@ political_decisions = {
     }
 
     allow = {
+	  war = no
       PER = { all_core = { owned_by = THIS } }
-      nationalism_n_imperialism = 1
+      revolution_n_counterrevolution = 1
       prestige = 50
     }
 
     effect = {
-      add_accepted_culture = mashriqi
+      add_accepted_culture = punjabi
       add_accepted_culture = kurdish
       add_accepted_culture = armenian
       set_country_flag = PERint3

@@ -51,15 +51,7 @@ political_decisions = {
 				country_event = 111011928
 			}
 			add_accepted_culture = bedouin
-			add_accepted_culture = mashriqi
-			any_country = {
-				limit = {
-					is_culture_group = THIS
-				}
-				all_core = {
-					add_core = ARA
-				}
-			}	
+			add_accepted_culture = mashriqi	
 		}
 		ai_will_do = {
 			factor = 1

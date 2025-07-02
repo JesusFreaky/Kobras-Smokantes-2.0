@@ -1,0 +1,57 @@
+#conquest of Hungrary
+country_event = {
+
+	id = 77780
+
+	trigger = {
+		NOT = {
+			tag = HND
+			has_country_flag = HNDWAR
+		}
+		tag = ENG
+		HND = { has_country_flag = INDIA }
+	}
+	
+	is_triggered_only = 1
+	
+	title = "India has broke free from us!"
+	desc = "The British India Company has declared their independence and declared themselfs as India, what should we do ?"
+	picture = "Administration"
+
+	option = {
+		name = "We shall march into India!"
+		
+		war = {
+			target = HND
+			attacker_goal = { casus_belli = conquest }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		badboy = -20
+		set_country_flag = HNDWAR
+		
+	}
+	
+	option = {
+		name = "We dont have time to this!"
+		
+		prestige = -10
+		set_country_flag = HNDWAR
+	}
+	
+	option = {
+		name = "We need to cooperate with India!"
+		
+		ENG = {
+			any_owned = {
+				limit = {
+					is_core = HND
+				}
+				secede_province = HND
+			}
+		}
+		set_country_flag = HNDWAR
+		
+	}
+	
+}
