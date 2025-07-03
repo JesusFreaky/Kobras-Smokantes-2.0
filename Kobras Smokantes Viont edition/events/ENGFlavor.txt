@@ -13,11 +13,6 @@ country_event = {
 	trigger = {
 		tag = ENG
 		year = 1838
-		OR = {
-			government = absolute_monarchy
-			government = prussian_constitutionalism
-			government = hms_government
-		}
 		is_sphere_leader_of = HAN
 	}
 	

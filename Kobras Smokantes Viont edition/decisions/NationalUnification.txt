@@ -126,6 +126,19 @@ political_decisions = {
 			}
 		}
 
+	tech_form_north_german_confederation = {
+		potential = {
+			primary_culture = north_german
+			NOT = {
+				exists = GER
+				exists = NGF
+			}
+		}
+		allow = {
+			war = no
+			ideological_thought = 1
+		}
+		
 		effect = {
 			prestige = 15
 			any_country = {
@@ -134,7 +147,6 @@ political_decisions = {
 						primary_culture = north_german
 						tag = SCH
 					}
-					in_sphere = THIS
 					NOT = {
 						tag = THIS
 					}

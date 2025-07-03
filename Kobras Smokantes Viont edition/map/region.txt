@@ -401,7 +401,9 @@ ENG_280 = { 280 281 282 283 } #North East England
 
 ENG_266 = { 266 267 268 270 } #Highlands
 
-ENG_284 = { 284 286 287 288 289 290 } #Midlands
+ENG_284 = { 284 286 287 } #Midlands
+
+ENG_288 = { 288 289 290 } 
 
 ENG_291 = { 291 292 293 295 } #Eastern Counties
 
@@ -1057,7 +1059,7 @@ PRU_581 = { 581 580 583 584 578 579 2561 } #Westfalen
 
 PRU_553 = { 553 555 556 557 } #Magdeburg
 
-PRU_546 = { 544 545 547 548 530 } #Mecklenburg
+PRU_546 = { 544 545 547 548 } #Mecklenburg
 
 PRU_690 = { 690 691 692 693 694 } #Westprussen
 
@@ -1069,7 +1071,7 @@ PRU_682 = { 682 683 684 685 } #Silesia
 
 PRU_549 = { 549 550 551 552 681 } #Brandenburg
 
-MEC_544 = { 369 370 371 529 } #Schleswig Holstein
+MEC_544 = { 369 370 371 529 530 } #Schleswig Holstein
 
 #DEN_370 = {  } #Schleswig
 
