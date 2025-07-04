@@ -363,7 +363,7 @@ army = {
 	regiment = {
 		name= "8. Sipahis"
 		type = infantry
-		home = 1731
+		home = 1733
 	}
 	
 	regiment = {

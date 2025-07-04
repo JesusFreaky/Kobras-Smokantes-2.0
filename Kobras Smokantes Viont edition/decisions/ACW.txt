@@ -58,4 +58,110 @@ political_decisions = {
 			set_country_flag = you_did_try
 		}
 	}
+	
+	manifest_destiny = {
+		potential = {
+			tag = USA
+			NOT = {
+				has_country_flag = hasmanifestdestiny
+			}
+		}
+		allow = {
+			state_n_government = 1
+			NOT = {
+				exists = TEX
+				133 = {
+					owned_by = MEX # Austin
+				}
+			}
+		}
+		effect = {
+			set_country_flag = hasmanifestdestiny
+			diplomatic_influence = {
+				who = MEX
+				value = -500
+			}
+			relation = {
+				who = MEX
+				value = -250
+			}
+			any_pop = {
+				consciousness = 2
+			}
+			TEX_132 = {
+				add_core = USA
+			}
+			MEX_103 = {
+				add_core = USA
+			}
+			USA_129 = {
+				add_core = USA
+			}
+			USA_106 = {
+				add_core = USA
+			}
+			USA_81 = {
+				add_core = USA
+			}
+			MEX_94 = {
+				add_core = USA
+			}
+			MEX_85 = {
+				add_core = USA
+			}
+			MEX_100 = {
+				add_core = USA
+			}
+
+		}
+	}
+	
+	ostend_manifesto = {
+		potential = {
+			tag = USA
+			slavery = yes_slavery
+			SPA_2209 = {
+				is_slave = yes
+			}
+			NOT = {
+				has_country_flag = ostend_manifesto_published
+				has_global_flag = american_civil_war_has_happened
+			}
+		}
+
+		allow = {
+			average_consciousness = 5
+		}
+
+		effect = {
+			badboy = 7.5
+			any_greater_power = {
+				relation = {
+					who = USA
+					value = -150
+				}
+			}
+			SPA_2209 = {
+				add_core = USA
+			}
+			2222 = { add_core = USA }
+			2223 = { add_core = USA }
+			any_state = {
+				limit = {
+					is_slave = yes
+				}
+				any_pop = {
+					consciousness = -1
+				}
+			}
+			set_country_flag = ostend_manifesto_published
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				prestige = 25
+			}
+		}
+	}
 }

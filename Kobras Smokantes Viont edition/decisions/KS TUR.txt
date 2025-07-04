@@ -26,23 +26,6 @@ political_decisions = {
 		effect = {
 			TUR = { release_vassal = WAL }
 			TUR = { release_vassal = MOL }
-			release = ALB
-			release = MON
-			release = BUL
-			release = BOS
-			release = SER
-			TUR_806 = { secede_province = SER }
-			TUR_803 = { secede_province = SER }
-			ALB = { all_core = { remove_core = TUR } }
-			SER = { all_core = { remove_core = TUR } }
-			BUL = { all_core = { remove_core = TUR } }
-			MON = { all_core = { remove_core = TUR } }
-			WAL_665 = { remove_core = TUR }
-			TUR_819 = { remove_core = TUR }
-			TUR_832 = { remove_core = TUR }
-			TUR_805 = { remove_core = TUR }
-			TUR_674 = { remove_core = TUR }
-			MON_2582 = { remove_core = TUR }
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
 			add_accepted_culture = mashriqi
@@ -78,7 +61,6 @@ political_decisions = {
 			}
 		}
 		effect = {
-			badboy = 5
 			PER_1112 = { add_core = TUR }
 			PER_1122 = { add_core = TUR }
 			PER_1138 = { add_core = TUR }

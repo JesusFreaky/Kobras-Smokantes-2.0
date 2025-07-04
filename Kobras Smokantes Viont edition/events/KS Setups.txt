@@ -1,6 +1,7 @@
 # inital money
 country_event = {
 	id = 77788
+	allow_multiple_instances = yes
 	picture = "smoking"
 	trigger = {
 		ai = no
