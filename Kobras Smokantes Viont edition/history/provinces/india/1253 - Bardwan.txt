@@ -1,5 +1,0 @@
-owner = EIC
-CONTROLLER = EIC
-add_core = HND
-trade_goods = silk
-life_rating = 32

@@ -1,4 +1,0 @@
-owner = 
-controller = 
-trade_goods = tea
-life_rating = 15

@@ -1,8 +1,0 @@
-OWNER = ENG
-CONTROLLER = ENG 
-colonial = 2
-add_core = AWA
-add_core = MUG
-add_core = HND
-trade_goods = tea
-life_rating = 32

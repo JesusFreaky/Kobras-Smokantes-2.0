@@ -1,5 +1,5 @@
 political_decisions = {
-	restore_mexican_empire = {
+	restore_mexican_empire_1 = {
 		potential = {
 			tag = MEX
 			NOT = {

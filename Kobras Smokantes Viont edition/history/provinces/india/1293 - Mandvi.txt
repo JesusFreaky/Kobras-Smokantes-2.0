@@ -1,6 +1,0 @@
-OWNER = ENG
-CONTROLLER = ENG
-add_core = KUT
-add_core = HND
-trade_goods = coal
-life_rating = 32

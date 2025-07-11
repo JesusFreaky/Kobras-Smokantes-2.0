@@ -12,11 +12,11 @@ political_decisions = {
 			war = no
 		}
 		effect = {
-			SIC_762 = { add_core = THIS }
-			SIC_763 = { add_core = THIS }
-			SIC_764 = { add_core = THIS }
-			SAR_766 = { add_core = THIS }
-			SAR_765 = { add_core = THIS }	
+			SIC_762 = { add_core = IBR }
+			SIC_763 = { add_core = IBR }
+			SIC_764 = { add_core = IBR }
+			SAR_766 = { add_core = IBR }
+			SAR_765 = { add_core = IBR }	
 			set_country_flag = IBRex1
 		}
 	}

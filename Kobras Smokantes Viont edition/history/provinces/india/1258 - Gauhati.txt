@@ -1,5 +1,0 @@
-owner = EIC
-CONTROLLER = EIC
-add_core = HND
-trade_goods = sulphur
-life_rating = 32

@@ -1,6 +1,0 @@
-owner = 
-controller = 
-add_core = SHO
-trade_goods = coffee
-life_rating = 15
-colonial = 2

@@ -1,7 +1,7 @@
 #conquest of Hungrary
 country_event = {
 
-	id = 77777
+	id = 7777777
 
 	trigger = {
 		has_country_flag = AUSEMP1

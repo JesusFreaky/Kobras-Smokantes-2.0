@@ -49,7 +49,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			revolution_counterrevolution = 1
+			revolution_n_counterrevolution = 1
 			EGY_921 = {
 				owned_by = THIS
 			}
@@ -159,7 +159,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			revolution_counterrevolution = 1
+			revolution_n_counterrevolution = 1
 			ROM = { all_core = { owned_by = THIS } }
 			AUS_777 = { owned_by = THIS }
 			AUS_771 = { owned_by = THIS }
@@ -168,7 +168,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = hungarian
 			add_accepted_culture = slovak
-			add_accepted_culture = croatian
+			add_accepted_culture = croat
 			set_country_flag = TURFall_Of_Wien
 		}
 	}

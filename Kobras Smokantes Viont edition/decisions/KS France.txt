@@ -225,9 +225,9 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = dutch
-			NET_385 = { owned_by = THIS }
-			OLD_540 = { owned_by = THIS }
-			PRU_581 = { owned_by = THIS }	
+			NET_385 = { add_core = THIS }
+			OLD_540 = { add_core = THIS }
+			PRU_581 = { add_core = THIS }	
 			HAN_534 = { add_core = THIS }	
 			HES_2560 = { add_core = THIS }	
 			set_country_flag = FRAexp2

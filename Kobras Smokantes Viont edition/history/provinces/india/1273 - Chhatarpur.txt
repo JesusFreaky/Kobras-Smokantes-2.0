@@ -1,7 +1,0 @@
-CONTROLLER = ENG
-OWNER = ENG
-OWNER = ENG
-add_core = BUN
-add_core = HND
-trade_goods = dye
-life_rating = 32

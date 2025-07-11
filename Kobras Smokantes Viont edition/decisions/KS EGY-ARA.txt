@@ -39,15 +39,11 @@ political_decisions = {
 			}
 		}
 		allow = {
-
 			all_core = {
 				owned_by = THIS
 			}
 		}
 		effect = {
-			EGY_1750 = {
-				owned_by = THIS
-			}
 			add_country_modifier = {
 				name = muhammad_alis_reforms
 				duration = 3650

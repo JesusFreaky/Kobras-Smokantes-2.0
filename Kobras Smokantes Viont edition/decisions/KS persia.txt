@@ -136,7 +136,7 @@ political_decisions = {
     }
 
     effect = {
-      add_accepted_culture = punjabi
+      add_accepted_culture = panjabi
       add_accepted_culture = kurdish
       add_accepted_culture = armenian
       set_country_flag = PERint3
