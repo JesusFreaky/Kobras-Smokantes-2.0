@@ -1,0 +1,6 @@
+OWNER = ENG
+CONTROLLER = ENG colonial = 2
+add_core = NAG
+add_core = HND
+trade_goods = iron
+life_rating = 34

@@ -1,0 +1,7 @@
+owner = 
+controller = 
+add_core = AWS
+add_core = GEL
+add_core = MAJ
+trade_goods = cattle
+life_rating = 15

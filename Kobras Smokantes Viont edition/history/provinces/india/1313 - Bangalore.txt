@@ -1,0 +1,8 @@
+CONTROLLER = ENG
+OWNER = ENG
+OWNER = ENG
+add_core = MYS
+add_core = HND
+trade_goods = wool
+life_rating = 34
+colonial = 2

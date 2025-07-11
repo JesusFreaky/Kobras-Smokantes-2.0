@@ -1,0 +1,5 @@
+owner = 
+controller = 
+add_core = DAM
+trade_goods = wool
+life_rating = 10

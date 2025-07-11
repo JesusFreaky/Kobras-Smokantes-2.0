@@ -1,0 +1,7 @@
+owner = MAT
+controller = MAT
+add_core = SUA
+add_core = SAF
+trade_goods = grain
+life_rating = 32
+terrain = woods

@@ -1,0 +1,6 @@
+OWNER = ENG
+CONTROLLER = ENG
+add_core = JAI
+add_core = HND
+trade_goods = timber
+life_rating = 34
