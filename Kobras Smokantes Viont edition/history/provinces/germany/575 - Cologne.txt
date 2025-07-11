@@ -3,4 +3,10 @@ controller = PRU
 add_core = PRU
 add_core = GER
 trade_goods = coal
-life_rating = 45
+life_rating = 40
+1836.1.2 = {
+	remove_core = PRU
+	owner = LUX
+	controller = LUX
+	add_core = LUX
+}
