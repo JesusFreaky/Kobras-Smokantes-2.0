@@ -155,14 +155,14 @@ status_quo = {
 
 # Conquest
 conquest = {
+	#Special cases or 3 or less states and less than 1M pop
 	sprite_index = 2
 	is_triggered_only = yes
-	months = 12
+	months = 24
 	crisis = no
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
-		# only three states or unciv
 		NOT = { number_of_states = 5 }
 		OR = {
 			AND = {
@@ -177,15 +177,8 @@ conquest = {
 			AND = {
 				civilized = no
 				THIS = { civilized = no }
-				NOT = { number_of_states = 3 }
+				NOT = { number_of_states = 4 }
 				NOT = { total_pops = 2000000}
-			}
-			AND = {
-				civilized = no
-				number_of_states = 3
-				THIS = {
-					NOT = { nationalism_n_imperialism = 0 }
-				}
 			}
 		}
 	}
@@ -267,7 +260,7 @@ add_to_sphere = {
 	months = 12
 	crisis = no
 
-	badboy_factor = 2
+	badboy_factor = 0.4
 	prestige_factor = 2
 	peace_cost_factor = 25
 	penalty_factor = 1
@@ -312,7 +305,7 @@ take_from_sphere = {
 	is_triggered_only = yes
 	months = 12
 	
-	badboy_factor = 2
+	badboy_factor = 0.8
 	prestige_factor = 3
 	peace_cost_factor = 10
 	penalty_factor = 1
@@ -464,7 +457,7 @@ acquire_substate_region = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 1
+	badboy_factor = 1.6
 	prestige_factor = 2
 	peace_cost_factor = 0.9
 	penalty_factor = 1
@@ -520,7 +513,7 @@ acquire_state = {
 	months = 12
 	construction_speed = 0.8
 	
-	badboy_factor = 1.6
+	badboy_factor = 2.4
 	prestige_factor = 2
 	peace_cost_factor = 0.85
 	penalty_factor = 1
@@ -1763,7 +1756,7 @@ great_war_penalty_cb = {
 negotiated_transfer = {
 	sprite_index = 5
 	is_triggered_only = yes
-	months = 0
+	months = 1
 	crisis = no
 
 	badboy_factor = 0
@@ -1795,10 +1788,10 @@ negotiated_transfer = {
 			is_colonial = no
 		}
 		any_owned_province = {
-                     OR = {
-			is_colonial = yes
-			is_colonial = no
-                     }
+            OR = {
+				is_colonial = yes
+				is_colonial = no
+            }
 		}
 		not = { any_owned_province = { is_capital = yes } }
 	}
@@ -1817,9 +1810,10 @@ negotiated_transfer = {
 }
 
 conquest_low = {
+	#only 2 states or less and less than 700k pop for civs and 4 states or less and less than 1M for unciv after nationalism_n_imperialism
 	sprite_index = 2
 	is_triggered_only = yes
-	months = 12
+	months = 18
 	crisis = no
 	
 	can_use = {
@@ -1830,66 +1824,24 @@ conquest_low = {
 			AND = {
 				civilized = yes
 				NOT = { number_of_states = 3 }
+				NOT = { total_pops = 700000 }
 			}
 			AND = {
-				NOT = {	total_pops = 1100000 }
+				NOT = {	total_pops = 1500000 }
 				civilized = no
 				THIS = { civilized = no }
-				NOT = { number_of_states = 3 }
+				NOT = { number_of_states = 5 }
 			}
 			AND = {
 				civilized = no
-				number_of_states = 2
-				THIS = {
-					NOT = { nationalism_n_imperialism = 0 }
-				}
+				number_of_states = 5
+				NOT = { total_pops = 1000000 }
+				THIS = { nationalism_n_imperialism = 1 }
 			}
 		}
 	}
 
-	badboy_factor = 1.0
-	prestige_factor = 5
-	peace_cost_factor = 1
-	penalty_factor = 1
-	
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 48
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	construction_speed = 0.8
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-	
-	po_annex = yes
-	
-	war_name = WAR_CONQUEST_NAME
-}
-
-conquest_tiny = {
-	sprite_index = 2
-	is_triggered_only = yesnegotiated_transfer
-	months = 12
-	crisis = no
-	
-	can_use = {
-		NOT = {	total_pops = 1000000 }
-		NOT = { is_our_vassal = THIS }
-		# only one state or unciv
-		NOT = { number_of_states = 2 }
-	}
-
-	badboy_factor = 0.5
+	badboy_factor = 1
 	prestige_factor = 5
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -1921,10 +1873,10 @@ conquest_tiny = {
 take_capital = {
 	sprite_index = 6
 	is_triggered_only = yes
-	months = 12
+	months = 18
 	construction_speed = 0.8
 	
-	badboy_factor = 2
+	badboy_factor = 3
 	prestige_factor = 5
 	peace_cost_factor = 0.9
 	penalty_factor = 1
